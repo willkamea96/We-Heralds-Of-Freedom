@@ -318,8 +318,10 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
 - Ch4, the Oakmoore and Winston revelations: Carden tells her the Oakmoores' secret on the carriage
   ride to the estate, and her reply is matter-of-fact: "So all this time my in-laws were
   secret-believers of the Creator and potential Imperial collaborators." At the manor she learns
-  from Julian that he and Jane have spent 25 years converting her whole family to the Creator's
-  faith, which Charles and Beatrice then confirm while praising the Imperial raid and scolding her.
+  from Julian and Jane that they have spent 25 years converting her whole family to the Creator's
+  faith (Julian reveals the conversion; Jane supplies the timeframe: "little by little for
+  twenty-five years"), which Charles and Beatrice then confirm while praising the Imperial raid and
+  scolding her.
   She answers Julian with "So you laced your poison into my family when they were at rock-bottom?
   And you call that real faith?" She starts closing the distance before the Winston revelations —
   she takes Carden's hand at the station and, once he has told her the Oakmoore secret, asks "Shall
@@ -600,7 +602,8 @@ choose over his job) and its mirror.
 - Spent 25 years quietly converting the Winston family to the Creator's faith (revealed Ch4).
 - Forced the arranged marriage between Carden and Marelyn (stated directly, Ch1, Ch5).
 - Confronts Carden in the Shadow World over his own hypocrisy (Ch5); draws a Magic broadsword on
-  Carden and cuts his neck before Carden disarms him with Zeal Magic.
+  Carden and cuts his neck; Carden's Zeal Magic rattles Julian enough to make his hands shake, and
+  Carden smacks the blade's hilt away (Ch5).
 - Formally disinherits Carden (the disinheritance form is the instrument of the Ch7 rupture, Ch7).
   A second set of papers found alongside Julian's is Charles Winston's disinheritance of Marelyn.
 
