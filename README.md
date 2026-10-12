@@ -13,9 +13,11 @@ Arcane Keys Novella*, by Wilbert Tien (Draft Zero).
 - **`story-bible/`** — Continuity-reference notes compiled from a full, sequential, word-for-word
   read of Draft Zero (not a summary pass): `characters.md`, `locations.md`, `magic-system.md`,
   `timeline.md`, `narrative-structure-and-plot.md` (the manuscript's narrative structure and its
-  scene-by-scene plot, with line citations back to the manuscript), and `expanded-glossary.md` (the
-  author's own glossary, cross-referenced to where each term is actually used in the narrative, plus
-  in-text terms the glossary doesn't yet cover).
+  scene-by-scene plot, with line citations back to the manuscript), `expanded-glossary.md` (the
+  author's own glossary, cross-referenced to where each term is actually used in the narrative,
+  plus in-text terms the glossary doesn't yet cover), and `carden-marelyn-relationship.md` (how
+  the manuscript constructs, characterizes, and builds an arc for the central relationship between
+  Carden Oakmoore and Marelyn Winston).
 
 - **`reference/`** — Publishing-industry reference materials:
   `industry-standards.md` covers U.S. market standards for upmarket, adult, character-driven fantasy
