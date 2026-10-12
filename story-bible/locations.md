@@ -27,12 +27,13 @@ glossary itself doesn't spell out.
   Alfred** (Ch4).
 - A constitutional Commonwealth with Parliament, multiple parties (Labor, Trade, Dominions, People,
   Freedom, Justice — named in Ch2 by a disillusioned Windbury commuter), and overseas **Dominions**
-  on "all seven continents" (Ch1) whose continued deference to Alfainian leadership is explicitly
+  on "all seven continents" (Ch2) whose continued deference to Alfainian leadership is explicitly
   framed by Edward Cook as the geopolitical linchpin holding the Commonwealth together (Ch5).
 - Bound by an "ancient" ritual compact between Mankind (the **Heralds of Freedom**) and Dwarfkind
   (the **Pillars of Iron**), renewed at each change of government (Ch1).
 - Politically and religiously entangled with Sarh/the God of War since liberation — a relationship
-  several characters (Marelyn, Charles Winston) regard as having mortgaged Alfainia's sovereignty.
+  Marelyn regards as having mortgaged Alfainia's sovereignty; Charles Winston, by contrast, advocates
+  returning to the Creator's empire (Ch4).
 
 ### Portsmouth
 - Alfainia's capital (glossary); seat of Parliament and the Commonwealth Exchequer.
@@ -47,6 +48,8 @@ glossary itself doesn't spell out.
 - **Government District** — includes the Commonwealth Exchequer (Carden's workplace) and the
   Imperial District nearby, whose historic spires are described as monuments to Imperium Divinus's
   nine-year occupation (Ch5).
+- **Prudence Street** — colloquial name for Parliament's locale (Ch2: "squatting in Prudence
+  Street"), analogous to a real-world "Downing Street."
 - **Wheatfield's Bistro** — Carden's favored upscale restaurant.
 
 ### Windbury
@@ -54,10 +57,11 @@ glossary itself doesn't spell out.
   and the Winston and Baker families' home city.
 - **Windbury Train Station** / **Central Square** — site of the Deliverance Day riot's aftermath
   (black-shrouded corpses, Ch3) and the Government District Telegram Office.
-- **Windbury Cathedral** — overlooks Central Square; runs a soup kitchen staffed by lay clergy; its
+- **Windbury Cathedral** — across Central Square from the train station; runs a soup kitchen staffed
+  by lay clergy; its
   bell tower (tallest point in the city) is used as an observation post during the Ch3 Imperial
   flotilla standoff; its crypt doubles as a bomb shelter.
-- **Oakmoore estate** — Julian and Jane's marble manor on the city's outskirts; features manicured
+- **Oakmoore estate** — Julian and Jane's expansive marble manor; features manicured
   grounds, Aetheric-Creature topiaries, and Imperial iconography subtly worked into the architecture
   (Ch4).
 - **Winston Manor** — Charles and Beatrice's "modernist" manor, only fifteen years old, in downtown

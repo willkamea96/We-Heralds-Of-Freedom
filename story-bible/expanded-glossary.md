@@ -24,7 +24,7 @@ category — see below.)
 → Actively plot-critical: self-authenticates the God of War's and the Creator's *Scriptures* (Ch1,
 Ch5); forces truth under Horace's Law Magic interrogation (Ch3); used deliberately by Carden and
 Julian to force mutual honesty in their Ch5 confrontation; used by Carden to signal sincerity when
-briefing Roger (Ch2) and resigning to Edward (Ch7).
+conveying classified information to Roger (Ch8) and accepting termination from Edward (Ch7).
 
 **Arcanist** — a person with a soul attuned to the Arcane and thus its practitioner.
 → Confirmed Arcanists on-page: Carden Oakmoore, Julian Oakmoore, Edward Cook, Roger Baker, Horace
@@ -34,8 +34,8 @@ Livingstone, Renee Rose. See `characters.md` for each.
 matter, and the environmental medium necessary to manifest Magical powers.
 → Shown as something Arcanists can feel disturbed by one another's presence/Magic: Edward's
 Arcanist nature "stirs the air's ever-pervasive, invisible Aether" (Ch1); Carden senses Renee's Zeal
-Magic in the Ch2 crowd before seeing her; "distant Aetheric fluctuations" presage the Ch3 Imperial
-flotilla's approach.
+Magic in the Ch2 crowd before seeing her; "distant Aetheric fluctuations" ripple the air at the end
+of Ch2.
 
 **Aetheric Creatures** — feral biological organisms naturally constituted from Aether by
 Worldhearts, empowered at higher Tiers with primordial elemental magic, and the main constituent of
@@ -55,7 +55,8 @@ ecosystems.
 **Calling** — the specific role an Arcanist or Profaner attains at a specific Magic Branch and Tier
 that defines what powers they can wield and what they must do to Self-Actualize.
 → Never named explicitly as "a Calling" in the prose of the read chapters, but functionally present:
-Carden and Renee are both called "Ideals Arcanist[s]" (Ch2, Epilogue), implying a Calling tied to
+Carden and Renee are both called "Idealist Arcanist" (Ch2) / "Ideals Arcanist" (Epilogue), implying
+a Calling tied to
 Zeal Magic. See `magic-system.md`.
 
 **Calling-specific feat** — the specific act an Arcanist or Profaner must accomplish at certain
@@ -68,10 +69,11 @@ submission (Ch5). Secretly worshipped within Alfainia by the Oakmoores (hidden s
 through their 25-year conversion effort, the Winstons. See `magic-system.md` → "Pantheon."
 
 **Demigod** — an Arcanist or Profaner who has reached a high enough Tier to attain divinity.
-→ Alfainia maintains resident Demigods seated in Parliament's balconies; a single divine outburst
-(attributed to the God of War Himself, not a Demigod) staggers all of them simultaneously at the
+→ Alfainia maintains resident Demigods seated in Parliament's balconies; a crushing wave of divinity
+(attributed to the God of War Himself, not any Demigod) staggers all of them simultaneously at the
 Ch1 investiture. Imperial Demigods are credited with the Atmospheric Magic-conjured storms that
-repeatedly screen Imperial fleet withdrawals (Ch3, Ch5).
+screen Imperial fleet withdrawals (Ch3; Ch5 mentions the storm but does not attribute it to
+Demigods specifically).
 
 **Dwarves** — short, humanoids with human features and a lack of biological pigmentation as part of
 their subterranean evolution.
@@ -93,8 +95,9 @@ Profane Creatures that contains the host-creature's innate Magic.
 Artifacts/Charms) existing in the world.
 
 **Evania** — an island offshore the Nordic continent and Alfainia's core homeland.
-→ Implicit throughout as Alfainia's home island; its three regions (Nordnir, Ostnir, Vastnir) are
-named directly via Marelyn's and Carden's telegram addresses in Ch3.
+→ Implicit throughout as Alfainia's home island; two of its three regions are named directly via
+telegram addresses in Ch3: Vastnir (Marelyn's address) and Ostnir (Carden's address). Nordnir
+appears only in the glossary.
 
 **Eyael** — the world.
 → The setting's name; not emphasized in-dialogue in the read chapters (characters say "the world"
@@ -107,8 +110,9 @@ teaches us love is the greatest commandment." See `magic-system.md` → "Pantheo
 `characters.md` → "Alfred."
 
 **God of War** — one of the deities in Eyael's pantheon of gods.
-→ Patron deity of Sarh and, via the liberation-era compact, of Alfainia's government; manifests in
-person at the Ch1 investiture; His Scripture (Ch1) calls for war against the Creator. See
+→ Patron deity of Sarh and, via the liberation-era compact, of Alfainia's government; His divine
+presence manifests at the Ch1 investiture (a crushing force, not a physical form); His Scripture
+(Ch1) calls for war against the Creator. See
 `magic-system.md` → "Pantheon."
 
 **Humans** — self-explanatory.
@@ -185,7 +189,8 @@ Beastmen, Profane Creatures, and Profaners.
 stands "a whole Tier above" Carden).
 
 **Windbury** — a major Alfainian city and Ostnir's provincial capital.
-→ Primary setting for Chapters 2–4 and 6 (partially), 8, and the Epilogue; see `locations.md`.
+→ Primary setting for Chapters 2 (partially)–4, 8, and the Epilogue; see `locations.md`. (Ch6 is
+set entirely in Portsmouth.)
 
 **Worldheart** — Naturally-occurring, recurrent, spontaneous natural phenomena where atmospheric
 Aether converges into a sky-piercing pillar of light that spawns Aetheric Creatures, Arcane
@@ -208,11 +213,13 @@ here as candidates for the author to add if the glossary is expanded in a later 
   **Atmospheric Magic**, **Gravitational Magic**, **Space Magic**, **Empowerment Magic**,
   **Enchanting Magic** — named Magic Branches/disciplines shown in active use (see
   `magic-system.md` for the full table of who wields what, and where).
-- **Imperium Divinus** — the Creator's empire; named directly in Ch1's Scripture ("topple the
-  Creator and his empire") and implied throughout as Alfainia's historical occupier and the war's
-  opposing power.
-- **Ideals Arcanist** — the specific Calling shared by Carden Oakmoore and Renee Rose (Ch2, Ch6,
-  Epilogue); functions as the in-text name for what the glossary's abstract "Calling" system defines.
+- **Imperium Divinus** — the Creator's empire; the Latin-style proper name first appears in Ch5
+  ("Imperium Divinus committed during its nine-year occupation of the island"). Ch1's Scripture
+  references "the Creator and his empire" generically. Implied throughout as Alfainia's historical
+  occupier and the war's opposing power.
+- **Ideals Arcanist** / **Idealist Arcanist** — the specific Calling shared by Carden Oakmoore and
+  Renee Rose; appears as "Idealist Arcanist" (Ch2) and "Ideals Arcanist" (Epilogue). Functions as
+  the in-text name for what the glossary's abstract "Calling" system defines.
 - **Black Hounds** — the 309th Infantry Regiment / 8th Infantry Division's nickname and matching
   wrist-tattoo insignia (a snarling black hound), shared by Carden and Horace Livingstone; later also
   given to Renee Rose upon her apparent recruitment (Epilogue).
@@ -222,3 +229,17 @@ here as candidates for the author to add if the glossary is expanded in a later 
   Carden bows "in the Essexian Church's rite" at the Ch7 cathedral.
 - **cone** — Alfainia's currency denomination (e.g., "a brass-colored ten-cone bill," Ch3; "a
   gut-churning twelve-hundred-cone expense," Ch4).
+- **Scripture** — divine documents from the Father, God of War, and Creator; central plot devices in
+  Ch1, Ch5, and Ch7. Italicized as a proper term throughout the manuscript.
+- **Deliverance Day** — Alfainia's major religious holiday; central to Ch2–Ch3 events ("Deliverance
+  Day normally served as a synonym for festive holiday cheer," Ch2).
+- **Dominions** — Alfainia's overseas territories on all seven continents; geopolitically crucial
+  throughout (Ch2, Ch5).
+- **Saint Alfred** / **Alfred Essex** — Alfainia's founder, liberator, and religious figure; named
+  in Ch4, Ch6, Ch7. See `characters.md` → "Alfred."
+- **Angels** — referenced as a distinct supernatural category alongside Demigods ("Demigods and
+  Angels dueled in displays that warped and cracked the sky," Ch1).
+- **Commune** — rural settlements/villages protected by palisades against Aetheric Beast and Arcane
+  Beast depredations (Ch2).
+- **Arcane Beast** / **Aetheric Beast** — terms used in Ch2 for creatures threatening rural
+  Communes; distinct from the glossary's "Arcane Creature" and "Aetheric Creatures."

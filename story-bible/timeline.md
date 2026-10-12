@@ -12,8 +12,11 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   from Imperium Divinus's nine-year occupation. Julian and Jane Oakmoore, Imperial colonists, choose
   to stay and are left with nothing when Imperium Divinus withdraws; they rebuild as model citizens
   and found Oakmoore Industries.
-- **~54–60 years before Ch1** — Saint Alfred vanishes, reportedly embittered that Alfainia secured
-  its freedom via the God of War rather than the Father.
+- **~74 years before Ch1** (same period as the liberation) — Saint Alfred vanishes "during Alfainia's
+  liberation" (Ch7), reportedly embittered that Alfainia secured its freedom via the God of War
+  rather than the Father. (Charles Winston loosely says "fifty, sixty years ago" in Ch4, but Ch1's
+  precise "seventy-four-years ago" and Ch7's "more than five-decades ago" both place the event at
+  the liberation itself.)
 - **~25 years before Ch1** — Carden and Marelyn's families force their arranged marriage; around the
   same time, Julian and Jane begin quietly converting the Winston family to the Creator's faith (a
   process they describe as gradual, "little by little for twenty-five years," Ch4).
@@ -28,11 +31,13 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
 
 ## Year 0 — Winter: Deliverance Day and the Windbury riots (Chapters 1–3)
 - **Investiture ritual, Portsmouth** — Terence Howell (Labor) is invested as Prime Minister; Feroz
-  Surena officiates. The God of War manifests in person for the first time in the ritual's history,
+  Surena officiates. The God of War's divine presence manifests for the first time in the ritual's
+  history,
   staggering Alfainia's resident Demigods and blessing Terence's cabinet. Edward Cook (new Finance
-  Minister, Trade) hires Carden as Special Commissioner of Income Tax and shows him the God of War's
+  Minister) summons Carden, already the sitting Special Commissioner of Income Tax, and shows him the
+  God of War's
   *Scripture* ordering Alfainia to mobilize for an unnamed world war against the Creator.
-- **Following weeks** — Carden begins enforcing Edward's new corporate tax hikes across Alfainia;
+- **Following ~three months** — Carden begins enforcing Edward's new corporate tax hikes across Alfainia;
   Horace Livingstone wins (effectively engineered) election as Mayor of Windbury; Annie and Roger
   Baker petition Carden for a tax exemption for Bakers For You's charity work; Carden agrees to visit
   Windbury for Deliverance Day to assess their case in person.
@@ -50,9 +55,8 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   to protect her, then released).
 - **That night** — An Imperial naval/air flotilla approaches Windbury's coast; Alfainian and Sarhese
   forces scramble to shadow it; the Imperials vanish behind an Atmospheric Magic storm without
-  engaging. Carden sends Marelyn a telegram that he's safe; she had already sent one announcing she
-  was coming to Windbury on the first available train, unaware of the riot.
-- **Next morning** — Marelyn arrives in Windbury.
+  engaging. Marelyn sends a telegram announcing she is coming on the first available Sunday train.
+- **Next morning** — Carden sends Marelyn a telegram that he is safe. Marelyn arrives in Windbury.
 
 ## Year 0 — Late winter: Homecoming (Chapter 4)
 - Carden briefs Marelyn on the riot and on his parents' secret Creator-worship before they visit the
@@ -88,7 +92,8 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   verifying the coalition's books and auditor independently, tells him to "just do the right thing."
   Carden signs; Edward unexpectedly countersigns approval without comment.
 - Annie, Roger, Carden, and Marelyn give thanks together at Saint Alfred's Cathedral in Portsmouth;
-  Carden acknowledges his faith has drifted toward the God of War "not as wholeheartedly" as before.
+  Carden acknowledges his faith in the Father has weakened ("perhaps not as wholehearted as what the
+  Father would like"), though he denies having abandoned the Father for the God of War entirely.
 - **Fall** — Alfainia holds a lavish military "maiden voyage" parade in Portsmouth Harbor showcasing
   the year's rearmament; public reception is muted/weary rather than enthusiastic.
 - **Mid-autumn** — Horace visits Carden in Portsmouth to warn him that Edward has audited Windbury's
@@ -96,17 +101,18 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
 
 ## Year 0 — Autumn: The reckoning (Chapter 7)
 - Edward gives Carden an ultimatum: annul all the Baker-coalition exemptions and personally collect
-  the arrears, or resign — making clear the exemptions will be annulled either way. Carden takes one
+  the arrears, or be terminated — making clear the exemptions will be annulled either way. Carden
+  takes one
   night to decide.
 - That evening, Marelyn reveals both families (hers and Carden's) summoned her and Julian/Charles
   have jointly disowned Carden in advance of his decision; she asks for the night alone.
 - Carden wanders to Saint Alfred's Cathedral in Northern Portsmouth, is blessed by a stranger calling
   himself "Alfred," and learns the cathedral's founding Scripture was personally left by "Alfred
   Essex" — implicitly the vanished Saint Alfred himself.
-- **Next morning** — Carden resigns rather than annul the exemptions; Edward accepts with apparent
-  respect, in Arcane Tongue. Carden is given two days to vacate his civil-service flat; he returns
-  home to find his and Julian's disinheritance already executed and, seemingly, Marelyn's belongings
-  removed and unsigned divorce papers left behind.
+- **Next morning** — Carden is terminated rather than annul the exemptions; Edward accepts the
+  termination with apparent respect, in Arcane Tongue. Carden is given two days to vacate his
+  civil-service flat; he returns home to find Julian's disinheritance already executed, Marelyn's
+  belongings removed — and notably, no divorce papers (their absence signals Marelyn is not leaving).
 - **That evening** — Marelyn returns: she had in fact spent the day selling her entire purse
   collection and filing her own disinheritance from the Winstons (prompted by her father's ultimatum
   to choose between the family name and Carden) — she was never filing for divorce. The two
@@ -117,7 +123,8 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   Windbury; the coalition, now also strained for funds heading into winter (peak welfare demand),
   realizes it never looped in Mayor Horace Livingstone and asks Carden and Marelyn to broker a deal
   with him.
-- At their old teenage retreat on a hill outside Windbury, Carden and Marelyn reaffirm their
+- At Carden and Annie's old teenage retreat on a hill outside Windbury (now claimed as his and
+  Marelyn's own: "Now it's ours"), Carden and Marelyn reaffirm their
   marriage ("Let's make this work") before pitching Horace a public–private welfare/reconstruction
   scheme: aid conditional on recipients volunteering as public-works labor, co-run and personally
   supervised by Carden and Marelyn (now unemployed and needing income themselves). Horace approves

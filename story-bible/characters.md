@@ -11,7 +11,8 @@ to first/major appearances, not every mention.
   in pacifying occupied enemy settlements on the mainland (Ch1).
 - Arcanist; Calling is an "Ideals Arcanist" who wields Zeal Magic (sky-blue aura), used both to
   intimidate (interrogation of Laplace, Ch2) and to encourage/bolster (Epilogue, coaching Renee).
-  Confirmed an Arcanist by Edward Cook's remark that his presence "stirred the air's Aether" (Ch1).
+  Confirmed an Arcanist by Edward Cook ("The Black Hounds. So you're an Arcanist from that regiment,"
+  Ch1); Carden's own Arcanist sense detects Edward's presence "stirring the air's Aether" (Ch1).
 - From Windbury (Ostnir province); estranged from his wealthy parents Julian and Jane Oakmoore, who
   are secret worshippers of the Creator (Ch4).
 - Arranged-married to Marelyn Winston for 25 years at the novella's start; the marriage was loveless
@@ -29,14 +30,15 @@ to first/major appearances, not every mention.
   Zeal Magic to sustain workers.
 - Devout in the Father's faith underneath his bureaucratic cynicism; his decisive turn comes at
   Saint Alfred's Cathedral in Northern Portsmouth (Ch7), where he receives a blessing from a bearded
-  stranger who gives his name only as "Alfred" and reads a Scripture attributed to Saint Alfred —
+  stranger who gives his name only as "Alfred" and reads a Scripture bequeathed by "Alfred Essex" as
+  "the humble messenger" of the Father —
   strongly implied to be Saint Alfred himself, alive and unrecognized (Ch7).
 
 ### Marelyn Winston (Oakmoore)
 - Carden's wife of 25 years, arranged by their families; from an "old nobility" background, daughter
   of Charles and Beatrice Winston.
 - Manages the couple's investment portfolio personally and skillfully; described as far sharper with
-  money "than any three" of Carden's older brothers (Ch1). Visits the Stock Exchange on Excelsior
+  money "than any three" of Carden's older brothers (Ch4). Visits the Stock Exchange on Excelsior
   Avenue daily.
 - Collects luxury purses (motif) — gifts largely from Horace Livingstone, who treats her to shopping
   as a "gentleman's duty" while Carden is at work (Ch2); keeps her purse collection on display in her
@@ -44,9 +46,10 @@ to first/major appearances, not every mention.
 - Privately resents her family's and in-laws' hypocrisy and the performative piety/politics around
   her; early in the book conceals strong opinions behind a deliberately "inane" public persona
   (Ch1–2).
-- Learns of Carden's old flame Annie Baker (Ch2) and of the Oakmoore family's secret Creator-worship
-  (Ch4) on the same visit to Windbury; initiates reconciliation with Carden immediately after (Ch4:
-  they discard their old wedding rings and have new ones made together).
+- Learns of Carden's old flame Annie Baker while still in Portsmouth (Ch2); later learns of the
+  Oakmoore family's secret Creator-worship on a separate visit to Windbury (Ch4). Initiates
+  reconciliation with Carden after the Windbury revelations (Ch4: they discard their old wedding
+  rings and have new ones made together).
 - Disowned by her father Charles after Carden's termination; rather than divorcing Carden as he
   fears, she sells her entire purse collection, files her own disinheritance from the Winstons, and
   recommits to the marriage (Ch7: "I was never going to divorce you").
@@ -60,15 +63,16 @@ to first/major appearances, not every mention.
   a full Tier above Carden, Calling tied to Armaments Magic (manifests dusk-orange full plate armor
   and a broadsword, Ch5).
 - Secret worshipper of the Creator; keeps a hidden shrine (a golden eighteen-branched tree icon)
-  behind his study bookcase, concealed via a Shadow Magic-accessible alcove (Ch4).
+  behind his study bookcase, concealed via a mechanically activated bookcase (tapped in a particular
+  sequence, Ch4).
 - Was an Imperial colonist who chose to stay in Alfainia after liberation; built his fortune from
   nothing after Imperium Divinus abandoned its colonists (acknowledged obliquely by Carden, Ch5).
 - Spent 25 years quietly converting the Winston family to the Creator's faith (revealed Ch4).
 - Forced the arranged marriage between Carden and Marelyn (stated directly, Ch1, Ch5).
 - Confronts Carden in the Shadow World over his own hypocrisy (Ch5); draws a Magic broadsword on
   Carden and cuts his neck before Carden disarms him with Zeal Magic.
-- Formally disinherits Carden (the disinheritance form is the instrument of the Ch7 rupture),
-  reportedly twice over (a second copy appears alongside Marelyn's own disinheritance docs, Ch7).
+- Formally disinherits Carden (the disinheritance form is the instrument of the Ch7 rupture, Ch7).
+  A second set of papers found alongside Julian's is Charles Winston's disinheritance of Marelyn.
 
 ### Jane Oakmoore
 - Carden's mother; openly disdainful of Marelyn's financial career and childlessness (Ch4).
@@ -79,8 +83,8 @@ to first/major appearances, not every mention.
 - Marelyn's father; old nobility, newly elected to Parliament for the Justice party (Ch4); secretly
   converted to the Creator's faith by Julian and Jane (Ch4).
 - Openly bitter about Alfainia's "decline" and nostalgic for the old Imperium (Ch4); disowns Marelyn
-  after Carden's termination, relayed to Carden via Edward Cook and to Marelyn in person over lunch
-  at Julian's penthouse (Ch7).
+  after Carden's termination; Marelyn is summoned in person to Julian's penthouse for lunch where
+  the families deliver the ultimatum (Ch7).
 
 ### Beatrice Winston
 - Marelyn's mother; echoes Charles's and Jane's criticism of Marelyn's "unwomanly" career and
@@ -109,7 +113,7 @@ to first/major appearances, not every mention.
 ### Roger Baker
 - Annie's husband; a fellow Arcanist (confirmed via military tattoo: the Fifth Marine Regiment, "the
   Blue Kingfishers," Ch2) who can therefore be told classified information in Arcane Tongue.
-- More measured than Annie in negotiating with Carden; brokers the introduction to Horace in Ch8.
+- More measured than Annie in negotiating with Carden; accompanies the coalition in Ch8.
 
 ### Horace Livingstone
 - Carden's old army friend (Black Hounds); a fellow veteran and Arcanist, formerly also a Special
@@ -118,8 +122,9 @@ to first/major appearances, not every mention.
 - Thrice divorced; dotes on Marelyn with shopping trips and gifts (the indigo purse, Ch2) while
   professing old-fashioned views about women's roles (Ch2).
 - Commands martial-law forces in Windbury during the Deliverance Day riots (Ch3); personally
-  interrogates and has executed the half-Elf ringleader using Law Magic ("Confess") after her Human
-  and Elf parents (the latter a branded slave) are forced to falsely confess and are released (Ch3).
+  interrogates the half-Elf ringleader and her parents using Law Magic ("Confess"). Her Human father
+  and enslaved Elf mother are forced to falsely confess and then released; the ringleader herself is
+  taken away — not executed (no gunfire accompanies her removal) but rather conscripted (Ch3).
 - Warns Carden privately that Edward is furious over the tax exemptions (Ch6), setting up Carden's
   ultimatum.
 - Approves Carden and Marelyn's welfare-and-reconstruction proposal and hires them to run it (Ch8).
@@ -127,8 +132,8 @@ to first/major appearances, not every mention.
 ### Renee Rose
 - Introduced unnamed as the half-Elf instigator of the Windbury riot (Ch2: auburn hair, almond eyes,
   a fellow Ideals Arcanist using Zeal Magic on the crowd); captured and presumably conscripted by
-  Horace's forces rather than executed (Ch3, implied by Horace's remark that "the Black Hounds...
-  won't let such a talented Ideals Arcanist go to waste").
+  Horace's forces rather than executed (Ch3, implied by Carden's remark to Roger: "the Black
+  Hounds... won't let such a talented Ideals Arcanist go to waste").
 - Reappears by name in the Epilogue as "Private Renee Rose," now bearing the Black Hounds tattoo,
   leading a reconstruction labor crew under Carden's supervision — closing her arc from rioter to
   soldier/public servant.
@@ -151,9 +156,9 @@ to first/major appearances, not every mention.
 - Delivers the God of War's Scripture commanding war preparations (Ch1) and later the Creator's
   Scripture that mysteriously appears in Parliament (Ch5).
 - Drives the tax-hike policy throughout; ultimately gives Carden a binary choice — annul the Baker
-  coalition's exemptions and collect arrears, or resign — while making clear the exemptions will be
-  annulled regardless (Ch7). Accepts Carden's resignation with apparent genuine respect ("I thank
-  you for your service," spoken in Arcane Tongue, Ch7).
+  coalition's exemptions and collect arrears, or be terminated — while making clear the exemptions
+  will be annulled regardless (Ch7). Accepts Carden's termination with apparent genuine respect ("I
+  thank you for your service," spoken in Arcane Tongue, Ch7).
 
 ### Terence Howell
 - Newly-elected Prime Minister (Labor Party) invested in Ch1's opening ceremony, which the God of War
@@ -164,7 +169,7 @@ to first/major appearances, not every mention.
   ritual (Ch1).
 
 ### "Alfred" (implied Saint Alfred Essex)
-- An old, bearded stranger in workman's clothes who blesses Carden at Saint Alfred's Cathedral
+- A middle-aged, bearded stranger in rough workman's overalls who blesses Carden at Saint Alfred's Cathedral
   (Ch7), gives his name simply as "Alfred," and is followed immediately by Carden's discovery that
   the cathedral's Scripture was personally bequeathed by "Alfred Essex," "the humble messenger" of
   the Father, upon the cathedral's founding — and that Saint Alfred vanished mysteriously over fifty
