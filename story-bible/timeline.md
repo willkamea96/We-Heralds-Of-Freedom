@@ -17,14 +17,16 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   rather than the Father. (Charles Winston loosely says "fifty, sixty years ago" in Ch4, but Ch1's
   precise "seventy-four-years ago" and Ch7's "more than five-decades ago" both place the event at
   the liberation itself.)
+- **Teenage years, then the army (before the arranged marriage)** — As teenagers in Windbury
+  Cathedral, Carden and Annie vow to marry once Carden returns from the army (Ch6). Carden then
+  serves multiple combat tours on the mainland ("before we married," Ch1) with the 309th Infantry
+  Regiment/8th Infantry Division ("the Black Hounds"), alongside Horace Livingstone and Roger Baker
+  (different units: Horace also Black Hounds; Roger, the Fifth Marine Regiment, "Blue Kingfishers").
+  The vow goes unkept — Carden's "broken promise" (Ch2) — and the arranged marriage to Marelyn takes
+  its place. Annie later marries Roger.
 - **~25 years before Ch1** — Carden and Marelyn's families force their arranged marriage; around the
   same time, Julian and Jane begin quietly converting the Winston family to the Creator's faith (a
   process they describe as gradual, "little by little for twenty-five years," Ch4).
-- Some years before Ch1 — Carden serves multiple combat tours on the mainland with the 309th
-  Infantry Regiment/8th Infantry Division ("the Black Hounds"), alongside Horace Livingstone and
-  Roger Baker (different units: Horace also Black Hounds; Roger, the Fifth Marine Regiment, "Blue
-  Kingfishers"). Carden was engaged, as teenagers, to marry Annie before leaving for the war; the
-  promise is broken by his forced marriage to Marelyn. Annie later marries Roger.
 - **~8 years before Ch1** (per an elderly Windbury commuter, Ch2) — The countryside's visible decline
   (unrepaired Commune defenses, fallow fields, crumbling infrastructure) begins, regardless of which
   party holds government.
@@ -41,13 +43,22 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   Horace Livingstone wins (effectively engineered) election as Mayor of Windbury; Annie and Roger
   Baker petition Carden for a tax exemption for Bakers For You's charity work; Carden agrees to visit
   Windbury for Deliverance Day to assess their case in person.
+- **The Friday before Deliverance Day, Portsmouth (Ch2)** — After Annie and Roger's visit to his
+  office, Carden is questioned obliquely by Marelyn over dinner and mentions that Annie is "happily
+  married to one Roger Baker." Marelyn already knows Roger (she gives an accurate physical
+  description) and breaks down in tears ("Why can't I be me?"). The text never states the cause;
+  the scene's order and Ch4/Ch8 support reading it as tied to Roger's marriage as well as to her own
+  long-buried unhappiness. The next morning she declines to come to Windbury ("I'd rather not run
+  into our parents. Or Roger and Annie."), laces her fingers in Carden's and tells him, "Safe
+  travels. Get home soon."
 - **Deliverance Day weekend, Windbury** — Carden witnesses the city's severe economic decline firsthand.
   A riot breaks out at the Bakers' soup kitchen (started by a rock thrown at Roger); Carden
   intervenes with Zeal Magic and confronts a half-Elf ringleader (later identified as Renee Rose) who
   matches his own Magic; explosions and wider rioting erupt across the city immediately after,
   revealed to be deliberately timed — Horace's Black Hounds troops are already pre-positioned in
   Windbury "the same day" the riot breaks out, implying foreknowledge/engineering of the unrest.
-- **Same evening** — Martial law. Carden shelters with Annie's family, old classmates, and Windbury's
+- **Same evening** — Martial law. Carden first telegraphs Marelyn that he is safe and will take the
+  Sunday 4 PM train home, then shelters with Annie's family, old classmates, and Windbury's
   affluent at Windbury Cathedral; a friend of the family, "Orwell," is killed by the Black Hounds.
   Horace captures and personally interrogates three riot suspects via Law Magic: Renee Rose (an
   Arcanist, confesses truthfully and is taken away, implicitly rather than executed — see
@@ -55,26 +66,26 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   to protect her, then released).
 - **That night** — An Imperial naval/air flotilla approaches Windbury's coast; Alfainian and Sarhese
   forces scramble to shadow it; the Imperials vanish behind an Atmospheric Magic storm without
-  engaging. Marelyn sends a telegram announcing she is coming on the first available Sunday train.
-- **Next morning** — Carden sends Marelyn a telegram that he is safe. Marelyn arrives in Windbury.
-  Back in Portsmouth, Marelyn learns that Carden's old flame Annie is now happily married to Roger
-  Baker; Marelyn already knows Roger (gives an accurate physical description) and her emotional
-  breakdown is triggered by his marriage, not Annie's existence — revealing her own suppressed
-  feelings and long-buried unhappiness ("Why can't I be me?").
+  engaging. Marelyn's reply telegram, announcing she is coming on the first available Sunday train,
+  reaches the Windbury telegraph office overnight.
+- **Next morning (Sunday)** — Carden finds Marelyn's telegram waiting ("Please wait for me"); she
+  arrives in Windbury on the first available Sunday train (Ch4).
 
 ## Year 0 — Late winter: Homecoming (Chapter 4)
 - Carden briefs Marelyn on the riot and on his parents' secret Creator-worship before they visit the
   Oakmoore estate. Julian reveals he and Jane have spent 25 years converting the Winston family to
   the Creator's faith; Marelyn confronts him over exploiting her family's hardship. The couple then
-  visits the Winstons, who praise the Imperium and criticize Marelyn's career and childlessness;
-  Marelyn is visibly shaken for the first time in the novella.
+  visits the Winstons, who praise the Imperium and belittle Marelyn's career and her "failing as a
+  wife"; Marelyn, trembling, manages only a few flat lines before dragging Carden out and slamming
+  the door.
 - Walking back, Carden and Marelyn each discard their old wedding rings (gifts from their parents)
   and commission matching new entwined gold-and-silver bands from a Windbury jeweler classmate.
   Carden approves Annie and Roger's original tax-exemption case. The couple visits Bakers For You,
   where Marelyn sees Roger with Annie and their four teenage children; she is uncharacteristically
-  lost for words and refuses to go inside despite Roger's offer of hazelnut-cream croissants —
-  the same pastries she sought from him as a teenager (Ch8 revelation). On the train home, Marelyn
-  tells Carden she's "ready to be happy."
+  lost for words and refuses to go inside despite Roger's offer of hazelnut-cream croissants, which
+  he remembers she loved. (Ch8 later has her recall free hazelnut-cream croissants from "a certain
+  young baker" at the family's downtown bakery — implicitly Roger, though the text never names him
+  or gives her age.) On the train home, Marelyn tells Carden she's "ready to be happy."
 
 ## Year 0 — Spring: Escalation (Chapter 5)
 - Imperial air-fleets make their first incursion into Portsmouth's harbor itself (previously
@@ -96,8 +107,9 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
 - Annie and Roger, now representing a six-enterprise coalition (including Jericho's textile factory
   and Mary's pharmaceutical distribution company), ask Carden for exemptions for a citywide Windbury
   welfare program. Carden is reluctant given scrutiny over military spending; Marelyn, after
-  verifying the coalition's books and auditor independently, tells him to "just do the right thing."
-  Carden signs; Edward unexpectedly countersigns approval without comment.
+  reviewing the coalition's books (she finds the numbers "perfectly legitimate") and vouching for its
+  third-party auditor, tells him to "just do the right thing." Carden signs; Edward unexpectedly
+  countersigns approval without comment.
 - Annie, Roger, Carden, and Marelyn give thanks together at Saint Alfred's Cathedral in Portsmouth;
   Carden acknowledges his faith in the Father has weakened ("perhaps not as wholehearted as what the
   Father would like"), though he denies having abandoned the Father for the God of War entirely.
@@ -111,10 +123,10 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   the arrears, or be terminated — making clear the exemptions will be annulled either way. Carden
   takes one
   night to decide.
-- That evening, Marelyn reveals both fathers sought her out and brought her to Julian's Portsmouth
-  penthouse; they present her with an unsigned disinheritance form (Julian's, for Carden) and an
-  unsigned divorce form, along with the message: "There is no room for a disgraced prodigal son."
-  She asks for the night alone.
+- That afternoon, Carden walks home early and finds Marelyn already there; she reveals both fathers
+  sought her out and brought her to Julian's Portsmouth penthouse for lunch; they present her with
+  an unsigned disinheritance form (Julian's, for Carden) and an unsigned divorce form, along with the
+  message: "There is no room for a disgraced prodigal son." She asks for the night alone.
 - Carden wanders to Saint Alfred's Cathedral in Northern Portsmouth, is blessed by a stranger calling
   himself "Alfred," and learns the cathedral's founding Scripture was personally left by "Alfred
   Essex" — implicitly the vanished Saint Alfred himself.
@@ -122,10 +134,10 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   termination with apparent respect, in Arcane Tongue. Carden is given two days to vacate his
   civil-service flat; he returns home to find Julian's disinheritance already executed, Marelyn's
   belongings removed — and notably, no divorce papers (their absence signals Marelyn is not leaving).
-- **That evening** — Marelyn returns: she had in fact spent the day selling her entire purse
-  collection and filing her own disinheritance from the Winstons (prompted by her father's ultimatum
-  to choose between the family name and Carden) — she was never filing for divorce. The two
-  recommit to each other.
+- **That evening** — Marelyn returns: she had in fact spent the day selling her purses (though the
+  indigo purse Horace gave her stays with her) and filing her own disinheritance from the Winstons
+  (prompted by her father's ultimatum to choose between the family name and Carden) — she was never
+  filing for divorce. The two recommit to each other.
 
 ## Year 0 — Late autumn: Rebuilding in Windbury (Chapter 8)
 - Carden and Marelyn meet the Baker-led coalition (Roger, Jericho, Mary, Newton, and others) in
