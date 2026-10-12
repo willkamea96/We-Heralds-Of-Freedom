@@ -15,5 +15,10 @@ Arcane Keys Novella*, by Wilbert Tien (Draft Zero).
   `timeline.md`, and `expanded-glossary.md` (the author's own glossary, cross-referenced to where
   each term is actually used in the narrative, plus in-text terms the glossary doesn't yet cover).
 
+- **`reference/`** — Publishing-industry reference materials:
+  `industry-standards.md` covers U.S. market standards for upmarket, adult, character-driven fantasy
+  novellas (word-count definitions, manuscript formatting, market landscape, craft expectations,
+  recent award benchmarks, and positioning notes for this manuscript).
+
 These are reference/continuity materials for future drafting — they document what Draft Zero
 currently says, not prescriptive canon.
