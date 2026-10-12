@@ -12,8 +12,10 @@ Arcane Keys Novella*, by Wilbert Tien (Draft Zero).
   re-verified against any future draft.
 - **`story-bible/`** — Continuity-reference notes compiled from a full, sequential, word-for-word
   read of Draft Zero (not a summary pass): `characters.md`, `locations.md`, `magic-system.md`,
-  `timeline.md`, and `expanded-glossary.md` (the author's own glossary, cross-referenced to where
-  each term is actually used in the narrative, plus in-text terms the glossary doesn't yet cover).
+  `timeline.md`, `narrative-structure-and-plot.md` (the manuscript's narrative structure and its
+  scene-by-scene plot, with line citations back to the manuscript), and `expanded-glossary.md` (the
+  author's own glossary, cross-referenced to where each term is actually used in the narrative, plus
+  in-text terms the glossary doesn't yet cover).
 
 - **`reference/`** — Publishing-industry reference materials:
   `industry-standards.md` covers U.S. market standards for upmarket, adult, character-driven fantasy
