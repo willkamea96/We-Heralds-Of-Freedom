@@ -19,6 +19,8 @@ Arcane Keys Novella*, by Wilbert Tien (Draft Zero).
   `industry-standards.md` covers U.S. market standards for upmarket, adult, character-driven fantasy
   novellas (word-count definitions, manuscript formatting, market landscape, craft expectations,
   recent award benchmarks, and positioning notes for this manuscript).
+  `character-assessment-marelyn.md` evaluates Marelyn Winston's manuscript-level characterization
+  as a non-POV supporting character against those standards.
 
 These are reference/continuity materials for future drafting — they document what Draft Zero
 currently says, not prescriptive canon.
