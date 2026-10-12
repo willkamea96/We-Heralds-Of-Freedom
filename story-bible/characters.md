@@ -238,50 +238,353 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
 ## Non-POV principal supporting character
 
 ### Marelyn Winston (Oakmoore)
-- Carden's wife of 25 years, arranged by their families; from an "old nobility" background, daughter
-  of Charles and Beatrice Winston. Never a POV character — experienced entirely through Carden's
-  close third-person perspective throughout the manuscript.
-- Manages the couple's investment portfolio personally and skillfully; described as far sharper with
-  money "than any three" of Carden's older brothers (Ch4). Visits the Stock Exchange on Excelsior
-  Avenue daily.
-- Politically passionate from Ch1: on the Parliament balcony she challenges Carden — "You served
-  several combat-tours on the mainland... So why didn't you say anything back there, Carden?" and
-  "So that's it, end of story? The distinguished veteran... shrugs off a betrayal of founding
-  principles on the argument he is following orders?" — establishing moral conviction that runs
-  through her arc.
-- Collects luxury purses (motif) — accumulated over the marriage and displayed on a full wall in her
-  private study (the second bedroom, claimed early in the marriage as her own space, Ch5); Horace
-  Livingstone buys her purses as a "gentleman's duty" while Carden is at work (the indigo purse,
-  Ch2), contributing recent additions to the collection.
-- Privately resents her family's and in-laws' hypocrisy and the performative piety/politics around
-  her; early in the book conceals strong opinions behind a deliberately "inane" public persona
-  (Ch1–2).
-- Learns in Portsmouth that Roger Baker — whom she knew as a teenager (revealed Ch8) — is now
-  happily married to Carden's old flame Annie (Ch2); her emotional breakdown is triggered not by
-  Annie's existence but by learning Roger is married, revealing her own suppressed feelings and
-  long-buried unhappiness ("Why can't I be me?"). The same unresolved grief is dramatized again
-  when Carden and Marelyn visit Bakers For You in Windbury (Ch4): seeing Roger with Annie and
-  their four teenage children leaves Marelyn uncharacteristically lost for words, and she refuses
-  to go inside despite Roger's offer of hazelnut-cream croissants — the same pastries she used to
-  seek out from him as a teenager (Ch8). On the train home she tells Carden she is "ready to be
-  happy."
-- Later learns of the Oakmoore family's secret Creator-worship on the same Windbury visit (Ch4).
-  Initiates reconciliation with Carden after the Windbury revelations (Ch4: they discard their old
-  wedding rings and have new ones made together).
-- Gathers intelligence independently during the Ch5 crisis: visits her father Charles at Parliament,
-  brother Jeremy at the Admiralty, officers' wives, and her social circle, returning with a
-  comprehensive geopolitical picture Carden could not have assembled alone ("Everyone's gone mad,"
-  Ch5).
-- Reveals on the Ch8 hilltop that she knew Roger Baker as a teenager — she used to visit his family
-  bakery for free hazelnut-cream croissants — and was "instantly smitten by someone who indulged me
-  without asking for anything in return," a structural parallel to Carden's teenage attachment to
-  Annie.
-- Disowned by her father Charles after Carden's termination; rather than divorcing Carden as he
-  fears, she sells her entire purse collection, files her own disinheritance from the Winstons, and
-  recommits to the marriage (Ch7: "I was never going to divorce you").
-- Becomes Carden's full partner in the Windbury reconstruction/welfare scheme, co-designing its
-  "volunteer labor for aid" structure and personally pitching it to Horace (Ch8). Does not appear
-  in the Epilogue.
+- Carden's wife of 25 years, in a marriage arranged by their families and pressed on both of them
+  ("Because our parents never gave us a choice," Ch1; Carden says Julian "forced me to marry Marelyn
+  against our wills," Ch5). From the old nobility; daughter of Charles and Beatrice Winston, sister
+  of Rear Admiral Jeremy Winston and of Eleanor, and one of several sisters (Jane's "your many
+  marriageable sisters," Ch4). Charles later calls the match "our best decision" (Ch4).
+- Never a POV character: she is seen only through Carden's close third-person perspective, so her
+  inner life reaches the reader through what she says and does and through Carden's often mistaken
+  readings. Her one piece of writing is the Ch3 telegram ("I am coming on the first available Sunday
+  train. Please wait for me."). On the page she is always "Marelyn Winston" — the telegram header
+  and signature, and "Miss Marelyn Winston" to the telegraph officer (Ch3); Roger's "Marelyn...
+  Winston?" (Ch4) — and never "Oakmoore"; the "(Oakmoore)" in this heading is a story-bible
+  convention.
+- Appearance and tells: short strawberry-blonde hair and green eyes (Ch1); lavender perfume (Ch5).
+  Her eyes are "inscrutable" when she is guarded, "sparkled" when she is amused or pleased, and
+  "glistened" when she is close to tears. Under strain she goes rigid and cold ("stiff as a board
+  and cold as a stone," Ch1), squeezes Carden's hand until her knuckles whiten, and her tendons
+  bulge (Ch4); when he lays his hand over hers in Ch4 it goes from "terrifyingly hot" to "steady
+  warmth." She hides smiles and laughs (Ch4, Ch8) and worries her wedding ring (Ch1, Ch7).
+- Manages the couple's money and investments ("We both know where my talents lie," Ch1; to Julian,
+  "Carden and I both understand exactly where our respective talents lie," Ch4). Carden tells his
+  parents that in "the past twenty-five years she's managed our money" she has "done better than any
+  three of my older brothers combined," yet privately thinks "I just take Marelyn's word we're doing
+  well" (Ch4); he "never bothered keeping up with the household accounts" (Ch7), and her "I sorted
+  everything out" (Ch8) settles the matter without figures. She spends her days at the Stock
+  Exchange on Excelsior Avenue — Horace "ran into" her there (Ch2), Carden has walked her there
+  before work for "three months now" by Ch5, and a chauffeur collects her from it for the fathers'
+  lunch (Ch7). Her skills drive the plot: she plans to use Carden's Ch1 insider knowledge to
+  "optimize" the portfolio, vets the Bakers' books and knows their third-party auditor (Ch6), and
+  reads the coalition's books "with boggling speed" (Ch8). Her competence is belittled by Horace
+  ("not fitting for a woman like her to be so headstrong and inquisitive," Ch2), by Jane, and by her
+  own parents (Charles: "some mannish pleb playing stock-trader," Ch4).
+- Convictions and faith: at the Ch1 investiture she whispers "Traitors" and then "We used to believe
+  in the Father. This is who we're electing now," and on the Parliament balcony she presses Carden —
+  "You served several combat-tours on the mainland... So why didn't you say anything back there,
+  Carden?" and "So that's it, end of story? The distinguished veteran... shrugs off a betrayal of
+  founding principles on the argument he is following orders?" She and Carden voted for different
+  parties, and neither pick made the ruling coalition (Ch1). She holds herself to the same standard:
+  "I am married into the family benefiting from it all and hating every moment of it" (Ch5). A
+  believer in the Father (Ch1; "as the Father would have it," Ch5), she sits in tears after the
+  prayers at Saint Alfred's (Ch6) and "prayed all night" while Carden decided (Ch7). As far as the
+  text shows she is not an Arcanist: in Ch8 Carden calls Roger "the only other Arcanist in their
+  group," and Roger translates Carden's Arcane Tongue for the others.
+- Public persona versus private candor: in public she performs the proper wife — she sells Carden's
+  "afternoon tea" cover "in the blandest of tones" and provides the "long-agreed-upon modicum of
+  intimacy for the public eye" (Ch1), and with the in-laws keeps a "demure and proper posture" and a
+  smile that "didn't reach her eyes" (Ch4). Alone with Carden she is direct and perceptive ("You're
+  hiding from something," Ch1). Where she cannot speak, she communicates through tests, double-edged
+  questions, and gestures: Carden notes she "demanded the truth even as she herself skirted the real
+  question" (Ch2) and wishes "If only she just said what was on her mind" (Ch4).
+- Collects luxury purses (motif): the collection accumulated over the marriage fills an entire wall
+  of her private study, the second bedroom she claimed early in the marriage as her "safe space"
+  (Ch5, Ch7). Horace's "gentleman's duty" in Ch2 is stepping in at the Stock Exchange; after brunch
+  he buys her a new purse — the rich-indigo purse with gold buttons (the "blue-purse" of Ch4; "last
+  year" in Ch7), which Carden thinks spares his own "pocketbooks." That purse is the charged one:
+  Jane points at it while accusing her of seeking "the approbation of other married men" (Ch4),
+  Marelyn clenches its strap when pushed (Ch4, Ch7), and in Ch8 she turns it into a charm for
+  Horace. In Ch7 she sells the wall collection ("a lovely deal for all my purses"), yet the indigo
+  purse is still with her at the dinner table and again in Ch8.
+- Her history with Roger Baker is never stated outright; it is built across Ch2, Ch4, Ch6 and Ch8.
+  In Ch2, once Carden says Annie is "happily married to one Roger Baker," she describes Roger
+  exactly ("black hair that looks brown under a certain light, fuzzy sideburns, deep brown eyes, a
+  few centimeters shorter than you?") and then breaks down in tears; the text never states why, but
+  the scene's sequence and Ch4 and Ch8 support reading her grief as tied to Roger — to learning he
+  is married — as well as to her own marriage. She tells Carden she would "rather not run into our
+  parents. Or Roger and Annie" (Ch2). At Bakers For You (Ch4) Roger greets her by her maiden name
+  ("Marelyn... Winston?") and remembers that she "loved the hazelnut-cream croissants"; Carden
+  "never heard Marelyn so lost for words," and she manages only "I missed your pastries," then
+  declines Roger's invitation inside ("That sounds sublime, but no thank you") and takes "Whatever
+  you have here." In Ch6 Roger meets her at the close of the Stock Exchange (she suspects "it wasn't
+  a simple coincidence") and treats her to dinner; she "half-worried he intended some type of
+  advance on me" but says he only begged her to appeal to Carden. In Ch8 on the hilltop she says
+  that while Carden and Annie "gallivanted out here" she "nagged a certain young baker at his
+  family's downtown bakery for free croissants every morning" (hazelnut-cream ones "a particular
+  treat") and was "instantly smitten by someone who indulged me without asking for anything in
+  return" — a structural parallel to Carden's teenage attachment to Annie. The baker is never named,
+  so identifying him as Roger is an inference from Ch2 and Ch4, and "back then" places it in her
+  youth, not necessarily her teens.
+- Ch4, the Oakmoore and Winston revelations: Carden tells her the Oakmoores' secret on the carriage
+  ride to the estate, and her reply is matter-of-fact: "So all this time my in-laws were
+  secret-believers of the Creator and potential Imperial collaborators." At the manor she learns
+  from Julian that he and Jane have spent 25 years converting her whole family to the Creator's
+  faith, which Charles and Beatrice then confirm while praising the Imperial raid and scolding her.
+  She answers Julian with "So you laced your poison into my family when they were at rock-bottom?
+  And you call that real faith?" She starts closing the distance before the Winston revelations —
+  she takes Carden's hand at the station and, once he has told her the Oakmoore secret, asks "Shall
+  we?" at the gate — and after her parents' rebuke she throws her diamond ring into an alley ("How
+  silly of me, I seem to have lost the wedding-ring your parents bought me") and asks Carden to buy
+  a new one. He flicks his own ring away, and she describes the replacement design to the jeweler:
+  plain polished gold and silver bands folded into a pair of entwined snakes. On the train home she
+  tells Carden "I'm sick of being sad" and "I think... I think I'm ready to be happy."
+- Ch5, information and the vow: she goes to see her father Charles at Parliament and her brother
+  Jeremy at the Admiralty ("We need all the information we can, right?"), which Carden finds strange
+  because she "almost never visited them without Carden in-tow." That night he finds her "rigidly
+  seated" in her study with "puffy red eyes"; she says "Everyone's gone mad" and "Everyone wants
+  war," recounts what she learned from Charles, Jeremy, the officers' wives at the Admiralty's
+  social club, and her married friends from the old nobility, and reads the Stock Exchange ("Every
+  sector is hemorrhaging except war-related industries"). She then says "I feel like I'm exactly
+  where I need to be," apologizes ("I have been horribly unfair to you. I'm sorry."), and proposes
+  the vow: "Whatever comes tomorrow, let's face it together. Promise?"
+- Ch6, counsel and prayer: Carden takes the Bakers' coalition file to her before risking Edward's
+  ire. Still in her Stock Exchange clothes, she judges the numbers "perfectly legitimate," knows the
+  third-party auditor, and advises "Then just do the right thing. Sign the exemption forms, drop
+  them off at Edward's desk, see what happens," adding "Why must you always make things so
+  complicated?" At Saint Alfred's, after Annie asks whether Carden has "gone completely to the God
+  of War" and he answers, Marelyn lays her hand over his on the statue's plaque ("New beginnings
+  then"); after Annie and Roger's prayers, with a few tears on her cheeks, she says "Let's be happy,
+  Carden." At the rearmament parade she says aloud, in the Parliament stands, "So this is where all
+  our money went," drawing glares.
+- Ch7, the ultimatum and its reversal: a chauffeur takes her from the Stock Exchange to Julian's
+  Portsmouth penthouse, where both fathers give her an unsigned divorce form, an unsigned
+  disinheritance form and a message for Carden: "There is no room for a disgraced prodigal son." She
+  brings the papers home and asks Carden for "the night alone." When he returns at midnight she is
+  waiting on the couch facing the dark hearth; she asks "Where did you go?" and "And what's your
+  decision?", and on hearing "Termination" says "I see." (the words "came out as a sob"), then "I
+  just can't right now," and locks herself in her study, from which he hears only "sobs, sniffles,
+  and wails." Off the page the next day she sells the purse collection and clears her things from
+  the flat; a second disinheritance form "Signed by one Charles Winston" sits beside Julian's, and
+  she says "we filed" it at court and that "the look on father's face was priceless"; Charles, she
+  says, "refused to let the family name get tarnished." She returns while Carden is cooking his
+  "eviction" dinner ("Why does eviction smell so sublime?"), explains that she "prayed you would
+  give me an excuse not to do the right thing," and then, in a back-and-forth the text does not tag
+  by speaker, "You made the right choice." / "We made the right choice."; she says "I was never
+  going to divorce you" — "Especially not after I told you to approve Annie and Roger's latest case.
+  I promised."
+- Ch8, partner in the rebuilding: she squeezes Carden's hand under the café table, rolls her eyes at
+  "their" friends, and meets Annie's reproach with "Annie, Carden and I are disinherited, homeless,
+  and unemployed. Forgive us if we try to bring levity into our misery"; Carden feels "whatever
+  crackled between the two women." She teases him ("Did you ever consider our finances before
+  submitting your resignation?"), reads the coalition's books, and suggests the municipal budget
+  route through Mayor Horace ("Sounds like a gap the municipal budget could probably help you
+  bridge"). On the hilltop she tells the croissant story and says "Let's make this work."; Carden
+  repeats it back. The welfare scheme's condition that recipients volunteer to repair riot damage is
+  one "Carden and Marelyn came up with." In Horace's office Carden delivers the pitch and volunteers
+  both of them as supervisors while she charms Horace — praising his "impeccable taste" in the
+  purse, batting her eyelashes, and telling him "I've walked away from all that. Disowned,
+  matter-of-fact" — with her hands clenched under the desk. Horace approves; both start the next
+  day. She is not named or shown in the Epilogue.
+
+#### Character Arc
+
+Mapped from a sequential, chapter-by-chapter read of the full manuscript (Ch1–Ch8 and the Epilogue).
+Marelyn is never a POV character, so her arc is never narrated from inside. It reaches the reader in
+three ways: what she says and does on the page, her physical tells (above), and the explanations she
+gives herself after Carden has misread her — Ch5's "I have been horribly unfair to you," Ch7's
+account of the silent night, and Ch8's croissant story. Several of her most consequential acts
+happen off the page (the Ch5 information-gathering, the Ch6 dinner with Roger, the Ch7 purse sale
+and filing) and are known only from her later telling.
+
+**Arc type and thesis.** A positive-change arc about agency and voice. Marelyn moves from
+*performing* the proper wife — brilliant, guarded, speaking through tests and half-questions,
+waiting for someone else to say or do the thing first — to *choosing* openly: her marriage, her
+convictions, and the loss of her family's name and money, and then to putting her competence to work
+beside Carden. In the terms of Chapter One's title, "Our Definitions Of Freedom," hers is the
+freedom to be herself ("Why can't I be me?", Ch2). Her own lines bracket the arc: "Why can't we make
+this work, Carden?" (Ch1) becomes "Let's make this work." (Ch8), and her Ch1 "I think I'm ready to
+leave, Carden." (said as Carden is relieved to send her home by carriage; the text does not settle
+whether she means the party or more) is echoed by Ch4's "I think... I think I'm ready to be happy."
+Unlike Carden, who begins by suppressing convictions he already holds, Marelyn begins by voicing
+hers but with no safe way to act on them, so her change is less about what she believes than about
+how she acts on it. She also changes ahead of him — she takes his hand (Ch2, Ch4), discards the ring
+(Ch4), apologizes (Ch5), tells him to sign (Ch6), and has already acted on the disinheritance (Ch7)
+before he understands what she is doing — which makes her both a catalyst of his arc ("Then just do
+the right thing" is the advice he follows when he signs the exemptions that Edward later makes him
+choose over his job) and its mirror.
+
+**Starting state (Ch1–Ch2)**
+- *Position:* wife of 25 years in an arranged marriage; the household's investor, asleep over
+  "financial documents" when Carden gets home (Ch1); owner of a private study and a wall of purses;
+  daughter of a family that was "at rock-bottom" when the Oakmoores began winning it over (Ch4).
+- *Wound:* a marriage imposed by two families and a lifetime of being told what a wife and old-noble
+  daughter should be — too "headstrong and inquisitive" (Horace, Ch2), "failing as a wife"
+  (Beatrice, Ch4), neglecting Carden (Charles, Ch4) — while her real competence is derided as
+  playing "stock-trader." Carden's public silence at the investiture (Ch1) adds to it. Her Ch2
+  breakdown exposes long-buried unhappiness and, by the scene's sequence, grief tied to Roger.
+- *False belief (inferred):* that she cannot be both herself and the wife everyone requires, and
+  that "things" will never go her way ("Why won't things ever go my way?", Ch2); and that she must
+  wait for Carden to offer what she needs rather than ask for it (the test questions of Ch2; "If
+  only she just told him what he should tell her parents," Ch4).
+- *Want vs. need:* she *wants* a marriage that works and to be seen as herself ("Why can't we make
+  this work, Carden?"; "Why can't I be me?"). She *needs* to say what she means and act on it
+  without waiting for Carden, her parents, or her in-laws to move first.
+- *Convictions already present:* contempt for the God of War's government ("Traitors"), loyalty to
+  the Father ("We used to believe in the Father"), a clear eye for what the war economy will do
+  (Ch5), and an accurate read of Carden ("You're hiding from something," Ch1).
+
+**Progression, chapter by chapter**
+- **Ch1 – Our Definitions Of Freedom: the constrained wife, and a first thaw.** She elbows Carden
+  for yawning, whispers "Traitors" as the cabinet pledges allegiance to the God of War, sells his
+  "afternoon tea" cover, and then, leaning on him, whispers "We used to believe in the Father,"
+  looking up at him "as if hungry for his answer"; he gives none. On the balcony she challenges him
+  directly, and when he offers to resign only if she would stay "happy being my wife without my
+  present salary and civil service benefits," she answers "I think I'm ready to leave, Carden." and
+  he sends her home by carriage, relieved. At midnight she is asleep over her documents and has
+  forgotten to eat; Carden feeds her duck bruschetta, and she half-wakes with "If this is a dream
+  it's a very strange one." She reads him ("You're hiding from something"), sets her notebook aside
+  to ask "What do you think about all this?", and after his candid answer rubs her ring and asks
+  "Why can't we make this work, Carden?" Carden's answer — "Because our parents never gave us a
+  choice." — ends the chapter.
+- **Ch2 – Home Is Not Home: coded questions and the breakdown.** Off the page Horace takes her to
+  brunch, buys the indigo purse, and claims she agreed her energy belongs at home and asked him to
+  air the point, which Carden reads as her wanting him to rebuke Horace for her. At dinner she
+  questions obliquely: "I'm assuming you met Horace?" and "That's all?" while she "refused to meet
+  his gaze," then "What else happened at work today?", and, after "I met Annie," "I see." and "So
+  how is your old flame doing?" — questions Carden finds "multilayered." On hearing Roger's name she
+  describes him exactly, pats the couch beside her, and sobs against Carden's arm: "Why do we both
+  need to live like this?" / "Why won't things ever go my way?" / "Why can't I be me?" Carden: "He
+  asked himself those questions every single day. How preposterous he only learned after twenty-five
+  years Marelyn did too." The next morning she declines Windbury ("I'd rather not run into our
+  parents. Or Roger and Annie.") but laces her fingers through his at the door: "Safe travels. Get
+  home soon."
+- **Ch3 – Inexorable Machinery Of Empire: the unprompted decision.** She is absent from the scenes
+  but acts. Carden's telegram to "Marelyn Winston" says he is safe; hers, which he finds waiting at
+  the telegraph office the next morning ("The telegram came last night"), reverses her Ch2 decision
+  not to go to Windbury, announcing her plan and asking him to wait: "I am coming on the first
+  available Sunday train. Please wait for me." Carden's reaction: "Carden's jaw dropped."
+- **Ch4 – Great Vagaries Of Homecoming: the break from both families.** She arrives in trousers with
+  the indigo purse ("You actually waited."), slips her hand into Carden's instead of letting him
+  carry the purse, goes pale as he recounts what happened in Windbury, and explains herself with "I
+  was worried." When Carden says he is "happy you came" she flinches, and after "Thanks for having
+  my back" she hides a smile. She takes the Oakmoore secret in stride and asks "Shall we?" At the
+  manor she holds a "demure and proper" front while Jane attacks her investing and her loyalty, and
+  Carden's defense ("Marelyn's done nothing but reward my trust") earns a look he calls "strangely
+  curious" and cannot explain. When Julian reveals the Winston conversion she clenches Carden's hand
+  until her knuckles whiten, lets him ask "the questions Marelyn could not bear to ask," and then
+  speaks, trembling: "So you laced your poison into my family when they were at rock-bottom?" At her
+  parents' home she manages only a few flat lines ("I came on the first train. Hope you both were
+  okay.") and an interrupted "Father, how could you—" as Charles and Beatrice celebrate the raid and
+  scold her. Carden's demand that they apologize leaves her blinking back tears (he wonders "Did she
+  not want an apology from her parents?"); she tugs him closer right as Charles roars with laughter
+  after "Marelyn is perfect the way she is," then drags him out and slams the door. She throws her
+  ring into the alley and follows it with a coded line ("How silly of me, I seem to have lost the
+  wedding-ring your parents bought me"); Carden understands only after "Oh." She designs the new
+  rings, and "For the first time since he married Marelyn, she smiled at him like the happiest
+  little girl." At Bakers For You, having "wholeheartedly agreed" with Carden's decision on the
+  Baker case, she is "lost for words," clenches his hand with a "desperate grip" while smiling at
+  Roger, helps deflect well-wishers, and nibbles a day-old scone. On the train she says "I'm sick of
+  being sad" and "I think... I think I'm ready to be happy," eats the hazelnut-cream croissant
+  Carden had asked Annie to "snatch" for him ("Come eat"), "half-laughing, half-sobbing," and that
+  night, back in the Portsmouth flat, sleeps in his arms for the first time in years.
+- **Ch5 – Relentless March Of History: apology, alignment and the vow.** She goes to find out what
+  the powerful know, and comes home red-eyed: "Everyone's gone mad... Everyone wants war." She asks
+  Carden "What do you think about all this, Carden?" (cf. Ch1's "What do you think about all
+  this?"), and his fatalistic speech draws her "And yet..." — "I feel like I'm exactly where I need
+  to be" — followed by a catalogue of her family, her in-laws and her friends, and the line that she
+  is "stuck with one of the rarest breeds of people left in our country," which Carden first fears
+  is an insult. Her "Carden, dear." is a phrase he had "never heard... without some weight of dread
+  in the air." She apologizes, toasts, and elicits the vow ("Promise?" / "Promise."), the point from
+  which the couple proceed as allies.
+- **Ch6 – Messy Implementations Of Righteousness: the counselor, and the unspoken dinner.** She is
+  now the person Carden consults before Edward, and her counsel is decisive. Her mention of dinner
+  trails off ("Sorry, I got dinner earlier with… wait, is that mutton?"), and only after Carden says
+  Annie and Roger visited his office does she say she "ran into" Roger at the Stock Exchange as it
+  closed; Carden answers that Annie was "unusually forward," and "a heavy silence dragged out
+  between them" before she asks "They're really desperate for our help, are they?" At Saint Alfred's
+  she lays her hand over his on the statue's plaque ("New beginnings then") right after he answers
+  Annie's "gone completely to the God of War?" and the teenage promise crosses his mind; Roger prays
+  over her something "Carden could barely discern" — a prayer never disclosed. At the parade she
+  says her criticism aloud in the Parliament stands ("So this is where all our money went"), and
+  Carden covers with the government line, as in Ch1, but now hand-in-hand.
+- **Ch7 – When Faith Is Tested: the silent night, and the reveal.** She is home before Carden,
+  staring at her wall of purses with the fathers' papers "crumpled" in her hands, rolling her ring
+  as she delivers their message ("There is no room for a disgraced prodigal son"). Asked "What about
+  you?", she can only say "Could you give me the night alone?" She waits up on the dark couch, and
+  when Carden returns at midnight and says "Termination," she answers "I see." as a sob and, when he
+  asks "What do you think, Marelyn? Should I?", "I just can't right now," before locking herself in
+  her study — silence again at the worst moment. Carden reads it as the end of the marriage ("I
+  guess this is the end of our marriage"). The ring she keeps on is the visible counter-evidence,
+  which Carden later reads as "pretense." The next day she acts — sells the purses, files her
+  disinheritance, clears the flat — and returns glowing, with "a certain languid grace" and "the
+  smuggest smile Carden ever saw on her face," then apologizes for her silence ("I'm so sorry,
+  Carden, I left you alone."). She admits she "prayed all night" that he would keep his job, and the
+  two settle on "We made the right choice." (the preceding "You made the right choice." is
+  untagged). Her "I was never going to divorce you" is her plainest statement of choice in the
+  novella.
+- **Ch8 – When Faith Is Rewarded: the open partner.** She is at his side in public, handles the
+  books, and speaks bluntly to Annie. She originates the route to Horace (and, in the carriage,
+  calls the plan "a gamble" but "the most pragmatic option") and, with Carden, the volunteer-labor
+  condition. On the hilltop she offers the most direct disclosure of her past in the book, and her
+  "Let's make this work" (which Carden repeats back) answers her own Ch1 question. Her handling of
+  Horace is the arc's last twist: the "proper lady" persona she once endured is now a tool she uses
+  on purpose — the indigo purse, the flattery, the batted lashes — at the cost of her clenched
+  hands. Her last scene closes on Horace's "Welcome to the trenches" to both of them, and she is
+  absent from the Epilogue.
+
+**Recurring through-lines**
+- *Food and appetite.* Carden's cooking and "Come eat" (Ch2, Ch4, Ch6) are his language of care; her
+  appetite tracks her willingness to be cared for. She forgets to eat (Ch1) → "Something this
+  sublime almost tastes like an apology" (Ch2) → cold scones and "shallowness of her bites and
+  breaths," then the croissant (Ch4) → eats her own buttered croissant before the Stock Exchange
+  (Ch5), and in her study it is her stomach's rumble that lets her "regain a little bit of life" →
+  "I suppose a bite wouldn't hurt" and two empty platters (Ch6) → "I would love nothing more" (Ch7)
+  → her own sweet-butter croissant (Ch8). Ch8's "indulged me without asking for anything in return"
+  describes the baker, but it also fits what Carden does for her in Ch1, Ch2 and Ch4; the narration
+  never connects them.
+- *Rings.* The diamond ring she rubs before asking "Why can't we make this work" (Ch1) → thrown away
+  (Ch4) → the new ring pressed into his palm (Ch5) → wedding rings pressed together after the
+  prayers (Ch6) → rolled on her finger during the ultimatum, and misread by Carden as "pretense"
+  (Ch7).
+- *The indigo purse.* Horace's gift (Ch2) → the object Jane points at (Ch4) → strap clenched when
+  she is pushed (Ch4, Ch7) → the one purse kept when the wall is sold (Ch7) → a deliberate tool of
+  charm (Ch8). The persona she once wore as a cage becomes one she wears by choice.
+- *From questions to statements.* "I see." marks her restraint (Ch1, Ch2 twice, Ch7 twice) and is
+  not used again after Ch7. The questions of Ch1 and Ch2 ("Why can't we make this work, Carden?";
+  "Why can't I be me?") give way to declaratives (Ch5 "I have been horribly unfair to you"; Ch7 "I
+  was never going to divorce you"; Ch8 "Let's make this work").
+- *Competence.* "Where my talents lie" (Ch1; Ch4 to Julian) → vetting the Bakers (Ch6) → the books
+  and the Horace route (Ch8), where Roger says "we will have to defer to both of your judgments."
+  What was dismissed as a hobby becomes the scheme's backbone.
+- *Hands and temperature.* Cold when suppressed (Ch1; Ch7), burning hot with "pent-up wrath" (Ch4),
+  "warm" when connected (Ch2 "warm fingers"; Ch5 "warm wedding-ring"), and "hot" when the Ch7
+  misunderstanding is resolved.
+- *Cover and candor.* Ch1: she whispers, Carden invents "afternoon tea," and she plays along. Ch4:
+  she keeps an "implacable if outwardly genial" face. Ch6: she says it aloud and Carden covers
+  beside her. Ch8: she performs deference on purpose.
+
+**Foils**
+- *Carden* — her mirror and counterweight. He complies where she objects (Ch1), then she moves first
+  on each step toward partnership (the hand, the ring, the apology, the advice) while he supplies
+  material care and public defense. They trade the same accusation: "Why did she always make things
+  so complicated?" (his thought, Ch1) and "Why must you always make things so complicated?" (her
+  words, Ch6).
+- *Annie* — the woman Carden lost, and a quiet rival: Annie's forwardness (Ch6), Marelyn's hand over
+  his just as Carden recalls the old promise to Annie (Ch6), and the open friction at the Ch8 café.
+  Annie (for Carden) and Roger (for Marelyn, by inference) are mirror-image early attachments, and
+  the couple's dealings with the Bakers' business run through Ch2–Ch8.
+- *Horace* — patron and patronizer: the purse, the "counsel," and the remark that he "couldn't
+  possibly allow a woman from old nobility to muck with the masses" (Ch8). She manages him by
+  turning his condescension into flattery (Ch8).
+- *Julian, Jane, Charles and Beatrice* — the enforcers of the role she rejects ("Be more like your
+  sisters and start acting like a proper lady of old nobility"). Their joint ultimatum (Ch7) is what
+  makes her choose against both families.
+
+**Resolution and open threads**
+- Marelyn gains a chosen partnership, a purpose and a place in Windbury, at the cost of her family's
+  name and money and her purse collection; the last image of her is in Horace's office, with the
+  Epilogue silent about her.
+- The Roger thread is never closed: the baker is not named, her feelings are never stated, Roger's
+  prayer for her (Ch6) is never disclosed, and the Ch6 dinner stays as brief as she tells it.
+- Her family is left unresolved: the Winstons have disowned her (Ch7) and, per Julian, share the
+  Oakmoores' Creator-faith (Ch4), Charles planned to be in Portsmouth "long-term" (Ch4), and Jeremy,
+  Eleanor (both tied to the war economy) and her other sisters never appear on the page. Whether the
+  couple's knowledge of the families' secret will matter later is never addressed.
+- Money: the household's finances are never given in figures (Ch8), the indigo-purse exception to
+  "all my purses" is unexplained, and who cleared the flat and repainted the purse wall (Ch7) is
+  left unstated.
+- She is told only that Carden went to "Saint Alfred's Cathedral" (Ch7); the stranger "Alfred" and
+  the Scripture are never shown to her on the page.
 
 ## Family — Oakmoore
 
