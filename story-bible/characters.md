@@ -55,10 +55,18 @@ to first/major appearances, not every mention.
 - Privately resents her family's and in-laws' hypocrisy and the performative piety/politics around
   her; early in the book conceals strong opinions behind a deliberately "inane" public persona
   (Ch1–2).
-- Learns of Carden's old flame Annie Baker while still in Portsmouth (Ch2); later learns of the
-  Oakmoore family's secret Creator-worship on a separate visit to Windbury (Ch4). Initiates
-  reconciliation with Carden after the Windbury revelations (Ch4: they discard their old wedding
-  rings and have new ones made together).
+- Learns in Portsmouth that Roger Baker — whom she knew as a teenager (revealed Ch8) — is now
+  happily married to Carden's old flame Annie (Ch2); her emotional breakdown is triggered not by
+  Annie's existence but by learning Roger is married, revealing her own suppressed feelings and
+  long-buried unhappiness ("Why can't I be me?"). The same unresolved grief is dramatized again
+  when Carden and Marelyn visit Bakers For You in Windbury (Ch4): seeing Roger with Annie and
+  their four teenage children leaves Marelyn uncharacteristically lost for words, and she refuses
+  to go inside despite Roger's offer of hazelnut-cream croissants — the same pastries she used to
+  seek out from him as a teenager (Ch8). On the train home she tells Carden she is "ready to be
+  happy."
+- Later learns of the Oakmoore family's secret Creator-worship on the same Windbury visit (Ch4).
+  Initiates reconciliation with Carden after the Windbury revelations (Ch4: they discard their old
+  wedding rings and have new ones made together).
 - Gathers intelligence independently during the Ch5 crisis: visits her father Charles at Parliament,
   brother Jeremy at the Admiralty, officers' wives, and her social circle, returning with a
   comprehensive geopolitical picture Carden could not have assembled alone ("Everyone's gone mad,"

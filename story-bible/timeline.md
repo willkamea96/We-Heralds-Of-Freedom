@@ -57,6 +57,10 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   forces scramble to shadow it; the Imperials vanish behind an Atmospheric Magic storm without
   engaging. Marelyn sends a telegram announcing she is coming on the first available Sunday train.
 - **Next morning** — Carden sends Marelyn a telegram that he is safe. Marelyn arrives in Windbury.
+  Back in Portsmouth, Marelyn learns that Carden's old flame Annie is now happily married to Roger
+  Baker; Marelyn already knows Roger (gives an accurate physical description) and her emotional
+  breakdown is triggered by his marriage, not Annie's existence — revealing her own suppressed
+  feelings and long-buried unhappiness ("Why can't I be me?").
 
 ## Year 0 — Late winter: Homecoming (Chapter 4)
 - Carden briefs Marelyn on the riot and on his parents' secret Creator-worship before they visit the
@@ -66,8 +70,11 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   Marelyn is visibly shaken for the first time in the novella.
 - Walking back, Carden and Marelyn each discard their old wedding rings (gifts from their parents)
   and commission matching new entwined gold-and-silver bands from a Windbury jeweler classmate.
-  Carden approves Annie and Roger's original tax-exemption case. That evening, Marelyn tells Carden
-  she's "ready to be happy."
+  Carden approves Annie and Roger's original tax-exemption case. The couple visits Bakers For You,
+  where Marelyn sees Roger with Annie and their four teenage children; she is uncharacteristically
+  lost for words and refuses to go inside despite Roger's offer of hazelnut-cream croissants —
+  the same pastries she sought from him as a teenager (Ch8 revelation). On the train home, Marelyn
+  tells Carden she's "ready to be happy."
 
 ## Year 0 — Spring: Escalation (Chapter 5)
 - Imperial air-fleets make their first incursion into Portsmouth's harbor itself (previously

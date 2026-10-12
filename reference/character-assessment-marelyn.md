@@ -43,13 +43,19 @@ Examples of the technique at its most effective:
 - **Ch1**: "Marelyn scoffed and leaned on Carden, their long-agreed-upon modicum of intimacy for the
   public eye. She felt stiff as a board and cold as a stone." The performative intimacy and the
   physical cold communicate a 25-year emotional distance without exposition.
-- **Ch2**: Marelyn's reaction to learning about Annie Baker is rendered entirely through somatic
-  cues — she pats the spot next to her on the couch, locks her arms around Carden's arm "as if
-  clinging to a mast," and his skin goes "wet under the sleeve." Her three staccato questions
-  ("Why do we both need to live like this?" / "Why won't things ever go my way?" / "Why can't I
-  be me?") arrive without attribution to a specific trigger, so the reader feels their accumulated
-  weight. Carden's own recognition — "How preposterous he only learned after twenty-five years
-  Marelyn did too" — completes the scene.
+- **Ch2**: Marelyn's reaction to learning that Roger Baker is now married — to Carden's old flame
+  Annie — is rendered entirely through somatic cues. The trigger is not Annie's existence but
+  Roger's marriage: Marelyn already knows Roger (she gives an impeccably accurate physical
+  description of him before breaking down), and her collapse comes only after Carden says Roger is
+  "happily married." She pats the spot next to her on the couch, locks her arms around Carden's
+  arm "as if clinging to a mast," and his skin goes "wet under the sleeve." Her three staccato
+  questions ("Why do we both need to live like this?" / "Why won't things ever go my way?" / "Why
+  can't I be me?") arrive without attribution to a specific trigger, so the reader feels their
+  accumulated weight. Carden's own recognition — "How preposterous he only learned after
+  twenty-five years Marelyn did too" — completes the scene. The Ch8 hilltop revelation
+  retroactively confirms the source of Marelyn's grief: as a teenager, she visited Roger's family
+  bakery daily for free hazelnut-cream croissants and was "instantly smitten by someone who
+  indulged me without asking for anything in return."
 - **Ch4, Oakmoore estate**: "Marelyn's fingers surreptitiously laced between Carden's and clenched
   his hand so hard her knuckles turned white, yet her face remained implacable if outwardly genial
   as always." The split between public composure and private desperation is communicated in a single
@@ -154,7 +160,7 @@ Marelyn's arc across the manuscript can be mapped as:
 |---|---|---|
 | Cold arrangement | Ch1 (opening) | Performative public intimacy, private distance; "stiff as a board and cold as a stone" |
 | First crack | Ch1 (flat scene) | "Why can't we make this work, Carden?" — first genuine vulnerability |
-| Emotional revelation | Ch2 | Learns about Annie; reveals her own suppressed unhappiness ("Why can't I be me?"); first physical intimacy (falling asleep in Carden's arms) |
+| Emotional revelation | Ch2 | Learns Roger Baker is now married (to Annie); reveals her own suppressed feelings for Roger and long-buried unhappiness ("Why can't I be me?"); first physical intimacy (falling asleep in Carden's arms) |
 | Tested under fire | Ch3–4 | Arrives in riot-torn Windbury; maintains composure through Oakmoore and Winston revelations; breaks when family attacks her identity; throws away wedding ring; chooses a new one |
 | Active partnership | Ch5–6 | Intelligence-gathering; financial verification; "just do the right thing"; mutual vow; co-equal counsel on the Baker case |
 | Crisis and choice | Ch7 | Devastated silence → overnight anguish → autonomous decisive action (selling purses, filing disinheritance) → "I was never going to divorce you" |
