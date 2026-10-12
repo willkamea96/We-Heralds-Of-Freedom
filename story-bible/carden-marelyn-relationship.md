@@ -90,7 +90,8 @@ appears in every phase of the relationship:
   intensity."
 - **Ch7**: Breakfast omelets over reheated croissants left for Marelyn outside her locked study
   door. Later, stir-fry with garlic rice, risotto, and fries — the meal Marelyn walks into when
-  she returns with news that she sold her purses and filed her own disinheritance.
+  she returns with news that she sold her purses and filed her father Charles's disinheritance of
+  her at court.
 
 The recurring phrase **"Come eat"** — Carden nudging food toward Marelyn when she shuts down —
 appears across multiple chapters (Ch1, Ch4, Ch6) and functions as his signature gesture of care,
@@ -110,8 +111,8 @@ herself skirted the real question" (Ch2). Her communication methods include:
   conversion on her behalf (Ch4).
 - **Symbolic action**: Hurling her wedding ring into an alleyway without warning, then framing it
   with false casualness: "How silly of me, I seem to have lost the wedding-ring your parents
-  bought me" (Ch4). Selling her entire purse collection and filing her own disinheritance without
-  telling Carden, then presenting the results at dinner (Ch7).
+  bought me" (Ch4). Selling her entire purse collection and filing her father's signed
+  disinheritance at court without telling Carden, then presenting the results at dinner (Ch7).
 
 ### Dramatic Irony via Carden's Misreading
 
@@ -309,8 +310,8 @@ one person by his side for more than twenty years, gone" (Ch7).
 from behind and a chin rested on his shoulder." He still assumes this is a farewell: "Tonight at
 least, I'd like to enjoy a simple dinner one last time" (Ch7). The dramatic irony peaks as Carden
 misreads every signal (see §2 above) until Marelyn reveals: she sold her entire purse collection,
-confronted her father, and filed her own disinheritance from the Winstons. She was never going to
-divorce him.
+confronted her father, and filed Charles Winston's signed disinheritance of her at court ("the look
+on father's face was priceless," Ch7). She was never going to divorce him.
 
 Her explanation unfolds the internal process the POV constraint kept hidden: "From the moment
 father told me what happened, my heart already knew what we should do. Except it wasn't ready yet

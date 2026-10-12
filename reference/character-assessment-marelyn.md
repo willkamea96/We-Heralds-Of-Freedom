@@ -85,8 +85,9 @@ The Ch7 dinner scene is the clearest example. Carden interprets every signal inc
 - Her wedding ring is still on → she's "still considerate enough to keep up the pretense one last
   time"
 
-Every inference is wrong. Marelyn sold her purses, filed her own disinheritance from the Winstons,
-and is glowing because she chose him. The reader who has been tracking Marelyn's physical signals
+Every inference is wrong. Marelyn sold her purses; her father Charles signed a disinheritance form,
+and Marelyn defiantly filed it at court ("the look on father's face was priceless," Ch7). She is
+glowing because she chose him. The reader who has been tracking Marelyn's physical signals
 across earlier chapters — the clenched hands, the performative composure, the quiet tears, the
 growing warmth — can sense the mismatch before the reveal lands.
 
@@ -102,9 +103,9 @@ Marelyn's dialogue is distinctive and consistently characterized. Her speech pat
 
 - **Weaponized inaneness**: "Can't believe my family skipped this for afternoon tea" (Ch1) — a
   deflection tactic Carden explicitly notes she uses to defuse public attention.
-- **Multilayered questions**: "What do you think about all this?" (Ch2, Ch5) — Carden observes that
-  Marelyn "managed to utter such multilayered questions with such inaneness" and that "in these
-  moments Marelyn demanded the truth even as she herself skirted the real question."
+- **Multilayered questions**: "What do you think about all this?" (Ch1, Ch5) — Carden observes in
+  Ch2 that Marelyn "managed to utter such multilayered questions with such inaneness" and that "in
+  these moments Marelyn demanded the truth even as she herself skirted the real question."
 - **Blunt practicality**: "Just do the right thing" (Ch6) — her directness cuts through Carden's
   equivocation.
 - **Emotional precision under duress**: "From the moment father told me what happened, my heart
@@ -138,9 +139,9 @@ Major off-page actions:
 - **Ch6**: Marelyn independently verifies the Baker coalition's financial legitimacy through her own
   knowledge of their third-party auditor — information Carden lacks.
 - **Ch7**: The entire day while Carden is being terminated and wandering Portsmouth, Marelyn is
-  (unknown to Carden and the reader) selling her purse collection, confronting her father, and
-  filing her own disinheritance at court. The reader experiences this as a Ch7 reveal, not as a
-  narrated sequence.
+  (unknown to Carden and the reader) selling her purse collection and confronting her father. Charles
+  Winston signs a disinheritance form; Marelyn defiantly files it at court. The reader experiences
+  this as a Ch7 reveal, not as a narrated sequence.
 
 **Assessment**: This is structurally exemplary for a non-POV supporting character. It solves the
 classic problem of the "waiting partner" — the supporting character who exists only in relation to
@@ -160,10 +161,10 @@ Marelyn's arc across the manuscript can be mapped as:
 |---|---|---|
 | Cold arrangement | Ch1 (opening) | Performative public intimacy, private distance; "stiff as a board and cold as a stone" |
 | First crack | Ch1 (flat scene) | "Why can't we make this work, Carden?" — first genuine vulnerability |
-| Emotional revelation | Ch2 | Learns Roger Baker is now married (to Annie); reveals her own suppressed feelings for Roger and long-buried unhappiness ("Why can't I be me?"); first physical intimacy (falling asleep in Carden's arms) |
-| Tested under fire | Ch3–4 | Arrives in riot-torn Windbury; maintains composure through Oakmoore and Winston revelations; breaks when family attacks her identity; throws away wedding ring; chooses a new one |
+| Emotional revelation | Ch2 | Learns Roger Baker is now married (to Annie); reveals long-buried unhappiness ("Why can't I be me?"); first physical intimacy (Marelyn sobs in Carden's arms until she sleeps; he tucks her in and sits alone) |
+| Tested under fire | Ch3–4 | Arrives in riot-torn Windbury; maintains composure through Oakmoore and Winston revelations; breaks when family attacks her identity; throws away wedding ring; chooses a new one; first mutual sleeping in each other's arms "in however many years" (Ch4) |
 | Active partnership | Ch5–6 | Intelligence-gathering; financial verification; "just do the right thing"; mutual vow; co-equal counsel on the Baker case |
-| Crisis and choice | Ch7 | Devastated silence → overnight anguish → autonomous decisive action (selling purses, filing disinheritance) → "I was never going to divorce you" |
+| Crisis and choice | Ch7 | Devastated silence → overnight anguish → autonomous decisive action (selling purses, embracing disinheritance signed by her father) → "I was never going to divorce you" |
 | Rebuilt equality | Ch8 | Co-designs the welfare scheme; co-pitches Horace; fully co-equal partner in the rebuilding |
 
 ### 3b. Arc Assessment
@@ -180,8 +181,9 @@ transformation is **not contingent on Carden's**. She does not change because Ca
 changes because the accumulating external pressures (the revelations about her family, the political
 crisis, Carden's termination) force her to choose between her inherited identity (the Winston name,
 old nobility, the purse collection as symbol of that life) and her genuine self. Her Ch7 decision
-to file disinheritance is the culmination of an arc that began in Ch2 ("Why can't I be me?") — not
-a reaction to Carden's cathedral experience.
+to embrace the disinheritance her father Charles imposed — filing his signed form at court rather
+than fighting it, turning his punitive act into her own declaration of autonomy — is the culmination
+of an arc that began in Ch2 ("Why can't I be me?"), not a reaction to Carden's cathedral experience.
 
 **Assessment**: Meets the standard. The arc is proportionally well-distributed across the novella's
 eight chapters and achieves emotional resolution. The supporting character's transformation

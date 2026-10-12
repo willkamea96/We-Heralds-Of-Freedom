@@ -52,18 +52,20 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   into our parents. Or Roger and Annie."), laces her fingers in Carden's and tells him, "Safe
   travels. Get home soon."
 - **Deliverance Day weekend, Windbury** — Carden witnesses the city's severe economic decline firsthand.
-  A riot breaks out at the Bakers' soup kitchen (started by a rock thrown at Roger); Carden
-  intervenes with Zeal Magic and confronts a half-Elf ringleader (later identified as Renee Rose) who
-  matches his own Magic; explosions and wider rioting erupt across the city immediately after,
+  At the Bakers' soup kitchen, a rock is thrown at Carden (the government official; he ducks and it
+  strikes Roger's chest); Carden intervenes with Zeal Magic and confronts a half-Elf ringleader
+  (later identified as Renee Rose) who matches his own Magic; explosions and wider rioting erupt
+  across the city immediately after,
   revealed to be deliberately timed — Horace's Black Hounds troops are already pre-positioned in
   Windbury "the same day" the riot breaks out, implying foreknowledge/engineering of the unrest.
 - **Same evening** — Martial law. Carden first telegraphs Marelyn that he is safe and will take the
   Sunday 4 PM train home, then shelters with Annie's family, old classmates, and Windbury's
   affluent at Windbury Cathedral; a friend of the family, "Orwell," is killed by the Black Hounds.
-  Horace captures and personally interrogates three riot suspects via Law Magic: Renee Rose (an
-  Arcanist, confesses truthfully and is taken away, implicitly rather than executed — see
-  `characters.md`), and her enslaved Elf mother and Human father (both coerced into false confessions
-  to protect her, then released).
+  Horace captures and interrogates three riot suspects via Law Magic, with Carden also participating:
+  Renee Rose's enslaved Elf mother and Human father voluntarily make false confessions to protect her;
+  Law Magic exposes their lies (both retch). Carden reassures them — "We will not harm your daughter"
+  — and they recant. Renee Rose (an Arcanist) then confesses truthfully and is taken away (implicitly
+  rather than executed — see `characters.md`); her parents are released.
 - **That night** — An Imperial naval/air flotilla approaches Windbury's coast; Alfainian and Sarhese
   forces scramble to shadow it; the Imperials vanish behind an Atmospheric Magic storm without
   engaging. Marelyn's reply telegram, announcing she is coming on the first available Sunday train,
@@ -88,14 +90,17 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   or gives her age.) On the train home, Marelyn tells Carden she's "ready to be happy."
 
 ## Year 0 — Spring: Escalation (Chapter 5)
-- Imperial air-fleets make their first incursion into Portsmouth's harbor itself (previously
-  confined to provincial coasts like Windbury). A mysterious *Scripture* from the Creator appears
+- Portsmouth suffers its first Imperial air-fleet incursion — airships of various displacements
+  skirt the harbor at extreme distance (previously confined to provincial coasts like Windbury).
+  A mysterious *Scripture* from the Creator appears
   unexplained in Parliament, demanding Alfainia's submission or "Sacred War." Edward tells Carden
   Alfainia must accelerate rearmament to avoid destabilizing its Dominions, funded by further tax
   hikes (bonds being politically unworkable).
-- Julian corners Carden in his office and gloats about the coming societal collapse; Carden rebukes
-  him in Arcane Tongue, and Julian draws a Magic broadsword and cuts Carden's neck before Carden
-  disarms him with Zeal Magic. Carden is treated by an enslaved Elf healer.
+- Julian uses a Shadow Magic ring artifact to pull Carden into the Shadow World from his office;
+  Julian gloats about the coming societal collapse, conjures an Armaments Magic broadsword, and
+  presses it to Carden's neck (the wound cuts deep). Carden rebukes him in Arcane Tongue; his Zeal
+  Magic erodes Julian's confidence, and Carden smacks the trembling blade's hilt from Julian's
+  hands. Carden is treated by an enslaved Elf healer.
 - That evening, Marelyn — having spent the day gathering intelligence from her father, brother, and
   social circle — tells Carden "everyone's gone mad" and that she feels "exactly where I need to be."
   The two exchange a private vow to face the future together.
@@ -135,9 +140,11 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   civil-service flat; he returns home to find Julian's disinheritance already executed, Marelyn's
   belongings removed — and notably, no divorce papers (their absence signals Marelyn is not leaving).
 - **That evening** — Marelyn returns: she had in fact spent the day selling her purses (though the
-  indigo purse Horace gave her stays with her) and filing her own disinheritance from the Winstons
-  (prompted by her father's ultimatum to choose between the family name and Carden) — she was never
-  filing for divorce. The two recommit to each other.
+  indigo purse Horace gave her stays with her) and filing her father Charles's signed disinheritance
+  of her at court — Charles refused to let the family name be "tarnished" and signed the form
+  himself; Marelyn embraced the outcome and
+  defiantly filed it ("the look on father's face was priceless," Ch7) — she was never filing for
+  divorce. The two recommit to each other.
 
 ## Year 0 — Late autumn: Rebuilding in Windbury (Chapter 8)
 - Carden and Marelyn meet the Baker-led coalition (Roger, Jericho, Mary, Newton, and others) in
