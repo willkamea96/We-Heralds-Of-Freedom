@@ -10,29 +10,230 @@ to first/major appearances, not every mention.
   soldier in the 309th Infantry Regiment, 8th Infantry Division — "the Black Hounds" — specializing
   in pacifying occupied enemy settlements on the mainland (Ch1).
 - Arcanist; Calling is an "Ideals Arcanist" who wields Zeal Magic (sky-blue aura), used both to
-  intimidate (interrogation of Laplace, Ch2) and to encourage/bolster (Epilogue, coaching Renee).
-  Confirmed an Arcanist by Edward Cook ("The Black Hounds. So you're an Arcanist from that regiment,"
-  Ch1); Carden's own Arcanist sense detects Edward's presence "stirring the air's Aether" (Ch1).
-- From Windbury (Ostnir province); estranged from his wealthy parents Julian and Jane Oakmoore, who
-  are secret worshippers of the Creator (Ch4).
-- Arranged-married to Marelyn Winston for 25 years at the novella's start; the marriage was loveless
-  at first but deepens across the book into genuine partnership (Ch1–8).
-- Former teenage sweetheart of Annie (now Annie Baker); the two had promised to marry before Carden
-  left for the army (referenced Ch6).
-- Wears a plain gold wedding ring (discarded Ch4) later replaced with a custom entwined-snake
-  gold/silver band he designs with Marelyn (Ch4).
-- Resigns/is terminated from the civil service (Ch7) after signing tax exemptions for the Baker-led
-  Windbury charity coalition against Edward Cook's orders; disinherited by Julian in the same
+  intimidate (exposing Laplace's fraud, Ch2; cowing the Windbury crowd, Ch2) and to
+  encourage/bolster (Epilogue, coaching Renee). Edward Cook infers he is an Arcanist from his
+  regiment ("The Black Hounds. So you're an Arcanist from that regiment, interesting. Your files
+  omitted that," Ch1) — his civil-service file never recorded it. Carden in turn senses that Edward
+  is a fellow practitioner because the man's presence "slightly stirred the air's ever-pervasive,
+  invisible Aether" (Ch1).
+- Born and raised in Windbury (Ostnir province) (Ch2); estranged from his wealthy parents Julian and
+  Jane Oakmoore ("bad blood," Ch2; his last visit was six years before Ch4), Imperial colonists who
+  stayed after the liberation and are secret worshippers of the Creator (Ch4). Carden knew the
+  family secret but kept it from Marelyn for 25 years, finally telling her on the carriage ride to
+  the Oakmoore estate (Ch4). Has several older brothers (at least three), mentioned only in passing
+  when he praises Marelyn's investing (Ch4).
+- Arranged-married to Marelyn Winston for 25 years at the novella's start; the marriage begins the
+  book emotionally estranged and performative (a "long-agreed-upon modicum of intimacy for the
+  public eye," Ch1; "Because our parents never gave us a choice," Ch1), though not without domestic
+  tenderness (Carden cooks for her, Ch1), and deepens across the book into a chosen partnership
+  (Ch4–8).
+- Former teenage sweetheart of Annie (now Annie Baker); as teenagers in Windbury Cathedral the two
+  vowed to marry once Carden returned from the army (Ch6). The promise went unkept — Carden's
+  "broken promise" (Ch2) — and the arranged marriage to Marelyn took its place.
+- Wears a plain gold wedding band from his parents (Ch1), which he flicks into a roadside gutter in
+  Ch4 right after Marelyn hurls her diamond ring into an alley. The replacements are matching bands
+  of polished gold and silver folded together like a pair of entwined snakes, made by an old
+  classmate-jeweler to the design Marelyn describes to him; Carden pays the twelve-hundred-*cone*
+  price (Ch4).
+- Is terminated from the civil service (Ch7) rather than resigning: of the two options Edward Cook
+  gives him — annul the exemptions and personally collect the past year's arrears, or be terminated
+  (the exemptions will be annulled either way) — he chooses termination and signs the letter. The
+  trigger is the tax exemptions he signed for the Baker-led Windbury welfare coalition (the Bakers'
+  own plus five friends' enterprises; Ch7 counts "six tax-exemptions," Ch6 "five exemption forms"),
+  contrary to Edward's Ch1 expectation that he turn petitioners down. Edward countersigned them in
+  Ch6 and only reversed after auditing Windbury's finances. Disinherited by Julian in the same
   stretch (Ch7).
-- Rebuilds with Marelyn in Windbury: the two broker a public–private welfare/reconstruction scheme
-  with Mayor Horace Livingstone and run it themselves (Ch8); by the Epilogue he personally
-  supervises reconstruction labor crews (building Windbury's new glass-roofed marketplace) using
-  Zeal Magic to sustain workers.
-- Devout in the Father's faith underneath his bureaucratic cynicism; his decisive turn comes at
-  Saint Alfred's Cathedral in Northern Portsmouth (Ch7), where he receives a blessing from a bearded
-  stranger who gives his name only as "Alfred" and reads a Scripture bequeathed by "Alfred Essex" as
-  "the humble messenger" of the Father —
-  strongly implied to be Saint Alfred himself, alive and unrecognized (Ch7).
+- Rebuilds with Marelyn in Windbury: they take over Annie and Roger's old flat, and the two broker a
+  public–private welfare/reconstruction scheme with Mayor Horace Livingstone (private charity partly
+  subsidized by the municipal budget; welfare recipients volunteer to repair the riot damage), which
+  Horace approves and has them supervise (Ch8). By the Epilogue, a year on, Carden works alongside
+  the volunteer crews (building Windbury's new glass-roofed marketplace, physical labor included),
+  uses Zeal Magic to thank and sustain them, and coaches Private Renee Rose, who runs the crew.
+- Believes in the Father throughout (quick prayers from Ch1; in Arcane Tongue he declares "There is
+  only one true God and He is the Father," Ch5), but his practice has lapsed beneath his
+  bureaucratic cynicism: he cannot remember the last time he was at Saint Alfred's Cathedral and
+  says "My faith hasn't changed... just perhaps not as wholehearted as what the Father would like"
+  (Ch6). His decisive turn comes at Saint Alfred's Cathedral in Northern Portsmouth (Ch7), where a
+  bearded stranger in rough workman's overalls who gives his name only as "Alfred" blesses him, and
+  the priest tells him the cathedral's Scripture was bequeathed by "Alfred Essex," who "was but the
+  humble messenger" of the Father — the stranger strongly implied to be Saint Alfred himself, alive
+  and unrecognized (the cathedral statue's beard and alms bowl "looked impeccably familiar," Ch7).
+
+#### Character Arc
+
+Mapped from a sequential, chapter-by-chapter read of the full manuscript (Ch1–Ch8 and the Epilogue).
+Carden is the sole POV character: every scene is filtered through his close third-person
+perspective, so the arc is carried by his actions, his private wry commentary (the "Oh no" / "Not
+this again" asides), and his repeated misreadings of Marelyn.
+
+**Arc type and thesis.** A positive-change arc about integrity: Carden moves from *dutiful
+instrument* of a state he privately distrusts to *conscientious agent* who acts on his convictions
+at the cost of career, family, wealth, and status. His own words bracket the change: "A good soldier
+follows orders" (Ch1) becomes "I did what he would have done" (Ch7, in Arcane Tongue, about Saint
+Alfred). Chapter One's title, "Our Definitions Of Freedom," frames it: Carden's Ch1 idea of freedom
+is escape and private comfort ("Simple pleasures"; he darkly jokes the coming war might "mercifully
+liberate Carden from life" before his four years under Edward are up), whereas in Ch7 he walks out
+of the Exchequer feeling "Free" because his actions finally match his beliefs.
+
+**Starting state (Ch1)**
+- *Position:* a veteran turned senior tax bureaucrat whose post Marelyn describes as a reward for
+  his service, and who guards his salary and "civil service benefits."
+- *Wound:* combat on the mainland, specifically pacifying occupied settlements. Intrusive memories
+  (blackened artillery-blasted fields, landing craft, burning streets) surface whenever war is
+  mentioned (Ch1, Ch3, Ch5); added to this are a marriage forced on him and a broken promise to
+  Annie, and parents he avoids.
+- *False belief:* compliance and silence are the only safe responses to forces larger than himself
+  ("A good soldier follows orders"; "Of course the people's opinion mattered nothing"), and
+  conviction is a private matter to keep out of public view ("no reason he needed to indulge her
+  self-righteousness here in so public a forum"). He also assumes his marriage can only ever be a
+  shackle ("Because our parents never gave us a choice").
+- *Want vs. need:* he *wants* the next four years under Edward to be "at least tolerable" and some
+  quiet. He *needs* to act on what he already privately knows and to stop making honest
+  relationships "complicated" — a charge he thinks of Marelyn in Ch1 ("Why did she always make
+  things so complicated?") and that she turns back on him in Ch6 ("Why must you always make things
+  so complicated?").
+- *Convictions already present:* at home, alone with Marelyn, he already calls the God of War's plan
+  "Hypocritical" and Alfainia a "forward-operating base and self-funding arsenal." What he lacks is
+  the willingness to say or act on it where it costs him.
+
+**Progression, chapter by chapter**
+- **Ch1 – Our Definitions Of Freedom: the compliant functionary.** Stifles a yawn through the
+  investiture, covers for Marelyn's whispered "Traitors" with a loud remark about afternoon tea, and
+  offers no answer to her "We used to believe in the Father"; on the balcony he meets her challenge
+  only with "A good soldier follows orders" and offers to resign only if Marelyn would stay "happy
+  being my wife without my present salary and civil service benefits." Feels "relieved" when she
+  leaves. Before Edward Cook he voices one fiscal objection, his hand trembling from the God of
+  War's Scripture, then answers "Yes, sir" to turning every entitled entrepreneur down. A fine
+  dinner "did nothing"; he instead cooks for Marelyn at midnight and finally shares his real opinion
+  with her — the first thaw ("this arranged marriage felt… right").
+- **Ch2 – Home Is Not Home: the state's instrument at full effectiveness, and the first cracks.**
+  Uses Zeal Magic to expose and arrest Laplace; thinks "Maybe higher taxes did some good in that
+  respect"; nearly says the soup-kitchen crisis "wasn't his problem" but holds his tongue. Annie's
+  reappearance reopens the old wound ("Of course she found someone else"); he brings the Bakers to
+  Edward, who shows them the God of War's Scripture, and, on the train to Windbury, notes the
+  countryside's decline for Edward's benefit — still reporting up the chain. At home he tells
+  Marelyn the truth about Annie, and her breakdown reveals the shared misery: "He asked himself
+  those questions every single day." In Windbury he disperses the crowd with Zeal Magic, confronts
+  the half-Elf instigator in Arcane Tongue, and orders "Any rioter violating the peace will be
+  shot!" — "To think the day came he needed to bring his military specialty down on his own home."
+  This is his low point as the state's instrument.
+- **Ch3 – Inexorable Machinery Of Empire: the cost, and the first small defiance.** Walks past rows
+  of black-shrouded corpses ("What a wretched homecoming"); admits to Annie and Roger's daughter
+  that he killed three people that day (a would-be stabber, an old woman with a hammer, and a Black
+  Hound soldier "violating the law") — "She deserved the truth." Learns from Horace that the mayoral
+  election was engineered with Parliament's money and recognizes "This is happening all over the
+  country." At Horace's interrogation he speaks up for the prisoners ("We will not harm your
+  daughter"), earning the warning "Next time, don't challenge my authority like that again."
+  Rationalizes the half-Elf ringleader's fate as conscription. Sees the Imperial fleet and the
+  official fiction that it is not war: "Carden's deployments on the mainland were never wars
+  either." This is his first open challenge to Horace's authority, made to shield someone
+  vulnerable, though still from inside the system.
+- **Ch4 – Great Vagaries Of Homecoming: choosing Marelyn over both families.** Waits for Marelyn as
+  her telegram asked, tells her the Oakmoore secret he "owed Marelyn twenty-five years ago," and
+  from there takes her side against both sets of parents: "*I* do not want children, and neither
+  does Marelyn"; praises her investing; "Marelyn is perfect the way she is." Flashes his Black Hound
+  tattoo — "You know exactly where my loyalties have always been" — and contests Charles Winston's
+  claim of Imperial "resurgence" to his face. Throws away the parents' ring, buys the entwined-snake
+  pair, and approves the Bakers' exemption (his first quiet departure from Edward's Ch1
+  instruction). On the train he secretly arranges a hazelnut-cream croissant and coaxes Marelyn with
+  "Come eat"; that night they sleep in each other's arms for the first time in years.
+- **Ch5 – Relentless March Of History: declares faith and loyalties aloud; commits to Marelyn.**
+  Pushes back on Edward's plan with a war-bonds alternative, is rebutted, and is handed "Higher
+  taxes or Imperial citizenship." Confronts Julian in the Shadow World with Zeal Magic and in Arcane
+  Tongue: "There is only one true God and He is the Father"; "I owe the Creator nothing. I owe you
+  nothing." / "I owe everything to my Father in Heaven." Flashes his new ring and tattoo, is cut at
+  the neck, and declines to press charges ("not that unfilial yet"). Marelyn's "Everyone's gone mad"
+  triggers battlefield memories; he voices a fatalistic diagnosis ("We are a truly unfortunate
+  generation. Both the cogs and victims of the wheels of history") — insight without action, until
+  Marelyn names him "one of the rarest breeds of people left in our country." Their vow ("Whatever
+  comes tomorrow, let's face it together. Promise?" / "Promise.") is the hinge into Ch6–7.
+- **Ch6 – Messy Implementations Of Righteousness: the test begins.** Considers resigning, tells the
+  Bakers "My hands are tied," shows Roger a confidential government folder ("Not a word of what's in
+  there leaves this room"), and backs away from Edward's door ("A good soldier picked his battles").
+  But he keeps the Ch5 promise: takes the case to Marelyn before Edward and, on her advice ("Then
+  just do the right thing"), signs the exemptions; Edward countersigns. At Saint Alfred's he admits
+  his faith is not as wholehearted as it should be, receives Annie's prayer that he be "Free of the
+  shackles from his parents, from his wars, and from his hate," and prays with Marelyn that they are
+  "ready to be happy" — a prayer he later wonders "invited all these problems." In public he still
+  voices the government line with private irony at the rearmament parade. Horace's warning ("You
+  should have come to me") leaves him blaming himself for not telling his old friend, and Edward
+  summons him.
+- **Ch7 – When Faith Is Tested: the decisive choice.** Asks whether the exemptions would still stand
+  under termination, then gives Marelyn space ("No words, just space"). His feet carry him to Saint
+  Alfred's ("already internalized his choice before his heart"), where "Alfred" blesses him and the
+  Scripture asks "What father when his son asks for bread gives him a snake?" — a counterpoint to
+  the families' "no room for a disgraced prodigal son" ultimatum. "Something clicked inside of him";
+  he prays "please provision Marelyn and I for what comes." Chooses termination knowing it may cost
+  his marriage ("I guess this is the end of our marriage. We had a good run."). His Arcane-Tongue
+  statement to Edward answers Marelyn's Ch1 challenge: he acts because "the Father teaches us love
+  is the greatest commandment," and because "I gave my blood on the front-lines for the country
+  Saint Alfred believed in." Leaves "Free." Then comes the collapse in the emptied flat ("No job, no
+  family, no support"), cooking his "anger, his bitterness, his despair" into dinner, and Marelyn's
+  return — she was never divorcing him. Remembering her rebuke, "he kept it simple": "Thank you."
+- **Ch8 – When Faith Is Rewarded: re-entry as a chosen servant.** Jokes that he is unemployed,
+  openly kisses Marelyn's knuckles "for their friends to see" (cf. the "public eye" intimacy of
+  Ch1), and leans on her handling of the money he never checked ("Did you ever consider our finances
+  before submitting your resignation?"). Tells Roger in Arcane Tongue that Horace would have backed
+  the charity program — repairing the Ch6 failure to involve Horace. On the hilltop he reclaims his
+  teenage retreat with Annie for his marriage ("Now it's ours") and answers Ch1's "Why can't we make
+  this work, Carden?" with a freely chosen "Let's make this work." Pitches Horace a scheme in which
+  welfare recipients volunteer to repair riot damage, turning his pacification experience to
+  constructive ends ("At a certain point we needed to transition to rehabilitative justice") though
+  he "hated the notion of framing his hometown in such a manner," and volunteers himself and Marelyn
+  as supervisors. Horace: "Welcome to the trenches. Have fun."
+- **Epilogue – Magic Is Self-Actualization: the integrated Carden.** A year on, he works
+  shoulder-to-shoulder with the volunteer crews and uses Zeal Magic to appreciate and buoy them
+  rather than to intimidate. He mentors Private Renee Rose — the instigator he once confronted and
+  saw taken away — who now bears the Black Hounds tattoo, so his Ch8 argument for rehabilitation is
+  realized in a person. The glossary defines self-actualization as embodying "the ideals of their
+  Calling"; Carden, an Ideals Arcanist, now lives them. (No Tier advancement is shown on-page; the
+  connection is thematic.)
+
+**Recurring through-lines**
+- *Duty → conscience (the Black Hound tattoo).* Ch2 he rubs his own wrist; Ch3 the soldiers'
+  insignias "practically snarled at Carden"; Ch4 and Ch5 he flashes it at his parents and Julian as
+  proof of where his loyalty lies and what he owes; Ch7 Edward's eyes go to his right wrist as he
+  says "I will not deny a proven patriot his conscience"; Ch8 he points at Horace's to invoke their
+  shared pacification past; the Epilogue gives one to Renee. The emblem shifts from a mark of
+  obedience to the credential for principled dissent and, finally, for reintegration.
+- *Marriage (performative → chosen).* "Modicum of intimacy for the public eye" (Ch1) → "Come eat"
+  and cooking as his language of care (Ch1, 2, 4, 5, 6, 7) → new rings (Ch4) → the Ch5 promise → "We
+  made the right choice" (Ch7) → "Let's make this work" (Ch8). Blind spots: he repeatedly misreads
+  Marelyn (Ch2 Annie/Roger, Ch4 the apology, Ch7 the divorce papers) and never checked the household
+  accounts (Ch4, Ch7, Ch8).
+- *Faith.* Reflexive prayers (Ch1, Ch3) → declared in Arcane Tongue (Ch5) → lukewarm (Ch6) → tested
+  and anchored (Ch7) → "rewarded" (Ch8). The contrast between the Scripture's Father who gives bread
+  and the earthly parents who give rebuke is what moves him past his parents' hold; he then takes
+  the provider's role himself (feeding Marelyn, running the welfare scheme).
+- *Zeal Magic.* A tool of the state that manufactures doubt (Laplace, the crowd; Ch2) → a
+  truth-forcing weapon against Julian (Ch5) → a vehicle for sincere speech (Ch7) → encouragement
+  (Epilogue).
+- *Stress tells.* Eye/eyelid twitch (Ch1, Ch2, Ch4, Ch5) and hand tremors (Ch1, Ch5, Ch6) mark
+  suppressed strain; the twitch is not recorded after Ch5, and cigars (Ch1–3, Ch6) are not shown
+  again after Ch6.
+
+**Foils**
+- *Julian* — shows the self-serving use of faith: the Creator's believer who profits from the system
+  he wants to topple and treats family alliances as investments ("Best investment I ever made").
+  Carden defeats him in Arcane Tongue, where only truth can be spoken.
+- *Horace* — Carden's mirror and the path not taken: a fellow Black Hound who stays inside the
+  machine, becomes grim and worn ("the deep bags under Horace's eyes," Ch8), and leans on Law Magic
+  and martial law. Carden's exit from the machine is what produces the book's constructive proposal,
+  yet it still needs Horace's approval from inside the machine.
+- *Edward Cook* — the pragmatic face of the system; he gives Carden the choice, respects the answer
+  ("I will not deny a proven patriot his conscience"), and releases him with thanks.
+
+**Resolution and open threads**
+- Carden gains partnership, purpose, and community rather than wealth or rank; the war with the
+  Creator and the God of War's rivalry remain unresolved.
+- An enslaved Elf healer treats his wound (Ch5) and enslaved Elves do skilled labor on his
+  reconstruction project (Epilogue); he gives thanks that affluent families loan them out, and the
+  arc never examines this.
+- His combat trauma and the Ch3 killings are acknowledged (Ch3; Ch6 "Windbury Square lined in black
+  shrouds came to mind") but never explicitly processed; the intrusive combat memories appear
+  on-page in Ch1, Ch3, and Ch5 and not afterward.
+- His unease at framing his hometown in pacification terms (Ch8) and the identity of "Alfred" (Ch7)
+  are left open.
 
 ## Non-POV principal supporting character
 
