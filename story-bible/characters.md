@@ -3,7 +3,7 @@
 Reference notes compiled from a full sequential read of Draft Zero. Chapter (Ch) references point
 to first/major appearances, not every mention.
 
-## Principal POV characters
+## POV character
 
 ### Carden Oakmoore
 - Special Commissioner of Income Tax, Customs and Revenue Board, Portsmouth (Ch1); formerly a
@@ -34,15 +34,24 @@ to first/major appearances, not every mention.
   "the humble messenger" of the Father —
   strongly implied to be Saint Alfred himself, alive and unrecognized (Ch7).
 
+## Non-POV principal supporting character
+
 ### Marelyn Winston (Oakmoore)
 - Carden's wife of 25 years, arranged by their families; from an "old nobility" background, daughter
-  of Charles and Beatrice Winston.
+  of Charles and Beatrice Winston. Never a POV character — experienced entirely through Carden's
+  close third-person perspective throughout the manuscript.
 - Manages the couple's investment portfolio personally and skillfully; described as far sharper with
   money "than any three" of Carden's older brothers (Ch4). Visits the Stock Exchange on Excelsior
   Avenue daily.
-- Collects luxury purses (motif) — gifts largely from Horace Livingstone, who treats her to shopping
-  as a "gentleman's duty" while Carden is at work (Ch2); keeps her purse collection on display in her
-  private study (the second bedroom, claimed early in the marriage as her own space).
+- Politically passionate from Ch1: on the Parliament balcony she challenges Carden — "You served
+  several combat-tours on the mainland... So why didn't you say anything back there, Carden?" and
+  "So that's it, end of story? The distinguished veteran... shrugs off a betrayal of founding
+  principles on the argument he is following orders?" — establishing moral conviction that runs
+  through her arc.
+- Collects luxury purses (motif) — accumulated over the marriage and displayed on a full wall in her
+  private study (the second bedroom, claimed early in the marriage as her own space, Ch5); Horace
+  Livingstone buys her purses as a "gentleman's duty" while Carden is at work (the indigo purse,
+  Ch2), contributing recent additions to the collection.
 - Privately resents her family's and in-laws' hypocrisy and the performative piety/politics around
   her; early in the book conceals strong opinions behind a deliberately "inane" public persona
   (Ch1–2).
@@ -50,11 +59,20 @@ to first/major appearances, not every mention.
   Oakmoore family's secret Creator-worship on a separate visit to Windbury (Ch4). Initiates
   reconciliation with Carden after the Windbury revelations (Ch4: they discard their old wedding
   rings and have new ones made together).
+- Gathers intelligence independently during the Ch5 crisis: visits her father Charles at Parliament,
+  brother Jeremy at the Admiralty, officers' wives, and her social circle, returning with a
+  comprehensive geopolitical picture Carden could not have assembled alone ("Everyone's gone mad,"
+  Ch5).
+- Reveals on the Ch8 hilltop that she knew Roger Baker as a teenager — she used to visit his family
+  bakery for free hazelnut-cream croissants — and was "instantly smitten by someone who indulged me
+  without asking for anything in return," a structural parallel to Carden's teenage attachment to
+  Annie.
 - Disowned by her father Charles after Carden's termination; rather than divorcing Carden as he
   fears, she sells her entire purse collection, files her own disinheritance from the Winstons, and
   recommits to the marriage (Ch7: "I was never going to divorce you").
 - Becomes Carden's full partner in the Windbury reconstruction/welfare scheme, co-designing its
-  "volunteer labor for aid" structure and personally pitching it to Horace (Ch8).
+  "volunteer labor for aid" structure and personally pitching it to Horace (Ch8). Does not appear
+  in the Epilogue.
 
 ## Family — Oakmoore
 

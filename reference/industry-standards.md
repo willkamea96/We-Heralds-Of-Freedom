@@ -211,7 +211,8 @@ Based on the manuscript's characteristics and the standards above:
   justice, and institutional loyalty maps to the thematic ambition editors associate with "upmarket."
   The Arcane Tongue truth-forcing conceit is the kind of worldbuilding-as-metaphor that
   distinguishes upmarket from commercial fantasy.
-- **Dual POV** (Carden primary, Marelyn secondary) is clean and novella-appropriate.
+- **Single POV** (Carden throughout; Marelyn is a non-POV supporting character experienced entirely
+  through Carden's perspective) is the cleanest novella form.
 - **Comp positioning**: the political-fantasy register and moral-conviction protagonist place this
   manuscript in conversation with *The Goblin Emperor*, *Babel*, and *Piranesi* — all of which
   foreground a single character's ethical stance against systemic power.

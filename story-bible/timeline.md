@@ -104,8 +104,10 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   the arrears, or be terminated — making clear the exemptions will be annulled either way. Carden
   takes one
   night to decide.
-- That evening, Marelyn reveals both families (hers and Carden's) summoned her and Julian/Charles
-  have jointly disowned Carden in advance of his decision; she asks for the night alone.
+- That evening, Marelyn reveals both fathers sought her out and brought her to Julian's Portsmouth
+  penthouse; they present her with an unsigned disinheritance form (Julian's, for Carden) and an
+  unsigned divorce form, along with the message: "There is no room for a disgraced prodigal son."
+  She asks for the night alone.
 - Carden wanders to Saint Alfred's Cathedral in Northern Portsmouth, is blessed by a stranger calling
   himself "Alfred," and learns the cathedral's founding Scripture was personally left by "Alfred
   Essex" — implicitly the vanished Saint Alfred himself.
