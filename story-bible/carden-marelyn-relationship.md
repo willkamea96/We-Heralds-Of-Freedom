@@ -92,6 +92,10 @@ appears in every phase of the relationship:
   door. Later, stir-fry with garlic rice, risotto, and fries — the meal Marelyn walks into when
   she returns with news that she sold her purses and filed her father Charles's disinheritance of
   her at court.
+- **Epilogue**: Mutton curry again — Marelyn says "This is sublime" and practically inhales it.
+  The callback to Ch6's mutton curry under transformed circumstances: in Ch6 the couple lived in
+  a spacious civil-service flat; in the Epilogue they eat in a cramped rental with peeling
+  wallpaper, yet the domestic contentment is deeper.
 
 The recurring phrase **"Come eat"** — Carden nudging food toward Marelyn when she shuts down —
 appears across multiple chapters (Ch1, Ch4, Ch6) and functions as his signature gesture of care,
@@ -345,12 +349,18 @@ trousers under the desk (Ch8). When Horace questions whether Marelyn should "sto
 she declares: "I've walked away from all that. Disowned, matter-of-fact" (Ch8). Carden "inwardly
 uttered a prayer of profound gratitude to the Father for Marelyn's presence in his life" (Ch8).
 
-### Epilogue: Absence
+### Epilogue: Presence
 
-Marelyn does not appear in the Epilogue. The Epilogue depicts Carden supervising the
-reconstruction labor crew in Windbury — the program he and Marelyn co-designed and co-pitched —
-with no reference to Marelyn's presence, role, or whereabouts. She is neither mentioned nor
-alluded to.
+Marelyn is present in the Epilogue in both scenes. At the Chartwell Street construction site she
+argues with a municipal contractor over inflated invoices for glass sealants and weatherproof
+surface-resins, pauses to watch the lattice-hoisting, and exchanges a wink and a smile with Carden.
+In the domestic scene that closes the novella, Carden and Marelyn walk home through the cold dusk;
+Carden cooks mutton curry ("This is sublime"); they commiserate over their small flat's peeling
+wallpaper (Marelyn tells him "Stop it… Enjoy what you made instead"); Carden massages her knotted
+shoulders while she reads closing stock-prices; they fall asleep together. The scene dramatizes the
+co-equal partnership established in Ch8 as lived daily reality — shared labor, shared domesticity,
+and the mutual accommodation of a couple whose circumstances have shrunk but whose marriage has
+expanded.
 
 ---
 
@@ -386,9 +396,10 @@ expression. Key instances include:
 ### "Come Eat"
 
 Carden's recurring phrase when nudging food toward Marelyn, appearing in Ch1 (duck bruschetta),
-Ch4 (café scones, train-ride croissant), and Ch6 (mutton curry). The gesture bridges moments when
-verbal communication has failed or is insufficient — Carden defaults to physical caretaking when he
-cannot find the right words.
+Ch4 (café scones, train-ride croissant), and Ch6 (mutton curry). The phrase does not appear in the
+Epilogue's mutton curry scene, but the gesture persists — Carden cooks and Marelyn eats. The
+pattern bridges moments when verbal communication has failed or is insufficient — Carden defaults
+to physical caretaking when he cannot find the right words.
 
 ### Marelyn's Purse Collection
 

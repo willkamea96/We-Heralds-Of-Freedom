@@ -188,7 +188,7 @@ Carden's arc across the manuscript can be mapped as:
 | Choosing Marelyn | Ch4 | Sides with Marelyn against both families; throws away parents' ring; first quiet departure from Edward's instruction (Baker exemption); "Come eat" as care language |
 | Declaring faith, testing conviction | Ch5–6 | Declares faith in Arcane Tongue against Julian; signs coalition exemptions on Marelyn's advice; admits faith "not as wholehearted as what the Father would like"; "A good soldier picked his battles" |
 | Decisive choice | Ch7 | Chooses termination over annulling exemptions; cathedral encounter anchors faith; walks out "Free"; collapses when Marelyn's belongings are gone; cooks his grief; "Thank you" |
-| Reintegration | Ch8–Epilogue | Openly affectionate; co-designs welfare scheme; Zeal Magic for encouragement rather than intimidation; mentors Renee Rose; self-actualized Ideals Arcanist |
+| Reintegration | Ch8–Epilogue | Openly affectionate; co-designs welfare scheme; Zeal Magic for encouragement rather than intimidation; mentors Renee Rose; self-actualized Ideals Arcanist. Epilogue domestic scene with Marelyn: cooking mutton curry, shared domesticity, sleeping together in their small flat |
 
 ### 3b. Arc Assessment
 
@@ -215,7 +215,8 @@ The arc satisfies the character-driven structure standard on three axes:
 3. **Vocation**: from tax enforcer carrying out orders he privately mocks to community builder
    volunteering for the reconstruction he proposed. The Black Hound tattoo tracks this axis — worn
    first as a mark of obedience (Ch1–2), then as a credential for principled dissent (Ch4–5, Ch7),
-   and finally as a shared symbol of rehabilitation (Epilogue, where Renee Rose bears one).
+   and finally as a shared symbol of rehabilitation (Epilogue, where Renee Rose wears military
+   fatigues as a Black Hounds private; the tattoo itself is not observed on-page in the Epilogue).
 
 The three axes converge in Ch7's termination scene, where Carden's Arcane Tongue declaration
 simultaneously asserts his faith ("the Father teaches us love is the greatest commandment"), his
@@ -335,9 +336,10 @@ emotional states, his substitution of physical care (cooking, feeding) for verba
 manuscript's core characterization choice and the engine of its dramatic irony. It is also sustained
 across seven chapters (Ch1–7) with only partial resolution in Ch8. The self-correction "his—no,
 *their*—friends" (Ch8) and the learned simplicity of "Thank you" (Ch7, after Marelyn's rebuke
-about his speech) signal growth, but the Epilogue does not dramatize a scene in which Carden
-demonstrates improved emotional perception — its focus is vocational and civic rather than
-relational.
+about his speech) signal growth. The Epilogue's domestic closing scene extends this resolution:
+Carden notices Marelyn's temper from the contractor confrontation, massages her knotted shoulders,
+and laughs at himself when she catches him staring at the peeling wallpaper — moments that
+demonstrate attunement to her emotional state rather than the misreading pattern of Ch1–7.
 
 The risk is reader patience. Carden misreads Marelyn in Ch2 (the breakdown), Ch4 (the ring), Ch5
 (her compliment), and Ch7 (the dinner scene). Each misreading deepens the dramatic irony and pays

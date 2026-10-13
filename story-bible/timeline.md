@@ -159,11 +159,22 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   and hires them on the spot.
 
 ## Year 0 into Year 1 — Winter: Epilogue ("Magic Is Self-Actualization")
-- Months into the reconstruction program, Carden personally supervises a labor crew (including
-  enslaved Elves with Empowerment/Enchanting Magic) completing Windbury's new glass-roofed public
-  marketplace. He coaches Private Renee Rose — the riot's former ringleader, now a Black Hounds
-  soldier and crew leader — on pacing her own Zeal Magic for sustained labor support, closing her arc
-  from insurgent to fellow Ideals Arcanist serving the same rebuilding effort Carden now leads.
+- Three months into the reconstruction program, Carden personally supervises a labor crew (including
+  enslaved Elves with Empowerment/Enchanting Magic) at the construction site for Chartwell Street's
+  new glass-roofed public marketplace. A cranking, biofuel-engine-powered crane hoists a fifteen-ton
+  steel lattice onto brick arcades; orange-haired Elf slaves catch tempered-glass panes with
+  Empowerment Magic; sky-blue-haired Elf slaves seal them onto the lattice with conventional tools
+  and Enchanting Magic. Horace shamed affluent families into loaning Elf slaves, and also convinced
+  the Black Hounds to train its Arcanist recruits in Windbury's reconstruction work. Marelyn is
+  present at the site, arguing with a municipal contractor over inflated invoices.
+- Carden coaches Private Renee Rose — the riot's former ringleader, now a Black Hounds soldier
+  wearing military fatigues and serving as crew leader — on pacing her own Zeal Magic for sustained
+  labor support, closing her arc from insurgent to fellow Ideals Arcanist serving the same rebuilding
+  effort Carden now leads.
+- That evening, Carden and Marelyn walk home through the cold dusk; Carden cooks mutton curry
+  ("This is sublime"); they commiserate over their small rented flat's peeling wallpaper; Marelyn
+  tells him to enjoy what he made instead of staring at the walls; Carden massages her shoulders
+  while she reads closing stock-prices; they fall asleep together in the flat.
 - The broader war with Imperium Divinus and the God of War/Creator rivalry remains unresolved and
   looming at the novella's close; the Epilogue's focus is the personal/local resolution of Carden and
   Marelyn's marriage and Carden's renewed, self-actualized faith and purpose.

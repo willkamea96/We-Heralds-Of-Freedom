@@ -223,25 +223,29 @@ still default to "inscrutable"?
 interiority when it appears too often. Once or twice establishes the dynamic; repeated use suggests
 the author is deferring the characterization work.
 
-### 4c. Absence from the Epilogue
+### 4c. Presence in the Epilogue
 
-Marelyn does not appear in the Epilogue ("Magic Is Self-Actualization"). The Epilogue focuses
-entirely on Carden supervising the reconstruction labor crew and coaching Renee Rose, with no
-reference to Marelyn's presence or role in the rebuilding program she co-designed.
+Marelyn appears in both of the Epilogue's scenes. At the Chartwell Street construction site she
+argues with a municipal contractor over inflated invoices for glass sealants and weatherproof
+surface-resins, pauses to watch the lattice-hoisting, and exchanges a wink and a smile with Carden.
+In the domestic closing scene she practically inhales Carden's mutton curry ("This is sublime"),
+scolds him for staring at their flat's peeling wallpaper ("Stop it… Enjoy what you made instead"),
+reads closing stock-prices while Carden massages her knotted shoulders, and falls asleep in his
+arms.
 
-This is a significant omission for a character whose arc culminated in becoming Carden's co-equal
-partner in the Windbury reconstruction (Ch8). The Ch8 text explicitly establishes that Carden and
-Marelyn will co-run the program ("Marelyn and I will"), and Horace hires them jointly. The Epilogue
-then depicts the program in operation without its co-founder.
+This presence honors the arc the Ch8 proposal established. Marelyn is shown exercising the
+professional competence (invoice scrutiny, stock-price monitoring) and domestic partnership
+(shared meals, shared sleep in reduced quarters) that her Ch7 transformation made possible. The
+Epilogue's title ("Magic Is Self-Actualization") now applies visibly to both characters: Carden's
+self-actualization is dramatized through his mentoring of Renee and his Zeal Magic, while Marelyn's
+is dramatized through her active role at the site and her contented inhabitation of the life they
+chose.
 
 **Industry context**: In character-driven novellas, editors expect the resonant ending to honor
-the arcs the story has built. The standard specifies that "the reader must feel the protagonist has
-changed or arrived somewhere meaningful," but in a novella that has invested significant page time
-in a supporting character's transformation, the supporting character's absence from the resolution
-can read as an unintentional oversight rather than a deliberate choice. This is particularly acute
-here because the Epilogue's title ("Magic Is Self-Actualization") thematically describes Marelyn's
-arc as well as Carden's — she self-actualized through her Ch7 choices — yet only Carden's
-self-actualization is dramatized.
+the arcs the story has built. Marelyn's Epilogue presence satisfies this expectation — the co-equal
+partner from Ch8 is shown co-running the program, and the domestic scene gives the marriage arc a
+closing image that parallels and completes the Ch4 "falling asleep in bed with Marelyn in his arms"
+moment under changed circumstances.
 
 ### 4d. The Purse Motif: Strong but Unevenly Closed
 
@@ -304,7 +308,7 @@ slightly undermines the reader's confidence in that distinctiveness.
 |---|---|---|
 | **Physical-signal repetition** | Moderate | Hand-clenching and green-eyes descriptors risk predictability at novella compression |
 | **"Inscrutable" overuse** | Low–Moderate | Functions well early; persists past its structural usefulness |
-| **Epilogue absence** | High | Co-equal partner in the Ch8 resolution is absent from the Epilogue's depiction of that resolution in action |
+| **Epilogue presence** | — | Resolved: Marelyn appears in both Epilogue scenes (construction site and domestic closing) |
 | **Purse-motif continuity** | Moderate | The indigo purse's reappearance in Ch8 after the Ch7 sell-off is either an unresolved distinction or a continuity error |
 | **Narrated voice dependency** | Low | Carden's interpretive framing occasionally over-mediates Marelyn's own dialogue |
 
@@ -318,12 +322,13 @@ dramatic power rather than treating it as a handicap. The Ch7 dinner scene, buil
 dramatic irony, is the kind of emotionally intelligent scene construction that upmarket editors and
 agents look for.
 
-The primary risk is the Epilogue's omission of Marelyn from the program she co-created. In a
-character-driven novella that has earned the reader's investment in a supporting character's arc,
-the ending must honor that investment or deliberately and visibly subvert it. The current Epilogue
-does neither — Marelyn simply does not appear — which may leave an upmarket reader with the
-impression that the narrative reverted to treating the marriage as Carden's subplot rather than a
-co-equal thematic strand. This is the single most consequential craft note in this assessment.
+The former primary risk — Marelyn's absence from the Epilogue — has been resolved. The revised
+Epilogue includes Marelyn in both scenes: at the construction site exercising professional
+competence (confronting a contractor over inflated invoices) and in the domestic closing scene
+(the mutton curry, the wallpaper exchange, the stock-prices, falling asleep together). The
+Epilogue now honors her arc by showing the co-equal partnership from Ch8 as lived daily reality.
+The remaining craft notes (physical-signal repetition, "inscrutable" overuse, purse-motif
+continuity, narrated voice dependency) are all at moderate or low risk levels.
 
 ---
 

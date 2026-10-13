@@ -222,7 +222,8 @@ here as candidates for the author to add if the glossary is expanded in a later 
   the in-text name for what the glossary's abstract "Calling" system defines.
 - **Black Hounds** — the 309th Infantry Regiment / 8th Infantry Division's nickname and matching
   wrist-tattoo insignia (a snarling black hound), shared by Carden and Horace Livingstone; later also
-  given to Renee Rose upon her apparent recruitment (Epilogue).
+  shared by Renee Rose, who wears military fatigues as a Black Hounds private in the Epilogue (the
+  tattoo itself is not observed on-page in the Epilogue).
 - **Blue Kingfishers** — the Fifth Marine Regiment's nickname and tattoo insignia, Roger Baker's old
   unit.
 - **Essexian Church** — the institution/rite associated with Saint Alfred's teachings, named when

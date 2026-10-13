@@ -187,7 +187,7 @@ In the middle of autumn, with only a handful of fluttering orange leaves left on
 
 “What brings you over?” Carden asked as he poured water from a decanter into two clear glasses.
 
-Edward blinked at the water and then said, “Apologies, I suppose.”
+Horace blinked at the water and then said, “Apologies, I suppose.”
 
 Carden paused until water overflowed the glass he was pouring. Carden swore, wiped the spill with a rag, and offered the other glass to Horace. It took everything for his trembling hand not to spill the glass.
 

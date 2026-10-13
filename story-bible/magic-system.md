@@ -53,7 +53,7 @@ or shown in use in the read chapters:
 | Atmospheric Magic | Conjures storm-cover at supernatural speed and scale ("the work of Imperial Demigods") | Imperial forces (Ch3, Ch5) |
 | Shadow Magic | A ring-shaped Magic Artifact grants entry to the formless "Shadow World," a pocket space viewed as a dark mirror beneath the real one | Julian Oakmoore (via artifact, Ch5) |
 | Mitotic Magic | Rapid wound-healing (closes a deep neck cut in about a minute) | An enslaved Elf healer at the Exchequer infirmary (Ch5) |
-| Empowerment Magic / Enchanting Magic | Used together in construction labor: orange-haired Elves toss and catch large tempered-glass panes without breaking them (Empowerment), sky-blue-haired Elves meld the panes onto a steel lattice with bare hands, chisels, and files (Enchanting). The lattice itself is hoisted by a human work-crew using cranes. | Enslaved Elves (Epilogue) |
+| Empowerment Magic / Enchanting Magic | Used together in construction labor: orange-haired Elf slaves crawl onto the lattice and with their Empowerment Magic gracefully catch large tempered-glass panes tossed up by their compatriots; sky-blue-haired Elf slaves then seal the panes onto the lattice with their conventional tools and generous application of Enchanting Magic. The lattice itself is hoisted by a cranking, biofuel-engine-powered crane. | Enslaved Elves (Epilogue) |
 
 ## Tiers, Callings, and Self-Actualization
 - **Tier** — discrete power levels applying to Arcanists, Profaners, and all Aether-derived creature
