@@ -131,7 +131,7 @@ That last part, Carden and Marelyn came up with. Perhaps Annie, Roger, and the r
 
 Carden shook his head. “These are people pushed to desperation because they’ve lost livelihoods, not pathological convicts.”
 
-*At least, I hope **we already** arrested all the pathological ones.*
+*At least, I hope we already arrested all the pathological ones.*
 
 “Marelyn and I are asking City Hall to extend grace, indebt said suspects to the hand that feeds them, and incentivize them to atone for their crimes.” Carden replaced Horace’s mug of coffee with a glass of clear water. Carden then pointed at Horace’s Black Hounds wrist-tattoo with his eyes. “Remember our time on the mainland? Punitive justice only went so far to pacify a hostile populace. At a certain point we needed to transition to rehabilitative justice to properly secure local collaboration.”
 
@@ -145,13 +145,13 @@ No turning back.
 
 Horace frowned at Carden. “Excuse me?”
 
-Carden wrapped his arm around a sheepish Marelyn’s shoulder and grinned at Horace. “Marelyn and I are currently unemployed. We do need to eat, and we are familiar with money and government.”
+Carden wrapped his arm around a sheepish Marelyn’s shoulder and grinned at Horace. “Marelyn and I are currently unemployed. We do need to eat, and we are familiar with money and government. We’d be happy to work under you as civil servants and manage this initiative.”
 
 Carden leaned forward and gestured at the bags under Horace’s eyes. “Why not offer our services to a friend in need?”
 
 Horace tilted his chair back on its two rear-legs and roared with laughter.
 
-“Carden, you scallywag!” Horace wagged a finger at Carden. “How dare you ride on the coattails of your selfless friends to sneak a job application in!”
+“Carden, you scallywag!” Horace wagged a finger at Carden. “How dare you and Marelyn ride on the coattails of your selfless friends to sneak job applications in!”
 
 Horace’s mirth faded a touch and he turned to Marelyn. “But, Marelyn, why would you stoop to such work? I couldn’t possibly allow a woman from old nobility to muck with the masses, nor should you be seen doing so.”
 
@@ -166,4 +166,40 @@ Horace briefly blushed but then regarded Carden and Marelyn with a very sober ex
 Horace rubbed Carden and Marelyn’s shoulders in a strong grip.
 
 “Welcome to the trenches. Have fun.”
+
+After Carden and Marelyn signed their employment contracts with Horace, they took their rented carriage to an older-looking block of flats downtown in the late afternoon. Annie and Roger showed the fifth-story flat off to Carden and Marelyn while the four Bakers teenagers shuttled Carden and Marelyn’s trunks in. The place could have been better.
+
+“We’ve tidied the place up as best we could,” Roger said as he ran a hand along one of the walls. Carden curled his lip at the peeling wallpaper. Thank the Father though he neither sniffed nor spotted mold or mildew underneath. Roger shot a complicated smile when Carden said nothing and said, “But this was already an old flat when we first got it twenty-some years ago.”
+
+Annie walked Marelyn over to the curtained double-bed at the corner and patted the mattress to show its springiness. Annie said, “We replaced all the furniture just for you both, so don’t worry about that.”
+
+Marelyn laid a hand on Annie’s shoulder and said, “Thank you.”
+
+“The building itself is sound,” Roger said and tapped the walls which returned solid *thumps*. “You’ll just have to put up with the fact it’s old.”
+
+“But it has showers and piped hot water!” Annie added with a wide smile and popped open the washroom’s creaking door.
+
+Carden filed age as the least of this flat’s problems. This place compressed bedroom, living-room, dining-room, kitchen, and pantry into *one* common living space. Practically reduced individual privacy to just the washroom. By his estimate, this unit probably spanned less than half the size of his old civil-service flat. No wonder Annie and Roger moved out as soon as they welcomed their first child. He and Marelyn would have to learn to be a lot more comfortable with each other in such intimate space.
+
+Carden glanced at Marelyn. Although Marelyn’s face looked cordial before Annie and Roger, her smile lingered even when Annie and Roger turned away.
+
+*I suppose that won’t be such a bad thing.*
+
+“Thank you,” Carden finally said and patted Roger’s arm. “We appreciate it, truly.”
+
+Roger shook his head with a smile while Annie abruptly squeezed Carden in a hug. “No, thank you. I can’t believe you two convinced Horace Livingstone.”
+
+“This is the least we can do for you, Carden, Marelyn. You both are family now.”
+
+Roger hugged Marelyn and said, “If either of you need anything, you know where to find us.”
+
+“Just don’t forget rent,” Roger said and Marelyn slapped the man’s arm with a laugh.
+
+When the Bakers finally left, Carden and Marelyn stood at the center of their new flat. Carden wrapped his arm around Marelyn’s hip and pressed her tight against him. She leaned her cheek on his shoulder.
+
+“We’ll make this work.”
+
+Carden flinched and turned to Marelyn. The wide-eyed look she gave back confirmed it. How impeccable they said those words together without meaning too.
+
+Carden and Marelyn laughed and finally started unpacking their things into their new home.
 

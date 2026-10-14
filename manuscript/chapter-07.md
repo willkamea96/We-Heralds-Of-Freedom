@@ -83,7 +83,7 @@ A lot more people clamored the pews today than the last time Carden visited with
 
 A scroll that absolutely thrummed with a tiny pulse of divinity.
 
-*Could it be**?*
+*Could it be?*
 
 Carden took a seat on the middle-row’s outer edge, beside a bearded, middle-aged man dressed in rough workman overalls. The man clutched an empty alms bowl in restless hands. Another victim, it seemed, of the deteriorating economy. Carden fished out several one-*cone* coins and slipped them into the alms bowl.
 
@@ -123,14 +123,14 @@ Reassurance.
 
 Carden placed both hands on the *Scripture* and no force slammed him or whisked him away to realms unknown. Just a thin, ephemeral male voice that spoke from inside him as his eyes followed the glowing Arcane Tongue runes.
 
-“*What father when his son asks for bread gives him a snake?**  
-What mother when her daughter asks for counsel gives her rebuke?**  
-If even your parents in this world know what is good for you,**  
+“*What father when his son asks for bread gives him a snake?  
+What mother when her daughter asks for counsel gives her rebuke?  
+If even your parents in this world know what is good for you,  
 how much more your Father above who sees all?*”
 
 Carden pulled his hands back with featherlight gentleness.
 
-“Did Saint Alfred write this?” Carden asked the priest. To hear words from such a man, even if only through *Scripture*,* *Carden could weep. After all, Saint Alfred vanished from the face of the world more than five-decades ago during Alfainia’s liberation from Imperial occupation. Ostensibly because he felt betrayed Alfainia turned to the God of War for its freedom. No other chance to find the man’s words. 
+“Did Saint Alfred write this?” Carden asked the priest. To hear words from such a man, even if only through *Scripture*, Carden could weep. After all, Saint Alfred vanished from the face of the world more than five-decades ago during Alfainia’s liberation from Imperial occupation. Ostensibly because he felt betrayed Alfainia turned to the God of War for its freedom. No other chance to find the man’s words. 
 
 The priest shook his head and said, “No. Alfred Essex was but the humble messenger. He received this directly from the Father and bequeathed it to us when this cathedral was first built.”
 
@@ -222,7 +222,7 @@ Funny, the form triggered the same emotion in Carden as reading the morning pape
 
 Divorce papers with Marelyn’s signature on it.
 
-Carden went to Marelyn’s study and found it unlocked. He cracked it open and turned on the lights. The wall that housed Marelyn’s collection of purses stood immaculate. Even the adhesive shelves that displayed the purses vanished. Someone even touched up with new paint the scuff marks those adhesive shelves would have left behind when peeled.
+Carden went to Marelyn’s study and found it unlocked. He cracked it open and turned on the lights. The wall that housed Marelyn’s collection of purses stood immaculate. Even the adhesive shelves that displayed the purses vanished. Someone even touched up with new paint the scuff marks those adhesive shelves would have left behind when peeled off.
 
 Same with the study’s bookshelves, drawers, and trunks where Marelyn stored her things. Carden went to the bedroom and found the same. His things neatly folded and stacked as if Marelyn helped him pack. But her things, from clothes to sheets to accessories. All gone.
 
@@ -274,9 +274,9 @@ Carden ate and everything tasted so bland with all this anxiety clogging his sto
 
 Carden forced himself to look Marelyn in the eye for this.
 
-“Lovely, in fact!” Marelyn beamed as she scarfed down the risotto. “I got a lovely deal for all my purses.”
+“Lovely, in fact!” Marelyn beamed as she scarfed down the risotto. “Packing our things went faster than I expected. And I got a lovely deal for my purses.”
 
-A lovely deal for—wait… what?
+Packing *our* things. A lovely deal for—wait… what?
 
 Carden blinked at Marelyn, wondering if he’d finally gone stark raving mad under catastrophe.
 
@@ -298,13 +298,13 @@ Marelyn’s cheerful countenance morphed into a deep scowl. “Why in the Father
 
 Carden dropped his utensils with a loud *clang*. Nothing made sense.
 
-“Last night! You just locked yourself in your study and said nothing at all. You even brought home unsigned divorce papers last night. What else was I supposed to think?”
+“Last night! You just locked yourself in your study and said nothing at all. Yesterday you brought home unsigned divorce papers. Today I came home to a flat scraped clean. What else was I supposed to think?”
 
 Marelyn’s lips opened and closed without any words and her eyes darted between Carden’s eyes and Carden’s chest. Finally, the smile on her wavered as if something fought to leave her lips.
 
 When Marelyn finally spoke, she said, “I’m so sorry. I was too devastated.”
 
-Marelyn set her utensils down, gripped the table’s edge, and inhaled deeply. A moment later her expression turned resolute and she pulled over her disinheritance papers. “From the moment father told me what happened, my heart already knew what we should do.”
+Marelyn set her utensils down, gripped the table’s edge, and inhaled deeply. A moment later her expression turned resolute and she pulled over her disinheritance papers. “From the moment our fathers told me what happened yesterday, my heart already knew what we should do.”
 
 Marelyn pulled over her blue purse next and clenched the straps with both hands until her knuckles whitened. “Except it wasn’t ready yet for the consequences.”
 
@@ -316,7 +316,7 @@ Marelyn let go of the purse and clasped her hands as if in prayer. She pressed h
 
 “We made the right choice.”
 
-Marelyn’s nose reddened and she sniffled. “And I wasn’t ready to face reality. I’m sorry I worried you. I’m so sorry, Carden, I left you alone.”
+Marelyn’s nose reddened and she sniffled. “And I wasn’t ready to face reality. I’m sorry I worried you. Carden, I’m so sorry I left you alone.”
 
 Marelyn suddenly folded her hands over the table and gave Carden an unvarnished look at her face.
 
