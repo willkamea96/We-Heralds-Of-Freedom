@@ -1,13 +1,13 @@
-# Evaluation: Theme and Thematic Structure
+# Evaluation: Theme, Thematic Structure, and Worldbuilding
 
-Evaluation-only assessment of the manuscript's themes and thematic architecture, judged against the
-craft standards compiled in `reference/industry-standards.md` and cross-referenced against the
-manuscript text (Ch1–8, Epilogue) and the structural data in
+Evaluation-only assessment of the manuscript's themes, thematic architecture, and worldbuilding,
+judged against the craft standards compiled in `reference/industry-standards.md` and cross-referenced
+against the manuscript text (Ch1–8, Epilogue) and the structural data in
 `story-bible/narrative-structure-and-plot.md`.
 
 This assessment is diagnostic, not prescriptive. It identifies what the Draft Zero thematic structure
-achieves, where it meets or exceeds the upmarket adult character-driven fantasy standard, and where
-thematic risks exist at the craft level. It does not propose revisions.
+and worldbuilding achieve, where they meet or exceed the upmarket adult character-driven fantasy
+standard, and where risks exist at the craft level. It does not propose revisions.
 
 ---
 
@@ -468,7 +468,7 @@ systems that demand compliance?) rather than five independent inquiries.
 
 ---
 
-## 6. Summary Evaluation
+## 6. Summary Evaluation: Theme
 
 ### What Works at the Upmarket Standard
 
@@ -528,7 +528,495 @@ complicity — is precisely the readership most equipped to notice it.
 
 ---
 
+## 7. The Industry Standard for Worldbuilding in Upmarket Fantasy Novellas
+
+The craft standard for upmarket fantasy requires "worldbuilding integrated with character: the world
+exists to illuminate the characters' interiority, not as an end in itself. Exposition is earned
+through character need, not info-dumped" (`industry-standards.md` §4). The standard specifies
+"worldbuilding efficiency" as a key editorial evaluation criterion: "novellas cannot afford the
+expansive worldbuilding runway of a novel. The world must feel lived-in from the first scene,
+revealed through action and dialogue rather than exposition blocks" (§4.3). The positioning notes
+(§6) identify the Arcane Tongue truth-forcing conceit as "the kind of worldbuilding-as-metaphor that
+distinguishes upmarket from commercial fantasy."
+
+These criteria establish three questions this evaluation must answer:
+
+1. Does the manuscript construct a world that feels lived-in and internally consistent?
+2. Is that world delivered efficiently — through action and dialogue rather than exposition blocks?
+3. Does the worldbuilding serve character and thematic purposes rather than existing as an end in
+   itself?
+
+---
+
+## 8. Worldbuilding Identification: What the Manuscript Builds
+
+The manuscript constructs a secondary world across seven interconnected systems. Each is identified
+below from textual evidence in the manuscript chapters and cross-referenced against the structural
+data in the story bible.
+
+### 8a. Political and Governmental Systems
+
+The manuscript establishes a multi-layered political architecture:
+
+- **Alfainia**: A constitutional Commonwealth with a Parliament and a Prime Minister exercising
+  executive authority (ch01:158, ch07:4–14). The civil service — specifically the Exchequer —
+  functions as the administrative apparatus, with tax policy as its primary mechanism of governance.
+  The national identity is tied to the God of War's dispensation: "Hail to thee, Heralds of
+  Freedom!" (ch01:4).
+- **The Imperium Divinus**: An imperial power governed by the Creator's religious authority. Its
+  political structure is revealed through military capability (the Imperial flotilla, ch03:116–130)
+  and colonial legacy (the Winston family's presence in Alfainia, ch04:52) rather than through
+  direct exposition of its governance.
+- **The Dominions**: A system of allied polities referenced through military alliance and diplomatic
+  structures. The Dwarf-Human compact (ch01:4–14) establishes Alfainia's alliance framework; the
+  Dominions' broader political character is indicated through shared strategic concerns rather than
+  institutional detail.
+- **The Sarhese**: An adversarial power possessing Space Magic and Gravitational Magic capabilities,
+  establishing a three-way geopolitical tension alongside Alfainia and the Imperium (ch03:130–142).
+
+The political worldbuilding is delivered through Carden's professional position. As a senior tax
+official, his knowledge of government structure is occupational rather than expository — the reader
+learns about Alfainia's political machinery because Carden works within it.
+
+**Assessment**: The political worldbuilding is proportional to the novella's needs. Alfainia's
+internal structures receive detailed treatment (Parliament, Exchequer, tax system, Prime Minister's
+authority) because the protagonist works within them. The Imperium Divinus is rendered through its
+effects on Alfainian characters rather than through direct exposition of its governance. The Sarhese
+and the Dominion system remain at the periphery. This is appropriate for a single-POV novella: the
+reader knows what Carden knows, and Carden's professional expertise naturalizes the domestic
+political detail while leaving external powers sketched at the level his perspective warrants.
+
+### 8b. Religious and Theological Architecture
+
+The manuscript constructs a three-deity theological structure:
+
+- **The God of War**: Alfainia's patron deity, whose Scripture commands war as divine mandate
+  (ch01:134–138). The national ritual ties freedom to this deity's dispensation. The God of War's
+  relationship with Mankind establishes the theological basis for Alfainia's military culture and its
+  alliance system.
+- **The Creator**: The Imperium Divinus's deity, whose Scripture denies Alfainia's existence ("There
+  is no such thing as Alfainia," ch05:84–96) and demands submission. The Creator's faith is carried
+  into Alfainia through colonial missionaries — Julian and Jane Winston's 25-year conversion
+  campaign (ch04:100–104) — and retained by some Alfainian families (Charles Winston's pro-Imperium
+  views, ch04:168–178). The hidden Creator shrine at the Oakmoore estate, with its golden
+  eighteen-branched tree (ch04:80–96), establishes the Creator's worship as a clandestine presence
+  within Alfainia.
+- **The Father**: The deity Carden ultimately embraces, whose Scripture offers parental love without
+  condition — "What father when his son asks for bread gives him a snake?" (ch07:126–129). Saint
+  Alfred the True Knight provides a model of faith expressed through integrity and service
+  (ch07:191–197).
+
+The Scriptures function as embedded documents: each appears as a text within the narrative that
+characters encounter and react to. The theological architecture is delivered through the
+worldbuilding convention of Scriptural quotation rather than through narratorial explanation.
+
+**Assessment**: The three-deity structure is the manuscript's most tightly constructed worldbuilding
+element alongside the Arcane Tongue. Each deity maps to a political faction (Alfainia, the Imperium,
+the Father's followers), a moral orientation (military sovereignty, colonial submission, personal
+integrity), and a stage in Carden's faith arc. The theological worldbuilding earns its space because
+it is inseparable from the protagonist's internal transformation — the question of which god to serve
+is the question of what kind of person to be.
+
+### 8c. Magic System Architecture
+
+The manuscript presents two parallel magic systems — Arcane and Profane — with the Arcane system
+receiving active narrative treatment and the Profane system existing only in reference.
+
+**Arcane Magic** (demonstrated on-page):
+
+- **Arcane Tongue**: A truth-enforcing language only Arcanists can speak and understand (ch01:140).
+  Demonstrated through Scripture encounters (Ch1, Ch5, Ch7), interpersonal confrontation (the
+  Carden–Julian exchange, ch05:146–176), and creedal declaration (ch07:191–197).
+- **Zeal Magic**: Faith-derived power used for morale influence. Demonstrated through Laplace's
+  subordination of a crowd (ch02:30–38), Carden's confrontation with Julian (ch05:146–152), and
+  Carden's encouragement of reconstruction volunteers (Epilogue:14–16).
+- **Law Magic**: Used for interrogation and compulsion (ch03:56–76).
+- **Armaments Magic**: Julian manifests full-plate armor (ch05:154–160).
+- **Shadow Magic**: An artifact creates access to the Shadow World (ch05:62–80).
+- **Space Magic / Gravitational Magic**: Sarhese fleet capabilities (ch03:130–142).
+- **Atmospheric Magic**: Naval-scale weather manipulation (ch03:140–142).
+- **Mitotic Magic**: Healing, performed by an enslaved Elf (ch05:200).
+- **Empowerment / Enchanting Magic**: Skilled construction labor, performed by enslaved Elves
+  (Epilogue:8–12).
+
+**The Tier / Calling / Self-Actualization progression**: The magic system includes a structured
+advancement from Tier (initial magical ability) through Calling (branch specialization) to
+Self-Actualization (full realization of magical potential). This progression is established through
+Carden's Epilogue narration (Epilogue:14–18) and provides the worldbuilding framework for his
+professional transformation from military Arcanist to community builder.
+
+**Profane Magic** (referenced only): The story bible documents a parallel Profane magic system, but
+no Profane practitioner appears on-page. The absence is consistent with Carden's single-POV
+perspective — as an Arcanist, his encounters are with the Arcane system.
+
+**Assessment**: The magic system's worldbuilding strength is its integration with narrative action.
+Each Branch appears on-page because a character uses it for a purpose the narrative requires — there
+is no magic-system exposition for its own sake. Ten named Branches demonstrated across the narrative
+create a sense of magical breadth without taxonomic explanation. The Tier/Calling/Self-Actualization
+progression is introduced at the moment it becomes narratively relevant (the Epilogue's
+self-actualization scene) rather than front-loaded as system architecture.
+
+### 8d. Peoples and Social Hierarchy
+
+The manuscript presents three peoples:
+
+- **Humans (Mankind)**: The dominant civilization, designated as "the Father's Heralds of Freedom."
+  Humans occupy all positions of political, religious, military, and economic authority in the
+  narrative. Carden, Marelyn, and the entire named cast are Human.
+- **Dwarves**: Allied with Humans through the Dwarf-Human compact established in Ch1's Investiture
+  ritual (ch01:4–14). The compact is presented through its ceremonial function — Dwarves participate
+  in Alfainia's national ritual as partners. No named Dwarf character appears.
+- **Elves**: Present exclusively in enslaved roles. Three instances appear: a slave-tattooed Elf
+  woman observed during the Law Magic interrogation (ch03:76), an enslaved Elf healer treating
+  Carden's wound (ch05:200), and enslaved Elves performing skilled construction labor under
+  Carden's supervision (Epilogue:8–12). No named Elf character appears. The Elf presence is
+  functional (healing, construction) rather than characterological.
+
+The manuscript establishes social stratification within the Human population through character
+interaction: aristocratic families (the Oakmoores, the Winstons), professional civil servants
+(Carden, Edward Cook), military officers (Laplace, Horace Marsh), religious figures (Annie), and
+laboring populations (soup-kitchen lines, ch02, ch04).
+
+**Assessment**: The social worldbuilding is detailed within the Human stratum — class distinctions,
+professional hierarchies, and family structures are rendered through character interaction and
+environmental detail. The Dwarf and Elf peoples are functionally present but characterologically
+absent: no Dwarf or Elf has a name, a perspective, or an agency within the narrative. This is
+consistent with the single-POV constraint but creates a worldbuilding gap that intersects with the
+thematic risk assessed in §5a.
+
+### 8e. Economic and Military Infrastructure
+
+The manuscript constructs economic and military worldbuilding through Carden's professional
+expertise:
+
+- **Tax system**: The central economic worldbuilding mechanism. Tax exemptions, audit procedures, and
+  government revenue are presented through Carden's civil-service work (ch01:158, ch06:34,
+  ch07:4–14). The tax system is not described as worldbuilding; it is the medium through which Carden
+  exercises professional authority.
+- **Economic decline and reconstruction**: Rendered through environmental storytelling — decaying
+  countryside (ch02), soup-kitchen lines (ch02, ch04), shuttered businesses (ch08), and the
+  construction site's rebuilding effort (Epilogue). The economic arc (decline → crisis →
+  reconstruction) tracks across the full narrative.
+- **Military infrastructure**: The Imperial flotilla (Dominus-class supercarriers, Princep-class
+  cruisers, ch03:116–130), the rearmament parade (ch06), the Alfainian aerial fleet
+  (Epilogue:38–42), and the Sarhese fleet (ch03:130–142). Military worldbuilding is delivered
+  through Carden's former military career — his assessments carry technical specificity because he
+  is a former military officer.
+- **The welfare-for-volunteering program** (ch08:126) and the transformation from punitive to
+  rehabilitative justice (ch08:136): An alternative economic model that emerges from the same
+  institutional competencies that once served extraction.
+
+**Assessment**: The economic worldbuilding is the manuscript's most naturalistic system. Carden's
+tax-official expertise makes his knowledge of government finance and institutional structure
+occupational rather than expository. The military worldbuilding benefits similarly from his military
+background. Both systems feel authoritative because the POV character has professional reason to know
+what he knows.
+
+### 8f. Geography and Environment
+
+The manuscript establishes geography through movement and environmental observation:
+
+- **Eyael**: The world's name. Referenced but not described at the planetary level.
+- **Pértus** and **Norden**: Two continents. Pértus hosts the main action; Norden is referenced
+  through the Imperium Divinus's territorial reach.
+- **Evania**: An island containing three regions (Nordnir, Ostnir, Vastnir). Alfainia occupies
+  Evania.
+- **Portsmouth**: The capital city, referenced as the seat of government.
+- **Windbury**: The provincial capital where the narrative is set. Rendered through environmental
+  detail: train approach (ch02), town square with corpses (ch03), soup kitchens (ch02, ch04),
+  shuttered businesses (ch08), construction site (Epilogue).
+- **Oakmoore estate**: The Winston family's country property, rendered across Ch4 — Imperial
+  iconography, a hidden Creator shrine with a golden eighteen-branched tree (ch04:80–96).
+- **The Shadow World**: A magical dimension accessed through a Shadow Magic artifact (ch05:62–80).
+
+**Assessment**: The geographic worldbuilding follows the novella's scale constraints. Windbury is
+rendered with lived-in environmental specificity; the broader geography (continents, the Imperium's
+territory, the war's global reach) is indicated through references and newspaper headlines
+(Epilogue) rather than geographic exposition. The world feels larger than the novella's frame
+without requiring the reader to absorb a full continental geography.
+
+### 8g. Technology and Material Culture
+
+The manuscript establishes a mixed industrial-magical technology level:
+
+- **Industrial elements**: Trains (ch02), telegraphs (ch03, ch05), newspapers (ch03, Epilogue),
+  biofuel engines (Epilogue:4–6), fighter planes and an aerial fleet (Epilogue:38–42).
+- **Magical elements**: Ten named Magic Branches function as the world's advanced technology
+  equivalent — healing, construction, combat, weather control, and spatial manipulation are
+  performed through magic rather than mechanical or electronic means.
+- **Material culture**: Food (mutton curry, shepherd's pie, beef stew, lamb roast — the cooking
+  motif establishes a specifically British-coded culinary culture), domestic objects (wedding rings,
+  pendants, wallpaper), institutional objects (paperwork, exemption certificates, government
+  documents).
+
+The biofuel-engine crane in the Epilogue (Epilogue:4–6) is a single detail that performs significant
+worldbuilding work: it establishes that the world's industrial development follows its own trajectory
+(biofuel, not fossil fuel or electricity) alongside magical construction labor.
+
+**Assessment**: The technology level is internally consistent — an industrial society augmented by
+magic rather than replaced by it. The material culture details are specific enough to create texture
+without requiring explanation.
+
+---
+
+## 9. Worldbuilding Delivery Mechanisms
+
+The industry standard requires that novellas deliver worldbuilding "through action and dialogue
+rather than exposition blocks" because "novellas cannot afford the expansive worldbuilding runway of
+a novel. The world must feel lived-in from the first scene" (`industry-standards.md` §4.3).
+
+### How the manuscript delivers worldbuilding
+
+The manuscript uses five delivery mechanisms, each integrated with the narrative rather than appended
+as exposition:
+
+1. **Embedded documents** (the God of War's Scripture, the Creator's Scripture, the Father's
+   Scripture, two telegrams, newspaper headlines, the exemption/termination/disinheritance/divorce
+   paperwork). These documents perform double duty: they advance the plot while delivering
+   worldbuilding information about the political system, the divine hierarchy, and the Arcane
+   Tongue's truth-enforcing property. The reader learns about the God of War's relationship with
+   Alfainia not through exposition but through the text of a document Carden touches and reacts to.
+
+2. **Dialogue-embedded exposition** (Julian's hidden alcove and the Oakmoore family history, Ch4;
+   Charles Winston's pro-Imperium views, Ch4; Horace's explanation of his mayoral election, Ch3;
+   Edward's institutional logic, Ch1, Ch5, Ch7). The manuscript's most substantial worldbuilding —
+   the Oakmoore colonial history, the Winston family's conversion, the political structure of the God
+   of War's alliance with Alfainia — is delivered in scenes where characters have personal stakes in
+   the information.
+
+3. **Environmental storytelling** (the decaying countryside on the train, Ch2; the shrouded corpses
+   in Windbury Square, Ch3; the soup-kitchen lines, Ch2, Ch4; the rearmament parade, Ch6; the
+   shuttered businesses, Ch8; the construction site, Epilogue). The manuscript uses visual details to
+   communicate economic decline, military mobilization, and community fragmentation without
+   explanation.
+
+4. **The Arcane Tongue as structural worldbuilding**. The truth-enforcing language is not explained
+   in a worldbuilding paragraph; it is demonstrated through use. The reader learns that Arcane Tongue
+   compels truth because Carden's narration states it upon first encountering the Scripture
+   (ch01:140) and thereafter treats it as a given — every Arcane Tongue exchange carries the
+   structural guarantee that the speaker is sincere.
+
+5. **Carden's professional knowledge**. Carden's civil-service expertise (tax law, exemption
+   criteria, audit procedures) provides a naturalistic delivery mechanism for economic and
+   institutional worldbuilding. The reader learns about Alfainia's tax system, its government
+   structure, and its economic crisis through Carden's professional assessments rather than through
+   expository asides.
+
+### Assessment
+
+Worldbuilding efficiency is one of the manuscript's structural strengths. The five delivery
+mechanisms avoid the "exposition block" problem the industry standard identifies as disqualifying.
+The world feels lived-in from Ch1's opening ritual; by Ch2, the reader has absorbed the political
+structure, the divine hierarchy, the military system, and the economic crisis without a single
+paragraph of unattached exposition.
+
+The one area of structural note is the density of worldbuilding in Ch4 (the Oakmoore and Winston
+family visits), where two consecutive parlor scenes deliver substantial backstory (Julian and Jane's
+colonial history, the 25-year conversion campaign, Charles and Beatrice's pro-Imperium views). Both
+scenes are dramatically active — Julian reveals the hidden alcove; Charles scolds Marelyn; Carden
+demands an apology — but the cumulative information load is the manuscript's heaviest in a single
+chapter.
+
+---
+
+## 10. Worldbuilding-Character Integration
+
+The industry standard requires that "the world exists to illuminate the characters' interiority, not
+as an end in itself" (`industry-standards.md` §4). This section evaluates whether the manuscript's
+worldbuilding systems serve that criterion.
+
+Each of the seven worldbuilding systems identified in §8 is delivered through Carden's perspective
+and filtered through his occupational, military, and personal knowledge:
+
+- **Political systems** are experienced through Carden's civil-service position. Parliament and the
+  Exchequer are not described as institutions; they are the structures within which Carden works and
+  against which he ultimately acts.
+- **Theological architecture** is experienced through Carden's faith arc. The three Scriptures are
+  encountered as personal events — a ritual he participates in, a confrontation he survives, a
+  confession he makes — rather than as theological exposition.
+- **The magic system** is experienced through Carden's identity as an Arcanist. Zeal Magic is his
+  personal capability; the Arcane Tongue is the language in which he declares his convictions; other
+  Branches are encountered because the narrative brings him into contact with their practitioners.
+- **Social hierarchy** is experienced through Carden's class position and family relationships. The
+  Oakmoore aristocracy and the Winston colonial legacy are encountered at the family dinner table,
+  not through social commentary.
+- **Economic infrastructure** is experienced through Carden's professional expertise. Tax policy is
+  his daily work; economic decline is the crisis his exemptions are designed to address.
+- **Military infrastructure** is experienced through Carden's military background. His assessments
+  of the Imperial flotilla and the aerial fleet carry technical specificity because he is a former
+  military officer evaluating threats through professional knowledge.
+- **Geography and environment** are experienced through Carden's physical movement — train
+  journeys, walks through Windbury, visits to family estates — rather than through cartographic
+  description.
+
+**Assessment**: The worldbuilding-character integration meets the industry standard. No worldbuilding
+system exists as an end in itself; each is filtered through the protagonist's perspective and serves
+to illuminate his interiority — his professional competence, his military experience, his faith, his
+class position, and his emotional state. The world the reader absorbs is the world as Carden
+experiences it, which is the defining structural advantage of single-POV narration applied to
+worldbuilding. The only significant exception is the Elf slavery system, which is presented as
+worldbuilding backdrop rather than filtered through Carden's interiority — he observes it and
+benefits from it without integrating it into his self-understanding. Whether this is a deliberate
+characterization choice (a blind spot) or a worldbuilding element that has not yet been integrated
+with the character is the question identified in §5a and §12a.
+
+---
+
+## 11. Worldbuilding-as-Metaphor
+
+The positioning notes identify the Arcane Tongue truth-forcing conceit as "the kind of
+worldbuilding-as-metaphor that distinguishes upmarket from commercial fantasy"
+(`industry-standards.md` §6). This section evaluates the Arcane Tongue as a worldbuilding
+achievement distinct from its thematic function (assessed in §3a).
+
+The Arcane Tongue is not a decorative magic system; it is a worldbuilding element that functions as
+a formal condition for the narrative's central questions. Its truth-enforcing property creates
+consequences that extend beyond the magic system into every other worldbuilding domain:
+
+- **Political worldbuilding**: The distinction between Common Tongue (in which evasion is possible)
+  and Arcane Tongue (in which it is not) creates a political worldbuilding structure. Government
+  operates in Common Tongue; conviction operates in Arcane Tongue. The linguistic bifurcation
+  produces a world in which institutional power and personal integrity operate in different
+  registers — a worldbuilding condition that generates narrative conflict without requiring
+  exposition.
+- **Theological worldbuilding**: The three Scriptures are quotations in Arcane Tongue, meaning each
+  theological claim is subject to the truth constraint. The question of which God authored the
+  Arcane Tongue becomes a worldbuilding question — verifiable within the world's own formal
+  system — rather than merely a theological assertion.
+- **Colonial worldbuilding**: The Creator's Scripture denying Alfainia's existence is a claim made
+  within a truth-enforcing system. Colonial erasure thereby becomes a testable worldbuilding
+  proposition rather than a political assertion backed only by institutional authority.
+
+**Assessment**: The Arcane Tongue achieves the "worldbuilding-as-metaphor" quality the industry
+standard identifies as the distinguishing mark of upmarket fantasy. The truth-enforcing conceit is
+not merely a magic-system feature; it is a worldbuilding condition that generates narrative conflict,
+theological inquiry, and political structure simultaneously. This is the level of worldbuilding
+integration that positions the manuscript in conversation with titles like *Babel*, where language is
+similarly the locus of power, complicity, and resistance. The Arcane Tongue's worldbuilding function
+is evaluated at the thematic level in §3a; its structural delivery is assessed in §9 (mechanism 4).
+
+---
+
+## 12. Worldbuilding Risks
+
+### 12a. Elf Slavery as Unexamined Worldbuilding (High Risk — Cross-Reference §5a)
+
+The thematic risk assessed in §5a — the enslaved Elf labor contradiction — has a worldbuilding
+dimension. The Elf slavery system is presented as a functional worldbuilding element: Elves perform
+healing (ch05:200) and skilled construction labor (Epilogue:8–12). The slave-tattoo detail (ch03:76)
+establishes visual markers of the institution. However, the worldbuilding does not develop the
+system's institutional structure, its legal basis, its history, or its social mechanics. Elf slavery
+exists in the world as a given rather than as a constructed worldbuilding element whose origins,
+justifications, and implications are part of the world's architecture.
+
+In a manuscript whose worldbuilding is otherwise tightly integrated with character — where the tax
+system, the religious architecture, and the military infrastructure are all rendered through
+Carden's professional and personal knowledge — the Elf slavery system's treatment as unexamined
+backdrop is conspicuous. Carden's narration registers the Elves' presence and their magical
+capabilities but does not process the institution through the same moral and professional lens he
+applies to every other system of power the narrative presents.
+
+**Assessment**: High risk. The worldbuilding gap compounds the thematic risk: a manuscript whose
+central worldbuilding achievement is a truth-enforcing language presents a social institution
+(slavery) without subjecting it to the same scrutiny the worldbuilding applies to theological claims,
+political authority, and institutional complicity.
+
+### 12b. Profane Magic's Absence from Active Narrative (Low Risk)
+
+The story bible documents a full Profane magic system parallel to the Arcane system, but no Profane
+practitioner appears on-page. The Profane system's existence is part of the world's architecture; its
+absence from the narrative is consistent with the single-POV constraint — Carden is an Arcanist
+whose encounters are with the Arcane system.
+
+**Assessment**: Low risk. The absence is structurally justified by the POV constraint and does not
+create an inconsistency within the manuscript's own text. The Profane system is available for
+development in subsequent work without contradicting anything the manuscript establishes. The risk is
+limited to reader awareness: a reader encountering the term "Arcane" may infer the existence of a
+counterpart and find its absence notable, but the manuscript does not promise a Profane presence it
+fails to deliver.
+
+### 12c. Liberation Chronology Inconsistency (Low–Moderate Risk — Cross-Reference)
+
+Multiple references to Alfainia's liberation give conflicting timelines: "seventy-four-years ago"
+(ch01:52), "fifty, sixty years ago" (ch04:168), "the past fifty-four years" (ch04:170), "more than
+five-decades ago" (ch07:133), "more than a hundred years ago" (ch04:168). This inconsistency was
+identified in `reference/evaluation-narrative-structure-and-plot.md` at the structural level. At the
+worldbuilding level, the conflicting dates affect the reader's ability to construct a coherent
+historical timeline for the world's political development — specifically, the sequence from Imperial
+occupation through the nine-year occupation (ch05:128) to liberation and contemporary independence.
+
+**Assessment**: Low–moderate risk. The reader does not need a precise timeline to follow the
+narrative, but the inconsistency may undermine confidence in the world's historical reliability,
+which matters for a manuscript whose worldbuilding depends on institutional and historical detail.
+
+### 12d. Dominion System's Limited Development (Low Risk)
+
+The Dominions — Alfainia's alliance partners — are referenced as a political category but receive
+minimal worldbuilding treatment. Their number, political character, geographic distribution, and
+relationship to Alfainia are indicated rather than established. The Dwarf-Human compact provides a
+ceremonial frame for the alliance, but the Dominions as a political system remain at the periphery.
+
+**Assessment**: Low risk. The Dominion system's limited development is appropriate for a single-POV
+novella whose action is entirely domestic. The reader registers the existence of a broader alliance
+structure without needing its institutional detail. The risk is limited to the sense that the world's
+political architecture narrows abruptly beyond Alfainia's borders — but this narrowing is a
+structural consequence of the novella form and the single-POV constraint, not a worldbuilding
+failure.
+
+---
+
+## 13. Summary Evaluation: Worldbuilding
+
+### What Works at the Upmarket Standard
+
+| Dimension | Assessment |
+|---|---|
+| **Political systems** | Alfainia's internal governance (Parliament, Exchequer, tax system) is rendered through the protagonist's professional position; external powers are sketched at the level the single-POV perspective warrants |
+| **Theological architecture** | The three-deity structure maps to political factions, moral orientations, and stages of Carden's faith arc; delivered through embedded Scriptural documents rather than narratorial exposition |
+| **Magic system** | Ten named Branches demonstrated through narrative action rather than taxonomic exposition; the Tier/Calling/Self-Actualization progression is introduced at the moment of narrative relevance |
+| **Delivery mechanisms** | Five integrated mechanisms (embedded documents, dialogue-embedded exposition, environmental storytelling, Arcane Tongue demonstration, professional knowledge) avoid exposition blocks; the world feels lived-in from Ch1 |
+| **Worldbuilding-character integration** | Every worldbuilding system is filtered through the protagonist's perspective and professional knowledge; the world illuminates Carden's interiority rather than existing as an end in itself |
+| **Worldbuilding-as-metaphor** | The Arcane Tongue truth-enforcing conceit generates narrative conflict, theological inquiry, and political structure simultaneously; meets the upmarket standard that distinguishes literary from commercial fantasy worldbuilding |
+| **Geographic proportionality** | Windbury is rendered with lived-in specificity; the broader world is indicated through references and headlines at the appropriate scale for a novella |
+
+### What Requires Attention
+
+| Dimension | Risk Level | Nature |
+|---|---|---|
+| **Elf slavery as unexamined worldbuilding** | High | The Elf slavery system is presented as functional backdrop without worldbuilding examination of its institutional structure, history, or social mechanics — conspicuous in a manuscript whose other power systems receive thorough scrutiny |
+| **Liberation chronology** | Low–Moderate | Conflicting dates for Alfainia's liberation undermine the historical reliability of the world's political backstory |
+| **Profane Magic's absence** | Low | A full parallel magic system exists in the story bible but not on-page; consistent with the single-POV constraint but leaves a worldbuilding pillar undeveloped |
+| **Dominion system** | Low | Alliance partners are referenced but not developed; appropriate for the novella form but narrows the world's political architecture abruptly beyond Alfainia's borders |
+
+### Overall
+
+The worldbuilding of *We Heralds of Freedom* meets the craft expectations of the upmarket adult
+character-driven fantasy novella market. The manuscript constructs a secondary world across seven
+interconnected systems (political, theological, magical, social, economic/military, geographic, and
+technological), all delivered through the protagonist's professional expertise, military background,
+and personal experience rather than through exposition. The industry standard's three worldbuilding
+criteria — that the world feel lived-in, be delivered efficiently, and serve character rather than
+existing as an end in itself — are satisfied across every system.
+
+The Arcane Tongue is the manuscript's strongest worldbuilding asset, as it is its strongest thematic
+asset. The truth-enforcing conceit is not merely a magic-system feature but a worldbuilding condition
+that generates narrative conflict, theological inquiry, and political structure simultaneously.
+This is the "worldbuilding-as-metaphor" quality the industry standard identifies as distinguishing
+upmarket from commercial fantasy, and it is the worldbuilding element that most credibly supports the
+manuscript's comp positioning against titles like *Babel* and *Piranesi*.
+
+The single most consequential worldbuilding note mirrors the single most consequential thematic note:
+the Elf slavery system's treatment as unexamined backdrop. In a manuscript whose worldbuilding is
+otherwise tightly integrated with character — where the tax system, the religious architecture, the
+military infrastructure, and the magic system are all rendered through the protagonist's perspective
+and subjected to his moral scrutiny — the Elf slavery system's exemption from that scrutiny is
+the worldbuilding gap most likely to register with readers and editors in the upmarket fantasy
+market.
+
+---
+
 *Assessment compiled from a full sequential read of all manuscript chapter files (Ch1–8, Epilogue)
-cross-referenced against the craft standards in `reference/industry-standards.md` and the structural
-data in `story-bible/narrative-structure-and-plot.md`. Evaluation only; no manuscript changes
-proposed.*
+cross-referenced against the craft standards in `reference/industry-standards.md`, the structural
+data in `story-bible/narrative-structure-and-plot.md`, and the worldbuilding reference material in
+`story-bible/magic-system.md`, `story-bible/locations.md`, `story-bible/characters.md`, and
+`manuscript/glossary.md`. Evaluation only; no manuscript changes proposed.*

@@ -391,7 +391,7 @@ Edward presents the letter, Carden says "Termination" (ch07:157), Edward signs a
 dismissed" (ch07:203).
 
 This discrepancy has been identified in the prior structural evaluation
-(`reference/evaluation-narrative-structure-and-plot.md` §8d) as affecting the arc's narrative
+(`reference/evaluation-narrative-structure-and-plot.md` §7d) as affecting the arc's narrative
 meaning: termination communicates institutional rejection of the protagonist's principled stance,
 while resignation communicates voluntary departure. The Ch7 scene supports the termination reading,
 and the termination reading makes the arc structurally stronger.

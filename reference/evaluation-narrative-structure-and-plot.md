@@ -273,71 +273,13 @@ The remaining structural asymmetry is Ch8's complete silence. The reader has bee
 without acknowledgment, before returning in the Epilogue. Whether this single-chapter gap registers
 as a structural concern or as a natural character-focused interlude depends on editorial judgment.
 
-This asymmetry is assessed further in §8 (Identified Structural Risks).
+This asymmetry is assessed further in §7 (Identified Structural Risks).
 
 ---
 
-## 5. Worldbuilding Efficiency
-
-The industry standard requires that novellas deliver worldbuilding "through action and dialogue
-rather than exposition blocks" because "novellas cannot afford the expansive worldbuilding runway of
-a novel. The world must feel lived-in from the first scene."
-
-### How the manuscript delivers worldbuilding
-
-The manuscript uses five delivery mechanisms, each integrated with the narrative rather than appended
-as exposition:
-
-1. **Embedded documents** (the God of War's Scripture, the Creator's Scripture, the Father's
-   Scripture, two telegrams, newspaper headlines, the exemption/termination/disinheritance/divorce
-   paperwork). These documents perform double duty: they advance the plot while delivering
-   worldbuilding information about the political system, the divine hierarchy, and the Arcane
-   Tongue's truth-enforcing property. The reader learns about the God of War's relationship with
-   Alfainia not through exposition but through the text of a document Carden touches and reacts to.
-
-2. **Dialogue-embedded exposition** (Julian's hidden alcove and the Oakmoore family history, Ch4;
-   Charles Winston's pro-Imperium views, Ch4; Horace's explanation of his mayoral election, Ch3;
-   Edward's institutional logic, Ch1, Ch5, Ch7). The manuscript's most substantial worldbuilding —
-   the Oakmoore colonial history, the Winston family's conversion, the political structure of the God
-   of War's alliance with Alfainia — is delivered in scenes where characters have personal stakes in
-   the information.
-
-3. **Environmental storytelling** (the decaying countryside on the train, Ch2; the shrouded corpses
-   in Windbury Square, Ch3; the soup-kitchen lines, Ch2, Ch4; the rearmament parade, Ch6; the
-   shuttered businesses, Ch8; the construction site, Epilogue). The manuscript uses visual details to
-   communicate economic decline, military mobilization, and community fragmentation without
-   explanation.
-
-4. **The Arcane Tongue as structural worldbuilding**. The truth-enforcing language is not explained
-   in a worldbuilding paragraph; it is demonstrated through use. The reader learns that Arcane Tongue
-   compels truth because Carden's narration states it upon first encountering the Scripture
-   (ch01:140) and thereafter treats it as a given — every Arcane Tongue exchange carries the
-   structural guarantee that the speaker is sincere.
-
-5. **Carden's professional knowledge**. Carden's civil-service expertise (tax law, exemption
-   criteria, audit procedures) provides a naturalistic delivery mechanism for economic and
-   institutional worldbuilding. The reader learns about Alfainia's tax system, its government
-   structure, and its economic crisis through Carden's professional assessments rather than through
-   expository asides.
-
-### Assessment
-
-Worldbuilding efficiency is one of the manuscript's structural strengths. The five delivery
-mechanisms avoid the "exposition block" problem the industry standard identifies as disqualifying.
-The world feels lived-in from Ch1's opening ritual; by Ch2, the reader has absorbed the political
-structure, the divine hierarchy, the military system, and the economic crisis without a single
-paragraph of unattached exposition.
-
-The one area of structural note is the density of worldbuilding in Ch4 (the Oakmoore and Winston
-family visits), where two consecutive parlor scenes deliver substantial backstory (Julian and Jane's
-colonial history, the 25-year conversion campaign, Charles and Beatrice's pro-Imperium views). Both
-scenes are dramatically active — Julian reveals the hidden alcove; Charles scolds Marelyn; Carden
-demands an apology — but the cumulative information load is the manuscript's heaviest in a single
-chapter.
-
 ---
 
-## 6. Recurring Structural Devices and Verbal Echoes
+## 5. Recurring Structural Devices and Verbal Echoes
 
 The manuscript tracks seven recurring scene patterns and nine verbal echoes across the narrative.
 These devices serve as structural connective tissue, linking scenes across chapters and tracking the
@@ -413,7 +355,7 @@ architecture is generally valued.
 
 ---
 
-## 7. Plot Thread Management and Narrative Economy
+## 6. Plot Thread Management and Narrative Economy
 
 ### Plot thread management
 
@@ -496,14 +438,14 @@ The manuscript's narrative economy is strong. There is no section that reads as 
 that exists independently of the protagonist's arc, and no character who doubles another's function.
 The areas of potential concern — Ch2's length, Ch5's density, Ch6's parade compression — are the kind
 of granular allocation questions that arise in any novella at this scope. The more material
-structural-economy question is addressed in §8 below: whether the external-pressure thread's
+structural-economy question is addressed in §7 below: whether the external-pressure thread's
 narrative investment is proportional to its structural resolution.
 
 ---
 
-## 8. Identified Structural Risks
+## 7. Identified Structural Risks
 
-### 8a. External-Pressure Discontinuity
+### 7a. External-Pressure Discontinuity
 
 The war with Imperium Divinus provides the story's external pressure through three mechanisms
 (divine interventions, institutional demands, military escalation), all of which are active in every
@@ -540,7 +482,7 @@ the same: the Epilogue's war headlines and aerial fleet acknowledge the external
 without resolving it, placing the manuscript's resolution strategy closer to the comp's approach
 than the Ch8-only absence would suggest.
 
-### 8b. Dinner-Scene Structural Parallelism
+### 7b. Dinner-Scene Structural Parallelism
 
 Three consecutive chapters (Ch5, Ch6, Ch7) each contain a dinner scene in which Carden cooks,
 Marelyn arrives or is present, and the couple discusses the day's crisis or makes a consequential
@@ -566,7 +508,7 @@ advances the plot. A reader attuned to pattern may notice the formal repetition;
 recognition enhances or diminishes the experience depends on whether the reader reads the repetition
 as thematic or mechanical.
 
-### 8c. Ch3 Compression
+### 7c. Ch3 Compression
 
 Ch3 (2,010 words) carries the manuscript's most event-dense narrative across eight beats: telegram,
 cathedral, interrogation, classmates, flotilla, air-raid shelter, and morning telegram. The Imperial
@@ -586,7 +528,7 @@ character-driven structure, but an editorial assessment may find that the flotil
 benefit from additional space to allow the geopolitical escalation to register with the weight the
 subsequent chapters assume it carries.
 
-### 8d. Termination/Resignation Discrepancy
+### 7d. Termination/Resignation Discrepancy
 
 Ch7 dramatizes a termination: Edward offers the choice, Carden submits the signed termination
 letter, Edward signs and dismisses him. The scene is unambiguous. However, Ch8 uses the word
@@ -605,7 +547,7 @@ the civil service either way — but it touches the climactic scene's structural
 matters for a character-driven novella where the protagonist's relationship to institutional
 authority is the central question.
 
-### 8e. Liberation Chronology Inconsistency
+### 7e. Liberation Chronology Inconsistency
 
 Multiple references to Alfainia's liberation give conflicting timelines: "seventy-four-years ago"
 (ch01:52), "fifty, sixty years ago" (ch04:168), "the past fifty-four years" (ch04:170), "more than
@@ -620,7 +562,7 @@ resolved before acquisition.
 
 ---
 
-## 9. Summary Evaluation
+## 8. Summary Evaluation
 
 ### What Works at the Upmarket Standard
 
@@ -629,7 +571,6 @@ resolved before acquisition.
 | **Architecture** | Eight chapters plus a four-scene Epilogue; chapter-title system communicates structural information; no internal divisions interrupt the single-POV immersion |
 | **Chronological design** | Strictly linear, with clearly signaled time-skips; the year-long timeline is proportional to the novella format |
 | **Character-driven engine** | A three-axis internal transformation (faith, marriage, vocation) converging in a single climactic scene; the external conflict functions as pressure, not engine — precisely the structure the market values |
-| **Worldbuilding efficiency** | Five delivery mechanisms, all integrated with narrative action; no exposition blocks; the world feels lived-in from Ch1's opening ritual |
 | **Recurring structural devices** | Seven scene patterns and nine verbal echoes provide thematic continuity across the episodic chapter structure without requiring explicit authorial commentary |
 | **Plot thread management** | Eight threads, six resolved, two deliberately left open; no thread is introduced and abandoned |
 | **Narrative economy** | No section reads as padding; no character doubles another's function; the manuscript uses its ~28,000 narrative words without redundancy |
@@ -651,10 +592,10 @@ resolved before acquisition.
 The narrative structure of *We Heralds of Freedom* meets the craft expectations of the upmarket
 adult character-driven fantasy novella market. Its architecture — single POV, linear chronology,
 eight chapters plus a coda, three-axis internal engine with external pressure — is structurally sound
-and proportionally well-distributed across its ~28,000 narrative words. The manuscript's strongest
-structural achievement is its worldbuilding efficiency: five integrated delivery mechanisms create a
-lived-in secondary world without exposition blocks, meeting the industry standard's identification of
-worldbuilding efficiency as a key editorial evaluation criterion. The recurring structural devices
+and proportionally well-distributed across its ~28,000 narrative words. The manuscript's worldbuilding efficiency — assessed in detail in
+`reference/evaluation-theme-and-worldbuilding.md` — is a structural strength: five integrated
+delivery mechanisms create a lived-in secondary world without exposition blocks. The recurring
+structural devices
 (Scripture encounters, cooking scenes, verbal echoes, embedded documents) provide thematic continuity
 across the episodic chapter structure and demonstrate the kind of deliberate formal construction that
 upmarket editors and agents associate with literary sensibility in genre fiction.
