@@ -16,7 +16,7 @@ and the Epilogue). Every scene is filtered through his close third-person perspe
 experiences the story's events, other characters, and the world exclusively through Carden's
 perceptions, interpretations, and misinterpretations.
 
-This structural choice is correct for a character-driven novella at this word count (~27,371 words).
+This structural choice is correct for a character-driven novella at this word count (~28,066 words).
 The industry standard for novellas is one to three POV characters, with single-POV being "the most
 common and structurally cleanest form." Carden's sole-POV status creates the narrative intimacy the
 novella format demands: the reader is locked inside one consciousness across a year-long arc from
@@ -188,7 +188,7 @@ Carden's arc across the manuscript can be mapped as:
 | Choosing Marelyn | Ch4 | Sides with Marelyn against both families; throws away parents' ring; first quiet departure from Edward's instruction (Baker exemption); "Come eat" as care language |
 | Declaring faith, testing conviction | Ch5–6 | Declares faith in Arcane Tongue against Julian; signs coalition exemptions on Marelyn's advice; admits faith "not as wholehearted as what the Father would like"; "A good soldier picked his battles" |
 | Decisive choice | Ch7 | Chooses termination over annulling exemptions; cathedral encounter anchors faith; walks out "Free"; collapses when Marelyn's belongings are gone; cooks his grief; "Thank you" |
-| Reintegration | Ch8–Epilogue | Openly affectionate; co-designs welfare scheme; Zeal Magic for encouragement rather than intimidation; mentors Renee Rose; self-actualized Ideals Arcanist. Epilogue domestic scene with Marelyn: cooking mutton curry, shared domesticity, sleeping together in their small flat |
+| Reintegration | Ch8–Epilogue | Openly affectionate; co-designs welfare scheme; Zeal Magic for encouragement rather than intimidation; mentors Renee Rose (who now wears military fatigues and a Black Hounds tattoo on her right wrist). Epilogue domestic scene with Marelyn: cooking mutton curry, self-actualization conversation (the Zealot Calling whispers "*Stir the masses into action. Unite them behind a better future.*" but the breakthrough remains just out of reach), shoulder massage, sleeping together in their small flat. Morning scene: bruschetta breakfast, newspaper headlines announcing a world war across multiple continents, an Alfainian aerial-fleet overhead — "the fruits of Edward Cook's three years of high taxes" |
 
 ### 3b. Arc Assessment
 
@@ -216,7 +216,7 @@ The arc satisfies the character-driven structure standard on three axes:
    volunteering for the reconstruction he proposed. The Black Hound tattoo tracks this axis — worn
    first as a mark of obedience (Ch1–2), then as a credential for principled dissent (Ch4–5, Ch7),
    and finally as a shared symbol of rehabilitation (Epilogue, where Renee Rose wears military
-   fatigues as a Black Hounds private; the tattoo itself is not observed on-page in the Epilogue).
+   fatigues and sports a Black Hounds tattoo on her right wrist as a Black Hounds private).
 
 The three axes converge in Ch7's termination scene, where Carden's Arcane Tongue declaration
 simultaneously asserts his faith ("the Father teaches us love is the greatest commandment"), his
@@ -228,7 +228,7 @@ are known.
 
 **Assessment**: Meets the standard. The arc is proportionally distributed across the novella's nine
 sections, achieves emotional and thematic resolution, and its three-axis structure gives the
-single-POV protagonist enough internal complexity to sustain a ~27,000-word narrative. The
+single-POV protagonist enough internal complexity to sustain a ~28,000-word narrative. The
 convergence of faith, marriage, and vocation in a single climactic scene is the kind of "thematic
 depth embedded in the narrative rather than appended to it" the upmarket standard requires.
 
@@ -338,8 +338,13 @@ across seven chapters (Ch1–7) with only partial resolution in Ch8. The self-co
 *their*—friends" (Ch8) and the learned simplicity of "Thank you" (Ch7, after Marelyn's rebuke
 about his speech) signal growth. The Epilogue's domestic closing scene extends this resolution:
 Carden notices Marelyn's temper from the contractor confrontation, massages her knotted shoulders,
-and laughs at himself when she catches him staring at the peeling wallpaper — moments that
-demonstrate attunement to her emotional state rather than the misreading pattern of Ch1–7.
+and laughs at himself when she catches him staring at the peeling wallpaper. The self-actualization
+conversation extends this further: Marelyn asks how close he is to self-actualizing his Calling,
+Carden cleaves his mind and hears the Arcane's whisper ("*Stir the masses into action. Unite them
+behind a better future.*"), and Marelyn clasps his hand — "I have no doubt you'll crack it. You
+always do." The next morning, he makes bruschetta for breakfast and they read the war headlines
+together at the newsstands as an Alfainian aerial fleet glides overhead. These moments demonstrate
+attunement to her emotional state rather than the misreading pattern of Ch1–7.
 
 The risk is reader patience. Carden misreads Marelyn in Ch2 (the breakdown), Ch4 (the ring), Ch5
 (her compliment), and Ch7 (the dinner scene). Each misreading deepens the dramatic irony and pays
@@ -389,7 +394,7 @@ expectations of the upmarket adult character-driven fantasy market. His interior
 avoidant, somatically grounded — is the manuscript's narrative signature and its strongest asset at
 the query stage, where the industry standard identifies a distinctive voice as the first thing
 agents and editors evaluate. The three-axis arc (faith, marriage, vocation) provides sufficient
-internal complexity to sustain a ~27,000-word narrative within a single consciousness, and its
+internal complexity to sustain a ~28,000-word narrative within a single consciousness, and its
 convergence in the Ch7 termination scene achieves the "resonant ending" the standard requires.
 
 The primary risk is the unexamined enslaved Elf labor in the Epilogue. In a manuscript whose arc is

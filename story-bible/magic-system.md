@@ -66,7 +66,10 @@ or shown in use in the read chapters:
   Epilogue's title, "Magic Is Self-Actualization," and by Carden's own arc, in which his power
   (Zeal Magic persuasion/conviction) only strengthens once his convictions and actions align (his
   resignation on principle, Ch7, followed immediately by visibly greater confidence/competence
-  wielding Zeal Magic in the Epilogue).
+  wielding Zeal Magic in the Epilogue). In the Epilogue, Carden explicitly hears his Zealot
+  Calling's whisper: "*Stir the masses into action. Unite them behind a better future.*" His
+  spirit trembles as if a breakthrough lingers just a hairsbreadth away, yet he cannot identify the
+  missing piece — self-actualization is shown as imminent but not yet achieved on-page.
 - **Demigod** — an Arcanist or Profaner who has reached a Tier high enough to attain divinity
   (glossary). Alfainia maintains resident Demigods who sit in special Parliament balconies (Ch1);
   a crushing wave of divinity during the Ch1 investiture staggers every Demigod present

@@ -397,7 +397,7 @@ characterization level. At the thematic level, the risk is amplified: the contra
 a gap in Carden's characterization but a structural contradiction within the manuscript's central
 thematic argument.
 
-### 5b. The External-Pressure Thread's Thematic Absence in the Resolution (Moderate)
+### 5b. The External-Pressure Thread's Thematic Absence in Ch8 (Low–Moderate)
 
 The war with Imperium Divinus provides the external pressure that forces Carden's internal
 transformation. The geopolitical threat is the catalyst for the institutional ultimatum (Ch7), which
@@ -405,24 +405,27 @@ is the catalyst for the termination, which is the thematic climax. The war is th
 instrumentally essential to the freedom theme: without it, the institutional pressure that tests
 Carden's integrity does not exist.
 
-The war vanishes entirely from Ch8 and the Epilogue. The freedom theme reaches its resolution
-without acknowledging the geopolitical context in which that freedom was tested. Carden's
-self-actualization occurs in a world whose geopolitical crisis — the very pressure that produced
-his transformation — is simply absent from the resolution's field of vision.
+The war vanishes from Ch8 but returns in the Epilogue. Ch8's four scenes — the coalition café, the
+hill, the Horace proposal, and the flat — resolve the personal dimensions of Carden's arc without
+acknowledging the geopolitical context. However, the Epilogue reintroduces the external-pressure
+thread: newspaper headlines report a world war across multiple continents ("WORLD AT WAR!"), an
+Alfainian aerial fleet glides overhead — "the fruits of Edward Cook's three years of high taxes" —
+and Carden's closing reflection registers the geopolitical outcome. The freedom theme's resolution
+therefore does acknowledge the external world in which that freedom was tested, though the
+acknowledgment occurs in the Epilogue rather than in the resolution chapter itself.
 
 This was identified as a structural risk in `reference/evaluation-narrative-structure-and-plot.md`
-§8a. At the thematic level, the risk is that the freedom theme's resolution occurs in a vacuum:
-Carden has achieved personal freedom, but the external world in which that freedom must be
-exercised is unacknowledged. For a theme that insists freedom is enacted through institutional
-engagement (not through withdrawal), the resolution's silence about the institution and the
-geopolitical crisis may read as thematically incomplete.
+§8a. At the thematic level, the Epilogue's reintroduction of the war thread significantly mitigates
+the concern: Carden's self-actualization occurs in a world whose geopolitical crisis is present in
+the same narrative section. The remaining thematic gap is Ch8's silence — a single chapter in which
+the freedom theme reaches its personal resolution without reference to the institutional pressure
+that tested it.
 
-**Assessment**: Moderate risk. The character-driven logic supports the resolution's domestic focus —
-the transformation is internal, and the Epilogue shows it lived in daily practice. However, the
-proportional investment in the war as thematic pressure (seven of nine narrative sections) is not
-matched by the resolution's acknowledgment of it. The risk is not structural (it functions as an
-open thread) but thematic: a freedom defined against institutional pressure is resolved without
-reference to that pressure.
+**Assessment**: Low–moderate risk. The Epilogue's war headlines, aerial fleet, and geopolitical
+reflection ground the freedom theme's resolution in the external world the prior seven chapters
+built. The gap is limited to Ch8, where the character-driven logic supports the domestic focus.
+For a theme that insists freedom is enacted through institutional engagement, the Epilogue's
+acknowledgment of the geopolitical context — though not its resolution — is thematically sufficient.
 
 ### 5c. The Three-Scripture Progression's Reliance on Structural Juxtaposition (Low–Moderate)
 
@@ -446,7 +449,7 @@ editors at the upmarket level generally expect and reward it rather than penaliz
 
 ### 5d. Thematic Density in the Novella Form (Low)
 
-The manuscript carries five interlocking thematic dimensions across ~27,000 narrative words. This
+The manuscript carries five interlocking thematic dimensions across ~28,000 narrative words. This
 is a high thematic density for the novella form — a format the industry standard describes as
 having "room for character interiority, reflective passages, and relational development" but
 also requiring "tighter narrative momentum than a novel."
@@ -458,7 +461,7 @@ the same family relationships that carry the marriage theme; the institutional t
 through the same professional function that creates the pressure on the marriage.
 
 **Assessment**: Low risk. The integration is the reason the density works. A thematic structure
-that attempted five separate tracks in ~27,000 words would produce the "compressed novel" problem
+that attempted five separate tracks in ~28,000 words would produce the "compressed novel" problem
 the industry standard warns against. The manuscript avoids this because the tracks converge: they
 are different facets of a single question (how does an individual exercise integrity within
 systems that demand compliance?) rather than five independent inquiries.
@@ -485,9 +488,9 @@ systems that demand compliance?) rather than five independent inquiries.
 | Dimension | Risk Level | Nature |
 |---|---|---|
 | **Enslaved Elf labor contradiction** | High | The freedom/integrity arc's self-actualization scene features enslaved labor under the protagonist's grateful supervision without narratorial framing; creates a structural contradiction within the manuscript's central thematic claim |
-| **External-pressure thematic absence** | Moderate | A freedom defined against institutional pressure is resolved without reference to that pressure; seven sections of geopolitical investment receive no thematic acknowledgment in the resolution |
+| **External-pressure thematic absence** | Low–Moderate | The war vanishes from Ch8 but returns in the Epilogue through newspaper headlines, an aerial fleet, and Carden's geopolitical reflection; the thematic gap is limited to a single chapter |
 | **Three-Scripture structural juxtaposition** | Low–Moderate | The theological progression relies on structural positioning without narratorial or character connection; the pattern exists for the attentive reader but is not guided |
-| **Thematic density** | Low | Five interlocking dimensions in ~27,000 words is high density for the novella form; works because of integration but the margin is narrow |
+| **Thematic density** | Low | Five interlocking dimensions in ~28,000 words is high density for the novella form; works because of integration but the margin is narrow |
 
 ### Overall
 

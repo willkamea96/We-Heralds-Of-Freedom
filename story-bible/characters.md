@@ -50,9 +50,10 @@ to first/major appearances, not every mention.
   the volunteer crews (building Windbury's new open-air marketplace on Chartwell Street, physical
   labor included), uses Zeal Magic to thank and sustain them, and coaches Private Renee Rose, who
   runs the crew. Marelyn is present at the construction site, arguing with a municipal contractor
-  over overcharged invoices (Epilogue). The Epilogue closes with a domestic scene: Carden cooks
-  mutton curry, Marelyn reads stock prices, Carden massages her shoulders, and they fall asleep
-  together in their small rented flat.
+  over overcharged invoices (Epilogue). The Epilogue's domestic and morning scenes show the daily
+  life of this partnership: Carden cooks mutton curry, Marelyn reads stock prices and asks about his
+  self-actualization, and the next morning they read war headlines together at the newsstands around
+  Windbury Square.
 - Believes in the Father throughout (quick prayers from Ch1; in Arcane Tongue he declares "There is
   only one true God and He is the Father," Ch5), but his practice has lapsed beneath his
   bureaucratic cynicism: he cannot remember the last time he was at Saint Alfred's Cathedral and
@@ -188,25 +189,32 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
 - **Epilogue – Magic Is Self-Actualization: the integrated Carden.** A year on, he works
   shoulder-to-shoulder with the volunteer crews and uses Zeal Magic to appreciate and buoy them
   rather than to intimidate. Marelyn is present at the construction site, arguing with a municipal
-  contractor over fraudulent invoices; Carden winks at her and she snuck a smile back. He notes
+  contractor over fraudulent invoices; Carden winks at her and she sneaks a smile back. He notes
   that Horace convinced the Black Hounds to train its Arcanist recruits in Windbury's
   reconstruction work. He mentors Private Renee Rose — the instigator he once confronted and saw
-  taken away — telling her "You'll be running these without my supervision in no time." The
-  glossary defines self-actualization as embodying "the ideals of their Calling"; Carden, an
-  Ideals Arcanist, now lives them. (No Tier advancement is shown on-page; the connection is
-  thematic.) The Epilogue closes with a domestic scene: Carden and Marelyn return to their small
-  rented flat; he cooks mutton curry ("This is sublime"), she corrects his fixation on the peeling
-  wallpaper ("Enjoy what you made instead"), he massages her knotted shoulders while she reads
-  stock prices, and they fall asleep together.
+  taken away, now with boyishly-short auburn hair, military fatigues, and a Black Hounds tattoo on
+  her right wrist — telling her "You'll be running these without my supervision in no time." In a
+  domestic scene that evening, he cooks mutton curry ("This is sublime"), she corrects his fixation
+  on the peeling wallpaper ("Enjoy what you made instead"), and Marelyn asks how close he is to
+  self-actualizing his Calling; Carden cleaves his mind and hears the Arcane's whisper: "*Stir the
+  masses into action. Unite them behind a better future.*" His spirit trembles as if a breakthrough
+  lingers just a hairsbreadth away, yet the piece he is missing eludes him. Marelyn clasps his hand:
+  "I have no doubt you'll crack it. You always do." The next morning, the couple read newspaper
+  headlines at Windbury Square: the world is at war — the Creator and His empire have started wars
+  against almost every Great Power simultaneously; Alfainia never fired a shot and yet enjoys peace.
+  An Alfainian aerial-fleet glides overhead toward the sea. The novella closes with Carden's
+  reflection: "The vagaries of history." The glossary defines self-actualization as embodying "the
+  ideals of their Calling"; Carden, an Ideals Arcanist, now lives them. (No Tier advancement is
+  shown on-page; the connection is thematic.)
 
 **Recurring through-lines**
 - *Duty → conscience (the Black Hound tattoo).* Ch2 he rubs his own wrist; Ch3 the soldiers'
   insignias "practically snarled at Carden"; Ch4 and Ch5 he flashes it at his parents and Julian as
   proof of where his loyalty lies and what he owes; Ch7 Edward's eyes go to his right wrist as he
   says "I will not deny a proven patriot his conscience"; Ch8 he points at Horace's to invoke their
-  shared pacification past; in the Epilogue Renee wears military fatigues as a Black Hounds
-  private (the tattoo itself is not observed on-page in the Epilogue). The emblem shifts from a
-  mark of obedience to the credential for principled dissent and, finally, for reintegration.
+  shared pacification past; in the Epilogue Renee wears military fatigues and sports a Black Hounds
+  tattoo on her right wrist as a Black Hounds private. The emblem shifts from a mark of obedience
+  to the credential for principled dissent and, finally, for reintegration.
 - *Marriage (performative → chosen).* "Modicum of intimacy for the public eye" (Ch1) → "Come eat"
   and cooking as his language of care (Ch1, 2, 4, 5, 6, 7) → new rings (Ch4) → the Ch5 promise → "We
   made the right choice" (Ch7) → "Let's make this work" (Ch8). Blind spots: he repeatedly misreads
@@ -235,8 +243,11 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
   ("I will not deny a proven patriot his conscience"), and releases him with thanks.
 
 **Resolution and open threads**
-- Carden gains partnership, purpose, and community rather than wealth or rank; the war with the
-  Creator and the God of War's rivalry remain unresolved.
+- Carden gains partnership, purpose, and community rather than wealth or rank; the broader war
+  between the God of War and the Creator has broken out across multiple continents by the Epilogue's
+  close (newspaper headlines), though its final outcome remains unresolved. His self-actualization of
+  his Zealot Calling is imminent but incomplete — he hears the Calling's whisper but cannot identify
+  the missing piece.
 - An enslaved Elf healer treats his wound (Ch5) and enslaved Elves do skilled labor on his
   reconstruction project (Epilogue); he gives thanks that affluent families loan them out, and the
   arc never examines this.
@@ -305,7 +316,7 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
   year" in Ch7), which Carden thinks spares his own "pocketbooks." That purse is the charged one:
   Jane points at it while accusing her of seeking "the approbation of other married men" (Ch4),
   Marelyn clenches its strap when pushed (Ch4, Ch7), and in Ch8 she turns it into a charm for
-  Horace. In Ch7 she sells the wall collection ("a lovely deal for all my purses"), yet the indigo
+  Horace. In Ch7 she sells the wall collection ("a lovely deal for my purses"), yet the indigo
   purse is still with her at the dinner table and again in Ch8.
 - Her history with Roger Baker is never stated outright; it is built across Ch2, Ch4, Ch6 and Ch8.
   In Ch2, once Carden says Annie is "happily married to one Roger Baker," she describes Roger
@@ -535,9 +546,11 @@ choose over his job) and its mirror.
   "Let's make this work" (which Carden repeats back) answers her own Ch1 question. Her handling of
   Horace is the arc's last twist: the "proper lady" persona she once endured is now a tool she uses
   on purpose — the indigo purse, the flattery, the batted lashes — at the cost of her clenched
-  hands. In the Epilogue she is at the construction site arguing with a contractor, walks home
-  with Carden, eats his cooking ("This is sublime"), and falls asleep in his arms; the
-  closing domestic scene shows the co-equal partnership in lived practice.
+  hands. In the Epilogue she is present across all four scenes: arguing with a contractor at the
+  construction site, walking home with Carden through the cold dusk, eating his mutton curry ("This
+  is sublime"), asking about his self-actualization ("I have no doubt you'll crack it. You always
+  do."), and drinking in the morning war headlines together at the newsstands — the co-equal
+  partnership in lived daily practice.
 
 **Recurring through-lines**
 - *Food and appetite.* Carden's cooking and "Come eat" (Ch2, Ch4, Ch6) are his language of care; her
@@ -597,9 +610,8 @@ choose over his job) and its mirror.
   Oakmoores' Creator-faith (Ch4), Charles planned to be in Portsmouth "long-term" (Ch4), and Jeremy,
   Eleanor (both tied to the war economy) and her other sisters never appear on the page. Whether the
   couple's knowledge of the families' secret will matter later is never addressed.
-- Money: the household's finances are never given in figures (Ch8), the indigo-purse exception to
-  "all my purses" is unexplained, and who cleared the flat and repainted the purse wall (Ch7) is
-  left unstated.
+- Money: the household's finances are never given in figures (Ch8); who cleared the flat and
+  repainted the purse wall (Ch7) is left unstated.
 - She is told only that Carden went to "Saint Alfred's Cathedral" (Ch7); the stranger "Alfred" and
   the Scripture are never shown to her on the page.
 
@@ -682,8 +694,9 @@ choose over his job) and its mirror.
   a fellow Ideals Arcanist using Zeal Magic on the crowd); captured and presumably conscripted by
   Horace's forces rather than executed (Ch3, implied by Carden's remark to Roger: "the Black
   Hounds... won't let such a talented Ideals Arcanist go to waste").
-- Reappears by name in the Epilogue as "Private Renee Rose," wearing military fatigues and leading
-  a reconstruction labor crew under Carden's supervision — closing her arc from rioter to
+- Reappears by name in the Epilogue as "Private Renee Rose," now with her auburn hair trimmed
+  boyishly short, wearing military fatigues, and sporting a Black Hounds tattoo on her right wrist;
+  she leads a reconstruction labor crew under Carden's supervision — closing her arc from rioter to
   soldier/public servant. Carden tells her "You'll be running these without my supervision in no
   time."
 

@@ -25,7 +25,7 @@ the space where the protagonist's transformation is both witnessed and pressured
 The standard further requires "worldbuilding integrated with character" — the world must illuminate
 interiority, not exist as an end in itself — and "prose control" at the sentence level, where
 "every sentence must earn its place." For a relationship that spans all nine narrative sections of a
-~27,000-word novella, these criteria demand that the relationship's characterization be formally
+~28,066-word novella, these criteria demand that the relationship's characterization be formally
 integrated with the worldbuilding mechanisms, that its expression be achieved through efficient and
 non-redundant craft, and that its progression serve the thematic argument rather than merely
 illustrating it.
@@ -154,7 +154,7 @@ The physical contact between Carden and Marelyn follows a deliberate arc across 
 | Ch6 | Back massage; wedding rings pressed together in prayer | Physical contact integrated with partnership and spiritual commitment |
 | Ch7 | Hands pulling free (rupture); warm arms from behind (reunion) | The full range — rupture and reconnection — in one chapter |
 | Ch8 | Public kiss on knuckles; hand-in-hand walking; arm around shoulder | Physical affection now public, casual, and unperformed |
-| Epilogue | Shoulder massage; sleeping together | Physical contact as daily domestic rhythm |
+| Epilogue | Shoulder massage; sleeping together; Marelyn clasps Carden's hand during the self-actualization conversation | Physical contact as daily domestic rhythm |
 
 ### 3d. Marelyn's Coded Communication
 
@@ -350,7 +350,7 @@ phase of the ring's meaning corresponds to a phase of the relationship's transfo
 ### 6b. Paired Declarations
 
 The manuscript marks the relationship's turning points with paired statements — one from each
-spouse, echoing or completing the other's words. The progression across seven instances tracks the
+spouse, echoing or completing the other's words. The progression across eight instances tracks the
 relationship's formal evolution:
 
 | Chapter | Form | Declaration |
@@ -362,6 +362,7 @@ relationship's formal evolution:
 | Ch6 | Declaration and prayer | "Let's be happy, Carden" / "Marelyn and I are ready to be happy" |
 | Ch7 | Self-correction to shared ownership | "You made the right choice" / "We made the right choice" |
 | Ch8 | Identical words | "Let's make this work" / "Let's make this work" |
+| Ch8 (flat) | Identical words, in unison | "We'll make this work." (both, simultaneously) |
 
 The formal progression — from question-and-deflection to identical words spoken by both — enacts
 the relationship's transformation at the level of dialogue structure. By Ch8, the asymmetry that
@@ -374,7 +375,7 @@ Marelyn's purse collection functions as a material index of her old-nobility ide
 - Ch2: The "rich indigo" purse Horace bought her, introduced as a domestic detail.
 - Ch5: The full wall of purses in her private study — the room she claimed to avoid Carden's
   company.
-- Ch7: The wall is bare — she sold the entire collection. "I got a lovely deal for all my purses."
+- Ch7: The wall is bare — she sold the entire collection. "I got a lovely deal for my purses."
 
 The purse collection is the material counterpart to Carden's professional sacrifice. He gives up
 his career (institutional identity) to preserve his principles; she gives up her accumulated
@@ -392,8 +393,10 @@ emotional distance and closeness:
   in his arms" — years of separate sleeping end.
 - **Ch7 crisis**: Carden pulls out the spare mattress so Marelyn can have the bedroom — separation
   motivated by care rather than distance.
-- **Epilogue**: A cramped flat that compresses "bedroom, living-room, dining-room, and kitchen into
-  one common living-space" — the smallest domestic space in the novella, but the most intimate.
+- **Ch8 Scene 4 and Epilogue**: A cramped flat that compresses "bedroom, living-room, dining-room,
+  and kitchen into one common living-space" — the smallest domestic space in the novella, but the
+  most intimate. The flat is established in Ch8 Scene 4 (the move-in) and continued in the
+  Epilogue.
 
 The progression inverts the expected correlation between space and happiness: the couple's most
 spacious accommodation (the civil-service flat) housed their most distant relationship; their
@@ -446,8 +449,8 @@ varies:
 | Ch5 | 3,826 | High — daily routine, crisis partnership, the private vow |
 | Ch6 | 3,025 | Moderate — partnership in action, cathedral scene |
 | Ch7 | 3,708 | Very high — the climactic misreading, the reunion dinner |
-| Ch8 | 2,351 | High — hilltop declarations, co-equal partnership in the Horace scene |
-| Epilogue | 850 | Moderate — domestic sketch in 850 words |
+| Ch8 | 2,863 | High — hilltop declarations, co-equal partnership in the Horace scene, the flat move-in |
+| Epilogue | 1,286 | Moderate — domestic sketch in 1,286 words |
 
 The distribution is structurally appropriate: the highest-density chapters (Ch4 and Ch7) correspond
 to the relationship's two major transformation points (renewal and crisis-resolved-to-commitment),
@@ -614,30 +617,27 @@ resolving. Whether this registers as a realistic texture (marriages exist in mes
 or as an incomplete thread depends on the reader's tolerance for open questions in a resolution
 section.
 
-### 9d. Epilogue Contraction of Marelyn's Verbal and Agentic Presence (Low–Moderate)
+### 9d. Epilogue Contraction of Marelyn's Verbal and Agentic Presence (Low)
 
-The Epilogue gives Marelyn one line of direct dialogue ("This is sublime") and one characterization
-beat observed from a distance (arguing with a municipal contractor over inflated invoices). The
-verbal and agentic density of the relationship in Ch7 (Marelyn's retrospective narration, "We made
-the right choice") and Ch8 (the hilltop confessions, the co-equal Horace pitch) contracts sharply
-in the Epilogue.
+The Epilogue's expansion to four scenes (1,286 words) has broadened Marelyn's verbal and agentic
+presence compared to the earlier two-scene structure. Marelyn now has multiple characterization
+beats: arguing with a municipal contractor over inflated invoices, the domestic closing ("This is
+sublime," "Stop it… Enjoy what you made instead"), the self-actualization exchange ("How close are
+you to self-actualizing your Calling?" / "I have no doubt you'll crack it. You always do."), and
+shared presence at the morning newsstands.
 
-This contraction is structurally consistent with the Epilogue's function as a coda showing lived
-daily life rather than dramatic intensity. The Epilogue demonstrates the relationship as settled
-routine — cooking, eating, massaging, sleeping — which is the appropriate register for a section
-that shows transformation embodied rather than transformation occurring. However, the final
-narrative section's reduction of Marelyn to one dialogue line and one observed action means the
-last image of the relationship the reader carries is one filtered predominantly through Carden's
-appreciative observation, without the verbal texture that characterized the relationship at its
-most active in Ch7–Ch8.
+The verbal and agentic density of the relationship in Ch7 and Ch8 still exceeds the Epilogue's, as
+expected for a coda section. However, the Epilogue now demonstrates the relationship across multiple
+registers — professional partnership (contractor confrontation), domestic routine (cooking, eating,
+massaging, sleeping), intellectual engagement (the Calling conversation), and shared daily life
+(bruschetta breakfast, war headlines) — which gives the reader's final experience of the
+relationship more texture than a single domestic scene alone.
 
-**Assessment**: Low–moderate risk. The contraction is proportional to the Epilogue's structural
-function and its 850-word length. The risk is not that the Epilogue mischaracterizes the
-relationship but that the reader's final experience of Marelyn — reduced from the verbal and
-agentic complexity of Ch7–Ch8 to a single appreciative line and a distant observation — may leave
-the relationship's concluding image less vivid than the scenes that preceded it. The "Stop it…
-Enjoy what you made instead" exchange partially compensates by showing Marelyn's voice in its
-characteristic mode (pragmatic, directive, affectionate), but it is the Epilogue's only instance.
+**Assessment**: Low risk. The contraction is proportional to the Epilogue's structural function and
+its 1,286-word length. Marelyn's presence across all four scenes — with dialogue in multiple
+registers and characterization beats spanning professional, domestic, and intellectual domains —
+gives the reader a concluding image of the relationship that, while less dramatically intense than
+Ch7–Ch8, honors the co-equal partnership the arc established.
 
 ---
 
@@ -664,7 +664,7 @@ characteristic mode (pragmatic, directive, affectionate), but it is the Epilogue
 | **Misreading pattern and reader patience** | Low–Moderate | The escalating implausibility of Carden's misreadings across six chapters, culminating in a 46-line sustained misinterpretation in Ch7, approaches the outer boundary of the dramatic-irony convention; the payoff is proportional but a reader whose patience breaks before the reveal experiences the climactic scene at reduced intensity |
 | **Marelyn's interiority inaccessible through single POV** | Moderate | Marelyn's co-equal arc (performative compliance to authentic self-determination) is reconstructed from behavioral evidence rather than narrated; the asymmetry between Carden's narrated interiority and Marelyn's inferred interiority creates a tension between the relationship's structural claim of co-equality and the narration's unilateral access |
 | **Annie-Marelyn tension introduced in resolution** | Low–Moderate | Visible social friction between Annie and Marelyn appears in Ch8 without resolution; the tension is motivated by backstory but its introduction in the resolution chapter opens a thread at the moment the narrative is closing |
-| **Epilogue contraction of Marelyn's verbal presence** | Low–Moderate | The final narrative section reduces Marelyn to one dialogue line and one observed action; structurally consistent with the coda function but leaves the reader's last image of the relationship less verbally vivid than Ch7–Ch8's characterization |
+| **Epilogue contraction of Marelyn's verbal presence** | Low | The expanded Epilogue (1,286 words, four scenes) gives Marelyn dialogue in multiple registers and characterization across professional, domestic, and intellectual domains; the contraction from Ch7–Ch8 is proportional to the coda function |
 
 ### Overall
 

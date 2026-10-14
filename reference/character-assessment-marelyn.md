@@ -21,7 +21,7 @@ Carden's close third-person perspective. The reader experiences Marelyn exclusiv
 - The results of her off-page actions, reported after the fact
 - Other characters' commentary about her
 
-This is the correct structural choice for a character-driven novella at this word count (~27,371
+This is the correct structural choice for a character-driven novella at this word count (~28,066
 words). The industry standard for novellas is one to three POV characters, with single-POV being
 "the most common and structurally cleanest form." Marelyn's non-POV status preserves the narrative
 intimacy the novella format demands while allowing her to function as a secondary engine of the
@@ -225,7 +225,8 @@ the author is deferring the characterization work.
 
 ### 4c. Presence in the Epilogue
 
-Marelyn appears in both of the Epilogue's scenes. At the Chartwell Street construction site she
+Marelyn appears in all four of the Epilogue's scenes (the Epilogue now runs 1,286 words across
+four scenes, up from 850 words across two). At the Chartwell Street construction site she
 argues with a municipal contractor over inflated invoices for glass sealants and weatherproof
 surface-resins, pauses to watch the lattice-hoisting, and exchanges a wink and a smile with Carden.
 In the domestic closing scene she practically inhales Carden's mutton curry ("This is sublime"),
@@ -233,13 +234,20 @@ scolds him for staring at their flat's peeling wallpaper ("Stop it… Enjoy what
 reads closing stock-prices while Carden massages her knotted shoulders, and falls asleep in his
 arms.
 
+The two added scenes extend her presence further. In a self-actualization conversation, Marelyn
+asks Carden, "How close are you to self-actualizing your Calling?" and, clasping his hand, answers
+the matter herself: "I have no doubt you'll crack it. You always do." In a morning scene, the two
+share a bruschetta breakfast and read the war headlines together at the newsstands, with an aerial
+fleet overhead.
+
 This presence honors the arc the Ch8 proposal established. Marelyn is shown exercising the
 professional competence (invoice scrutiny, stock-price monitoring) and domestic partnership
-(shared meals, shared sleep in reduced quarters) that her Ch7 transformation made possible. The
-Epilogue's title ("Magic Is Self-Actualization") now applies visibly to both characters: Carden's
-self-actualization is dramatized through his mentoring of Renee and his Zeal Magic, while Marelyn's
-is dramatized through her active role at the site and her contented inhabitation of the life they
-chose.
+(shared meals, shared sleep in reduced quarters, shared morning routine) that her Ch7
+transformation made possible. The Epilogue's title ("Magic Is Self-Actualization") now applies
+visibly to both characters: Carden's self-actualization is dramatized through his mentoring of
+Renee and his Zeal Magic, while Marelyn's is dramatized through her active role at the site and
+her contented inhabitation of the life they chose. Her question about Carden's Calling and her
+stated confidence in him also give her a direct dialogue role in the Epilogue's central theme.
 
 **Industry context**: In character-driven novellas, editors expect the resonant ending to honor
 the arcs the story has built. Marelyn's Epilogue presence satisfies this expectation — the co-equal
@@ -255,11 +263,11 @@ The purses function as:
 - A marker of her old-nobility identity and its constraints
 - A symbol of Horace's patronizing "gentleman's duty" (the indigo purse, Ch2)
 - A metonym for the performative life she maintains before her transformation
-- The sacrificial object of her Ch7 commitment (she sells the entire collection)
+- The sacrificial object of her Ch7 commitment (she sells her purses)
 
 The motif is well-constructed through Ch7. However, in Ch8 Marelyn still carries the indigo purse
 Horace bought her ("Horace's eyes brightened a touch at Marelyn's rich-indigo purse"). This creates
-a continuity question: if Marelyn "got a lovely deal for all my purses" (Ch7), why does she still
+a continuity question: if Marelyn "got a lovely deal for my purses" (Ch7), why does she still
 have Horace's purse in Ch8? If she kept this one deliberately — perhaps because it represents a
 genuine friendship rather than patronage — that distinction is not drawn in the text. If it is a
 continuity error, it undercuts the symbolic completeness of the Ch7 sacrifice.
@@ -308,7 +316,7 @@ slightly undermines the reader's confidence in that distinctiveness.
 |---|---|---|
 | **Physical-signal repetition** | Moderate | Hand-clenching and green-eyes descriptors risk predictability at novella compression |
 | **"Inscrutable" overuse** | Low–Moderate | Functions well early; persists past its structural usefulness |
-| **Epilogue presence** | — | Resolved: Marelyn appears in both Epilogue scenes (construction site and domestic closing) |
+| **Epilogue presence** | — | Resolved: Marelyn appears in all four Epilogue scenes (construction site, domestic closing, self-actualization conversation, morning newsstands) |
 | **Purse-motif continuity** | Moderate | The indigo purse's reappearance in Ch8 after the Ch7 sell-off is either an unresolved distinction or a continuity error |
 | **Narrated voice dependency** | Low | Carden's interpretive framing occasionally over-mediates Marelyn's own dialogue |
 
@@ -323,10 +331,13 @@ dramatic irony, is the kind of emotionally intelligent scene construction that u
 agents look for.
 
 The former primary risk — Marelyn's absence from the Epilogue — has been resolved. The revised
-Epilogue includes Marelyn in both scenes: at the construction site exercising professional
-competence (confronting a contractor over inflated invoices) and in the domestic closing scene
-(the mutton curry, the wallpaper exchange, the stock-prices, falling asleep together). The
-Epilogue now honors her arc by showing the co-equal partnership from Ch8 as lived daily reality.
+Epilogue includes Marelyn in all four scenes: at the construction site exercising professional
+competence (confronting a contractor over inflated invoices), in the domestic closing scene
+(the mutton curry, the wallpaper exchange, the stock-prices, falling asleep together), in the
+self-actualization conversation ("How close are you to self-actualizing your Calling?" / "I have no
+doubt you'll crack it. You always do."), and in the morning scene (bruschetta breakfast, war
+headlines at the newsstands, the aerial fleet overhead). The Epilogue now honors her arc by showing
+the co-equal partnership from Ch8 as lived daily reality.
 The remaining craft notes (physical-signal repetition, "inscrutable" overuse, purse-motif
 continuity, narrated voice dependency) are all at moderate or low risk levels.
 

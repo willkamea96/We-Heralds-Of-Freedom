@@ -157,6 +157,14 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   scheme: aid conditional on recipients volunteering as public-works labor, co-run and personally
   supervised by Carden and Marelyn (now unemployed and needing income themselves). Horace approves
   and hires them on the spot.
+- After signing their employment contracts with Horace, Carden and Marelyn take a rented carriage to
+  an older block of flats downtown. Annie and Roger show them the fifth-story flat (Roger and Annie's
+  first home, "twenty-some years ago"); the four Baker teenagers shuttle Carden and Marelyn's trunks
+  in. The flat compresses bedroom, living-room, dining-room, kitchen, and pantry into one common
+  living space — less than half the size of Carden's old civil-service flat — with peeling wallpaper
+  but no mold, replaced furniture, showers and piped hot water. Annie: "We replaced all the
+  furniture just for you both." Roger: "Just don't forget rent." Standing together at the center of
+  the flat, Carden and Marelyn say in unison, without meaning to: "We'll make this work" (Ch8).
 
 ## Year 0 into Year 1 — Winter: Epilogue ("Magic Is Self-Actualization")
 - Three months into the reconstruction program, Carden personally supervises a labor crew (including
@@ -173,8 +181,22 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   effort Carden now leads.
 - That evening, Carden and Marelyn walk home through the cold dusk; Carden cooks mutton curry
   ("This is sublime"); they commiserate over their small rented flat's peeling wallpaper; Marelyn
-  tells him to enjoy what he made instead of staring at the walls; Carden massages her shoulders
-  while she reads closing stock-prices; they fall asleep together in the flat.
-- The broader war with Imperium Divinus and the God of War/Creator rivalry remains unresolved and
-  looming at the novella's close; the Epilogue's focus is the personal/local resolution of Carden and
-  Marelyn's marriage and Carden's renewed, self-actualized faith and purpose.
+  tells him to enjoy what he made instead of staring at the walls. After both shower, Carden
+  massages Marelyn's knotted shoulders while she reads closing stock-prices. Marelyn asks how close
+  he is to self-actualizing his Calling; Carden cleaves his mind and hears the Arcane's whisper:
+  "*Stir the masses into action. Unite them behind a better future.*" His spirit trembles as if a
+  breakthrough lingers just a hairsbreadth away, yet he has felt this way for weeks — very close
+  but missing one piece he cannot identify. Marelyn clasps his hand: "I have no doubt you'll crack
+  it. You always do." They fall asleep together in the flat.
+- Next morning, Carden makes bruschetta for breakfast. They stop by the newsstands around Windbury
+  Square and drink in the headlines: "WORLD AT WAR!" — the Prajnese continent ablaze from a Dharmee
+  Raj civil war, Zaltaclan foiling Imperial offensives in the Ihtoacan continent, Imperial forces in
+  retreat across the Tianxianese continent, Alfainia and the Commonwealth supporting all wars against
+  tyranny. The Creator and His empire started wars against almost every Great Power simultaneously;
+  Alfainia never needed to fire a shot and yet enjoys peace. Horns blare as an Alfainian aerial-fleet
+  glides overhead toward the sea — the fruits of Edward Cook's three years of high taxes. The novella
+  closes with Carden's reflection: "The vagaries of history."
+- The broader war with Imperium Divinus has broken out across multiple continents by the Epilogue's
+  close, though its final outcome remains unresolved. Carden's self-actualization of his Zealot
+  Calling is described as imminent but incomplete. The Epilogue's focus is the personal/local
+  resolution of Carden and Marelyn's marriage and Carden's renewed faith and purpose.

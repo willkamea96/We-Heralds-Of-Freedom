@@ -70,6 +70,16 @@ glossary itself doesn't spell out.
 - Suffers severe, visible economic decline across the novella: shuttered shops, unrepaired riot
   damage, lengthening soup-kitchen lines (Ch2, Ch6, Ch8) — contrasted with Portsmouth's comparative
   insulation until the Ch5 air incursions begin.
+- **Carden and Marelyn's rented flat** — an older fifth-story flat downtown in a sound but aging
+  building, formerly Annie and Roger's first home ("twenty-some years ago"). Compresses bedroom,
+  living-room, dining-room, kitchen, and pantry into one common living space — less than half the
+  size of Carden's old civil-service flat — with peeling wallpaper but no mold, replaced furniture,
+  showers and piped hot water. Individual privacy reduced to just the washroom. Carden and Marelyn
+  move in at the end of Ch8; the Epilogue's domestic scenes take place here.
+- **Chartwell Street** — site of Horace's commissioned open-air public marketplace, under
+  construction in the Epilogue. Features brick arcades, a glass-and-steel lattice roof hoisted by
+  a biofuel-engine-powered crane, and tempered-glass panes sealed by enslaved Elves with
+  Empowerment and Enchanting Magic.
 - A grassy hill countryside spot outside the city, Carden and Annie's old teenage retreat, becomes
   Carden and Marelyn's own in Ch8.
 

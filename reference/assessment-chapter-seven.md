@@ -2,7 +2,7 @@
 
 Evaluation-only assessment of Chapter Seven ("When Faith Is Tested") as the manuscript's climactic
 chapter, judged against the craft standards compiled in `reference/industry-standards.md` and
-evaluated in the context of the full narrative arc (Ch1–8 and Epilogue, ~27,783 words).
+evaluated in the context of the full narrative arc (Ch1–8 and Epilogue, ~28,066 words).
 
 This assessment is diagnostic, not prescriptive. It identifies what the chapter achieves, where it
 meets or exceeds the upmarket adult character-driven fantasy standard, and where craft-level risks
@@ -14,8 +14,8 @@ exist. It does not propose revisions.
 
 ### 1a. Position Within the Narrative Architecture
 
-Chapter Seven occupies the climactic position in the manuscript's nine-section structure. At 3,708
-words (13.7% of the narrative body), it falls near the median chapter length — neither compressed
+Chapter Seven occupies the climactic position in the manuscript's nine-section structure. At 3,729
+words (13.3% of the narrative body), it falls near the median chapter length — neither compressed
 nor inflated relative to its structural burden. Its title, "When Faith Is Tested," forms the first
 half of the manuscript's only paired chapter-title system with Chapter Eight ("When Faith Is
 Rewarded"). This pairing signals the climax-resolution unit.
@@ -51,7 +51,7 @@ Saint Alfred's identity) pass through Ch7 and remain open at the manuscript's en
 
 ## 2. Scene Architecture
 
-Chapter Seven contains eight scenes within 3,708 words — the densest scene count of any chapter in
+Chapter Seven contains eight scenes within 3,729 words — the densest scene count of any chapter in
 the manuscript. The average scene length is approximately 460 words. The scenes progress through a
 roughly 36-hour story-time span (afternoon of the ultimatum through the following evening):
 
@@ -317,7 +317,7 @@ power is irrelevant.
 
 ### 6a. Scene Density (Low–Moderate)
 
-Eight scenes in 3,708 words yields an average of ~460 words per scene. Four scenes fall below 450
+Eight scenes in 3,729 words yields an average of ~460 words per scene. Four scenes fall below 450
 words (Scenes 2, 4, 5, 6). The risk is that the rapid scene transitions — particularly the
 four-scene sequence from decision through leaving the Exchequer (Scenes 4–6, approximately 910
 words covering the decision, the termination, and the departure) — may feel compressed for a
@@ -397,7 +397,7 @@ Edward.
 
 | Dimension | Assessment |
 |---|---|
-| **Structural position** | Occupies the climactic position in the nine-section architecture; contains the internal act break between crisis and resolution; word count (3,708, 13.7%) is proportional to its structural burden |
+| **Structural position** | Occupies the climactic position in the nine-section architecture; contains the internal act break between crisis and resolution; word count (3,708, 13.3%) is proportional to its structural burden |
 | **Scene architecture** | Eight scenes, each with a distinct function, no duplication; the pacing rhythm (sustained → rapid → extended) tracks the emotional logic of crisis, decision, and resolution |
 | **Thread convergence** | Four of eight tracked plot threads resolve here; all three character arcs (faith, marriage, vocation) reach their points of highest tension simultaneously |
 | **Three-Scripture climax** | The Father's Scripture completes the theological progression through structural juxtaposition with the families' ultimatum; no narratorial commentary required |
@@ -412,7 +412,7 @@ Edward.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **Scene density** | Low–Moderate | Eight scenes in 3,708 words; the termination scene (~400 words) carries the manuscript's most consequential narrative event at a pace that may not enforce the pause the Arcane Tongue exchange deserves |
+| **Scene density** | Low–Moderate | Eight scenes in 3,729 words; the termination scene (~400 words) carries the manuscript's most consequential narrative event at a pace that may not enforce the pause the Arcane Tongue exchange deserves |
 | **Dramatic-irony extension** | Low–Moderate | The 46-line misreading sequence in Scene 8 may test reader patience before the emotional payload (Marelyn's self-revelation) arrives; readers who anticipated the reveal experience sustained dramatic irony that risks protraction |
 | **"For some odd reason"** | Low | Two instances in one chapter; low risk within Ch7, cumulative risk across the manuscript addressed in the character assessment |
 | **Light/shade explicitness** | Low | The second Edward office scene describes the visual staging more explicitly than the first; within the range of close-third-person description but approaches narratorial commentary |

@@ -351,16 +351,21 @@ uttered a prayer of profound gratitude to the Father for Marelyn's presence in h
 
 ### Epilogue: Presence
 
-Marelyn is present in the Epilogue in both scenes. At the Chartwell Street construction site she
-argues with a municipal contractor over inflated invoices for glass sealants and weatherproof
+Marelyn is present in all four of the Epilogue's scenes. At the Chartwell Street construction site
+she argues with a municipal contractor over inflated invoices for glass sealants and weatherproof
 surface-resins, pauses to watch the lattice-hoisting, and exchanges a wink and a smile with Carden.
-In the domestic scene that closes the novella, Carden and Marelyn walk home through the cold dusk;
-Carden cooks mutton curry ("This is sublime"); they commiserate over their small flat's peeling
-wallpaper (Marelyn tells him "Stop it… Enjoy what you made instead"); Carden massages her knotted
-shoulders while she reads closing stock-prices; they fall asleep together. The scene dramatizes the
-co-equal partnership established in Ch8 as lived daily reality — shared labor, shared domesticity,
-and the mutual accommodation of a couple whose circumstances have shrunk but whose marriage has
-expanded.
+In the domestic scene that evening, Carden and Marelyn walk home through the cold dusk; Carden cooks
+mutton curry ("This is sublime"); they commiserate over their small flat's peeling wallpaper
+(Marelyn tells him "Stop it… Enjoy what you made instead"); after both shower, Carden massages her
+knotted shoulders while she reads closing stock-prices. Marelyn then asks how close he is to
+self-actualizing his Calling — Carden hears the Arcane's whisper ("*Stir the masses into action.
+Unite them behind a better future.*") but says he is very close yet missing one piece; Marelyn
+clasps his hand: "I have no doubt you'll crack it. You always do." They fall asleep together. The
+next morning, Carden makes bruschetta for breakfast; they stop by newsstands around Windbury Square
+and drink in the war headlines together — a shared daily ritual. An Alfainian aerial-fleet glides
+overhead. These scenes dramatize the co-equal partnership established in Ch8 as lived daily
+reality — shared labor, shared domesticity, shared morning routine, and the mutual accommodation of
+a couple whose circumstances have shrunk but whose marriage has expanded.
 
 ---
 
@@ -411,7 +416,7 @@ life she maintained before her transformation:
   marriage as "her safe space" partly to avoid Carden's company.
 - **Ch7**: Marelyn stares at the purse wall with "puffy red eyes" while clutching the
   disinheritance papers. Later, the wall is bare — she sold the entire collection. "I got a
-  lovely deal for all my purses" (Ch7).
+  lovely deal for my purses" (Ch7).
 
 The purse collection is the material counterpart to Carden's professional sacrifice: he gives up
 his career to preserve his principles; she gives up her accumulated identity to preserve the
@@ -430,7 +435,8 @@ spouse, echoing or completing the other's words:
 | Ch5 | Marelyn: "Whatever comes tomorrow, let's face it together. Promise?" / Carden: "Promise." |
 | Ch6 | Marelyn: "Let's be happy, Carden." / Carden: "Father in Heaven, Son above, Marelyn and I are ready to be happy." |
 | Ch7 | Marelyn: "You made the right choice." / Marelyn again: "We made the right choice." |
-| Ch8 | Marelyn: "Let's make this work." / Carden: "Let's make this work." |
+| Ch8 (hilltop) | Marelyn: "Let's make this work." / Carden: "Let's make this work." |
+| Ch8 (flat) | Both in unison: "We'll make this work." |
 
 The progression moves from question-and-deflection (Ch1), through matched symbolic actions (Ch4
 rings), to mutual vows (Ch5, Ch6), to shared ownership of consequential decisions (Ch7), to

@@ -2,7 +2,7 @@
 
 Evaluation-only assessment of Chapter Eight ("When Faith Is Rewarded") as the manuscript's
 resolution chapter, judged against the craft standards compiled in `reference/industry-standards.md`
-and evaluated in the context of the full narrative arc (Ch1–8 and Epilogue, ~27,783 words).
+and evaluated in the context of the full narrative arc (Ch1–8 and Epilogue, ~28,066 words).
 
 This assessment is diagnostic, not prescriptive. It identifies what the chapter achieves, where it
 meets or exceeds the upmarket adult character-driven fantasy standard, and where craft-level risks
@@ -14,9 +14,9 @@ exist. It does not propose revisions.
 
 ### 1a. Position Within the Narrative Architecture
 
-Chapter Eight occupies the resolution position in the manuscript's nine-section structure. At 2,351
-words (8.7% of the narrative body), it is the second shortest chapter — longer only than the
-Epilogue (850 words, 3.1%). Its brevity is proportional to its structural role: the deliberative
+Chapter Eight occupies the resolution position in the manuscript's nine-section structure. At 2,863
+words (~10.2% of the narrative body), it is the third shortest chapter — shorter than all but Ch3
+(2,010) and the Epilogue (1,286 words, ~4.6%). Its brevity is proportional to its structural role: the deliberative
 and emotional work of the arc has already been completed in Ch7; Ch8's task is to show what the
 protagonist does with the consequences.
 
@@ -36,7 +36,7 @@ on which the resolution will proceed.
 ### 1b. Function: Reconstruction
 
 Where Chapter Seven's structural function is convergence (all arcs arriving at their highest tension
-simultaneously), Chapter Eight's function is reconstruction. Each of the chapter's three scenes
+simultaneously), Chapter Eight's function is reconstruction. Each of the chapter's four scenes
 rebuilds one dimension of what Chapter Seven dismantled:
 
 - **Scene 1** (the café): social identity — Carden's relationship to community, now stripped of
@@ -45,27 +45,30 @@ rebuilds one dimension of what Chapter Seven dismantled:
   parties.
 - **Scene 3** (Horace's office): vocational identity — professional purpose, now redirected from
   institutional service to community service.
+- **Scene 4** (the flat): domestic identity — the couple moves into their new shared living space,
+  Annie declares them "family now," and Carden and Marelyn say "We'll make this work" in unison.
 
 The reconstruction is not a return. Each dimension is rebuilt on different terms than the ones Ch7
 destroyed: Carden's social role shifts from government official to advocate; his marriage shifts
 from dutiful arrangement to mutual commitment; his vocation shifts from civil-service administrator
-to welfare supervisor. The chapter's structural logic is that the climactic choice has not simply
-cost Carden his old life — it has made a new one available.
+to welfare supervisor; his domestic life shifts from a civil-service flat to a small rented unit
+where bedroom, living-room, and kitchen compress into one common space. The chapter's structural
+logic is that the climactic choice has not simply cost Carden his old life — it has made a new one
+available.
 
 ---
 
 ## 2. Scene Architecture
 
-Chapter Eight contains three scenes within 2,351 words — the lowest scene count of any
-full chapter in the manuscript (the Epilogue also has three scenes, in 850 words). The average
-scene length is approximately 780 words. The scenes progress through a single day, from morning
-to late afternoon:
+Chapter Eight contains four scenes within 2,863 words. The average scene length is approximately
+715 words. The scenes progress through a single day, from morning to evening:
 
 | Scene | Lines | ~Words | Content | Narrative Function |
 |---|---:|---:|---|---|
 | 1. The café | 4–60 | 800 | Friends rally; welfare funding crisis; Arcane Tongue vouching for Horace; Roger defers to Carden and Marelyn's judgment | Social reconstruction |
 | 2. The walk and the hill | 62–98 | 520 | Windbury's scars; personal history exchange; "Let's make this work" | Marital reconstruction |
 | 3. The proposal to Horace | 100–168 | 1,030 | Welfare-for-volunteering proposal; rehabilitative justice argument; Horace approves; employment secured | Vocational reconstruction |
+| 4. The flat | 170–206 | ~500 | Move-in; Annie's "family now"; "We'll make this work" in unison | Domestic reconstruction |
 
 The scene distribution is the inverse of Ch7's pattern. Where Ch7 moved from sustained to rapid to
 extended (building to the emotional payload of Scene 8), Ch8 moves from sustained to brief to
@@ -75,7 +78,7 @@ itself a craft choice: after seven chapters and a climactic reveal, the marriage
 an extended scene to reach "Let's make this work." The phrase earns its weight from the arc behind
 it, not from the scene around it.
 
-**Assessment**: The three-scene architecture is structurally clean. Each scene carries a distinct
+**Assessment**: The four-scene architecture is structurally clean. Each scene carries a distinct
 reconstructive function without overlap. The pacing is appropriate to a resolution chapter: the
 chapter does not re-create the emotional intensity of Ch7 but works at a practical, forward-looking
 register. The café scene (Scene 1) carries the most complex narrative load — six secondary
@@ -325,32 +328,32 @@ operate outside the system he once served that gives the proposal its shape.
 
 ## 6. Identified Risks
 
-### 6a. External-Pressure Discontinuity (Moderate–High)
+### 6a. External-Pressure Discontinuity (Low–Moderate)
 
 The war with Imperium Divinus, which provided escalating geopolitical pressure across Ch1 through
-Ch7, vanishes entirely from Chapter Eight. The prior structural evaluation
-(`reference/evaluation-narrative-structure-and-plot.md` §8b, §9) identifies this discontinuity as
-the manuscript's single most consequential structural note and rates it Moderate–High.
-
-Within Ch8 specifically, the absence is most acute in the Horace scene. Horace, who in Ch6
-(ch06:196–202) was navigating the political consequences of Edward's audit and the broader wartime
-pressures on Windbury, discusses the welfare proposal without any reference to the war. The
-conversation about municipal budgets, charity shortfalls, and riot recovery proceeds as though the
-geopolitical crisis that drove Carden's institutional arc — and that provided the fiscal pressures
-that made tax exemptions so contentious — has ceased to exist.
+Ch7, vanishes entirely from Chapter Eight. Within Ch8 specifically, the absence is most acute in the
+Horace scene. Horace, who in Ch6 (ch06:196–202) was navigating the political consequences of
+Edward's audit and the broader wartime pressures on Windbury, discusses the welfare proposal without
+any reference to the war. The conversation about municipal budgets, charity shortfalls, and riot
+recovery proceeds as though the geopolitical crisis that drove Carden's institutional arc — and that
+provided the fiscal pressures that made tax exemptions so contentious — has ceased to exist.
 
 The character-driven logic supports the absence: the resolution is about what Carden does with his
 personal consequences, not about the war's outcome. However, a single reference — from Horace, from
 the narration, from Carden's internal thought — acknowledging the wartime context in which the
 reconstruction must proceed would ground the resolution in the world the prior seven chapters built.
-The Epilogue, which dramatizes Windbury's reconstruction without mentioning the war, extends this
-gap. Ch8 is the first point where the discontinuity registers.
 
-**Assessment**: Moderate–high risk, consistent with the prior evaluation's rating. The absence is
-inherited from the manuscript's broader structural choice, not specific to Ch8's craft. However,
-Ch8 is where an editorial reader first notices the gap, because it is the first resolution section
-and the natural place to acknowledge the continuing external pressures that will shape the
-reconstruction the chapter proposes.
+The gap is limited to Chapter Eight. The Epilogue reintroduces the war thread through newspaper
+headlines reporting a world war across multiple continents ("WORLD AT WAR!"), an Alfainian aerial
+fleet gliding overhead toward the sea, and Carden's closing reflection on the geopolitical outcome —
+establishing that the external-pressure thread does resolve within the manuscript's final pages,
+though not within this chapter.
+
+**Assessment**: Low–moderate risk. The absence within Ch8 is a genuine gap — the reconstruction is
+proposed without acknowledging the wartime context that made it necessary — but its structural
+consequence is contained by the Epilogue's reintroduction of the war thread. Ch8 reads as a
+character-focused interlude between Ch7's geopolitical crisis and the Epilogue's geopolitical
+resolution, rather than as a permanent abandonment of the external-pressure thread.
 
 ### 6b. Horace's Approval Speed (Low–Moderate)
 
@@ -434,8 +437,8 @@ the manuscript's upmarket positioning invites readers and editors to ask.
 
 | Dimension | Assessment |
 |---|---|
-| **Structural position** | Occupies the resolution position; word count (2,351, 8.7%) is proportional to its function; brevity signals that the chapter's task is reconstruction, not re-escalation |
-| **Three-scene architecture** | Each scene rebuilds a distinct dimension (social, marital, vocational) of what Ch7 dismantled; no scene duplicates another's function |
+| **Structural position** | Occupies the resolution position; word count (2,863, ~10.2%) is proportional to its function; brevity signals that the chapter's task is reconstruction, not re-escalation |
+| **Four-scene architecture** | Each scene rebuilds a distinct dimension (social, marital, vocational, domestic) of what Ch7 dismantled; no scene duplicates another's function |
 | **"Make this work" echo** | The manuscript's most structurally significant verbal echo resolves here; the grammatical shift from Ch1's question to Ch8's declarative formally enacts the marriage arc's resolution |
 | **Possessive self-correction** | "His—no, *their*—friends" as the opening gesture signals the chapter's register and resolves the social-isolation pattern in a single em-dash correction |
 | **Arcane Tongue in advocacy mode** | A single deployment uses the established truth-enforcing mechanism in a new mode — vouching for a third party — demonstrating worldbuilding efficiency |
@@ -448,20 +451,21 @@ the manuscript's upmarket positioning invites readers and editors to ask.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **External-pressure discontinuity** | Moderate–High | The war vanishes from the resolution; Ch8 is the first point where the gap registers; a single contextual reference would ground the reconstruction in the geopolitical world the prior chapters built |
+| **External-pressure discontinuity** | Low–Moderate | The war vanishes from Ch8 but returns in the Epilogue through newspaper headlines and an aerial fleet; the gap is limited to this chapter rather than extending through the manuscript's close |
 | **Horace's approval speed** | Low–Moderate | The institutional thread's resolution rests on a single scene with one substantive objection; the approval's brevity compresses a process the manuscript's prior institutional detail would lead a reader to expect as more contentious |
 | **Termination/resignation discrepancy** | Moderate | Marelyn's "resignation" (ch08:24) contradicts Ch7's unambiguous termination; the discrepancy is amplified by its placement as Ch8's first retrospective reference to the climactic event |
 | **Conditional charity framing** | Low–Moderate | The welfare-for-volunteering proposal uses colonial-military precedent; discomfort is registered but not examined; intersects with the broader thematic concern about institutional complicity |
 
 ### Overall
 
-Chapter Eight is a structurally efficient resolution chapter whose three-scene architecture maps
-precisely to the three axes of Carden's positive-change arc: social identity rebuilt through the
-friends' coalition (café), marital identity rebuilt through mutual disclosure and commitment (the
-hill), and vocational identity rebuilt through the welfare proposal (Horace's office). The chapter's
-brevity — 2,351 words for the manuscript's resolution — is proportional to its function: the
-emotional and deliberative work has been completed in Ch7, and Ch8's task is to show what the
-protagonist does next, not to re-create the crisis's intensity.
+Chapter Eight is a structurally efficient resolution chapter whose four-scene architecture maps to
+the axes of Carden's positive-change arc: social identity rebuilt through the friends' coalition
+(café), marital identity rebuilt through mutual disclosure and commitment (the hill), vocational
+identity rebuilt through the welfare proposal (Horace's office), and domestic identity established
+through the move into the flat (Annie's "family now," the paired "We'll make this work" in unison).
+The chapter's brevity — 2,863 words for the manuscript's resolution — is proportional to its
+function: the emotional and deliberative work has been completed in Ch7, and Ch8's task is to show
+what the protagonist does next, not to re-create the crisis's intensity.
 
 The chapter's primary craft achievement is the "Let's make this work" echo. The verbal callback to
 Ch1's "Why can't we make this work?" resolves the marriage arc through a grammatical shift — from
@@ -480,18 +484,18 @@ the world the manuscript has built. The chapter shows its protagonist using his 
 competence — the same competence that Edward valued (ch07:201, ch08:110) — in a new context, one
 he chose rather than one he inherited.
 
-The single most consequential craft note for Chapter Eight is the external-pressure discontinuity.
-The war with Imperium Divinus — which provided the fiscal and political pressures that drove the
-tax-exemption thread, justified the rearmament that consumed Windbury's resources, and supplied
-Edward's strategic argument for overriding Carden's conscience — is entirely absent from the
-resolution chapter. The character-driven structure supports this choice (the resolution is personal,
-not geopolitical), but the proportional investment in the war thread across seven of nine narrative
-sections exceeds what Ch8 acknowledges. An editorial reader may find that the reconstruction
-proposed in Ch8 feels uncoupled from the world that made it necessary: a public-private welfare
-partnership is proposed for a city whose economic crisis was driven by wartime austerity, and the
-war goes unmentioned. Whether this is an acceptable open thread or a structural gap is the
-question the prior evaluation identifies as the manuscript's most consequential, and Ch8 is the
-section where that question first becomes visible.
+The external-pressure discontinuity, while present within Ch8, is contained by the Epilogue's
+reintroduction of the war thread. The war with Imperium Divinus — which provided the fiscal and
+political pressures that drove the tax-exemption thread, justified the rearmament that consumed
+Windbury's resources, and supplied Edward's strategic argument for overriding Carden's conscience —
+is absent from this chapter. An editorial reader may find that the reconstruction proposed in Ch8
+feels uncoupled from the world that made it necessary: a public-private welfare partnership is
+proposed for a city whose economic crisis was driven by wartime austerity, and the war goes
+unmentioned. However, the Epilogue's newspaper headlines ("WORLD AT WAR!"), the aerial fleet
+overhead, and Carden's closing geopolitical reflection restore the external-pressure thread within
+the manuscript's final pages. The gap is therefore a single-chapter interlude rather than a
+permanent structural absence, and the risk is proportionally lower than it would be if the war
+thread never returned.
 
 ---
 
