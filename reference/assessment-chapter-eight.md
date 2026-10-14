@@ -163,21 +163,24 @@ affirming that the exemptions served the city's interests. The two acknowledgmen
 other: the personal from the superior who terminated Carden, the institutional from the official who
 will employ him.
 
-### 3e. The Annie–Marelyn Tension
+### 3e. The Café Scene's Situational Pressure
 
-Chapter Eight introduces the first direct tension between Annie and Marelyn. Annie's curtness
-(ch08:10, 36, 48–50), Marelyn's unamused look and sharp retort (ch08:12), and the "spine tingled
-fiercely from whatever crackled between the two women" (ch08:14) establish a social friction that
-the narration registers but does not resolve. The hill scene adds a historical dimension: Carden
-reveals that he and Annie "came here a lot when we were teenagers" (ch08:78), and Marelyn responds
-by offering her own adolescent attachment — the young baker who gave her free croissants (ch08:84).
-The exchange is structurally parallel: each partner discloses a pre-marriage connection without
-jealousy, replacing secrecy with candor.
+The café scene's sharpest exchange — Annie's frustrated "How can you be joking about this?"
+(ch08:10) and Marelyn's retort that they are "disinherited, homeless, and unemployed" (ch08:12) —
+dramatizes the pressure both parties face rather than interpersonal friction between the two women.
+Annie's curtness throughout the scene (ch08:10, 36, 48–50) is directed at the crisis: Carden's
+deflection, the coalition's financial shortfall, and Horace's handling of the riots. Marelyn's sharp
+response defends their circumstances. Carden's somatic reading — "spine tingled fiercely from
+whatever crackled between the two women" (ch08:14) — is filtered through his established pattern of
+emotional misinterpretation (see `reference/character-assessment-carden.md` §4e) and does not
+necessarily indicate the interpersonal dynamic the narrator perceives.
 
-The Annie–Marelyn friction functions as a complication within the resolution. It signals that the
-marriage's reconstruction will involve navigating social relationships, not merely affirming private
-commitment. The friction is introduced rather than resolved in Ch8, leaving it as one of the
-narrative threads that the Epilogue and any subsequent work may develop.
+The hill scene reinforces this reading. Carden reveals that he and Annie "came here a lot when we
+were teenagers" (ch08:78), and Marelyn responds by offering her own adolescent attachment — the
+young baker who gave her free croissants (ch08:84). The exchange is structurally parallel: each
+partner discloses a pre-marriage connection with candor rather than secrecy, demonstrating that the
+marriage arc's resolution (mutual trust) extends to the social context in which the marriage now
+operates.
 
 ---
 

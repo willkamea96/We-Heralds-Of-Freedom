@@ -595,27 +595,31 @@ but the manuscript's ambition for the relationship (co-equal partnership, parall
 shared declarations) makes the tension more visible than it would be in a story where the non-POV
 character's arc was explicitly subordinate.
 
-### 9c. Annie-Marelyn Tension Introduced but Unresolved (Low–Moderate)
+### 9c. Café Scene Situational Pressure (Low)
 
-Ch8 introduces visible social friction between Annie and Marelyn: Annie's "glare" at Marelyn and
-her interruption of Carden's courtesies toward his wife. This tension is not resolved within the
-novella. The Epilogue does not reference Annie or the social dynamics of the rebuilt community.
+Ch8's café scene contains sharp exchanges between Annie and Marelyn — Annie's frustrated "How can
+you be joking about this?" (ch08:10) and Marelyn's retort that they are "disinherited, homeless,
+and unemployed" (ch08:12). Carden's narration registers somatic intensity — "spine tingled fiercely
+from whatever crackled between the two women" (ch08:14). However, the text dramatizes situational
+pressure rather than interpersonal friction: Annie's curtness throughout the scene (ch08:10, 36,
+48–50) is directed at the crisis — Carden's deflection, the coalition's financial shortfall, and
+Horace's handling of the riots — while Marelyn's sharpness defends their shared circumstances.
+Carden's somatic reading is filtered through his established pattern of emotional misinterpretation
+(see `reference/character-assessment-carden.md` §4e) and does not necessarily indicate the
+dynamic the narrator perceives.
 
-For a manuscript whose relationship arc moves from "shackle" (Ch1) to "let's make this work" (Ch8)
-— a movement toward completion — the introduction of a new relational tension in the resolution
-chapter raises a structural question. The Annie-Marelyn friction is rooted in the backstory
-established across Ch2, Ch4, and Ch8 (both women lost Roger/Carden to the arranged marriage), so
-it is not unmotivated. However, its appearance in Ch8 — after the hilltop scene has formally
-resolved the Carden-Marelyn arc — introduces an open thread at the moment the narrative is closing.
+The hill scene reinforces this reading: each partner discloses a pre-marriage connection (Carden's
+teenage visits with Annie, Marelyn's young baker) with candor rather than secrecy, demonstrating
+that the marriage arc's resolution extends to their social context. The exchange enacts mutual trust
+rather than managing jealousy.
 
-**Assessment**: Low–moderate risk. The open thread is consistent with the novella form's permission
-to leave external social dynamics unresolved — the Carden-Marelyn relationship is the arc that must
-reach resolution, not every social relationship in their world. However, the tension's
-introduction in the resolution chapter means the reader leaves the novella aware that the renewed
-marriage will operate in a social context the narrative has flagged as complicated without
-resolving. Whether this registers as a realistic texture (marriages exist in messy social worlds)
-or as an incomplete thread depends on the reader's tolerance for open questions in a resolution
-section.
+**Assessment**: Low risk. The sharpness in the café scene is proportional to the financial and
+institutional crisis both parties face — Carden and Marelyn newly destitute, the coalition unable to
+fund winter charity. The tension is situational (a group under pressure snapping at each other)
+rather than relational (unresolved romantic history). The hill scene's parallel disclosures confirm
+the marriage's arrival at candor, and the chapter's subsequent scenes — Roger offering the flat,
+Annie and Roger's teenagers shuttling trunks, Annie's "family now" — show the social relationships
+as supportive rather than adversarial.
 
 ### 9d. Epilogue Contraction of Marelyn's Verbal and Agentic Presence (Low)
 
@@ -663,7 +667,7 @@ Ch7–Ch8, honors the co-equal partnership the arc established.
 |---|---|---|
 | **Misreading pattern and reader patience** | Low–Moderate | The escalating implausibility of Carden's misreadings across six chapters, culminating in a 46-line sustained misinterpretation in Ch7, approaches the outer boundary of the dramatic-irony convention; the payoff is proportional but a reader whose patience breaks before the reveal experiences the climactic scene at reduced intensity |
 | **Marelyn's interiority inaccessible through single POV** | Moderate | Marelyn's co-equal arc (performative compliance to authentic self-determination) is reconstructed from behavioral evidence rather than narrated; the asymmetry between Carden's narrated interiority and Marelyn's inferred interiority creates a tension between the relationship's structural claim of co-equality and the narration's unilateral access |
-| **Annie-Marelyn tension introduced in resolution** | Low–Moderate | Visible social friction between Annie and Marelyn appears in Ch8 without resolution; the tension is motivated by backstory but its introduction in the resolution chapter opens a thread at the moment the narrative is closing |
+| **Café scene situational pressure** | Low | The sharpness between Annie and Marelyn in the café is situational (financial and institutional crisis) rather than relational; the hill scene's parallel disclosures confirm mutual trust rather than jealousy |
 | **Epilogue contraction of Marelyn's verbal presence** | Low | The expanded Epilogue (1,286 words, four scenes) gives Marelyn dialogue in multiple registers and characterization across professional, domestic, and intellectual domains; the contraction from Ch7–Ch8 is proportional to the coda function |
 
 ### Overall

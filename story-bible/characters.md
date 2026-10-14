@@ -589,10 +589,12 @@ choose over his job) and its mirror.
   material care and public defense. They trade the same accusation: "Why did she always make things
   so complicated?" (his thought, Ch1) and "Why must you always make things so complicated?" (her
   words, Ch6).
-- *Annie* — the woman Carden lost, and a quiet rival: Annie's forwardness (Ch6), Marelyn's hand over
-  his just as Carden recalls the old promise to Annie (Ch6), and the open friction at the Ch8 café.
-  Annie (for Carden) and Roger (for Marelyn, by inference) are mirror-image early attachments, and
-  the couple's dealings with the Bakers' business run through Ch2–Ch8.
+- *Annie* — the woman Carden once promised to marry, and a structural parallel: Annie's forwardness
+  (Ch6), Marelyn's hand over his just as Carden recalls the old promise to Annie (Ch6). Annie (for
+  Carden) and Roger (for Marelyn, by inference) are mirror-image early attachments. The Ch8 café
+  scene's sharpness between the two women is situational (both parties under financial and
+  institutional pressure) rather than personal, and the couple's dealings with the Bakers' business
+  run through Ch2–Ch8.
 - *Horace* — patron and patronizer: the purse, the "counsel," and the remark that he "couldn't
   possibly allow a woman from old nobility to muck with the masses" (Ch8). She manages him by
   turning his condescension into flattery (Ch8).
