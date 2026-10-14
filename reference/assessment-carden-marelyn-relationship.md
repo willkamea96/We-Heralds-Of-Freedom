@@ -496,21 +496,22 @@ as the primary site where the novella's freedom theme is tested at intimate scal
 abstraction (a political principle) but practice (a marriage chosen and maintained at personal
 cost).
 
-### 8b. Arcane Tongue in Relationship Scenes
+### 8b. Arcane Tongue and the Relationship
 
-The worldbuilding's truth-enforcement mechanism appears in several relationship-adjacent scenes:
+The worldbuilding's truth-enforcement mechanism is notably absent from scenes between Carden and
+Marelyn. Marelyn is not an Arcanist, and Carden never uses Arcane Tongue to address her directly.
+The Arcane Tongue appears in relationship-adjacent scenes — Carden's confrontation with Julian in
+the Shadow World (Ch5), where he defends his marriage and his loyalty to Alfainia in a language
+that enforces sincerity; the Ch7 creedal exchange with Edward; and Carden's Arcane Tongue advocacy
+for Horace in Ch8 — but these are directed at other Arcanists, not at Marelyn.
 
-- Carden uses Arcane Tongue to challenge Julian at the Oakmoore estate (Ch4), in a scene that is
-  simultaneously a family confrontation and a relationship-defining moment — Carden defends Marelyn
-  to his parents in a language that enforces sincerity.
-- Carden's prayer at Saint Alfred's (Ch6) names Marelyn in Arcane Tongue, sealing their shared
-  commitment in the truth-enforcing register.
-- Marelyn's Ch7 reveal — her account of the overnight deliberation and the choices she made — is
-  delivered in ordinary speech, not Arcane Tongue. The absence is structurally significant:
-  Marelyn's sincerity is established through behavioral evidence and dramatic irony rather than
-  through the worldbuilding's truth-enforcement mechanism. The reader trusts her account because
-  the six-chapter pattern of coded communication has made her behavioral signals legible, not
-  because the world's magic verifies it.
+This absence is structurally significant. The relationship's sincerity is established through
+behavioral evidence and dramatic irony rather than through the worldbuilding's truth-enforcement
+mechanism. Carden's Ch6 prayer at Saint Alfred's Cathedral — "Father in Heaven, Son above, Marelyn
+and I are ready to be happy" (ch06:166) — is delivered in ordinary speech, not Arcane Tongue, and
+Marelyn's Ch7 reveal is likewise in ordinary speech. The reader trusts these declarations because
+the six-chapter pattern of coded communication has made both characters' behavioral signals
+legible, not because the world's magic verifies them.
 
 ### 8c. The Relationship as Mirror of Parallel Sacrifices
 
@@ -533,9 +534,10 @@ The relationship's integration with the novella's thematic structure meets the u
 requirement that themes be "embedded in the narrative rather than appended to it." The
 arranged-to-chosen marriage is not a metaphor for the freedom theme — it is the freedom theme
 expressed at intimate scale. The structural parallel between the spouses' sacrifices, the Arcane
-Tongue's selective deployment in relationship scenes, and the Ch1/Ch8 verbal echo all demonstrate
-that the relationship's characterization is formally integrated with the novella's thematic
-argument rather than existing as a subplot with thematic resonance.
+Tongue's absence from the marriage's own scenes (Carden never truth-enforces Marelyn; their
+sincerity is established behaviorally), and the Ch1/Ch8 verbal echo all demonstrate that the
+relationship's characterization is formally integrated with the novella's thematic argument rather
+than existing as a subplot with thematic resonance.
 
 ---
 
