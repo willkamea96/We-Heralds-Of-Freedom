@@ -627,9 +627,10 @@ receiving active narrative treatment and the Profane system existing only in ref
 - **Arcane Tongue**: A truth-enforcing language only Arcanists can speak and understand (ch01:140).
   Demonstrated through Scripture encounters (Ch1, Ch5, Ch7), interpersonal confrontation (the
   Carden–Julian exchange, ch05:146–176), and creedal declaration (ch07:191–197).
-- **Zeal Magic**: Faith-derived power used for morale influence. Demonstrated through Laplace's
-  subordination of a crowd (ch02:30–38), Carden's confrontation with Julian (ch05:146–152), and
-  Carden's encouragement of reconstruction volunteers (Epilogue:14–16).
+- **Zeal Magic**: Faith-derived power used for morale influence. Demonstrated through Carden's
+  intimidation of Laplace during a tax-fraud confrontation in his office (ch02:30–38), Carden's
+  confrontation with Julian (ch05:146–152), and Carden's encouragement of reconstruction
+  volunteers (Epilogue:14–16).
 - **Law Magic**: Used for interrogation and compulsion (ch03:56–76).
 - **Armaments Magic**: Julian manifests full-plate armor (ch05:154–160).
 - **Shadow Magic**: An artifact creates access to the Shadow World (ch05:62–80).
