@@ -188,9 +188,11 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
   as supervisors. Horace: "Welcome to the trenches. Have fun."
 - **Epilogue – Magic Is Self-Actualization: the integrated Carden.** A year on, he works
   shoulder-to-shoulder with the volunteer crews and uses Zeal Magic to appreciate and buoy them
-  rather than to intimidate. Marelyn is present at the construction site, arguing with a municipal
-  contractor over fraudulent invoices; Carden winks at her and she sneaks a smile back. He notes
-  that Horace convinced the Black Hounds to train its Arcanist recruits in Windbury's
+  rather than to intimidate. He especially thanks the Elves for their labor, noting it is "hardly
+  fair their snobbish masters sipping afternoon tea right now reaped the credit" and regretting he
+  cannot properly compensate them. Marelyn is present at the construction site, arguing with a
+  municipal contractor over fraudulent invoices; Carden winks at her and she sneaks a smile back. He
+  notes that Horace convinced the Black Hounds to train its Arcanist recruits in Windbury's
   reconstruction work. He mentors Private Renee Rose — the instigator he once confronted and saw
   taken away, now with boyishly-short auburn hair, military fatigues, and a Black Hounds tattoo on
   her right wrist — telling her "You'll be running these without my supervision in no time." In a
@@ -202,10 +204,30 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
   "I have no doubt you'll crack it. You always do." The next morning, the couple read newspaper
   headlines at Windbury Square: the world is at war — the Creator and His empire have started wars
   against almost every Great Power simultaneously; Alfainia never fired a shot and yet enjoys peace.
-  An Alfainian aerial-fleet glides overhead toward the sea. The novella closes with Carden's
-  reflection: "The vagaries of history." The glossary defines self-actualization as embodying "the
-  ideals of their Calling"; Carden, an Ideals Arcanist, now lives them. (No Tier advancement is
-  shown on-page; the connection is thematic.)
+  An Alfainian aerial-fleet glides overhead toward the sea. Carden reflects on "the foolishness of
+  mortal planning in the face of history's great vagaries." Horace gives them the day off; the
+  couple visit Windbury Cathedral, where their friends run welfare operations. In a transept they
+  find civilian-clothed Renee, her auburn-haired Human father and green-haired Elf mother, and a
+  congregation of Elves, half-Elves, and Humans praying before a stained-glass depiction of
+  Lucifer's Rebellion — prompted by the revelation six months prior that Lucifer reappeared and
+  pronounced in Arcane Tongue that the Creator, the God of War, and Lucifer were all mortal
+  Arcanists the Father uplifted into divinity, and that the Father decreed Elfkind's millennia of
+  penance over. Alfainia, the Commonwealth, and the larger world rejected that mandate "quite
+  explicitly." Renee brings Carden before the children to answer questions. An Elf girl asks "why
+  aren't we free?" and Carden gives the simple answer — leaders still worship the God of War, who
+  proclaimed the Father's decree null; Horace and every civic leader received a Scripture from the
+  God of War to that effect — and the deeper answer: civilization depends on Elf labor. As he speaks
+  of what Windbury has built together regardless of Elf or Human, master or slave, the Arcane
+  whispers again and Carden recognizes the missing piece. He pours Zeal Magic into his words and
+  pronounces in Arcane Tongue the Father's three creeds: "Mankind are the Heralds of Freedom.
+  Dwarfkind are the Pillars of Iron. And Elfkind are the Reapers of Magic" — declaring those creeds
+  never meant one stood superior but that all stood stronger united. Sky-blue Magic leaks from every
+  pore; Renee's Zeal Magic layers over his. The crowd cheers, and Carden self-actualizes: the Arcane
+  pronounces "Be a Zealot no longer. Be a Visionary." He advances to Tier Three and gains Visionary
+  Magic — the power to conjure things encountered in the past as Imaginary Objects. He conjures a
+  deep-crimson purse with silver buttons that Marelyn sold the year before; her eyes glisten. Horace
+  grips his arm and announces "He's done it! Carden's self-actualized! He's Tier Three!" Marelyn
+  lunges and embraces Carden before the crowd reaches him.
 
 **Recurring through-lines**
 - *Duty → conscience (the Black Hound tattoo).* Ch2 he rubs his own wrist; Ch3 the soldiers'
@@ -217,16 +239,19 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
   to the credential for principled dissent and, finally, for reintegration.
 - *Marriage (performative → chosen).* "Modicum of intimacy for the public eye" (Ch1) → "Come eat"
   and cooking as his language of care (Ch1, 2, 4, 5, 6, 7) → new rings (Ch4) → the Ch5 promise → "We
-  made the right choice" (Ch7) → "Let's make this work" (Ch8). Blind spots: he repeatedly misreads
+  made the right choice" (Ch7) → "Let's make this work" (Ch8) → daily domestic partnership and
+  Marelyn's embrace at his self-actualization (Epilogue). Blind spots: he repeatedly misreads
   Marelyn (Ch2 Annie/Roger, Ch4 the apology, Ch7 the divorce papers) and never checked the household
   accounts (Ch4, Ch7, Ch8).
 - *Faith.* Reflexive prayers (Ch1, Ch3) → declared in Arcane Tongue (Ch5) → lukewarm (Ch6) → tested
-  and anchored (Ch7) → "rewarded" (Ch8). The contrast between the Scripture's Father who gives bread
-  and the earthly parents who give rebuke is what moves him past his parents' hold; he then takes
-  the provider's role himself (feeding Marelyn, running the welfare scheme).
+  and anchored (Ch7) → "rewarded" (Ch8) → the Father's three creeds pronounced in Arcane Tongue as
+  the foundation of his self-actualization speech (Epilogue). The contrast between the Scripture's
+  Father who gives bread and the earthly parents who give rebuke is what moves him past his parents'
+  hold; he then takes the provider's role himself (feeding Marelyn, running the welfare scheme).
 - *Zeal Magic.* A tool of the state that manufactures doubt (Laplace, the crowd; Ch2) → a
   truth-forcing weapon against Julian (Ch5) → a vehicle for sincere speech (Ch7) → encouragement
-  (Epilogue).
+  of the volunteer crews and a cathedral speech partly in Arcane Tongue during which sky-blue Magic
+  leaks from every pore and Renee's Zeal Magic layers over his (Epilogue).
 - *Stress tells.* Eye/eyelid twitch (Ch1, Ch2, Ch4, Ch5) and hand tremors (Ch1, Ch5, Ch6) mark
   suppressed strain; the twitch is not recorded after Ch5, and cigars (Ch1–3, Ch6) are not shown
   again after Ch6.
@@ -245,12 +270,17 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
 **Resolution and open threads**
 - Carden gains partnership, purpose, and community rather than wealth or rank; the broader war
   between the God of War and the Creator has broken out across multiple continents by the Epilogue's
-  close (newspaper headlines), though its final outcome remains unresolved. His self-actualization of
-  his Zealot Calling is imminent but incomplete — he hears the Calling's whisper but cannot identify
-  the missing piece.
-- An enslaved Elf healer treats his wound (Ch5) and enslaved Elves do skilled labor on his
-  reconstruction project (Epilogue); he gives thanks that affluent families loan them out, and the
-  arc never examines this.
+  close (newspaper headlines), though its final outcome remains unresolved. His self-actualization
+  of his Zealot Calling completes on-page: the Arcane pronounces him a Visionary (Tier Three), and
+  he demonstrates Visionary Magic by conjuring an Imaginary Object.
+- An enslaved Elf healer treats his wound (Ch5) and Elves do skilled labor on his reconstruction
+  project (Epilogue). The arc now examines Elf slavery directly: at the construction site he thanks
+  the Elves for their labor and acknowledges their masters reap the credit unfairly; in the
+  cathedral he tells the children that civilization depends on Elf labor, pronounces the Father's
+  three creeds in Arcane Tongue declaring all peoples stand stronger united, and calls on Windbury
+  to model a community built on the Father's teachings. The question of Elfkind's legal
+  emancipation remains open — Alfainia and the Commonwealth rejected the Father's decree, and the
+  God of War sent a Scripture to every civic leader countering it.
 - His combat trauma and the Ch3 killings are acknowledged (Ch3; Ch6 "Windbury Square lined in black
   shrouds came to mind") but never explicitly processed; the intrusive combat memories appear
   on-page in Ch1, Ch3, and Ch5 and not afterward.
@@ -317,7 +347,10 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
   Jane points at it while accusing her of seeking "the approbation of other married men" (Ch4),
   Marelyn clenches its strap when pushed (Ch4, Ch7), and in Ch8 she turns it into a charm for
   Horace. In Ch7 she sells the wall collection ("a lovely deal for my purses"), yet the indigo
-  purse is still with her at the dinner table and again in Ch8.
+  purse is still with her at the dinner table and again in Ch8. In the Epilogue, Carden conjures a
+  deep-crimson purse with silver buttons — one Marelyn sold the year before and one of the few from
+  her collection he vividly remembered — as his first Imaginary Object after self-actualizing; her
+  eyes glisten and tear up.
 - Her history with Roger Baker is never stated outright; it is built across Ch2, Ch4, Ch6 and Ch8.
   In Ch2, once Carden says Annie is "happily married to one Roger Baker," she describes Roger
   exactly ("black hair that looks brown under a certain light, fuzzy sideburns, deep brown eyes, a
@@ -546,11 +579,13 @@ choose over his job) and its mirror.
   "Let's make this work" (which Carden repeats back) answers her own Ch1 question. Her handling of
   Horace is the arc's last twist: the "proper lady" persona she once endured is now a tool she uses
   on purpose — the indigo purse, the flattery, the batted lashes — at the cost of her clenched
-  hands. In the Epilogue she is present across all four scenes: arguing with a contractor at the
-  construction site, walking home with Carden through the cold dusk, eating his mutton curry ("This
-  is sublime"), asking about his self-actualization ("I have no doubt you'll crack it. You always
-  do."), and drinking in the morning war headlines together at the newsstands — the co-equal
-  partnership in lived daily practice.
+  hands. In the Epilogue she is present throughout: arguing with a contractor at the construction
+  site, walking home with Carden through the cold dusk, eating his mutton curry ("This is sublime"),
+  asking about his self-actualization ("I have no doubt you'll crack it. You always do."), drinking
+  in the morning war headlines together at the newsstands, visiting Windbury Cathedral, and at the
+  cathedral coming to clasp his hand as he self-actualizes — her eyes glistening when he conjures
+  the deep-crimson purse she sold — before lunging to embrace him. The daily domestic partnership
+  and the closing embrace together mark the arc's culmination.
 
 **Recurring through-lines**
 - *Food and appetite.* Carden's cooking and "Come eat" (Ch2, Ch4, Ch6) are his language of care; her
@@ -605,7 +640,9 @@ choose over his job) and its mirror.
 **Resolution and open threads**
 - Marelyn gains a chosen partnership, a purpose and a place in Windbury, at the cost of her family's
   name and money and her purse collection; the Epilogue shows her working alongside Carden at the
-  construction site and sharing a domestic evening in their small rented flat.
+  construction site, sharing a domestic evening in their small rented flat, and embracing him at his
+  self-actualization in the cathedral after he conjures a purse from her sold collection as his
+  first Imaginary Object.
 - The Roger thread is never closed: the baker is not named, her feelings are never stated, Roger's
   prayer for her (Ch6) is never disclosed, and the Ch6 dinner stays as brief as she tells it.
 - Her family is left unresolved: the Winstons have disowned her (Ch7) and, per Julian, share the
@@ -690,6 +727,13 @@ choose over his job) and its mirror.
 - Warns Carden privately that Edward is furious over the tax exemptions (Ch6), setting up Carden's
   ultimatum.
 - Approves Carden and Marelyn's welfare-and-reconstruction proposal and hires them to run it (Ch8).
+- In the Epilogue, gives Carden and Marelyn the day off, noting the reconstruction projects are
+  "running better than I dared hope" and that Renee and the other recruits are "practically steering
+  the ship." He struggles to secure municipal funding from Edward and Charles. He appears in the
+  cathedral crowd during Carden's speech, clasps Carden's shoulder afterward, and announces Carden's
+  self-actualization to the crowd: "He's done it! Carden's self-actualized! He's Tier Three!" He
+  also received a Scripture from the God of War — along with every civic leader in Alfainia —
+  countering the Father's decree freeing Elfkind.
 
 ### Renee Rose
 - Introduced unnamed as the half-Elf instigator of the Windbury riot (Ch2: auburn hair, almond eyes,
@@ -698,9 +742,13 @@ choose over his job) and its mirror.
   Hounds... won't let such a talented Ideals Arcanist go to waste").
 - Reappears by name in the Epilogue as "Private Renee Rose," now with her auburn hair trimmed
   boyishly short, wearing military fatigues, and sporting a Black Hounds tattoo on her right wrist;
-  she leads a reconstruction labor crew under Carden's supervision — closing her arc from rioter to
-  soldier/public servant. Carden tells her "You'll be running these without my supervision in no
-  time."
+  she leads a reconstruction labor crew under Carden's supervision. Carden tells her "You'll be
+  running these without my supervision in no time." Later, in civilian clothes at Windbury
+  Cathedral, she is with her auburn-haired Human father and green-haired Elf mother among a
+  congregation praying before a stained-glass depiction of Lucifer's Rebellion. She brings Carden
+  before the Elf and half-Elf children to answer their questions about Elfkind's freedom. During
+  Carden's speech her Zeal Magic layers over his. Her arc closes from rioter to soldier/public
+  servant to a figure bridging the Elf and Human communities.
 
 ### Minor Windbury businesspeople (Ch8 welfare coalition)
 - **Jericho** — owns a textile factory ("Jericho's Clothiers").

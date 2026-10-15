@@ -15,11 +15,13 @@ heading paragraph through the paragraph immediately preceding the next heading (
 | 5 | Chapter Five – Relentless March Of History | `chapter-05.md` | 509 | 645 | 137 | 3,826 |
 | 6 | Chapter Six – Messy Implementations Of Righteousness | `chapter-06.md` | 646 | 752 | 107 | 3,025 |
 | 7 | Chapter Seven – When Faith Is Tested | `chapter-07.md` | 753 | 919 | 167 | 3,708 |
-| 8 | Chapter Eight – When Faith Is Rewarded | `chapter-08.md` | 920 | 1004 | 85 | 2,351 |
-| 9 | Epilogue – Magic Is Self-Actualization | `epilogue.md` | 1005 | 1017 | 13 | 850 |
+| 8 | Chapter Eight – When Faith Is Rewarded | `chapter-08.md` | 920 | 1004 | 85 | 2,997 |
+| 9 | Epilogue – Magic Is Self-Actualization | `epilogue.md` | 1005 | 1017 | 13 | 3,247 |
 | 10 | Glossary | `glossary.md` | 1018 | 1060 | 43 | 665 |
 
-**Total manuscript body:** 1,061 paragraphs (indices 0–1060), ~27,783 words across front matter, 8 chapters, epilogue, and glossary.
+**Total manuscript body:** 1,061 paragraphs (indices 0–1060), ~30,826 words across front matter, 8 chapters, epilogue, and glossary.
+
+> **Revision note:** Chapter Eight and the Epilogue have been substantially revised since the original docx extraction. The word counts above reflect the current manuscript files (`wc -w`). The Start¶, End¶, and ¶ Count values for those two sections (and consequently the Glossary's Start¶) still reflect the original docx and are no longer current.
 
 ## How boundaries were located
 
