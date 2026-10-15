@@ -16,7 +16,7 @@ structural risks exist at the craft level. It does not propose revisions.
 
 The manuscript consists of eight numbered chapters plus a four-scene Epilogue, framed by front matter
 (title, subtitle, and an epigraph line) and a non-narrative Glossary. Total manuscript length is
-~28,752 words; the narrative body (Ch1 through Epilogue) is ~28,066 words. Front matter contributes
+~29,739 words; the narrative body (Ch1 through Epilogue) is ~29,053 words. Front matter contributes
 21 words; the Glossary contributes 665 words.
 
 Chapter word counts:
@@ -30,13 +30,13 @@ Chapter word counts:
 | Ch5 – Relentless March Of History | 3,826 | 14.1% |
 | Ch6 – Messy Implementations Of Righteousness | 3,025 | 11.2% |
 | Ch7 – When Faith Is Tested | 3,729 | 13.3% |
-| Ch8 – When Faith Is Rewarded | 2,863 | ~10.2% |
-| Epilogue – Magic Is Self-Actualization | 1,286 | ~4.6% |
+| Ch8 – When Faith Is Rewarded | 2,997 | ~10.3% |
+| Epilogue – Magic Is Self-Actualization | 2,139 | ~7.4% |
 
-The range spans 1,286 (Epilogue) to 4,224 (Ch2) words. The three shortest sections — Ch3 (2,010),
-Epilogue (1,286), and Ch8 (2,863) — carry distinct structural functions: Ch3 is the crisis-escalation
-chapter, Ch8 is the resolution proposal, and the Epilogue is the coda. Their brevity is proportional
-to their roles.
+The range spans 2,010 (Ch3) to 4,224 (Ch2) words. The three shortest sections — Ch3 (2,010),
+Epilogue (2,139), and Ch8 (2,997) — carry distinct structural functions: Ch3 is the crisis-escalation
+chapter, Ch8 is the resolution proposal, and the Epilogue is the coda. Their relative brevity is
+proportional to their roles.
 
 The chapter-title system operates in two modes: thematic abstraction ("Our Definitions Of Freedom,"
 "Inexorable Machinery Of Empire," "Messy Implementations Of Righteousness") and paired structure
@@ -108,11 +108,11 @@ identifies as "the default" for character-driven novellas:
 
 ### Proportional analysis
 
-| Act | Chapters | Words | % of Narrative | Industry Guide (for ~28K words) |
+| Act | Chapters | Words | % of Narrative | Industry Guide (for ~29K words) |
 |---|---|---:|---:|---|
-| I | Ch1–Ch2 | 7,456 | ~26.6% | ~5,000–7,000 (17.8%–24.9%) |
-| II | Ch3–Ch6 | 12,732 | ~45.4% | ~13,000–17,000 (46.3%–60.6%) |
-| III | Ch7–Epilogue | 7,878 | ~28.1% | ~5,000–7,000 (17.8%–24.9%) |
+| I | Ch1–Ch2 | 7,456 | ~25.7% | ~5,000–7,000 (17.2%–24.1%) |
+| II | Ch3–Ch6 | 12,732 | ~43.8% | ~13,000–17,000 (44.8%–58.5%) |
+| III | Ch7–Epilogue | 8,865 | ~30.5% | ~5,000–7,000 (17.2%–24.1%) |
 
 Act I is slightly above the upper bound of the guideline range. Act II falls near the lower bound.
 Act III sits slightly above the upper bound, reflecting the expanded Ch8 and Epilogue.
@@ -165,9 +165,12 @@ time-skips maintain momentum without creating a sense of rushing or of arbitrary
   opens with Edward's ultimatum) creates the novella's strongest pacing hinge: the reader is carried
   across the chapter boundary by momentum alone.
 
-- **The Epilogue** (1,286 words, four scenes) is paced as a coda — it does not resolve new plot
-  complications but shows the consequences of prior choices in action. Its brevity signals
-  structural finality.
+- **The Epilogue** (2,139 words) is paced as a coda that expands beyond domestic resolution to
+  encompass both geopolitical context (newspaper war headlines, the aerial fleet) and new
+  worldbuilding exposition (Lucifer's revelation about the gods' mortal origins and the Father's
+  decree freeing Elfkind). Despite carrying more narrative content than the original Draft Zero
+  version, it retains the coda's structural finality — the new content deepens the resolution
+  rather than introducing new complications.
 
 ### Where pacing is at risk
 
@@ -189,13 +192,16 @@ time-skips maintain momentum without creating a sense of rushing or of arbitrary
   curry, Roger's Stock Exchange meeting, Marelyn's advice to "just do the right thing") are
   structurally analogous in beat, location, and function.
 
-- **Ch8** (2,863 words) carries a large structural burden: it must transition from Ch7's crisis,
+- **Ch8** (2,997 words) carries a large structural burden: it must transition from Ch7's crisis,
   establish the new domestic reality, introduce the welfare-program proposal, navigate the Horace
-  negotiation, and close on the move-in and domestic establishment. The café scene (ch08:4–60)
-  devotes approximately 800 words to setup before the walk and the Horace proposal. The proposal
-  scene moves quickly from concept to approval; Horace's objection about unresolved riot suspects
-  receives one exchange before Carden's counterargument closes the negotiation. The fourth scene
-  (the flat) grounds the chapter's reconstructive logic in domestic specificity.
+  negotiation, deliver the new economic reality (Horace's transparency about lower pay and the
+  wartime budget strain), and close on the move-in and domestic establishment. The café scene
+  (ch08:4–60) devotes approximately 800 words to setup before the walk and the Horace proposal.
+  The proposal scene moves quickly from concept to approval; Horace's objection about unresolved
+  riot suspects receives one exchange before Carden's counterargument closes the negotiation.
+  Horace's new transparency about the coming war demanding "every last cone Alfainia has to offer"
+  and the resulting two-thirds salary partially bridges the external-pressure gap identified in §7a.
+  The fourth scene (the flat) grounds the chapter's reconstructive logic in domestic specificity.
 
 **Assessment**: The manuscript feels native to its length. The story's scope — one protagonist's arc
 across a year of political and personal crisis — is proportional to ~28,000 words; no subplot or
@@ -402,11 +408,14 @@ narrative words without redundancy or under-service?
   scene, the decision scene, the termination scene, and the dinner scene each earns its position
   and length.
 
-- **Epilogue (1,286 words)**: Four scenes that resolve the vocation arc (Carden supervising
-  reconstruction and mentoring Renee), the marriage arc (the self-actualization conversation and
-  domestic closing), and the external-pressure thread (newspaper war headlines, aerial fleet, and
-  Carden's geopolitical reflection) in a compressed coda. The brevity is structurally appropriate —
-  the Epilogue shows consequences, not new development.
+- **Epilogue (2,139 words)**: Resolves the vocation arc (Carden supervising reconstruction and
+  mentoring Renee), the marriage arc (the self-actualization conversation and domestic closing), and
+  the external-pressure thread (newspaper war headlines, aerial fleet) while delivering significant
+  new worldbuilding (Horace's budget struggles with Charles Winston; Windbury Cathedral's
+  well-functioning welfare operation; Lucifer's revelation about the gods' mortal origins and the
+  Father's decree freeing Elfkind). The expanded content earns its word count by grounding the
+  domestic resolution in the novella's broader institutional and theological context without
+  introducing new plot complications.
 
 **Sections where economy is more questionable:**
 
@@ -528,37 +537,40 @@ character-driven structure, but an editorial assessment may find that the flotil
 benefit from additional space to allow the geopolitical escalation to register with the weight the
 subsequent chapters assume it carries.
 
-### 7d. Termination/Resignation Discrepancy
+### 7d. Termination/Resignation Discrepancy — Resolved
 
-Ch7 dramatizes a termination: Edward offers the choice, Carden submits the signed termination
+~~Ch7 dramatizes a termination: Edward offers the choice, Carden submits the signed termination
 letter, Edward signs and dismisses him. The scene is unambiguous. However, Ch8 uses the word
 "resignation" (ch08:24), and earlier chapters include Carden's thoughts about resigning (ch01:96,
-ch06:10).
+ch06:10).~~
 
-The discrepancy affects the arc's narrative meaning. Termination communicates institutional rejection
-of Carden's principled stance — the system expels him. Resignation communicates voluntary departure —
-Carden leaves the system. The Ch7 scene supports the termination reading (Edward controls the
-process, signs the letter, says "You are dismissed"), and this reading makes the arc stronger: the
-protagonist's integrity provokes institutional expulsion rather than merely leading to a voluntary
-exit. The Ch8 reference to "resignation" muddies this structural clarity.
+**Corrected in the revised manuscript.** Ch8 now reads "accepting termination" (ch08:24), consistent
+with Ch7's unambiguous termination scene. The remaining Ch1 and Ch6 references to Carden *thinking*
+about resigning are not discrepancies — they occur before the Ch7 event and reflect his internal
+deliberations at the time, not a description of what ultimately happened. The arc's narrative meaning
+is now clear throughout: termination communicates institutional rejection of Carden's principled
+stance — the system expels him — and no subsequent reference muddies that structural clarity.
 
-**Assessment**: Moderate risk. The discrepancy does not affect the plot's logic — Carden is out of
-the civil service either way — but it touches the climactic scene's structural meaning, which
-matters for a character-driven novella where the protagonist's relationship to institutional
-authority is the central question.
+**Assessment**: Resolved. No remaining risk.
 
-### 7e. Liberation Chronology Inconsistency
+### 7e. Liberation Chronology Inconsistency — Substantially Resolved
 
-Multiple references to Alfainia's liberation give conflicting timelines: "seventy-four-years ago"
+~~Multiple references to Alfainia's liberation give conflicting timelines: "seventy-four-years ago"
 (ch01:52), "fifty, sixty years ago" (ch04:168), "the past fifty-four years" (ch04:170), "more than
 five-decades ago" (ch07:133), "more than a hundred years ago" (ch04:168). The nine-year occupation
-(ch05:128) adds a further variable.
+(ch05:128) adds a further variable.~~
 
-**Assessment**: Low–moderate risk. The inconsistency does not affect the plot — the reader does not
-need to reconstruct a precise timeline — but it may undermine the reader's trust in the manuscript's
-factual reliability, which matters for a story whose worldbuilding depends on institutional and
-historical detail. This is the kind of inconsistency copyeditors flag and editors expect to see
-resolved before acquisition.
+**Corrected in the revised manuscript.** Ch1 now reads "fifty-four-years ago" (ch01:52). This aligns
+with Ch4's "the past fifty-four years" (ch04:170), is consistent with Ch7's "more than five-decades
+ago" (ch07:133), and falls within the range Charles Winston loosely gives as "fifty, sixty years ago"
+(ch04:168). The "more than a hundred years ago" reference (ch04:168) refers to Saint Alfred's
+founding/liberation from "the old Imperium's rot" — a distinct, earlier event predating the
+Imperium Divinus occupation and the liberation compact. The nine-year occupation (ch05:128) adds
+historical depth without contradicting the corrected timeline.
+
+**Assessment**: Low risk. The primary inconsistency (Ch1's figure not matching Ch4 and Ch7) is
+resolved. The remaining spread between Charles Winston's loose "fifty, sixty years" and the precise
+"fifty-four" is naturalistic — a character rounding in conversation — rather than a discrepancy.
 
 ---
 
@@ -568,12 +580,12 @@ resolved before acquisition.
 
 | Dimension | Assessment |
 |---|---|
-| **Architecture** | Eight chapters plus a four-scene Epilogue; chapter-title system communicates structural information; no internal divisions interrupt the single-POV immersion |
+| **Architecture** | Eight chapters plus an Epilogue; chapter-title system communicates structural information; no internal divisions interrupt the single-POV immersion |
 | **Chronological design** | Strictly linear, with clearly signaled time-skips; the year-long timeline is proportional to the novella format |
 | **Character-driven engine** | A three-axis internal transformation (faith, marriage, vocation) converging in a single climactic scene; the external conflict functions as pressure, not engine — precisely the structure the market values |
 | **Recurring structural devices** | Seven scene patterns and nine verbal echoes provide thematic continuity across the episodic chapter structure without requiring explicit authorial commentary |
 | **Plot thread management** | Eight threads, six resolved, two deliberately left open; no thread is introduced and abandoned |
-| **Narrative economy** | No section reads as padding; no character doubles another's function; the manuscript uses its ~28,000 narrative words without redundancy |
+| **Narrative economy** | No section reads as padding; no character doubles another's function; the manuscript uses its ~29,000 narrative words without redundancy |
 | **Resonant ending** | The Epilogue shows the consequences of the protagonist's choices in action — vocation, marriage, and community as lived daily reality — satisfying the industry standard's requirement that the reader "feel the protagonist has changed or arrived somewhere meaningful" |
 
 ### What Requires Attention
@@ -584,15 +596,15 @@ resolved before acquisition.
 | **Dinner-scene parallelism** | Low | Three structurally analogous dinner scenes in three consecutive chapters (Ch5–Ch7) may register as mechanical patterning |
 | **Ch3 compression** | Moderate | The shortest chapter carries the densest event load; the Imperial flotilla receives approximately 500 words for a major geopolitical escalation |
 | **Act II compression** | Low–Moderate | Act II (Ch3–Ch6, 12,732 words) falls near the industry standard's lower bound for the middle section of a ~28K novella; the reflective interiority the novella format affords is compressed in the rising-action chapters |
-| **Termination/resignation discrepancy** | Moderate | The climactic termination (Ch7) is referred to as a "resignation" (Ch8); the distinction affects the arc's narrative meaning |
-| **Liberation chronology** | Low–Moderate | Conflicting dates for Alfainia's liberation history may undermine the reader's trust in the manuscript's historical worldbuilding |
+| **Termination/resignation discrepancy** | Resolved | ~~The climactic termination (Ch7) was referred to as a "resignation" (Ch8)~~ — corrected in the revised manuscript; Ch8 now reads "accepting termination" |
+| **Liberation chronology** | Low | ~~Conflicting dates for Alfainia's liberation history~~ — substantially resolved; Ch1 now reads "fifty-four-years ago," aligning with Ch4 and Ch7 references |
 
 ### Overall
 
 The narrative structure of *We Heralds of Freedom* meets the craft expectations of the upmarket
 adult character-driven fantasy novella market. Its architecture — single POV, linear chronology,
 eight chapters plus a coda, three-axis internal engine with external pressure — is structurally sound
-and proportionally well-distributed across its ~28,000 narrative words. The manuscript's worldbuilding efficiency — assessed in detail in
+and proportionally well-distributed across its ~29,000 narrative words. The manuscript's worldbuilding efficiency — assessed in detail in
 `reference/evaluation-theme-and-worldbuilding.md` — is a structural strength: five integrated
 delivery mechanisms create a lived-in secondary world without exposition blocks. The recurring
 structural devices
@@ -603,21 +615,26 @@ upmarket editors and agents associate with literary sensibility in genre fiction
 The story feels native to its length. It is neither a compressed novel (no subplot or character feels
 imported from a larger work) nor an inflated short story (no section is padded beyond its structural
 function). Its scope — one protagonist's arc across a year of political and personal crisis — is
-proportional to ~28,000 words.
+proportional to ~29,000 words.
 
 The external-pressure discontinuity, previously identified as the most consequential structural
 note, is now contained. The war with Imperium Divinus provides escalating pressure through seven of
 the manuscript's nine narrative sections, vanishes from Ch8, and returns in the Epilogue through
 newspaper headlines reporting a world war across multiple continents, an Alfainian aerial fleet, and
 Carden's closing geopolitical reflection. The gap is therefore limited to a single chapter (Ch8)
-rather than the entire resolution. Ch8's silence remains a minor structural concern — the
-reconstruction is proposed without acknowledging the wartime context that made it necessary — but
-the Epilogue's reintroduction of the war thread places the manuscript's resolution strategy closer
-to the industry standard's expectation that character-driven novellas acknowledge the external
-world they have built, even when declining to resolve it. The remaining structural risks —
-dinner-scene parallelism, Ch3 compression, the termination/resignation discrepancy — are
-characteristic of novella-form compression and do not individually threaten the manuscript's
-viability at the query stage.
+rather than the entire resolution. Ch8 now partially bridges this gap through Horace's reference to
+the war demanding "every last cone Alfainia has to offer" and the resulting budgetary strain that
+limits Carden and Marelyn's salaries. The Epilogue's reintroduction of the war thread places the
+manuscript's resolution strategy closer to the industry standard's expectation that character-driven
+novellas acknowledge the external world they have built, even when declining to resolve it.
+
+Two previously identified structural risks have been resolved. The termination/resignation
+discrepancy (formerly Moderate risk) is corrected: Ch8 now reads "accepting termination," consistent
+with Ch7's unambiguous termination scene. The liberation chronology inconsistency (formerly
+Low–Moderate risk) is substantially resolved: Ch1 now reads "fifty-four-years ago," aligning with
+Ch4's and Ch7's references. The remaining structural risks — dinner-scene parallelism, Ch3
+compression — are characteristic of novella-form compression and do not individually threaten the
+manuscript's viability at the query stage.
 
 ---
 

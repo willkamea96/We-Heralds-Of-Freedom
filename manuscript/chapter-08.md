@@ -21,7 +21,7 @@ Carden’s spine tingled fiercely from whatever crackled between the two women.
 
 Carden almost blurted out a thank you before a key detail crossed his mind. He flashed Marelyn a worried look. “Do we have enough money?”
 
-Marelyn hid a laugh and how was it possible she looked both amused and incredulous. “Did you ever consider our finances before submitting your resignation?”
+Marelyn hid a laugh and how was it possible she looked both amused and incredulous. “Did you ever consider our finances before accepting termination?”
 
 Carden’s face burned.
 
@@ -107,7 +107,7 @@ Marelyn scoffed with a smile and rolled her eyes.
 
 Horace stared out the window while leaning against the window-frame when Carden and Marelyn finally entered his office. Official documents scattered on desks, more red ink than blue scrawled across whiteboards, and many empty, coffee-stained cups on conference tables and counters. The smell of old paper, stale coffee, lingering cigar-smoke, and an undertone of sweat emphasized Horace’s circumstances.
 
-“I’m sorry for what happened, Carden,” Horace said without turning away from his contemplation of whatever snagged his attention outside. “If it’s any consolation, I tried to show Edward what you did accomplished miracles for Windbury’s people.”
+“I’m sorry for what happened, Carden,” Horace said without turning away from his contemplation of whatever snagged his attention outside. “If it’s any consolation, I tried to show Edward your efforts accomplished miracles for Windbury’s people. Unfortunately, the coming war demands every last cone Alfainia has to offer.”
 
 Horace finally turned to Carden and Marelyn. Carden nearly flinched at the sight of the deep bags under Horace’s eyes. Horace said in a flat, almost resigned tone, “Shame you and I must endure these times after everything we suffered on the mainland.”
 
@@ -161,7 +161,17 @@ Marelyn leaned towards Horace and batted her blonde eyelashes at him. “Horace,
 
 Horace briefly blushed but then regarded Carden and Marelyn with a very sober expression. He clasped his hands together, twiddled his thumbs, and his eyes took on a faraway look. Horace eventually pushed himself off his seat and fetched a bulging folder from a nearby cabinet. He placed it before Carden and Marelyn.
 
-“Consider your proposal approved. I’ll notify your friends personally. You both start tomorrow.”
+“Let’s be transparent, Carden, Marelyn. City Hall does have openings for such roles, and I would wholeheartedly support this initiative with you two at the helm, but the pay’s not great.” Horace handed Carden and Marelyn each a one-page job description. “The war effort’s forced me to trim a lot.”
+
+Carden winced at the figure. Two-thirds what he made as Special Commissioner of Income Tax. Even with Marelyn earning the same, for the first time in twenty-six years they needed to worry about rent. He never paid a single cone for the civil-servant flat Customs and Board provided after all.
+
+Carden glanced at Marelyn and she snuck a subtle nod back.
+
+“We’ll take it,” Carden said to Horace over his shoulder.
+
+Horace grinned.
+
+“Consider your proposal approved, then. I’ll notify your friends personally. You both start tomorrow.”
 
 Horace rubbed Carden and Marelyn’s shoulders in a strong grip.
 

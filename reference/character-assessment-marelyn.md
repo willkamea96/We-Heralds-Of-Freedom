@@ -171,7 +171,7 @@ Marelyn's arc across the manuscript can be mapped as:
 
 This is a complete, internally coherent character arc that tracks from emotional imprisonment to
 self-liberation. Critically, Marelyn's arc is **thematically parallel to but distinct from Carden's
-own**. Where Carden's arc moves from bureaucratic compromise to principled resignation (faith and
+own**. Where Carden's arc moves from bureaucratic compromise to principled termination (faith and
 vocation), Marelyn's moves from performative compliance to authentic self-determination (identity
 and marriage). They converge at the same destination — choosing integrity at personal cost — but
 arrive by different paths.

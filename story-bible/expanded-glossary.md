@@ -105,7 +105,7 @@ rather than "Eyael"), consistent with Eyael functioning as an out-of-universe/gl
 
 **Father** — one of the deities in Eyael's pantheon of gods.
 → Carden's (and originally the Winstons') faith; the novella's emotional and thematic throughline,
-culminating in Carden's Ch7 cathedral experience and resignation on principle "because the Father
+culminating in Carden's Ch7 cathedral experience and termination on principle "because the Father
 teaches us love is the greatest commandment." See `magic-system.md` → "Pantheon" and
 `characters.md` → "Alfred."
 
@@ -176,7 +176,7 @@ shadows the Imperial flotilla off Windbury in Ch3.
 **Self-actualization** — a lived, experiential process where an Arcanist or Profaner must embody and
 live the ideals of their Calling to progress it and thus ascend to the next Tier's Calling.
 → Gives the Epilogue its title ("Magic Is Self-Actualization") and is the implicit mechanism behind
-Carden's visibly surer, calmer command of Zeal Magic after his Ch7 resignation — power following
+Carden's visibly surer, calmer command of Zeal Magic after his Ch7 termination — power following
 from lived conviction rather than preceding it. See `magic-system.md`.
 
 **Spawning** — the Aetheric phenomena wherein a Worldheart's Aether coalesces into an Aetheric

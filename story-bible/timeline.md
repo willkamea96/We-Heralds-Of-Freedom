@@ -7,16 +7,16 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
 ## Deep background (before the story opens)
 - **~100+ years ago** (per Charles Winston, loosely) — Saint Alfred leads Alfainia's founding/liberation
   from "the old Imperium's rot"; the nation is named after him.
-- **~74 years before Ch1** — The historic compact between Mankind ("Heralds of Freedom") and
+- **~54 years before Ch1** — The historic compact between Mankind ("Heralds of Freedom") and
   Dwarfkind ("Pillars of Iron") is struck, backed by the God of War, marking Alfainia's liberation
   from Imperium Divinus's nine-year occupation. Julian and Jane Oakmoore, Imperial colonists, choose
   to stay and are left with nothing when Imperium Divinus withdraws; they rebuild as model citizens
   and found Oakmoore Industries.
-- **~74 years before Ch1** (same period as the liberation) — Saint Alfred vanishes "during Alfainia's
+- **~54 years before Ch1** (same period as the liberation) — Saint Alfred vanishes "during Alfainia's
   liberation" (Ch7), reportedly embittered that Alfainia secured its freedom via the God of War
-  rather than the Father. (Charles Winston loosely says "fifty, sixty years ago" in Ch4, but Ch1's
-  precise "seventy-four-years ago" and Ch7's "more than five-decades ago" both place the event at
-  the liberation itself.)
+  rather than the Father. Ch1's precise "fifty-four-years ago" aligns with Ch4's "the past
+  fifty-four years" (ch04:170) and is consistent with Ch7's "more than five-decades ago" and
+  Charles Winston's loose "fifty, sixty years ago" (Ch4).
 - **Teenage years, then the army (before the arranged marriage)** — As teenagers in Windbury
   Cathedral, Carden and Annie vow to marry once Carden returns from the army (Ch6). Carden then
   serves multiple combat tours on the mainland ("before we married," Ch1) with the 309th Infantry
@@ -192,11 +192,42 @@ inferred from those markers, starting arbitrarily at "Year 0" for the investitur
   Square and drink in the headlines: "WORLD AT WAR!" — the Prajnese continent ablaze from a Dharmee
   Raj civil war, Zaltaclan foiling Imperial offensives in the Ihtoacan continent, Imperial forces in
   retreat across the Tianxianese continent, Alfainia and the Commonwealth supporting all wars against
-  tyranny. The Creator and His empire started wars against almost every Great Power simultaneously;
-  Alfainia never needed to fire a shot and yet enjoys peace. Horns blare as an Alfainian aerial-fleet
-  glides overhead toward the sea — the fruits of Edward Cook's three years of high taxes. The novella
-  closes with Carden's reflection: "The vagaries of history."
+  tyranny. The Creator and His empire at war against three Great Powers simultaneously; Alfainia and
+  Sarh never lifted a finger — the Creator did that to Himself. An Alfainian aerial fleet glides
+  overhead toward the sea for routine patrol. Carden reflects on the foolishness of mortal planning
+  in the face of history's great vagaries.
+- Horace tells Carden and Marelyn everything is running better than he dared hope. He praises
+  Carden's training of Renee Rose and the other recruits, noting they are practically steering the
+  ship. Carden requests raises for himself and Marelyn. Horace laughs but notes his biggest problem
+  is getting municipal funding from Edward — he slaps a Parliamentary budgetary file with Charles
+  Winston's name on it against his desk. Horace tells them to take the day off while he handles the
+  politicking. As they leave, Marelyn elbows Carden for indulging Horace's misogynistic remark about
+  convincing women; Carden defends himself by citing the raises he's trying to secure. Marelyn
+  retorts that Horace's attitude is why no woman would marry him.
+- Carden and Marelyn walk to Windbury Cathedral. The exterior grounds now host orderly queues of
+  welfare recipients at cobblers, dentists, doctors, soup kitchens, and tailors — no longer exuding
+  the desperate edge of poverty, just dour-faced, hardworking folk in need of some help. Police
+  officers patrol helpfully rather than harmfully. Inside, Annie, Roger, Jericho, Mary, and their
+  associates run the welfare operation so effectively that Carden and Marelyn are politely shooed
+  out — none need their help today.
+- In a transept, Carden and Marelyn find Renee, her auburn-haired Human father and green-haired Elf
+  mother, and a large group of Elves, half-Elves, and Humans kneeling in prayer before a
+  stained-glass window depicting Lucifer's Rebellion — when Lucifer and the ancient Elves rose
+  against the Father's world-order. Six months earlier, the supposedly imprisoned Lucifer
+  dramatically reappeared in the Zhang Dynasty's capital and pronounced a revelation in Arcane
+  Tongue that every Arcanist in Alfainia (and from later reports, all Alfainia) heard despite the
+  distance: the Creator was a Human named Gabriel Angelos; the God of War was a Dwarf named Davud
+  Abshalom; and Lucifer himself was an Elf named Athanásios toû Zenonos — all extremely powerful
+  Arcanists the Father uplifted into divinity as rewards for their service, only for all three to go
+  astray. What the Father gave, so could the Father take — as evidenced by Lucifer's own millennia of
+  imprisonment, now redeemed by the Father to be His prophet.
+- Lucifer pronounced the Father decreed Elf-kind's millennia of penance as slaves over. The Father
+  marked Elfkind redeemed. Elfkind was free. Except Alfainia and most of the world never
+  acknowledged it — the God of War commanded otherwise and Alfainia's Parliament and upper class
+  obeyed. Institutions and prejudice had not yet caught up to divine mandate. Carden's eyes dart
+  between the slave-tattoos on every Elf's right wrist.
 - The broader war with Imperium Divinus has broken out across multiple continents by the Epilogue's
   close, though its final outcome remains unresolved. Carden's self-actualization of his Zealot
   Calling is described as imminent but incomplete. The Epilogue's focus is the personal/local
-  resolution of Carden and Marelyn's marriage and Carden's renewed faith and purpose.
+  resolution of Carden and Marelyn's marriage, Carden's renewed faith and purpose, and the new
+  revelation about Elf slavery's divine origins and its divinely decreed end.

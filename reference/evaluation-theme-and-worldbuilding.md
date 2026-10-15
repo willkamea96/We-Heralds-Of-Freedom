@@ -351,7 +351,7 @@ claims are tested. This is a significant craft achievement for a Draft Zero manu
 
 ## 5. Thematic Risks
 
-### 5a. The Enslaved Elf Labor Contradiction (High Risk)
+### 5a. The Enslaved Elf Labor Contradiction (Moderate Risk — Revised from High)
 
 The manuscript's primary thematic claim is freedom — exercised through integrity, tested through
 personal cost. Its protagonist is defined by his refusal to participate in institutional injustice.
@@ -369,33 +369,55 @@ Within this thematic structure, enslaved Elf labor appears at three points:
   families "loan some of their Elf slaves" to help with municipal work (Epilogue:10). He thanks the
   Father for their availability.
 
-The Epilogue instance is the most thematically consequential. It occurs in the scene designed to
+The Epilogue instance remains thematically consequential. It occurs in the scene designed to
 demonstrate Carden's self-actualization — the culmination of the freedom/integrity arc. Within
 this scene, the protagonist whose arc is defined by principled refusal of institutional injustice
-supervises enslaved labor and expresses gratitude for its availability. The narration does not
-register this as a tension. The same scene that presents Carden's transformation of
-mainland-pacification skill into community-building skill presents enslaved people performing the
-skilled labor under his supervision.
+supervises enslaved labor and expresses gratitude for its availability.
 
-The manuscript's title claim — "Heralds of Freedom" — designates Mankind as freedom's agents.
-The Epilogue shows Mankind's freedom built on Elf slavery. This is a thematic contradiction that
-the text does not acknowledge, interrogate, or frame as a character blind spot.
+However, the revised Epilogue substantially recontextualizes this tension. New content establishes:
 
-**Assessment**: High risk. The contradiction operates at the intersection of the manuscript's
-primary theme (freedom), its protagonist's defining trait (integrity), its genre positioning
-(upmarket engagement with colonialism and economic justice), and its structural climax (the
-self-actualization scene). Whether the gap is an intentional characterization choice (Carden's
-blind spot, to be examined in subsequent work) or an unintentional omission, the Draft Zero text
-does not signal which reading the narrative intends. The absence of narratorial framing leaves the
-reader to choose between two interpretations — deliberate irony or authorial oversight — and the
-text provides no guidance. In the upmarket fantasy market, where institutional complicity is a
-defining concern of the genre's most prominent recent works, this gap is the kind of thematic risk
-that editors and agents are positioned to identify.
+1. **Divine origin and theological basis for Elf slavery.** Lucifer's revelation — pronounced in
+   Arcane Tongue (truth-enforced) — establishes that Elfkind's enslavement was a divinely decreed
+   penance for Lucifer's rebellion. The gods themselves were revealed as mortal Arcanists the Father
+   uplifted: the Creator was a Human (Gabriel Angelos), the God of War a Dwarf (Davud Abshalom),
+   and Lucifer an Elf (Athanásios toû Zenonos). This grounds the institution in the world's
+   theological architecture rather than leaving it as unexplained backdrop.
+2. **Divine revocation of the institution.** Lucifer pronounces the Father decreed Elfkind's penance
+   over — Elfkind is redeemed and free. The same divine authority that imposed slavery has now
+   revoked it.
+3. **The institutional gap between divine mandate and compliance.** Alfainia and most of the world
+   never acknowledged the decree. The God of War commanded otherwise, and Alfainia's Parliament and
+   upper class obeyed. Carden's narration registers the slave-tattoos on every Elf's wrist in the
+   prayer group — the persistence of institutional slavery despite divine emancipation.
+
+This recontextualization transforms the thematic assessment. The Epilogue no longer presents Elf
+slavery as an unexamined worldbuilding element; it presents it as a divinely revoked institution
+whose persistence is dramatized as a failure of institutional compliance — precisely the kind of
+institutional complicity the manuscript's thematic architecture is built to examine. The text now
+signals the reading the narrative intends: Carden's supervision of enslaved labor occurs in a world
+where divine authority has declared that labor's basis illegitimate, and the narration registers the
+gap by noting that institutions and prejudice have not caught up to divine mandate.
+
+The remaining risk is that Carden's own narration does not connect this tension to his personal
+integrity arc within the self-actualization scene. He registers the slave-tattoos in the prayer
+group but does not process the contradiction between his freedom-through-integrity arc and his
+supervision of enslaved labor in the construction scene. Whether this gap is a deliberate
+characterization choice (Carden's blind spot, to be examined in subsequent work within the Arcane
+Keys series) or an opportunity for further thematic integration is a question the revised text now
+frames more clearly than before.
+
+**Assessment**: Moderate risk, revised from High. The new Epilogue content substantially mitigates
+the thematic risk by providing divine origin, divine revocation, and institutional non-compliance
+as the worldbuilding context for Elf slavery. The contradiction is no longer between the
+manuscript's thematic claim and an unexamined backdrop; it is between the protagonist's personal
+integrity arc and an institution the narrative itself has marked as divinely illegitimate but
+institutionally persistent. This is a defensible thematic structure — particularly for a novella
+positioned as the first installment in a series — though the gap between divine decree and Carden's
+personal reckoning remains a question the text poses without fully answering.
 
 This risk was previously identified in `reference/character-assessment-carden.md` §4d at the
-characterization level. At the thematic level, the risk is amplified: the contradiction is not only
-a gap in Carden's characterization but a structural contradiction within the manuscript's central
-thematic argument.
+characterization level. The thematic risk is now proportional to the characterization risk rather
+than amplified beyond it.
 
 ### 5b. The External-Pressure Thread's Thematic Absence in Ch8 (Low–Moderate)
 
@@ -487,7 +509,7 @@ systems that demand compliance?) rather than five independent inquiries.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **Enslaved Elf labor contradiction** | High | The freedom/integrity arc's self-actualization scene features enslaved labor under the protagonist's grateful supervision without narratorial framing; creates a structural contradiction within the manuscript's central thematic claim |
+| **Enslaved Elf labor contradiction** | Moderate | The freedom/integrity arc's self-actualization scene features enslaved labor under the protagonist's supervision; the revised Epilogue establishes divine origin, divine revocation, and institutional non-compliance, transforming the contradiction from unexamined backdrop to a dramatized institutional gap — though Carden's personal narration does not connect this tension to his integrity arc within the construction scene |
 | **External-pressure thematic absence** | Low–Moderate | The war vanishes from Ch8 but returns in the Epilogue through newspaper headlines, an aerial fleet, and Carden's geopolitical reflection; the thematic gap is limited to a single chapter |
 | **Three-Scripture structural juxtaposition** | Low–Moderate | The theological progression relies on structural positioning without narratorial or character connection; the pattern exists for the attentive reader but is not guided |
 | **Thematic density** | Low | Five interlocking dimensions in ~28,000 words is high density for the novella form; works because of integration but the margin is narrow |
@@ -511,20 +533,20 @@ own logic. This is the "worldbuilding-as-metaphor" quality the industry standard
 distinguishing upmarket from commercial fantasy, and it is the feature that most credibly supports
 the manuscript's comp positioning against titles like *Babel* and *Piranesi*.
 
-The single most consequential thematic note is the enslaved Elf labor contradiction. In a manuscript
-whose central theme is freedom exercised through integrity, whose title designates Mankind as
-"Heralds of Freedom," and whose positioning identifies colonialism and economic justice as core
-thematic engagements, the presence of enslaved Elves performing skilled labor under the protagonist's
-grateful supervision in the self-actualization scene — without narratorial framing or character
-acknowledgment — creates a structural contradiction within the manuscript's own thematic argument.
-The contradiction is not between the protagonist and an external standard; it is between the
-manuscript's thematic claim (freedom through integrity) and its thematic evidence (freedom built on
-slavery). Whether this represents a deliberate ironic structure (Carden's blind spot, to be examined
-in subsequent work within the Arcane Keys series) or an unintentional thematic gap, the Draft Zero
-text does not signal which reading the narrative intends. This ambiguity is the assessment's most
-consequential finding because it touches the manuscript's primary theme at its structural climax,
-and because the upmarket fantasy market — defined in part by its engagement with institutional
-complicity — is precisely the readership most equipped to notice it.
+The most consequential thematic note is the enslaved Elf labor contradiction, now substantially
+mitigated by the revised Epilogue. In a manuscript whose central theme is freedom exercised through
+integrity, the presence of enslaved Elves performing skilled labor under the protagonist's
+supervision in the self-actualization scene previously created a structural contradiction the text
+did not acknowledge. The revised Epilogue provides the theological and institutional context that
+reframes this tension: Lucifer's Arcane Tongue revelation establishes the divine origin of Elf
+slavery (penance for the rebellion of the ancient Elves under Lucifer), the divine identities of
+the gods as mortal Arcanists uplifted by the Father, and the Father's decree revoking Elfkind's
+penance — a decree Alfainia's institutions have not yet honored. The text now signals which reading
+the narrative intends: the persistence of Elf slavery despite divine emancipation is an
+institutional failure the novella dramatizes rather than ignores. The remaining question — whether
+Carden's narration should connect this institutional gap to his personal integrity arc within the
+construction scene — is a defensible characterization choice for a first installment in a series,
+though it remains the assessment's most prominent finding at the Moderate risk level.
 
 ---
 
@@ -900,27 +922,50 @@ is evaluated at the thematic level in §3a; its structural delivery is assessed 
 
 ## 12. Worldbuilding Risks
 
-### 12a. Elf Slavery as Unexamined Worldbuilding (High Risk — Cross-Reference §5a)
+### 12a. Elf Slavery Worldbuilding (Moderate Risk — Revised from High; Cross-Reference §5a)
 
 The thematic risk assessed in §5a — the enslaved Elf labor contradiction — has a worldbuilding
 dimension. The Elf slavery system is presented as a functional worldbuilding element: Elves perform
-healing (ch05:200) and skilled construction labor (Epilogue:8–12). The slave-tattoo detail (ch03:76)
-establishes visual markers of the institution. However, the worldbuilding does not develop the
-system's institutional structure, its legal basis, its history, or its social mechanics. Elf slavery
-exists in the world as a given rather than as a constructed worldbuilding element whose origins,
-justifications, and implications are part of the world's architecture.
+healing (ch05:200) and skilled construction labor (Epilogue:8–12). The slave-tattoo detail (ch03:76,
+Epilogue) establishes visual markers of the institution.
 
-In a manuscript whose worldbuilding is otherwise tightly integrated with character — where the tax
-system, the religious architecture, and the military infrastructure are all rendered through
-Carden's professional and personal knowledge — the Elf slavery system's treatment as unexamined
-backdrop is conspicuous. Carden's narration registers the Elves' presence and their magical
-capabilities but does not process the institution through the same moral and professional lens he
-applies to every other system of power the narrative presents.
+The revised Epilogue substantially develops the system's worldbuilding architecture. Lucifer's
+revelation — pronounced in Arcane Tongue (truth-enforced) and heard by every Arcanist in Alfainia
+— establishes:
 
-**Assessment**: High risk. The worldbuilding gap compounds the thematic risk: a manuscript whose
-central worldbuilding achievement is a truth-enforcing language presents a social institution
-(slavery) without subjecting it to the same scrutiny the worldbuilding applies to theological claims,
-political authority, and institutional complicity.
+- **Origin**: Elfkind's enslavement as a divinely decreed penance for Lucifer's rebellion against the
+  Father's world-order. Lucifer himself was an Elf — Athanásios toû Zenonos — an extremely powerful
+  Arcanist the Father uplifted into divinity.
+- **Theological basis**: The same divine authority (the Father) that imposed the penance has now
+  revoked it. The gods themselves — the Creator (Human, Gabriel Angelos), the God of War (Dwarf,
+  Davud Abshalom), and Lucifer (Elf, Athanásios toû Zenonos) — are revealed as mortal Arcanists
+  uplifted by the Father, not primordial divinities. What the Father gave, so could the Father take.
+- **History**: Millennia of Elf slavery as penance, now declared over.
+- **Social mechanics**: Slave-tattoos on every Elf's right wrist as institutional markers; the God of
+  War's enforcement of the institution; Alfainia's Parliament and upper class complying with the God
+  of War's command rather than the Father's decree.
+- **Current crisis**: The Father has decreed Elfkind redeemed and free, but Alfainia and most of the
+  world have not acknowledged it — institutions and prejudice have not caught up to divine mandate.
+
+This worldbuilding development transforms the assessment. The Elf slavery system is no longer
+presented as unexamined backdrop; it is now a constructed worldbuilding element whose origins,
+theological justification, historical arc, and current institutional crisis are part of the world's
+architecture. The revelation is delivered through the Arcane Tongue truth-enforcement mechanism —
+the manuscript's central worldbuilding device — which subjects the institution's history and
+revocation to the same formal scrutiny the worldbuilding applies to theological claims and political
+authority elsewhere.
+
+The remaining worldbuilding gap is the system's legal and economic mechanics within Alfainia
+specifically: how slave-ownership operates in practice, what legal framework governs it, and what
+economic dependencies sustain it beyond the theological mandate. These details are consistent with
+material for subsequent work in the series rather than a worldbuilding failure within this novella's
+scope.
+
+**Assessment**: Moderate risk, revised from High. The revised Epilogue provides origin, theological
+basis, history, social markers, and the current institutional crisis of Elf slavery — a substantial
+worldbuilding development that integrates the institution into the world's theological architecture
+and subjects it to the same Arcane Tongue scrutiny applied to other power systems. The remaining gap
+is proportional to the novella form and the series positioning.
 
 ### 12b. Profane Magic's Absence from Active Narrative (Low Risk)
 
@@ -936,19 +981,32 @@ limited to reader awareness: a reader encountering the term "Arcane" may infer t
 counterpart and find its absence notable, but the manuscript does not promise a Profane presence it
 fails to deliver.
 
-### 12c. Liberation Chronology Inconsistency (Low–Moderate Risk — Cross-Reference)
+### 12c. Liberation Chronology Inconsistency (Low Risk — Substantially Resolved)
 
-Multiple references to Alfainia's liberation give conflicting timelines: "seventy-four-years ago"
+~~Multiple references to Alfainia's liberation give conflicting timelines: "seventy-four-years ago"
 (ch01:52), "fifty, sixty years ago" (ch04:168), "the past fifty-four years" (ch04:170), "more than
 five-decades ago" (ch07:133), "more than a hundred years ago" (ch04:168). This inconsistency was
 identified in `reference/evaluation-narrative-structure-and-plot.md` at the structural level. At the
 worldbuilding level, the conflicting dates affect the reader's ability to construct a coherent
 historical timeline for the world's political development — specifically, the sequence from Imperial
-occupation through the nine-year occupation (ch05:128) to liberation and contemporary independence.
+occupation through the nine-year occupation (ch05:128) to liberation and contemporary independence.~~
 
-**Assessment**: Low–moderate risk. The reader does not need a precise timeline to follow the
+~~**Assessment**: Low–moderate risk. The reader does not need a precise timeline to follow the
 narrative, but the inconsistency may undermine confidence in the world's historical reliability,
-which matters for a manuscript whose worldbuilding depends on institutional and historical detail.
+which matters for a manuscript whose worldbuilding depends on institutional and historical detail.~~
+
+**Substantially resolved in the revised manuscript**: Ch1 now reads "fifty-four-years ago"
+(ch01:52), aligning with Ch4's "the past fifty-four years" (ch04:170) and Ch7's "more than
+five-decades ago" (ch07:133). The primary discrepancy — the 20-year gap between Ch1's original
+"seventy-four-years ago" and the 54-year figure given in Ch4 and Ch7 — is eliminated. The remaining
+references ("fifty, sixty years ago" at ch04:168; "more than a hundred years ago" at ch04:168 in a
+different speaker's dialogue) are character-voice approximations rather than narratorial claims, and
+do not undermine the historical timeline's coherence at the worldbuilding level.
+
+**Assessment**: Low risk, revised from Low–Moderate. The corrected Ch1 reference establishes a
+consistent 54-year timeline for Alfainia's liberation that aligns across the manuscript's narratorial
+and internal-monologue references. The remaining imprecise references are attributable to character
+voice and do not affect the reader's ability to construct the world's political chronology.
 
 ### 12d. Dominion System's Limited Development (Low Risk)
 
@@ -984,8 +1042,8 @@ failure.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **Elf slavery as unexamined worldbuilding** | High | The Elf slavery system is presented as functional backdrop without worldbuilding examination of its institutional structure, history, or social mechanics — conspicuous in a manuscript whose other power systems receive thorough scrutiny |
-| **Liberation chronology** | Low–Moderate | Conflicting dates for Alfainia's liberation undermine the historical reliability of the world's political backstory |
+| **Elf slavery worldbuilding** | Moderate (revised from High) | The revised Epilogue provides divine origin, theological basis, social mechanics, and current institutional crisis; remaining risk is that Carden's narration in the construction scene does not connect the tension to his integrity arc |
+| **Liberation chronology** | Low (revised from Low–Moderate) | Ch1 corrected to "fifty-four-years ago," aligning with Ch4 and Ch7; remaining imprecise references are character-voice approximations |
 | **Profane Magic's absence** | Low | A full parallel magic system exists in the story bible but not on-page; consistent with the single-POV constraint but leaves a worldbuilding pillar undeveloped |
 | **Dominion system** | Low | Alliance partners are referenced but not developed; appropriate for the novella form but narrows the world's political architecture abruptly beyond Alfainia's borders |
 
@@ -1006,13 +1064,20 @@ This is the "worldbuilding-as-metaphor" quality the industry standard identifies
 upmarket from commercial fantasy, and it is the worldbuilding element that most credibly supports the
 manuscript's comp positioning against titles like *Babel* and *Piranesi*.
 
-The single most consequential worldbuilding note mirrors the single most consequential thematic note:
-the Elf slavery system's treatment as unexamined backdrop. In a manuscript whose worldbuilding is
-otherwise tightly integrated with character — where the tax system, the religious architecture, the
-military infrastructure, and the magic system are all rendered through the protagonist's perspective
-and subjected to his moral scrutiny — the Elf slavery system's exemption from that scrutiny is
-the worldbuilding gap most likely to register with readers and editors in the upmarket fantasy
-market.
+The revised Epilogue substantially addresses the most consequential worldbuilding note from the
+original assessment: the Elf slavery system's treatment as unexamined backdrop. The new Epilogue
+content provides the system's divine origin (the Father's penance for Lucifer's rebellion),
+theological basis (Lucifer as an Elf, Athanásios toû Zenonos, whose rebellion condemned Elfkind),
+social mechanics (slave-tattoos on every Elf's right wrist, the God of War's enforcement,
+Parliament's compliance), and current crisis (the Father's decree freeing Elfkind, institutional
+non-compliance). This worldbuilding architecture transforms Elf slavery from an unexamined backdrop
+element into a system with origin, history, divine mandate, and contemporary political tension —
+bringing it closer to the level of institutional scrutiny the manuscript applies to its other power
+systems. The remaining risk is moderate: Carden's narration in the construction scene, where
+enslaved Elves perform skilled labor under his supervision, does not connect the tension between the
+Father's decree and institutional non-compliance to his integrity arc within the scene itself. The
+liberation chronology inconsistency has also been substantially resolved, with Ch1 now aligned to
+the 54-year timeline established in Ch4 and Ch7.
 
 ---
 

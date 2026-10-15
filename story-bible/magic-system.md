@@ -32,7 +32,7 @@ narrative, chapter by chapter, plus the pantheon and factional structure the mag
   - Carden and Julian's Ch5 confrontation is conducted entirely in Arcane Tongue specifically so each
     forces the other to speak truth ("the fact he spoke in Arcane Tongue indicated he wanted nothing
     but truth from Carden").
-  - Carden's resignation speech to Edward (Ch7) is delivered in Arcane Tongue as a deliberate signal
+  - Carden's termination speech to Edward (Ch7) is delivered in Arcane Tongue as a deliberate signal
     of sincerity.
 - Functions as an in-group marker among Arcanists for passing information civilians/Profaners should
   not have (Carden and Roger flashing wrist-tattoos to a regimental commander to establish
@@ -65,7 +65,7 @@ or shown in use in the read chapters:
   must "embody and live the ideals of their Calling" (glossary) — thematically mirrored by the
   Epilogue's title, "Magic Is Self-Actualization," and by Carden's own arc, in which his power
   (Zeal Magic persuasion/conviction) only strengthens once his convictions and actions align (his
-  resignation on principle, Ch7, followed immediately by visibly greater confidence/competence
+  termination on principle, Ch7, followed immediately by visibly greater confidence/competence
   wielding Zeal Magic in the Epilogue). In the Epilogue, Carden explicitly hears his Zealot
   Calling's whisper: "*Stir the masses into action. Unite them behind a better future.*" His
   spirit trembles as if a breakthrough lingers just a hairsbreadth away, yet he cannot identify the

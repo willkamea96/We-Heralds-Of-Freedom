@@ -49,7 +49,7 @@ The most bloated, pathetic ruling coalition in recent history honored by the God
 
 Feroz tapped Terence’s shoulders with his orange Magical sword. “Be honored, Terence Howell. The God of War Himself acknowledges your election as Prime-Minister. May you and your government continue to treasure the great friendship between Alfainia and Sarh.”
 
-Sarh’s priest-cum-diplomats never failed to deliver that subtle reminder, except today those words stabbed Carden down to the bone. For the first time since the first investiture ritual however many decades ago, the God of War’s presence manifested. Did the God of War want Alfainia to remember who it owed its liberation to seventy-four-years ago?
+Sarh’s priest-cum-diplomats never failed to deliver that subtle reminder, except today those words stabbed Carden down to the bone. For the first time since the first investiture ritual however many decades ago, the God of War’s presence manifested. Did the God of War want Alfainia to remember who it owed its liberation to fifty-four-years ago?
 
 The rest of Terence’s new ruling cabinet, from Finance Minister to Defense Minister to Religious Affairs Minister, knelt beside Terence. Every man and woman bowed their heads while Feroz’s sunset-orange sword consecrated them with brief, resplendent sunset-orange halos.
 

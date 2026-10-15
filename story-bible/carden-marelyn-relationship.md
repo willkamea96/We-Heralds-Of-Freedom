@@ -488,7 +488,7 @@ earned (Ch4: "Carden instantly understood what she wanted"; Ch8: the self-correc
 
 ### Parallel Arcs
 
-Carden's arc moves from bureaucratic compromise to principled resignation (faith and vocation).
+Carden's arc moves from bureaucratic compromise to principled termination (faith and vocation).
 Marelyn's arc moves from performative compliance to authentic self-determination (identity and
 marriage). Both converge at the same destination — choosing integrity at personal cost — but arrive
 by different paths. The relationship is the space where these arcs intersect: each spouse's

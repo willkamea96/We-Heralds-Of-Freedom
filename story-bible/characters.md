@@ -178,7 +178,7 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
 - **Ch8 – When Faith Is Rewarded: re-entry as a chosen servant.** Jokes that he is unemployed,
   openly kisses Marelyn's knuckles "for their friends to see" (cf. the "public eye" intimacy of
   Ch1), and leans on her handling of the money he never checked ("Did you ever consider our finances
-  before submitting your resignation?"). Tells Roger in Arcane Tongue that Horace would have backed
+  before accepting termination?"). Tells Roger in Arcane Tongue that Horace would have backed
   the charity program — repairing the Ch6 failure to involve Horace. On the hilltop he reclaims his
   teenage retreat with Annie for his marriage ("Now it's ours") and answers Ch1's "Why can't we make
   this work, Carden?" with a freely chosen "Let's make this work." Pitches Horace a scheme in which
@@ -390,7 +390,7 @@ of the Exchequer feeling "Free" because his actions finally match his beliefs.
   "their" friends, and meets Annie's reproach with "Annie, Carden and I are disinherited, homeless,
   and unemployed. Forgive us if we try to bring levity into our misery"; Carden feels "whatever
   crackled between the two women." She teases him ("Did you ever consider our finances before
-  submitting your resignation?"), reads the coalition's books, and suggests the municipal budget
+  accepting termination?"), reads the coalition's books, and suggests the municipal budget
   route through Mayor Horace ("Sounds like a gap the municipal budget could probably help you
   bridge"). On the hilltop she tells the croissant story and says "Let's make this work."; Carden
   repeats it back. The welfare scheme's condition that recipients volunteer to repair riot damage is

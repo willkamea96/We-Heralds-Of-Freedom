@@ -188,7 +188,7 @@ Carden's arc across the manuscript can be mapped as:
 | Choosing Marelyn | Ch4 | Sides with Marelyn against both families; throws away parents' ring; first quiet departure from Edward's instruction (Baker exemption); "Come eat" as care language |
 | Declaring faith, testing conviction | Ch5–6 | Declares faith in Arcane Tongue against Julian; signs coalition exemptions on Marelyn's advice; admits faith "not as wholehearted as what the Father would like"; "A good soldier picked his battles" |
 | Decisive choice | Ch7 | Chooses termination over annulling exemptions; cathedral encounter anchors faith; walks out "Free"; collapses when Marelyn's belongings are gone; cooks his grief; "Thank you" |
-| Reintegration | Ch8–Epilogue | Openly affectionate; co-designs welfare scheme; Zeal Magic for encouragement rather than intimidation; mentors Renee Rose (who now wears military fatigues and a Black Hounds tattoo on her right wrist). Epilogue domestic scene with Marelyn: cooking mutton curry, self-actualization conversation (the Zealot Calling whispers "*Stir the masses into action. Unite them behind a better future.*" but the breakthrough remains just out of reach), shoulder massage, sleeping together in their small flat. Morning scene: bruschetta breakfast, newspaper headlines announcing a world war across multiple continents, an Alfainian aerial-fleet overhead — "the fruits of Edward Cook's three years of high taxes" |
+| Reintegration | Ch8–Epilogue | Openly affectionate; co-designs welfare scheme; accepts Horace's job offer at two-thirds former salary with transparency about war-driven budget strain; Zeal Magic for encouragement rather than intimidation; mentors Renee Rose (who now wears military fatigues and a Black Hounds tattoo on her right wrist). Epilogue: Horace reports welfare initiative running well, seeks municipal funding from Edward; Windbury Cathedral welfare operations (Annie, Roger, Jericho, Mary); Renee's prayer group at a transept depicting Lucifer's Rebellion — Lucifer's Arcane Tongue revelation that the gods are mortal Arcanists the Father uplifted (Creator = Human Gabriel Angelos, God of War = Dwarf Davud Abshalom, Lucifer = Elf Athanásios toû Zenonos), the Father decreed Elfkind's penance as slaves over, but Alfainia never acknowledged it — Carden registers institutional non-compliance. Domestic scene: cooking mutton curry, self-actualization conversation (the Zealot Calling whispers "*Stir the masses into action. Unite them behind a better future.*" but the breakthrough remains just out of reach), shoulder massage, sleeping together in their small flat. Morning scene: bruschetta breakfast, newspaper headlines announcing a world war across multiple continents, an Alfainian aerial-fleet overhead — "the fruits of Edward Cook's three years of high taxes" |
 
 ### 3b. Arc Assessment
 
@@ -300,25 +300,25 @@ wound that surfaces three times and then vanishes may read as resolved-by-defaul
 through earned dramatic development — particularly when another character's prayer explicitly names
 it as unfinished business.
 
-### 4d. Enslaved Elf Labor Unexamined
+### 4d. Enslaved Elf Labor — Worldbuilding Context Provided (Moderate Risk — Revised from High)
 
-Carden's arc is built on integrity: the willingness to act on conviction at personal cost. Yet the
+~~Carden's arc is built on integrity: the willingness to act on conviction at personal cost. Yet the
 manuscript twice places Carden in direct contact with enslaved Elf labor without his narration
-examining the ethical implications:
+examining the ethical implications:~~
 
-- In Ch5, an enslaved Elf healer treats the wound Julian inflicted on Carden's neck.
-- In the Epilogue, enslaved Elves with Empowerment and Enchanting Magic perform skilled
+~~- In Ch5, an enslaved Elf healer treats the wound Julian inflicted on Carden's neck.~~
+~~- In the Epilogue, enslaved Elves with Empowerment and Enchanting Magic perform skilled
   construction labor on the public marketplace Carden supervises. His narration gives thanks that
-  affluent families "loan them out."
+  affluent families "loan them out."~~
 
-The Epilogue instance is particularly significant because it occurs in the scene designed to
+~~The Epilogue instance is particularly significant because it occurs in the scene designed to
 demonstrate Carden's self-actualization. The narration frames the marketplace construction as the
 culmination of Carden's integrity arc — he has chosen conviction over comfort, rebuilt from nothing,
 and now leads the community work he proposed. Within this same scene, enslaved people perform the
 labor under his supervision, and his gratitude for their availability goes unquestioned by the
-narration.
+narration.~~
 
-**Industry context**: The industry standard identifies "thematic depth" and "political, moral,
+~~**Industry context**: The industry standard identifies "thematic depth" and "political, moral,
 spiritual, or philosophical questions embedded in the narrative" as defining characteristics of
 upmarket fantasy. The positioning notes further identify "colonialism" and "economic justice" among
 the manuscript's thematic engagements. An integrity-driven protagonist who benefits from enslaved
@@ -327,7 +327,37 @@ notice — particularly in a market where institutional complicity is a central 
 genre's most prominent recent works (the manuscript's own comp list includes *Babel*, which
 foregrounds "colonialism, language, and institutional power"). Whether this gap is an intentional
 characterization choice (Carden's blind spot, to be examined in subsequent work) or an
-unintentional omission, the Draft Zero text does not signal which reading the narrative intends.
+unintentional omission, the Draft Zero text does not signal which reading the narrative intends.~~
+
+**Revised in the revised manuscript**: The manuscript still places Carden in direct contact with
+enslaved Elf labor in Ch5 (an enslaved Elf healer treats his wound) and the Epilogue (enslaved Elves
+with Empowerment and Enchanting Magic perform skilled construction labor on the public marketplace he
+supervises). However, the revised Epilogue now provides worldbuilding context that was absent from
+the original. The Epilogue's Windbury Cathedral sequence (epi:106–126) dramatizes Lucifer's
+revelation that the gods are mortal Arcanists the Father uplifted — the Creator a Human, the God of
+War a Dwarf, Lucifer himself an Elf (Athanásios toû Zenonos) — and that Lucifer's rebellion
+condemned Elfkind to millennia of penance as slaves. Lucifer's revelation, pronounced in Arcane
+Tongue, declares the Father's decree that Elfkind's penance is over and Elfkind is free (epi:124).
+Carden's narration registers the institutional gap: "Except Alfainia and most of the world never
+acknowledged it" (epi:126). His eyes dart between the slave-tattoos on every Elf's wrist, and he
+notes that "the God of War commanded otherwise and Alfainia's Parliament and upper class obeyed.
+Institutions and prejudice hadn't yet caught up to divine mandate" (epi:126).
+
+This context transforms the characterization note. The reader now understands that Elf slavery has a
+divine origin, a theological basis, a divine revocation, and an institutional crisis of
+non-compliance. Carden's narration in the cathedral sequence demonstrates awareness of the tension
+between divine decree and institutional practice. The construction scene earlier in the Epilogue,
+where Carden supervises enslaved Elves and thanks affluent families for "loaning them out"
+(epi:10), occurs before the cathedral visit within the chapter's chronology — the reader encounters
+the construction scene first, then the worldbuilding context that frames it.
+
+The remaining risk is that Carden's narration within the construction scene itself does not connect
+his gratitude for enslaved labor to the tension his cathedral narration later identifies. The
+integrity-driven protagonist who benefits from enslaved labor and the man who registers that
+"institutions and prejudice hadn't yet caught up to divine mandate" coexist in the same chapter
+without the narration linking the two. Whether this gap represents a deliberate characterization
+choice (Carden's awareness is emerging but not yet applied to his own complicity) or an
+unintentional omission remains unsignaled by the text.
 
 ### 4e. Sustained Emotional Illiteracy
 
@@ -384,7 +414,7 @@ repetitions (particularly Ch4 and Ch5) contribute enough new information to just
 | **Somatic-signal repetition** | Moderate | Eye twitch, hand tremors, and stomach responses recur across multiple chapters with limited variation |
 | **"For some odd reason" overuse** | Moderate | Unreliability marker appears frequently enough to risk becoming an authorial crutch rather than a characterization tool |
 | **Combat trauma unprocessed** | Moderate–High | Intrusive memories surface in Ch1, Ch3, and Ch5, then disappear; named as a bondage in Ch6 but not dramatized as resolved |
-| **Enslaved Elf labor unexamined** | High | An integrity-driven protagonist benefits from enslaved labor in the self-actualization scene without narratorial comment; creates thematic dissonance with the manuscript's stated engagement with economic justice and colonialism |
+| **Enslaved Elf labor** | Moderate (revised from High) | The revised Epilogue provides divine origin, theological basis, divine revocation, and institutional non-compliance context; Carden's narration registers the tension in the cathedral sequence but does not connect it to his own complicity in the construction scene |
 | **Sustained emotional illiteracy** | Low–Moderate | The misreading pattern's repetition across four chapters may test reader patience before the Ch7 payoff |
 
 ### Overall
@@ -394,19 +424,20 @@ expectations of the upmarket adult character-driven fantasy market. His interior
 avoidant, somatically grounded — is the manuscript's narrative signature and its strongest asset at
 the query stage, where the industry standard identifies a distinctive voice as the first thing
 agents and editors evaluate. The three-axis arc (faith, marriage, vocation) provides sufficient
-internal complexity to sustain a ~28,000-word narrative within a single consciousness, and its
+internal complexity to sustain a ~29,000-word narrative within a single consciousness, and its
 convergence in the Ch7 termination scene achieves the "resonant ending" the standard requires.
 
-The primary risk is the unexamined enslaved Elf labor in the Epilogue. In a manuscript whose arc is
-built on integrity — on a protagonist who sacrifices career, family, wealth, and status rather than
-act against his convictions — the presence of enslaved people performing labor under his grateful
-supervision, without narratorial comment, creates a thematic gap that upmarket readers and editors
-are positioned to notice. The manuscript's own comp positioning against titles engaging colonialism
-and economic justice heightens this risk: the conversation the novella enters is precisely the one
-where institutional complicity is most scrutinized. Whether this gap represents a deliberate blind
-spot (characterizing Carden's limits, to be examined in subsequent work) or an unintentional
-omission, the Draft Zero text does not distinguish between these readings. This is the single most
-consequential craft note in this assessment.
+The revised Epilogue substantially addresses the primary risk from the original assessment: the
+unexamined enslaved Elf labor. The new Epilogue content provides the divine origin of Elf slavery
+(Lucifer's rebellion), the Father's decree freeing Elfkind, and Carden's narration registering
+that "institutions and prejudice hadn't yet caught up to divine mandate" (epi:126). This
+worldbuilding context transforms the characterization note from an unexamined gap to a tension the
+narration acknowledges. The remaining risk is moderate: Carden's narration in the construction scene
+— where enslaved Elves perform skilled labor under his grateful supervision — does not connect to
+the awareness his cathedral narration later demonstrates. The integrity-driven protagonist benefits
+from enslaved labor and separately registers the institutional injustice, but the two observations
+do not meet within the text. Whether this gap represents emerging awareness (Carden's complicity
+not yet visible to himself) or an unintentional omission remains unsignaled.
 
 ---
 

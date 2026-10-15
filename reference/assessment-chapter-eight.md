@@ -2,7 +2,7 @@
 
 Evaluation-only assessment of Chapter Eight ("When Faith Is Rewarded") as the manuscript's
 resolution chapter, judged against the craft standards compiled in `reference/industry-standards.md`
-and evaluated in the context of the full narrative arc (Ch1–8 and Epilogue, ~28,066 words).
+and evaluated in the context of the full narrative arc (Ch1–8 and Epilogue, ~29,053 words).
 
 This assessment is diagnostic, not prescriptive. It identifies what the chapter achieves, where it
 meets or exceeds the upmarket adult character-driven fantasy standard, and where craft-level risks
@@ -14,9 +14,9 @@ exist. It does not propose revisions.
 
 ### 1a. Position Within the Narrative Architecture
 
-Chapter Eight occupies the resolution position in the manuscript's nine-section structure. At 2,863
-words (~10.2% of the narrative body), it is the third shortest chapter — shorter than all but Ch3
-(2,010) and the Epilogue (1,286 words, ~4.6%). Its brevity is proportional to its structural role: the deliberative
+Chapter Eight occupies the resolution position in the manuscript's nine-section structure. At 2,997
+words (~10.3% of the narrative body), it is the third shortest chapter — shorter than all but Ch3
+(2,010) and the Epilogue (2,139 words, ~7.4%). Its brevity is proportional to its structural role: the deliberative
 and emotional work of the arc has already been completed in Ch7; Ch8's task is to show what the
 protagonist does with the consequences.
 
@@ -60,15 +60,15 @@ available.
 
 ## 2. Scene Architecture
 
-Chapter Eight contains four scenes within 2,863 words. The average scene length is approximately
-715 words. The scenes progress through a single day, from morning to evening:
+Chapter Eight contains four scenes within 2,997 words. The average scene length is approximately
+749 words. The scenes progress through a single day, from morning to evening:
 
 | Scene | Lines | ~Words | Content | Narrative Function |
 |---|---:|---:|---|---|
 | 1. The café | 4–60 | 800 | Friends rally; welfare funding crisis; Arcane Tongue vouching for Horace; Roger defers to Carden and Marelyn's judgment | Social reconstruction |
 | 2. The walk and the hill | 62–98 | 520 | Windbury's scars; personal history exchange; "Let's make this work" | Marital reconstruction |
-| 3. The proposal to Horace | 100–168 | 1,030 | Welfare-for-volunteering proposal; rehabilitative justice argument; Horace approves; employment secured | Vocational reconstruction |
-| 4. The flat | 170–206 | ~500 | Move-in; Annie's "family now"; "We'll make this work" in unison | Domestic reconstruction |
+| 3. The proposal to Horace | 100–178 | 1,164 | Budget strain from war mobilization; welfare-for-volunteering proposal; rehabilitative justice argument; Horace approves with transparency about lower pay; employment secured at two-thirds former salary | Vocational reconstruction |
+| 4. The flat | 180–214 | ~500 | Move-in; Annie's "family now"; "We'll make this work" in unison | Domestic reconstruction |
 
 The scene distribution is the inverse of Ch7's pattern. Where Ch7 moved from sustained to rapid to
 extended (building to the emotional payload of Scene 8), Ch8 moves from sustained to brief to
@@ -331,45 +331,66 @@ operate outside the system he once served that gives the proposal its shape.
 
 ## 6. Identified Risks
 
-### 6a. External-Pressure Discontinuity (Low–Moderate)
+### 6a. External-Pressure Discontinuity (Low — Revised from Low–Moderate)
 
-The war with Imperium Divinus, which provided escalating geopolitical pressure across Ch1 through
+~~The war with Imperium Divinus, which provided escalating geopolitical pressure across Ch1 through
 Ch7, vanishes entirely from Chapter Eight. Within Ch8 specifically, the absence is most acute in the
 Horace scene. Horace, who in Ch6 (ch06:196–202) was navigating the political consequences of
 Edward's audit and the broader wartime pressures on Windbury, discusses the welfare proposal without
 any reference to the war. The conversation about municipal budgets, charity shortfalls, and riot
 recovery proceeds as though the geopolitical crisis that drove Carden's institutional arc — and that
-provided the fiscal pressures that made tax exemptions so contentious — has ceased to exist.
+provided the fiscal pressures that made tax exemptions so contentious — has ceased to exist.~~
 
-The character-driven logic supports the absence: the resolution is about what Carden does with his
+~~The character-driven logic supports the absence: the resolution is about what Carden does with his
 personal consequences, not about the war's outcome. However, a single reference — from Horace, from
 the narration, from Carden's internal thought — acknowledging the wartime context in which the
-reconstruction must proceed would ground the resolution in the world the prior seven chapters built.
+reconstruction must proceed would ground the resolution in the world the prior seven chapters built.~~
 
-The gap is limited to Chapter Eight. The Epilogue reintroduces the war thread through newspaper
+~~The gap is limited to Chapter Eight. The Epilogue reintroduces the war thread through newspaper
 headlines reporting a world war across multiple continents ("WORLD AT WAR!"), an Alfainian aerial
 fleet gliding overhead toward the sea, and Carden's closing reflection on the geopolitical outcome —
 establishing that the external-pressure thread does resolve within the manuscript's final pages,
-though not within this chapter.
+though not within this chapter.~~
 
-**Assessment**: Low–moderate risk. The absence within Ch8 is a genuine gap — the reconstruction is
+~~**Assessment**: Low–moderate risk. The absence within Ch8 is a genuine gap — the reconstruction is
 proposed without acknowledging the wartime context that made it necessary — but its structural
 consequence is contained by the Epilogue's reintroduction of the war thread. Ch8 reads as a
 character-focused interlude between Ch7's geopolitical crisis and the Epilogue's geopolitical
-resolution, rather than as a permanent abandonment of the external-pressure thread.
+resolution, rather than as a permanent abandonment of the external-pressure thread.~~
+
+**Revised in the revised manuscript**: The war with Imperium Divinus is now explicitly present in
+Chapter Eight through Horace's budget speech. Horace's opening lines acknowledge the war's fiscal
+consequences — "the coming war demands every last cone Alfainia has to offer" (ch08:110) — and his
+job offer includes transparency about the war's impact on municipal budgets: "the pay's not great"
+and "the war effort's forced me to trim a lot" (ch08:164). Carden's narration registers the
+personal cost: "Two-thirds what he made as Special Commissioner of Income Tax. Even with Marelyn
+earning the same, for the first time in twenty-six years they needed to worry about rent" (ch08:166).
+
+The external-pressure thread now runs continuously through Ch8. The war is the named reason for
+Windbury's budget strain, the cause of the reduced salary Carden and Marelyn accept, and the
+economic condition under which the reconstruction must proceed. The Epilogue's geopolitical headlines
+and aerial fleet extend this thread to its resolution.
+
+**Assessment**: Low risk, revised from Low–Moderate. The revised Ch8 integrates the war's fiscal
+consequences into the Horace scene through dialogue and the salary reality, grounding the
+reconstruction in the wartime context the prior seven chapters established.
 
 ### 6b. Horace's Approval Speed (Low–Moderate)
 
 Horace approves the welfare-for-volunteering proposal within a single scene, after one substantive
 objection (the justice concern, ch08:130) and one procedural question (supervision, ch08:140). His
-transition from skepticism to approval — "Consider your proposal approved" (ch08:164) — occurs
+transition from skepticism to approval — "Consider your proposal approved" (ch08:174) — occurs
 within approximately 500 words of the proposal's presentation.
 
 The speed is defensible on narrative grounds: Horace has been established as sympathetic to Carden's
 cause (Ch6), constrained by the institutional apparatus Edward controlled (Ch6), and now freed
 from that constraint by Carden's termination. The bulging folder he retrieves (ch08:162) implies
 he had already been considering such a program. The scene stages the approval as the culmination of
-an off-page process, not a spontaneous decision.
+an off-page process, not a spontaneous decision. The revised scene further mitigates this: Horace's
+opening budget speech establishes that City Hall has openings for such roles, and his transparent
+disclosure of the salary reduction — "the pay's not great" and "the war effort's forced me to trim
+a lot" (ch08:164) — demonstrates institutional constraint rather than casual generosity. The
+approval comes with a visible cost (two-thirds salary), which grounds it in institutional reality.
 
 However, the resolution of the manuscript's principal institutional thread — the question of how
 Windbury's vulnerable citizens will be served after the exemptions' annulment — rests on a single
@@ -379,35 +400,41 @@ earned. The narrative has shown that institutional decisions carry weight, resis
 this one carries weight but relatively little resistance.
 
 **Assessment**: Low–moderate risk. The setup (Horace's prior sympathy, the bulging folder, the
-established relationship) mitigates the convenience, but the single-objection structure compresses
-a process the prior chapters' institutional texture would lead a reader to expect as more
-contentious.
+established relationship, and the transparent salary reduction) mitigates the convenience, but the
+single-objection structure compresses a process the prior chapters' institutional texture would lead
+a reader to expect as more contentious.
 
-### 6c. Termination/Resignation Discrepancy (Moderate)
+### 6c. Termination/Resignation Discrepancy (Resolved)
 
-Marelyn's line "Did you ever consider our finances before submitting your resignation?" (ch08:24)
+~~Marelyn's line "Did you ever consider our finances before submitting your resignation?" (ch08:24)
 refers to the Ch7 event as a resignation. The Ch7 scene unambiguously dramatizes a termination:
 Edward presents the letter, Carden says "Termination" (ch07:157), Edward signs and says "You are
-dismissed" (ch07:203).
+dismissed" (ch07:203).~~
 
-This discrepancy has been identified in the prior structural evaluation
+~~This discrepancy has been identified in the prior structural evaluation
 (`reference/evaluation-narrative-structure-and-plot.md` §7d) as affecting the arc's narrative
 meaning: termination communicates institutional rejection of the protagonist's principled stance,
 while resignation communicates voluntary departure. The Ch7 scene supports the termination reading,
-and the termination reading makes the arc structurally stronger.
+and the termination reading makes the arc structurally stronger.~~
 
-Within Ch8, the discrepancy's placement in Marelyn's dialogue creates a secondary complication: it
+~~Within Ch8, the discrepancy's placement in Marelyn's dialogue creates a secondary complication: it
 is the first post-crisis reference to the event, and it frames the event from Marelyn's perspective.
 Whether Marelyn uses "resignation" because she experienced Carden's choice as a voluntary act
 (which it was, in the sense that he chose termination over capitulation) or whether the word choice
 is a textual inconsistency is not signaled by the narration. The ambiguity prevents the reader from
 settling the question of how the event should be understood — which matters for a character-driven
-novella in which the protagonist's relationship to institutional authority is the central question.
+novella in which the protagonist's relationship to institutional authority is the central question.~~
 
-**Assessment**: Moderate risk, consistent with the prior evaluation's rating. The discrepancy does
+~~**Assessment**: Moderate risk, consistent with the prior evaluation's rating. The discrepancy does
 not affect the plot but touches the climactic event's narrative meaning. Its placement in Ch8's
 opening scene, where it is the first retrospective reference to Ch7's crisis, amplifies its
-visibility.
+visibility.~~
+
+**Resolved in the revised manuscript**: Marelyn's line now reads "Did you ever consider our finances
+before accepting termination?" (ch08:24), consistent with Ch7's unambiguous termination scene. The
+discrepancy between Ch8's retrospective framing and Ch7's dramatized event is eliminated. The
+revised wording reinforces the termination reading — institutional rejection of the protagonist's
+principled stance — which is the structurally stronger interpretation for the character-driven arc.
 
 ### 6d. Conditional Charity and Colonial Framing (Low–Moderate)
 
@@ -440,13 +467,13 @@ the manuscript's upmarket positioning invites readers and editors to ask.
 
 | Dimension | Assessment |
 |---|---|
-| **Structural position** | Occupies the resolution position; word count (2,863, ~10.2%) is proportional to its function; brevity signals that the chapter's task is reconstruction, not re-escalation |
+| **Structural position** | Occupies the resolution position; word count (2,997, ~10.3%) is proportional to its function; brevity signals that the chapter's task is reconstruction, not re-escalation |
 | **Four-scene architecture** | Each scene rebuilds a distinct dimension (social, marital, vocational, domestic) of what Ch7 dismantled; no scene duplicates another's function |
 | **"Make this work" echo** | The manuscript's most structurally significant verbal echo resolves here; the grammatical shift from Ch1's question to Ch8's declarative formally enacts the marriage arc's resolution |
 | **Possessive self-correction** | "His—no, *their*—friends" as the opening gesture signals the chapter's register and resolves the social-isolation pattern in a single em-dash correction |
 | **Arcane Tongue in advocacy mode** | A single deployment uses the established truth-enforcing mechanism in a new mode — vouching for a third party — demonstrating worldbuilding efficiency |
 | **Hill scene economy** | The shortest scene achieves the arc's emotional resolution through cumulative investment rather than scene-level intensity; trusts the reader's memory of seven chapters |
-| **Horace scene staging** | Edward's authoritative office (light/shade) contrasted with Horace's exhausted office (disorder/strain); the visual counterpoint communicates the institutional shift |
+| **Horace scene staging** | Edward's authoritative office (light/shade) contrasted with Horace's exhausted office (disorder/strain); the visual counterpoint communicates the institutional shift; Horace's budget speech and transparent salary offer ground the scene in wartime fiscal reality |
 | **Marelyn as working partner** | Financial competence, social management, and strategic deployment of charm demonstrated through action; the marriage is shown as a functional partnership, not merely a private commitment |
 | **Rehabilitative-justice discomfort** | The narration marks the moral cost of Carden's colonial framing in a single sentence; registers awareness without belaboring it |
 
@@ -454,9 +481,9 @@ the manuscript's upmarket positioning invites readers and editors to ask.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **External-pressure discontinuity** | Low–Moderate | The war vanishes from Ch8 but returns in the Epilogue through newspaper headlines and an aerial fleet; the gap is limited to this chapter rather than extending through the manuscript's close |
+| **External-pressure discontinuity** | Low (revised from Low–Moderate) | The revised Ch8 integrates the war through Horace's budget speech ("the coming war demands every last cone") and the two-thirds salary reality; the war thread is no longer absent from this chapter |
 | **Horace's approval speed** | Low–Moderate | The institutional thread's resolution rests on a single scene with one substantive objection; the approval's brevity compresses a process the manuscript's prior institutional detail would lead a reader to expect as more contentious |
-| **Termination/resignation discrepancy** | Moderate | Marelyn's "resignation" (ch08:24) contradicts Ch7's unambiguous termination; the discrepancy is amplified by its placement as Ch8's first retrospective reference to the climactic event |
+| **Termination/resignation discrepancy** | Resolved | Ch8 now reads "accepting termination" (ch08:24), consistent with Ch7's unambiguous termination scene |
 | **Conditional charity framing** | Low–Moderate | The welfare-for-volunteering proposal uses colonial-military precedent; discomfort is registered but not examined; intersects with the broader thematic concern about institutional complicity |
 
 ### Overall
@@ -466,7 +493,7 @@ the axes of Carden's positive-change arc: social identity rebuilt through the fr
 (café), marital identity rebuilt through mutual disclosure and commitment (the hill), vocational
 identity rebuilt through the welfare proposal (Horace's office), and domestic identity established
 through the move into the flat (Annie's "family now," the paired "We'll make this work" in unison).
-The chapter's brevity — 2,863 words for the manuscript's resolution — is proportional to its
+The chapter's brevity — 2,997 words for the manuscript's resolution — is proportional to its
 function: the emotional and deliberative work has been completed in Ch7, and Ch8's task is to show
 what the protagonist does next, not to re-create the crisis's intensity.
 
@@ -487,18 +514,20 @@ the world the manuscript has built. The chapter shows its protagonist using his 
 competence — the same competence that Edward valued (ch07:201, ch08:110) — in a new context, one
 he chose rather than one he inherited.
 
-The external-pressure discontinuity, while present within Ch8, is contained by the Epilogue's
-reintroduction of the war thread. The war with Imperium Divinus — which provided the fiscal and
-political pressures that drove the tax-exemption thread, justified the rearmament that consumed
-Windbury's resources, and supplied Edward's strategic argument for overriding Carden's conscience —
-is absent from this chapter. An editorial reader may find that the reconstruction proposed in Ch8
-feels uncoupled from the world that made it necessary: a public-private welfare partnership is
-proposed for a city whose economic crisis was driven by wartime austerity, and the war goes
-unmentioned. However, the Epilogue's newspaper headlines ("WORLD AT WAR!"), the aerial fleet
-overhead, and Carden's closing geopolitical reflection restore the external-pressure thread within
-the manuscript's final pages. The gap is therefore a single-chapter interlude rather than a
-permanent structural absence, and the risk is proportionally lower than it would be if the war
-thread never returned.
+The revised Ch8 addresses the external-pressure discontinuity identified in the original assessment.
+Horace's budget speech — "the coming war demands every last cone Alfainia has to offer" (ch08:110)
+— and the transparent job offer at two-thirds Carden's former salary (ch08:166) integrate the war's
+fiscal consequences directly into the reconstruction chapter. The war with Imperium Divinus is no
+longer absent from Ch8; it is the economic condition Horace names and the salary reality Carden and
+Marelyn accept. The external-pressure thread now runs continuously from Ch7's political crisis
+through Ch8's institutional reconstruction into the Epilogue's geopolitical headlines, reducing the
+discontinuity risk from Low–Moderate to Low.
+
+The termination/resignation discrepancy identified in the original assessment has been resolved. Ch8
+now reads "accepting termination" (ch08:24), consistent with Ch7's unambiguous termination scene.
+The revised wording eliminates the ambiguity about how the climactic event should be understood and
+reinforces the structurally stronger reading: institutional rejection of the protagonist's principled
+stance.
 
 ---
 
