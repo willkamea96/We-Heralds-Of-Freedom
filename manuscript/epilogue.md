@@ -7,7 +7,7 @@ A cranking, biofuel-engine-powered crane hoisted the giant steel lattice skyward
 
 Carden caught Marelyn pause her heated argument with a municipal contractor to watch the process. Carden winked at Marelyn when she turned to him. Marelyn rolled her eyes and snuck a smile across before turning back to the subject of her ire. How foolish that greasy-haired potato in a nice suit even tried to sneak funny invoices past Marelyn.
 
-Orange-haired Elf slaves crawled onto the lattice and with their Empowerment Magic gracefully caught large, tempered-glass panes tossed up by their compatriots. Sky-blue-haired Elf slaves with jingling tool-bags then sealed said lattice onto the walls and those panes onto the lattice with conventional tools and generous doses of Enchanting Magic. Thank goodness Horace shamed Windbury's affluent families to loan some of their Elf slaves for municipal-work. Made all this so much faster. Carden thanked the Father said families refused to be outdone in civic merit by welfare-dependent 'commoners'.
+Orange-haired Elves crawled onto the lattice and with their Empowerment Magic gracefully caught large, tempered-glass panes tossed up by their compatriots. Sky-blue-haired Elves with jingling tool-bags then sealed said lattice onto the walls and those panes onto the lattice with conventional tools and generous doses of Enchanting Magic. Thank goodness Horace shamed Windbury's affluent families to loan some of their Elf slaves for municipal-work. Made all this so much faster. Carden thanked the Father said families refused to be outdone in civic merit by welfare-dependent 'commoners'.
 
 At last, three months of slog and now the place finally started to look like the open-air, public marketplace Horace commissioned. Finishing the roof really made all the difference to Carden's eyes. Now they just needed a month for the floor-tiles, three weeks after for electrical wiring, and a week for the finishing paint. Come spring, City Hall could finally celebrate Chartwell Street's completed reconstruction.
 
@@ -15,9 +15,9 @@ At last, three months of slog and now the place finally started to look like the
 
 Not that it surprised Carden. Windbury's welfare-for-volunteering initiative already ran a year now. By this point most volunteers who still needed welfare showed some knack for the work. But extra compliments so people felt appreciated never hurt.
 
-Carden infused Zeal Magic into his voice as he personally thanked each person in today's work-crew. Even under their sweat and grime, some beamed back and others jibed Carden with well-meant jokes. Carden stopped at one troublesome half-Elf young woman who now kept her auburn-hair trimmed boyishly short, wore military fatigues, and sported a Black Hounds tattoo on her right wrist.
+Carden infused Zeal Magic into his voice as he personally thanked each person in today's work-crew. Even under their sweat and grime, some beamed back and others jibed Carden with well-meant jokes. He especially thanked the Elves for *their* labor in putting Windbury back together—hardly fair their snobbish masters sipping afternoon tea right now reaped the credit. Shame he could not properly compensate them for their work, they weren't volunteers or receiving welfare after all. But City Hall only had so much to give in these trying times.
 
-It also helped tremendously that Horace convinced the Black Hounds to train its Arcanist recruits in Windbury. Nothing like Zeal Magic and Law Magic to keep groups of unfamiliar volunteers focused, motivated, and disciplined.
+Carden stopped at one troublesome half-Elf young woman who now kept her auburn-hair trimmed boyishly short, wore military fatigues, and sported a Black Hounds tattoo on her right wrist. It also helped tremendously that Horace convinced the Black Hounds to train its Arcanist recruits in Windbury. Nothing like Zeal Magic and Law Magic to keep groups of unfamiliar volunteers focused, motivated, and disciplined.
 
 "You did well running this crew, Private Renee." Carden patted Renee's now-muscled arm and toned his Zeal Magic down for his fellow Ideals Arcanist. "Next time, I recommend running Zeal Magic at a lower pace so you can sustain it longer. A simple push is often enough to buoy skilled people through this level of sustained physical labor."
 
@@ -107,9 +107,9 @@ Hence why Carden and Marelyn wandered to a transept where they stumbled upon the
 
 Lucifer's Rebellion. When Lucifer and the ancient Elves rose against the Father's world-order however many eons ago.
 
-Carden and Marelyn exchanged a glance. Good, seemed Marelyn agreed the atmosphere deserved some respect. They slunk to the back of this congregation, knelt, and lowered their heads. How could they not? Six months ago, the supposedly imprisoned Lucifer dramatically reappeared in the Zhang Dynasty's capital. As if the world weren't absurd enough, myth became reality.
+Carden and Marelyn exchanged a glance. Good, seemed Marelyn also agreed the atmosphere deserved respect. They slunk to the back of this congregation, knelt, and lowered their heads. How could they not? Six months ago, the supposedly imprisoned Lucifer dramatically reappeared in the Zhang Dynasty's capital. As if the world weren't absurd enough, myth became reality.
 
-Only for that rebel to pronounce in Arcane Tongue a revelation that shook the world. Carden shivered from the memory. Carden, Roger, Horace, and every Arcanist in Windbury—and from later reports all Alfainia—heard it, even though Lucifer pronounced his revelation an ocean away.
+Only for that rebel to pronounce in Arcane Tongue the darndest revelation in the Father's name. Carden shivered from the memory. Carden, Roger, Horace, and every Arcanist in Windbury—and from later reports all Alfainia—heard it, even though Lucifer pronounced his words an ocean away.
 
 The Creator was a Human, Gabriel Angelos.
 
@@ -117,10 +117,94 @@ The God of War was a Dwarf, Davud Abshalom.
 
 Lucifer himself was an Elf, Athanásios toû Zenonos.
 
-Extremely powerful Arcanists the Father uplifted into divinity as rewards for their service. Only for all three to go astray. And what the Father gave, so could the Father take. As evidenced by Lucifer's own life, imprisoned for millennia and now redeemed by the Father to be His prophet.
+All three extremely powerful Arcanists the Father uplifted into divinity as rewards for their service. All three gone astray. And what the Father gave, so could the Father take. As evidenced by Lucifer's own life, imprisoned for millennia and now redeemed by the Father to be His prophet as atonement.
 
-And perhaps the most important revelation for the group in front of Carden.
+And perhaps the most important revelation for the group in front of Carden. Lucifer pronounced the Father decreed Elf-kind's millennia of penance as slaves over. The Father judged Elfkind redeemed.
 
-Lucifer pronounced the Father decreed Elf-kind's millennia of penance as slaves over. The Father marked Elfkind redeemed. Elfkind was free.
+Elfkind was free.
 
-Except Alfainia and most of the world never acknowledged it. Carden's eyes darted between the various slave-tattoos inked onto every Elf's right wrist. The God of War commanded otherwise and Alfainia's Parliament and upper class obeyed. Institutions and prejudice hadn't yet caught up to divine mandate.
+Except Alfainia, the Commonwealth, and the larger world for that matter rejected that mandate.
+
+Quite explicitly.
+
+"Mister Oakmoore, a word?"
+
+Carden looked up at Renee and her green-haired Elf mother looking kindly down on him, Renee's hand extended. Carden clasped it and the young woman hoisted him up with surprising strength. Marelyn flashed Carden a curious look and he responded with a helpless smile.
+
+As Renee led Carden to the front, she said, "We were hoping you could help answer some questions. The children are endlessly curious and here you are a veteran of war, civil-service, and the upper-class."
+
+Carden chuckled and tapped his shoddy coat. "Stop it. You make me sound like royalty disguising himself as a pauper. Those days are long behind me, I'm afraid."
+
+"Nonetheless," Renee said and brought Carden beneath the stained-glass window. She raised her hand at the many Elf and half-Elf children now seated before them. Renee said, "Alright children, fire away."
+
+One bright-faced, orange-haired Elf girl shot her hand up. "Mister Oakmoore, why aren't we free?"
+
+Of course, difficult questions right away. Carden scratched the back of his head and even Marelyn behind the crowd gave him a sympathetic look. In fact, quite a few of the parents both Elf and Human flashed Carden sympathy. Carden flicked Renee a scowl and at least the young woman possessed the decency to look abashed. Some revolutionary-in-the-making she tried to be back then. Where to begin...
+
+"There is a simple answer, and there is a deeper answer. Which would you like?"
+
+Dozens of childish voices jabbered over one another. Carden beckoned them calm and then gestured at the cathedral's Father iconography around them. "The simple answer is our leaders still worship the God of War. And He proclaimed the Father's decree null. That's why Parliament hasn't reformed the laws on Elf slavery."
+
+As much as Carden wished otherwise. He still couldn't believe Horace—and every mayor and other civic leader in Alfainia—received a *Scripture* from the God of War to emphasize that. Worse, Carden hated how no party in Parliament, even amongst the opposition, grew the balls to publicly advocate for emancipation. Elfkind deserved better after however long they suffered divinely-mandated squalor.
+
+"And the real answer?" a teenage sky-blue-haired Elf boy asked. His sky-blue eyes bored into Carden's and unsettled Carden's stomach. No avoiding it now.
+
+"Because we as a civilization depend on Elf labor." Carden patted his chest. "I'm one of the lucky one-percent of Humans born an Arcanist. Same goes to Dwarfkind."
+
+Carden then gestured at the Elves and half-Elves before him. "But you are all different, you are all blessed. Every Elf can be born an Arcanist. Every *half*-Elf can be born an Arcanist. Every single one of you is the reason why our society harnesses Magic every day, in ways great and small."
+
+Something fiercely tickled Carden's chest. No, his heart? His...
+
+"*Stir the masses into action. Unite them behind a better future.*"
+
+The Arcane's meek and gentle whisper washed through him like ice-cold water.
+
+Of course.
+
+The missing piece.
+
+Carden poured Zeal Magic into his every word. "Look at our home. We didn't put Windbury back together because the Father or the God of War conjured a miracle. We were desperate and harmed ourselves, and then we learned better and fixed our mistakes. There was no Elf or Human, master or slave. Just neighbors loving one another as the Father taught and helping wherever people needed help. Whether it was an Elf who could offer their Magic or a Human who could offer their money, we stepped in."
+
+Renee's eyes widened, probably because she sensed the Zeal Magic, but Carden sensed no Magical interference from her. If anything, he sensed Renee's Zeal Magic layered over his. The children leaned forward now with saucer-wide eyes and the adults further back studiously scrutinized Carden. Here it went, all in the Father's hands now.
+
+Carden pronounced his next words in Arcane Tongue.
+
+"Mankind are the Heralds of Freedom. Dwarfkind are the Pillars of Iron. And Elfkind are the Reapers of Magic. As proclaimed by the Father at the dawn of Creation. Never once have those creeds meant one stood superior over another. Those creeds meant we stood stronger together. United."
+
+Sky-blue Magic leaked out every pore in Carden. The audience shifted but he paid it no mind. Strange, he wasn't willing his Magic to flare out like this. No matter.
+
+"Let the world stay stuck in the past." Carden continued in Arcane Tongue, patted a stunned Renee's shoulder, and then pointed at the stained-glass depiction of Lucifer's Rebellion. Oh, even Carden's friends so busy earlier clustered amongst the crowd now. Wait, Horace was there too.
+
+"We have moved on. The *Father* has commanded we move on." Carden rapped the stained-glass rendition of Lucifer's rebellion for emphasis. "We'll start here in Windbury. We may not have the power to sway Parliament's prejudices, we may not have the power to challenge Sarh and the God of War."
+
+"But we will show our countrymen what a community built on the Father's teachings looks like."
+
+"We have been showing them that this whole year!"
+
+The crowd rose and cheered. And at that moment, something clicked inside Carden. The Arcane's whispers lullabied softly deep inside him.
+
+"*Congratulations. Be a* Zealot *no longer.*"
+
+"*Be a* Visionary*.*"
+
+Carden blinked as a flurry of esoteric knowledge seeped into his spirit and felt like the purest cleansing water. He ignored the crowd's buzz and focused as far inward as he reached. A new Magic, a new ideal, a new Tier. A new... Calling.
+
+*Visionary*.
+
+The crowd looked at him expectantly. Marelyn came over and clasped his hand, a look of worry written plainly over her face. Horace came by next and clasped Carden's shoulder with a worried look.
+
+"Carden?"
+
+"Carden old chap, you okay?"
+
+Carden blinked at them. He turned to Marelyn and finally flickered a mischievous grin. As a *Visionary*, he gained Visionary Magic. The power to conjure things he encountered in the past as *Imaginary Objects*.
+
+Carden grasped the air and pulled out a deep-crimson purse with silver buttons. One Marelyn sold last year and one of the few from her collection he vividly remembered.
+
+Marelyn's mouth opened and closed but no words came out. Instead, her eyes glistened and teared up. She blinked at Carden instead of the purse.
+
+Before Carden could utter the words, Horace gripped Carden's arm and foisted it up before the crowd.
+
+"He's done it! Carden's self-actualized! He's Tier Three!"
+
+Marelyn lunged at Carden and squeezed him in an embrace before the crowd reached him.
