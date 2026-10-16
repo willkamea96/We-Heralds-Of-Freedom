@@ -27,8 +27,9 @@ family (Ch4).
 
 Both Carden and Marelyn lost prior romantic attachments to the arranged marriage:
 
-- **Carden and Annie**: Carden was engaged as a teenager to marry Annie before leaving for the
-  army; the promise was broken by his forced marriage to Marelyn (Ch6 backstory, referenced Ch2).
+- **Carden and Annie**: As teenagers, Carden and Annie "vowed before the Father to marry once
+  Carden returned from the army" (Ch6). The manuscript does not explicitly state how or when the
+  vow was broken, but the forced marriage to Marelyn is implied as the cause (also referenced Ch2).
   Annie later married Roger Baker.
 - **Marelyn and Roger**: Marelyn knew Roger Baker as a teenager. She visited his family's bakery
   daily for free hazelnut-cream croissants and was "instantly smitten by someone who indulged me
@@ -82,23 +83,23 @@ appears in every phase of the relationship:
 - **Ch2**: Smoked-sardine stew with rye bread, the evening he tells her about Annie and Roger.
   Marelyn reads the cooking as emotional communication: "Something this sublime almost tastes like
   an apology."
-- **Ch4**: The hazelnut-cream croissant on the train home — secretly procured from Roger's bakery
-  — which makes Marelyn cry and laugh simultaneously.
+- **Ch4**: The hazelnut-cream croissant on the train home — one Carden "asked Annie to snatch for
+  him earlier" at the Bakers' bakery (Ch4) — which makes Marelyn cry and laugh simultaneously.
 - **Ch5**: Scratch stew of pork sausages, carrots, onions, and potatoes after the Julian
   confrontation.
 - **Ch6**: Mutton curry after a long workday; Marelyn's eyes linger on it "with palpable
   intensity."
-- **Ch7**: Breakfast omelets over reheated croissants left for Marelyn outside her locked study
-  door. Later, stir-fry with garlic rice, risotto, and fries — the meal Marelyn walks into when
-  she returns with news that she sold her purses and filed her father Charles's disinheritance of
-  her at court.
+- **Ch7**: Breakfast omelets over reheated croissants — Carden "left a plate for Marelyn" (Ch7).
+  Later, stir-fry (carrots, celery, garlic, ginger, mutton, onions), risotto (salted butter), and
+  deep-fried potatoes — the meal Marelyn walks into when she returns with news that she sold her
+  purses and filed her father Charles's disinheritance of her at court.
 - **Epilogue**: Mutton curry again — Marelyn says "This is sublime" and practically inhales it.
   The callback to Ch6's mutton curry under transformed circumstances: in Ch6 the couple lived in
   a spacious civil-service flat; in the Epilogue they eat in a cramped rental with peeling
   wallpaper, yet the domestic contentment is deeper.
 
 The recurring phrase **"Come eat"** — Carden nudging food toward Marelyn when she shuts down —
-appears across multiple chapters (Ch1, Ch4, Ch6) and functions as his signature gesture of care,
+appears across multiple chapters (Ch2, Ch4, Ch6) and functions as his signature gesture of care,
 bridging the gap when verbal communication fails.
 
 ### Marelyn's Coded Communication
@@ -124,7 +125,7 @@ The manuscript's most sophisticated relationship technique is using Carden's inc
 interpretations as a source of tension and eventual emotional payoff. The pattern is sustained
 across the novella:
 
-- **Ch2**: Marelyn says "I was worried" about coming to Windbury. Carden assumes she means her
+- **Ch4**: Marelyn says "I was worried" about coming to Windbury. Carden assumes she means her
   family: "Fair point, her family's in Windbury too." The reader can infer she means him.
 - **Ch4**: Carden admits Marelyn's presence "actually helped me find the nerve" to visit his
   parents. "For some odd reason Marelyn flinched" — she flinches because his gratitude reveals he
@@ -153,13 +154,15 @@ in the Father's name would I divorce you?"
 The relationship opens in a state of negotiated distance. Key markers:
 
 - **Public performance**: "Marelyn scoffed and leaned on Carden, their long-agreed-upon modicum of
-  intimacy for the public eye. She felt stiff as a board and cold as a stone" (Ch1). They have
-  explicitly negotiated how much affection to perform publicly.
+  intimacy for the public eye. She felt stiff as a board and cold as a stone" (Ch1). The phrase
+  "long-agreed-upon" implies they have an understanding about how much affection to perform
+  publicly.
 - **Political friction**: They "voted for different parties this election cycle. Just one of their
   many, proliferous disagreements" (Ch1).
-- **Moral challenge**: Marelyn confronts Carden on the Parliament balcony — "You served several
-  combat-tours on the mainland... So why didn't you say anything back there, Carden?" She is
-  hungry for his moral engagement; he dismisses it as "self-righteousness" (Ch1).
+- **Moral challenge**: Marelyn whispers "Traitors" during the investiture ceremony, prompting
+  Carden to internally dismiss her "self-righteousness" (Ch1). Later on the Parliament balcony,
+  she presses further — "You served several combat-tours on the mainland... So why didn't you say
+  anything back there, Carden?" She is hungry for his moral engagement (Ch1).
 - **Transactional framing**: Carden deflects with: "If you would remain happy being my wife
   without my present salary and civil service benefits, I would be more than grateful to resign."
   The retort implies money is what holds the marriage together (Ch1).
@@ -168,8 +171,8 @@ The relationship opens in a state of negotiated distance. Key markers:
 
 Yet the chapter ends on a crack in the wall. After Carden finally shares his honest political views
 over the late-night duck bruschetta, "for the first time in a long time this arranged marriage
-felt... right" (Ch1). Marelyn touches her wedding ring and asks: "Why can't we make this work,
-Carden?" He answers: "Because our parents never gave us a choice" (Ch1). The question opens the
+felt... right" (Ch1). Marelyn "rubbed her golden wedding-ring and its fat diamond" and asks: "Why
+can't we make this work, Carden?" He answers: "Because our parents never gave us a choice" (Ch1). The question opens the
 arc; the answer assigns blame externally rather than attempting agency.
 
 ### Chapter Two: The Shared Wound
@@ -180,8 +183,7 @@ When Carden says Annie is "happily married to one Roger Baker," Marelyn provides
 accurate description" of Roger before breaking down — patting the couch for Carden, locking her
 arms around his arm "as if clinging to a mast," weeping against him (Ch2). Her three staccato
 questions — "Why do we both need to live like this?" / "Why won't things ever go my way?" / "Why
-can't I be me?" — arrive "without attribution to a specific trigger, so the reader feels their
-accumulated weight" (Ch2).
+can't I be me?" — arrive in rapid succession without attribution to a specific trigger (Ch2).
 
 Carden wraps her in his arms and tucks her into bed. Alone by the hearth, he reflects: "He asked
 himself those questions every single day. How preposterous he only learned after twenty-five years
@@ -266,9 +268,10 @@ long time" — Carden perched on her lap, stroking her back, enduring physical p
 rather than move — while she reports that "Everyone's gone mad" and lays out a comprehensive
 geopolitical picture he could not have assembled alone (Ch5).
 
-**The private vow**: After dinner and honest conversation, Marelyn tells Carden he is one of "the
-rarest breeds of people left in our country" and says "I feel like I'm exactly where I need to
-be." Carden misreads the compliment as an insult. Marelyn calls him "Carden, dear" — which he has
+**The private vow**: After dinner and honest conversation, Marelyn says "I feel like I'm exactly
+where I need to be." Carden misreads this as an insult. After further conversation — Carden's
+confusion, Marelyn cradling his hand, her enumeration of her family's failings — she tells him he
+is one of "the rarest breeds of people left in our country" (Ch5). Marelyn calls him "Carden, dear" — which he has
 never heard "without some weight of dread in the air" — wraps her arms around him from behind,
 presses cheek to cheek, and apologizes: "I have been horribly unfair to you." She proposes a
 toast: "Whatever comes tomorrow, let's face it together. Promise?" Carden senses "a moment like
@@ -287,8 +290,8 @@ Marelyn's voice becomes Carden's internal compass: after Edward unexpectedly app
 exemptions, "Marelyn would have told him to count his blessings and move on" (Ch6).
 
 At Saint Alfred's Cathedral, after Annie and Roger pray over them, Carden takes Marelyn's hands —
-"their wedding rings pressed together" — and she says: "Let's be happy, Carden." Carden prays
-aloud: "Father in Heaven, Son above, Marelyn and I are ready to be happy" — naming Marelyn in
+"their wedding rings pressed together" — and she says: "Let's be happy, Carden." Carden "squeezed Marelyn's hands and uttered a quick
+prayer": "Father in Heaven, Son above, Marelyn and I are ready to be happy" — naming Marelyn in
 his prayer to God and framing their happiness as inseparable (Ch6).
 
 ### Chapter Seven: The Crisis and the Choice
@@ -300,8 +303,11 @@ words, just space. His wife deserved at least that much" (Ch7).
 **Marelyn's overnight anguish**: Marelyn reveals both fathers summoned her to Julian's penthouse
 and presented unsigned divorce and disinheritance papers with the message: "There is no room for a
 disgraced prodigal son." She asks for the night alone. Carden's "chest lurched," but he complies
-instantly, pulling out the spare mattress so she can sleep in the bedroom. All night, "the only
-things that emerged from Marelyn's study were sobs, sniffles, and wails" (Ch7).
+instantly — pulling out the spare mattress and then leaving the flat entirely, walking to Saint
+Alfred's Cathedral across the Rorsch River (Ch7). When Carden returns at midnight and tells
+Marelyn his decision — "Termination" — she breaks down: "I just can't right now," bolts to her
+study, and locks herself in. Long into the night, "the only things that emerged from Marelyn's
+study were sobs, sniffles, and wails" (Ch7).
 
 **Carden's assumption of divorce**: When Carden returns from his termination to find the flat
 cleared of Marelyn's belongings, her purse wall bare, and only a disinheritance form on the
@@ -318,13 +324,13 @@ confronted her father, and filed Charles Winston's signed disinheritance of her 
 on father's face was priceless," Ch7). She was never going to divorce him.
 
 Her explanation unfolds the internal process the POV constraint kept hidden: "From the moment
-father told me what happened, my heart already knew what we should do. Except it wasn't ready yet
+our fathers told me what happened yesterday, my heart already knew what we should do. Except it wasn't ready yet
 for the consequences." She prayed all night that Carden would choose to keep his job — "I prayed
 you would give me an excuse not to do the right thing" — but he didn't. She reframes his decision
 as their shared one: "You made the right choice. *We* made the right choice" (Ch7).
 
-Carden's response, unable to "describe all he felt about her in words," recalls Marelyn's earlier
-rebuke about overcomplicating things. He keeps it simple: "Thank you" (Ch7).
+Carden's response, "suddenly unsure how to describe all he felt about her in words," recalls
+Marelyn's earlier rebuke about overcomplicating things. He keeps it simple: "Thank you" (Ch7).
 
 ### Chapter Eight: The Hilltop
 
@@ -343,7 +349,8 @@ I promised to marry the first person who joined my daydreams" (Ch8).
 Marelyn says: "Let's make this work." Carden echoes: "Let's make this work" (Ch8).
 
 **The Horace meeting**: Carden and Marelyn co-pitch the welfare-and-reconstruction scheme to
-Horace. Carden volunteers them both — "Marelyn and I will" — with his arm around her shoulder
+Horace. Carden volunteers them both — "Marelyn and I will" (Ch8). After Horace questions the
+proposal, Carden "wrapped his arm around a sheepish Marelyn's shoulder" while expanding the pitch
 (Ch8). Marelyn deploys strategic charm with Horace while Carden notices her hands clenching her
 trousers under the desk (Ch8). When Horace questions whether Marelyn should "stoop to such work,"
 she declares: "I've walked away from all that. Disowned, matter-of-fact" (Ch8). Carden "inwardly
@@ -351,7 +358,7 @@ uttered a prayer of profound gratitude to the Father for Marelyn's presence in h
 
 ### Epilogue: Presence
 
-Marelyn is present in all four of the Epilogue's scenes. At the Chartwell Street construction site
+Marelyn is present throughout the Epilogue's scenes. At the Chartwell Street construction site
 she argues with a municipal contractor over inflated invoices for glass sealants and weatherproof
 surface-resins, pauses to watch the lattice-hoisting, and exchanges a wink and a smile with Carden.
 In the domestic scene that evening, Carden and Marelyn walk home through the cold dusk; Carden cooks
@@ -400,9 +407,10 @@ expression. Key instances include:
 
 ### "Come Eat"
 
-Carden's recurring phrase when nudging food toward Marelyn, appearing in Ch1 (duck bruschetta),
-Ch4 (café scones, train-ride croissant), and Ch6 (mutton curry). The phrase does not appear in the
-Epilogue's mutton curry scene, but the gesture persists — Carden cooks and Marelyn eats. The
+Carden's recurring phrase when nudging food toward Marelyn, appearing in Ch2 (smoked-sardine stew),
+Ch4 (café scones, train-ride croissant), and Ch6 (mutton curry). The phrase does not appear in
+Ch1's duck bruschetta scene (where Carden uses different phrasing) or the Epilogue's mutton curry
+scene, but the gesture persists — Carden cooks and Marelyn eats. The
 pattern bridges moments when verbal communication has failed or is insufficient — Carden defaults
 to physical caretaking when he cannot find the right words.
 
@@ -496,10 +504,11 @@ transformation is witnessed by, and ultimately enabled by, the other.
 
 ### The Relationship and the Novella's Central Theme
 
-The novella's title — *We Heralds of Freedom* — names a historic compact between Mankind and
-Dwarfkind that secured Alfainia's liberation. The Carden–Marelyn relationship mirrors that theme
-at the personal scale: two people forced together by external powers who must freely choose each
-other — and freely choose costly principles — to achieve genuine liberation. The arranged marriage
+The novella's title — *We Heralds of Freedom* — refers to Mankind's creed as "proclaimed by the
+Father at the dawn of Creation": "Mankind are the Heralds of Freedom" (Epilogue). The
+Carden–Marelyn relationship mirrors the freedom theme at the personal scale: two people forced
+together by external powers who must freely choose each other — and freely choose costly
+principles — to achieve genuine liberation. The arranged marriage
 is the domestic counterpart to the national compact: both were imposed, both must be remade from
 within, and both require sacrifice to sustain.
 
@@ -507,8 +516,10 @@ within, and both require sacrifice to sustain.
 
 By the novella's close, the manuscript has established:
 
-- Carden and Marelyn were each other's second choice, forced together after losing their first
-  attachments to the same two people (Annie and Roger).
+- The manuscript implies (through the parallel revelations in Ch2, Ch4, and Ch8) that Carden and
+  Marelyn each had prior romantic attachments — Carden to Annie, Marelyn to Roger — before being
+  forced together. The phrase "second choice" does not appear in the text, but the structural
+  irony is clear: both lost attachments to the same two people, who married each other.
 - Over twenty-five years of negotiated distance, they built complementary competencies (his
   cooking and moral conviction; her financial acumen and intelligence-gathering) without
   recognizing them as the foundations of a genuine partnership.
