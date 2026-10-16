@@ -11,7 +11,7 @@ Entries are alphabetical, matching the source glossary's order.
 
 **Arcane** — Eyael's orthodox Magic system.
 → Underpins the entire plot's magic from Ch1 onward (Arcane Tongue, Arcanists, Zeal/Law/Armaments/
-Shadow/Mitotic/Atmospheric/Gravitational/Space/Empowerment/Enchanting Magic are all Arcane
+Shadow/Mitotic/Atmospheric/Gravitational/Space/Empowerment/Enchanting/Visionary Magic are all Arcane
 disciplines in use on-page). See `magic-system.md`.
 
 **Arcane Creature** — feral biological organisms naturally constituted from Aether by Worldhearts,
@@ -54,14 +54,19 @@ ecosystems.
 
 **Calling** — the specific role an Arcanist or Profaner attains at a specific Magic Branch and Tier
 that defines what powers they can wield and what they must do to Self-Actualize.
-→ Never named explicitly as "a Calling" in the prose of the read chapters, but functionally present:
-Carden and Renee are both called "Idealist Arcanist" (Ch2) / "Ideals Arcanist" (Epilogue), implying
-a Calling tied to
-Zeal Magic. See `magic-system.md`.
+→ Named explicitly in the Epilogue's prose: "How close are you to self-actualizing your Calling?"
+(ep:42); "self-actualizing his *Zealot* Calling" (ep:48); "A new... Calling" (ep:190). Carden and
+Renee are both called "Ideals Arcanist" (Ch2, Ch3, Epilogue) and "Idealist Arcanist" (Ch2), a
+Calling tied to Zeal Magic. Carden's Calling advances from Zealot to Visionary upon self-
+actualization (ep:186–192). See `magic-system.md`.
 
 **Calling-specific feat** — the specific act an Arcanist or Profaner must accomplish at certain
 Tiers to progress to the next Tier.
-→ Not depicted on-page; no character is shown attempting or completing one in the read chapters.
+→ The glossary defines this as the act an Arcanist must accomplish to progress to the next Tier. The
+Epilogue depicts Carden's Tier progression from Zealot to Visionary via a specific on-page act (his
+speech to the Elf children, ep:156–183, triggering self-actualization at ep:184–208). Whether the
+author considers this identical to or distinct from "self-actualization" is not disambiguated by the
+manuscript text alone.
 
 **Creator** — one of the deities in Eyael's pantheon of gods.
 → Patron deity of Imperium Divinus; His Scripture appears mysteriously in Parliament demanding
@@ -86,8 +91,13 @@ pigmentation whose color reflects innate individual Magical affinity.
 enslaved Elf mother bears a visible slave-tattoo (Ch3); an enslaved Elf practices Mitotic Magic as a
 healer at the Exchequer infirmary (Ch5); enslaved Elves (orange-haired and sky-blue-haired) perform
 skilled construction labor via Empowerment and Enchanting Magic in the Epilogue, loaned by Windbury's
-affluent families under social pressure from Horace. The text notes this detail without yet
-interrogating it further — see `magic-system.md` → "Peoples."
+affluent families under social pressure from Horace. The Epilogue directly interrogates Elf slavery:
+an Elf girl asks "Mister Oakmoore, why aren't we free?" (ep:140); Carden explains the God of War
+rejected the Father's emancipation decree and Parliament has not reformed the laws (ep:146–148), and
+that civilization depends on Elf labor since every Elf can be born an Arcanist (ep:150–155). Earlier
+in the same scene, Lucifer's revelation that the Father decreed Elf-kind's penance over — and
+Alfainia's explicit rejection of that mandate — is recounted (ep:110–128). See `magic-system.md` →
+"Peoples."
 
 **Essence** — an amorphous, gelatinous, indestructible organ in Arcane Creatures, Beastmen, and
 Profane Creatures that contains the host-creature's innate Magic.
@@ -175,9 +185,13 @@ shadows the Imperial flotilla off Windbury in Ch3.
 
 **Self-actualization** — a lived, experiential process where an Arcanist or Profaner must embody and
 live the ideals of their Calling to progress it and thus ascend to the next Tier's Calling.
-→ Gives the Epilogue its title ("Magic Is Self-Actualization") and is the implicit mechanism behind
-Carden's visibly surer, calmer command of Zeal Magic after his Ch7 termination — power following
-from lived conviction rather than preceding it. See `magic-system.md`.
+→ Gives the Epilogue its title ("Magic Is Self-Actualization"). Explicitly completed on-page in the
+Epilogue as the chapter's central climax: Carden's Zealot Calling whispers approach throughout
+(ep:42–50), the "missing piece" arrives during his speech to the Elf children (ep:156–164), and the
+Arcane declares "Be a Zealot no longer. Be a Visionary" (ep:186–188). Carden ascends to Tier Three,
+gains a new Calling (Visionary) and new Magic (Visionary Magic — the power to conjure Imaginary
+Objects from memory), demonstrated by conjuring a deep-crimson purse (ep:200–202). Horace confirms:
+"He's done it! Carden's self-actualized! He's Tier Three!" (ep:208). See `magic-system.md`.
 
 **Spawning** — the Aetheric phenomena wherein a Worldheart's Aether coalesces into an Aetheric
 Creature, Arcane Creature, or Beastman.
@@ -211,19 +225,20 @@ here as candidates for the author to add if the glossary is expanded in a later 
 
 - **Zeal Magic**, **Law Magic**, **Armaments Magic**, **Shadow Magic**, **Mitotic Magic**,
   **Atmospheric Magic**, **Gravitational Magic**, **Space Magic**, **Empowerment Magic**,
-  **Enchanting Magic** — named Magic Branches/disciplines shown in active use (see
-  `magic-system.md` for the full table of who wields what, and where).
+  **Enchanting Magic**, **Visionary Magic** — named Magic Branches/disciplines shown in active use
+  (see `magic-system.md` for the full table of who wields what, and where).
 - **Imperium Divinus** — the Creator's empire; the Latin-style proper name first appears in Ch5
   ("Imperium Divinus committed during its nine-year occupation of the island"). Ch1's Scripture
   references "the Creator and his empire" generically. Implied throughout as Alfainia's historical
   occupier and the war's opposing power.
 - **Ideals Arcanist** / **Idealist Arcanist** — the specific Calling shared by Carden Oakmoore and
-  Renee Rose; appears as "Idealist Arcanist" (Ch2) and "Ideals Arcanist" (Epilogue). Functions as
-  the in-text name for what the glossary's abstract "Calling" system defines.
+  Renee Rose. Both variant spellings coexist within Ch2 itself: "Ideals Arcanist" (ch02:300) and
+  "Idealist Arcanist" (ch02:304). "Ideals Arcanist" also appears in Ch3 (ch03:100) and the Epilogue
+  (ep:22). Functions as the in-text name for what the glossary's abstract "Calling" system defines.
 - **Black Hounds** — the 309th Infantry Regiment / 8th Infantry Division's nickname and matching
   wrist-tattoo insignia (a snarling black hound), shared by Carden and Horace Livingstone; later also
-  shared by Renee Rose, who wears military fatigues as a Black Hounds private in the Epilogue (the
-  tattoo itself is not observed on-page in the Epilogue).
+  shared by Renee Rose, who wears military fatigues and "sported a Black Hounds tattoo on her right
+  wrist" in the Epilogue (ep:20).
 - **Blue Kingfishers** — the Fifth Marine Regiment's nickname and tattoo insignia, Roger Baker's old
   unit.
 - **Essexian Church** — the institution/rite associated with Saint Alfred's teachings, named when
@@ -244,3 +259,22 @@ here as candidates for the author to add if the glossary is expanded in a later 
   Beast depredations (Ch2).
 - **Arcane Beast** / **Aetheric Beast** — terms used in Ch2 for creatures threatening rural
   Communes; distinct from the glossary's "Arcane Creature" and "Aetheric Creatures."
+- **Zealot** — Carden's Calling prior to self-actualization; italicized as a proper term
+  ("self-actualizing his *Zealot* Calling," ep:48; "Be a *Zealot* no longer," ep:186).
+- **Visionary** / **Visionary Magic** — Carden's new Calling and its associated Magic, attained upon
+  self-actualization in the Epilogue. "Be a *Visionary*" (ep:188); "As a *Visionary*, he gained
+  Visionary Magic" (ep:200). See `magic-system.md`.
+- **Imaginary Objects** — the specific power granted by Visionary Magic: "The power to conjure things
+  he encountered in the past as *Imaginary Objects*" (ep:200). Italicized as a proper term.
+- **Tier Three** — the specific Tier Carden reaches through self-actualization: "He's Tier Three!"
+  (ep:208).
+- **Lucifer** / **Athanásios toû Zenonos** — a major figure in the Epilogue's theological
+  revelation. Lucifer is an Elf whose true name is Athanásios toû Zenonos (ep:118); described as an
+  extremely powerful Arcanist uplifted into divinity by the Father, imprisoned for millennia, and
+  now redeemed as the Father's prophet (ep:120–121). He pronounced the Father's decree that Elf-
+  kind's penance as slaves is over (ep:122). Also referenced via "Lucifer's Rebellion" stained-glass
+  at the cathedral (ep:108).
+- **Gabriel Angelos** — the Creator's true identity: "The Creator was a Human, Gabriel Angelos"
+  (ep:114).
+- **Davud Abshalom** — the God of War's true identity: "The God of War was a Dwarf, Davud Abshalom"
+  (ep:116).
