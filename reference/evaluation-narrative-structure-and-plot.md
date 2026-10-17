@@ -14,29 +14,29 @@ structural risks exist at the craft level. It does not propose revisions.
 
 ### 1a. Architecture
 
-The manuscript consists of eight numbered chapters plus a four-scene Epilogue, framed by front matter
+The manuscript consists of eight numbered chapters plus a five-scene Epilogue, framed by front matter
 (title, subtitle, and an epigraph line) and a non-narrative Glossary. Total manuscript length is
-~29,739 words; the narrative body (Ch1 through Epilogue) is ~29,053 words. Front matter contributes
+~30,847 words; the narrative body (Ch1 through Epilogue) is 30,161 words. Front matter contributes
 21 words; the Glossary contributes 665 words.
 
 Chapter word counts:
 
 | Chapter | Words | % of Narrative Body |
 |---|---:|---:|
-| Ch1 – Our Definitions Of Freedom | 3,232 | 11.9% |
-| Ch2 – Home Is Not Home | 4,224 | 15.6% |
-| Ch3 – Inexorable Machinery Of Empire | 2,010 | 7.4% |
-| Ch4 – Great Vagaries Of Homecoming | 3,871 | 14.3% |
-| Ch5 – Relentless March Of History | 3,826 | 14.1% |
-| Ch6 – Messy Implementations Of Righteousness | 3,025 | 11.2% |
-| Ch7 – When Faith Is Tested | 3,729 | 13.3% |
-| Ch8 – When Faith Is Rewarded | 2,997 | ~10.3% |
-| Epilogue – Magic Is Self-Actualization | 2,139 | ~7.4% |
+| Ch1 – Our Definitions Of Freedom | 3,232 | 10.7% |
+| Ch2 – Home Is Not Home | 4,224 | 14.0% |
+| Ch3 – Inexorable Machinery Of Empire | 2,010 | 6.7% |
+| Ch4 – Great Vagaries Of Homecoming | 3,871 | 12.8% |
+| Ch5 – Relentless March Of History | 3,826 | 12.7% |
+| Ch6 – Messy Implementations Of Righteousness | 3,025 | 10.0% |
+| Ch7 – When Faith Is Tested | 3,729 | 12.4% |
+| Ch8 – When Faith Is Rewarded | 2,997 | 9.9% |
+| Epilogue – Magic Is Self-Actualization | 3,247 | 10.8% |
 
 The range spans 2,010 (Ch3) to 4,224 (Ch2) words. The three shortest sections — Ch3 (2,010),
-Epilogue (2,139), and Ch8 (2,997) — carry distinct structural functions: Ch3 is the crisis-escalation
-chapter, Ch8 is the resolution proposal, and the Epilogue is the coda. Their relative brevity is
-proportional to their roles.
+Ch8 (2,997), and Ch6 (3,025) — carry distinct structural functions: Ch3 is the crisis-escalation
+chapter, Ch8 is the resolution proposal, and Ch6 is the second-petition and warning chapter. Their
+relative brevity is proportional to their roles.
 
 The chapter-title system operates in two modes: thematic abstraction ("Our Definitions Of Freedom,"
 "Inexorable Machinery Of Empire," "Messy Implementations Of Righteousness") and paired structure
@@ -62,15 +62,20 @@ three risks diffusing the intimacy that justifies the novella format."
 
 Strictly linear. No flashback scenes, no parallel timelines. The story moves forward from the
 investiture (Ch1) to the Epilogue. Chapters are mostly continuous with their neighbors: Ch3 begins
-the evening of Ch2's riot; Ch6 opens by continuing Ch5's last line; Ch7 opens by continuing Ch6's
-last line. Time-skips are explicit and clearly stated: approximately three months between Ch1 and
-Ch2; spring to summer between Ch4 and Ch5; months of autumn across Ch6; and a winter interval
-between Ch8 and the Epilogue.
+the afternoon of Ch2's riot (ch03:16–17, "after everything that happened earlier in the day"); Ch6
+opens by continuing Ch5's last line; Ch7 opens by continuing Ch6's last line. Time-skips are explicit
+and clearly stated: approximately three months between Ch1 and Ch2 (ch02:48); winter to spring
+between Ch4 and Ch5 (ch05:4–5, "spring's first buds" following "last winter's Deliverance Day");
+summer through autumn across Ch6 (the chapter opens in summer, continuing from Ch5's ending, and
+transitions to autumn at ch06:170); and approximately one year between Ch8 and the Epilogue
+(ep:16, ep:32, ep:70 each reference "a year" having passed).
 
-The total narrative timeline spans approximately one year. This compressed timeline is well-matched
-to the novella format: it gives the protagonist's arc enough elapsed time to feel like genuine
-transformation rather than overnight conversion, while keeping the narrative scope manageable within
-~28,000 words.
+The total narrative timeline spans approximately two years. Ch1 through Ch8 covers roughly one year
+(autumn through the following autumn), and the Epilogue is set approximately one year after Ch8
+(ep:102, "two years ago," refers to conditions last seen around Ch2–Ch3). This timeline is
+well-matched to the novella format: it gives the protagonist's arc enough elapsed time to feel like
+genuine transformation rather than overnight conversion, while keeping the narrative scope manageable
+within ~30,000 words.
 
 Intrusive combat memories appear as somatic flashbacks in Ch1, Ch3, and Ch5 — present-feeling
 flashes embedded in scenes rather than dramatized as separate flashback sequences. This is a
@@ -78,7 +83,9 @@ structural choice that preserves the linear chronology while establishing backst
 
 **Assessment**: The chronological design meets the standard. Linear chronology is the expected mode
 for single-POV character-driven novellas; the manuscript's time-skips are well-managed and clearly
-signaled.
+signaled. The approximately two-year timeline, including the Epilogue's one-year time-skip, is
+proportional to the novella format and gives the reconstruction coda enough elapsed time to
+demonstrate lived consequences of the protagonist's choices.
 
 ---
 
@@ -108,27 +115,32 @@ identifies as "the default" for character-driven novellas:
 
 ### Proportional analysis
 
-| Act | Chapters | Words | % of Narrative | Industry Guide (for ~29K words) |
+| Act | Chapters | Words | % of Narrative | Industry Guide (for ~27K; percentages against 30,161) |
 |---|---|---:|---:|---|
-| I | Ch1–Ch2 | 7,456 | ~25.7% | ~5,000–7,000 (17.2%–24.1%) |
-| II | Ch3–Ch6 | 12,732 | ~43.8% | ~13,000–17,000 (44.8%–58.5%) |
-| III | Ch7–Epilogue | 8,865 | ~30.5% | ~5,000–7,000 (17.2%–24.1%) |
+| I | Ch1–Ch2 | 7,456 | 24.7% | ~5,000–7,000 (16.6%–23.2%) |
+| II | Ch3–Ch6 | 12,732 | 42.2% | ~13,000–17,000 (43.1%–56.4%) |
+| III | Ch7–Epilogue | 9,973 | 33.1% | ~5,000–7,000 (16.6%–23.2%) |
 
 Act I is slightly above the upper bound of the guideline range. Act II falls near the lower bound.
-Act III sits slightly above the upper bound, reflecting the expanded Ch8 and Epilogue.
+Act III sits well above the upper bound of the guideline range, reflecting the expanded Ch8 and
+Epilogue revisions. At 9,973 words, Act III carries approximately 43% more than the guide's upper
+bound of 7,000 words.
 
 ### Assessment
 
-The proportional distribution is close to the standard scaffold but shows a distinct bias: Act I
-runs slightly heavy and Act II runs slightly compressed. Ch2, at 4,224 words, is the manuscript's
-longest chapter and carries substantial setup alongside the inciting-incident aftermath — this is
-what pushes Act I past the guideline. Act II's compression is a function of the individual chapter
-sizes: Ch3 (2,010) and Ch6 (3,025) are among the manuscript's shortest chapters, and both carry
-dense plot movement at the expense of the interiority and reflective passages the industry standard
-associates with the novella format's "unique advantage."
+The proportional distribution departs from the standard scaffold in two directions: Act I runs
+slightly heavy and Act III runs substantially heavy, while Act II runs slightly compressed. Ch2, at
+4,224 words, is the manuscript's longest chapter and carries substantial setup alongside the
+inciting-incident aftermath — this is what pushes Act I past the guideline. Act II's compression is a
+function of the individual chapter sizes: Ch3 (2,010) and Ch6 (3,025) are the manuscript's two
+shortest chapters, and both carry dense plot movement at the expense of the interiority and reflective
+passages the industry standard associates with the novella format's "unique advantage." Act III's
+expansion reflects the revised Ch8 and Epilogue, which together carry 6,244 words of resolution and
+coda — significantly more than the guide's allocation for climax and resolution.
 
-The industry standard's word-count ranges are a rough guide, not a hard constraint; the manuscript's
-deviation is measured in hundreds of words, not thousands. The more relevant question — whether the
+The industry standard's word-count ranges are a rough guide, not a hard constraint, and were
+calibrated for a ~27,000-word novella. The manuscript at 30,161 narrative words exceeds that baseline
+by ~12%, which accounts for some of the proportional shift. The more relevant question — whether the
 proportional distribution serves the narrative — is addressed in the pacing assessment below.
 
 ---
@@ -144,12 +156,12 @@ crammed in)" nor "an inflated short story (thin premise stretched past its natur
 The manuscript tracks eight plot threads across eight chapters and an Epilogue, with a cast that
 includes two principal characters (Carden and Marelyn), six significant supporting characters
 (Edward, Horace, Julian, Annie, Roger, and Charles Winston), and several minor figures. For a
-~28,000-word novella, this is at the upper boundary of manageable scope but does not cross into
+~30,000-word novella, this is at the upper boundary of manageable scope but does not cross into
 compression: each supporting character serves a distinct structural function (Edward = institutional
 pressure, Horace = military/political bridge, Julian = filial/religious antagonist, Annie/Roger =
 conscience and community, Charles = familial complicity), and no character doubles another's role.
 
-The story's temporal scope (approximately one year) is proportional to a ~27K novella. The
+The story's temporal scope (approximately two years) is proportional to a ~30K novella. The
 time-skips maintain momentum without creating a sense of rushing or of arbitrary compression.
 
 ### Where pacing works
@@ -165,7 +177,7 @@ time-skips maintain momentum without creating a sense of rushing or of arbitrary
   opens with Edward's ultimatum) creates the novella's strongest pacing hinge: the reader is carried
   across the chapter boundary by momentum alone.
 
-- **The Epilogue** (2,139 words) is paced as a coda that expands beyond domestic resolution to
+- **The Epilogue** (3,247 words) is paced as a coda that expands beyond domestic resolution to
   encompass both geopolitical context (newspaper war headlines, the aerial fleet) and new
   worldbuilding exposition (Lucifer's revelation about the gods' mortal origins and the Father's
   decree freeing Elfkind). Despite carrying more narrative content than the original Draft Zero
@@ -175,9 +187,10 @@ time-skips maintain momentum without creating a sense of rushing or of arbitrary
 ### Where pacing is at risk
 
 - **Ch3** (2,010 words, eight discrete beats) is the manuscript's most compressed chapter. It covers
-  martial law, the cathedral, the interrogation and confession, the classmates' accounting of losses
-  and the three killings, the Imperial flotilla's appearance and the Sarhese intervention, an
-  overnight air-raid shelter, and Marelyn's telegram. Each beat is individually effective, but the
+  Carden's outgoing telegram to Marelyn, the cathedral under martial law, the Horace confrontation on
+  the balcony, the interrogation and confession, the classmates' accounting of losses and the three
+  killings, the Imperial flotilla's appearance and the Sarhese intervention, the overnight air-raid
+  shelter, and Marelyn's incoming telegram. Each beat is individually effective, but the
   density means that the Imperial flotilla — a major geopolitical escalation — receives roughly the
   same narrative space as the telegram office scene. In a novel, the flotilla would be a set piece;
   in this novella, it is atmospheric information delivered at high velocity. Whether this compression
@@ -204,7 +217,8 @@ time-skips maintain momentum without creating a sense of rushing or of arbitrary
   The fourth scene (the flat) grounds the chapter's reconstructive logic in domestic specificity.
 
 **Assessment**: The manuscript feels native to its length. The story's scope — one protagonist's arc
-across a year of political and personal crisis — is proportional to ~28,000 words; no subplot or
+across approximately two years of political and personal crisis — is proportional to ~30,000 words;
+no subplot or
 character feels imported from a larger work, and no section feels padded. The pacing risks identified
 above are characteristic of the novella form's compression rather than of structural error: Ch3's
 density and Ch8's compression are the costs of telling this story at this length.
@@ -257,31 +271,38 @@ The three mechanisms converge, like the engine's three axes, in the Ch7 climax: 
 carries both institutional and military stakes ("Imperium Divinus is challenging the sovereignty of
 our Commonwealth," ch07:34) while the Father's Scripture provides the theological counterweight.
 
-### A structural asymmetry: the pressure drops
+### A structural asymmetry: the pressure shifts
 
-After Ch7, the three external-pressure mechanisms cease within Ch8: no divine interventions, no
-institutional demands, no military references. Edward Cook does not appear. Julian does not appear.
-The Dominion crisis is absent. However, the Epilogue reintroduces the external-pressure thread:
-newspaper headlines report a world war across multiple continents, an Alfainian aerial fleet glides
-overhead, and Carden's closing reflection registers the geopolitical outcome. The Black Hounds
-training Arcanist recruits in Windbury provides an additional point of contact, framed as
-reconstruction support that implicitly connects to the ongoing military context.
+After Ch7, the external-pressure mechanisms shift in character rather than disappearing entirely.
+Divine interventions cease — the Father's Scripture in Ch7 is the final divine encounter, and no
+Scripture or divine voice appears in Ch8 or the Epilogue. Edward Cook does not appear in Ch8; Julian
+does not appear. No new institutional demands are made. However, the military/war thread continues in
+Ch8 through Horace's dialogue: "the coming war demands every last cone Alfainia has to offer"
+(ch08:110) and "The war effort's forced me to trim a lot" (ch08:164). The absence of soldiers is
+itself noted: "No soldiers patrolled Windbury's streets now" (ch08:52). The war is present in Ch8 as
+economic and institutional context shaping the reconstruction, not as direct pressure on Carden.
+
+The Epilogue then expands the external-pressure thread further: newspaper headlines report a world war
+across multiple continents, an Alfainian aerial fleet glides overhead, and Carden's closing reflection
+registers the geopolitical outcome. The Black Hounds training Arcanist recruits in Windbury provides
+an additional point of contact, framed as reconstruction support that implicitly connects to the
+ongoing military context.
 
 This structural choice is consistent with the character-driven logic: the pressure was never
 Carden's story; his story is the integrity arc, and once the climactic choice is made, the external
 crisis is someone else's concern. The Epilogue's title — "Magic Is Self-Actualization" — signals
-that the resolution is internal, not geopolitical. Yet the Epilogue's war headlines and aerial fleet
-demonstrate that the internal and external can coexist: the domestic coda is grounded in the
-geopolitical world the prior seven chapters built.
+that the resolution is internal, not geopolitical. Yet both Ch8 and the Epilogue demonstrate that the
+internal and external can coexist: the domestic resolution is grounded in the geopolitical world the
+prior seven chapters built.
 
-The remaining structural asymmetry is Ch8's complete silence. The reader has been trained across
-~24,000 words to track the war as a live narrative concern; in Ch8 (~2,863 words) it vanishes
-without acknowledgment, before returning in the Epilogue. Whether this single-chapter gap registers
-as a structural concern or as a natural character-focused interlude depends on editorial judgment.
+The remaining structural asymmetry is the shift from direct pressure to background context. In Ch1
+through Ch7, the war drives plot through active mechanisms (Scriptures, ultimatums, military events).
+In Ch8 (2,997 words) and the Epilogue (3,247 words), the war persists as economic constraint and
+geopolitical backdrop rather than as active pressure on the protagonist. Whether this shift registers
+as a structural concern or as a natural transition from crisis to reconstruction depends on editorial
+judgment.
 
 This asymmetry is assessed further in §7 (Identified Structural Risks).
-
----
 
 ---
 
@@ -324,14 +345,21 @@ protagonist's evolution.
   from performed status to authentic self. As a device, it is more thematic than structural — it
   does not drive plot — but it provides visual continuity across the marriage-arc scenes.
 
-- **Edward/Carden meetings** (Ch1, Ch2, Ch5, Ch6, Ch7). Five meetings with escalating institutional
-  pressure create the institutional-threat rhythm. Each meeting narrows Carden's options. The device
-  is structurally essential — the meetings are the pressure mechanism's primary delivery system.
+- **Edward/Carden meetings** (Ch1, Ch2, Ch5, Ch7). Five face-to-face meetings with escalating
+  institutional pressure create the institutional-threat rhythm: the investiture and Scripture (Ch1),
+  Annie and Roger's Scripture introduction (Ch2), the Creator's Scripture and rearmament discussion
+  (Ch5), and the ultimatum and termination (Ch7, two meetings). In Ch6, Edward is present through
+  institutional traces — his off-screen anger (ch06:54–58), his signature on forms (ch06:130),
+  Horace's report of a meeting with Edward (ch06:196) — but no face-to-face meeting between Edward
+  and Carden occurs in Ch6. Each face-to-face meeting narrows Carden's options. The device is
+  structurally essential — the meetings are the pressure mechanism's primary delivery system.
 
-- **Horace appearances** (Ch2, Ch3, Ch6, Ch8). Horace appears four times, each at a structurally
-  pivotal moment: introduction (Ch2), crisis authority (Ch3), warning (Ch6), and resolution (Ch8).
-  The device is economical — four scenes suffice to establish Horace as a complex figure caught
-  between institutional demands and personal loyalty.
+- **Horace appearances** (Ch2, Ch3, Ch6, Ch8, Epilogue). Horace appears five times, each at a
+  structurally pivotal moment: introduction (Ch2), crisis authority (Ch3), warning (Ch6), resolution
+  proposal (Ch8), and coda (Epilogue, where he manages the reconstruction, discusses budgetary
+  struggles with Edward and Charles Winston, and participates in Carden's self-actualization). The
+  device is economical — five scenes suffice to establish Horace as a complex figure caught between
+  institutional demands and personal loyalty, with the Epilogue showing the payoff of that loyalty.
 
 ### Verbal echoes (assessment)
 
@@ -353,7 +381,7 @@ as thematic throughlines. The most structurally significant:
 **Assessment**: The recurring devices and verbal echoes are a structural strength. They provide
 continuity across the novella's episodic chapter structure without requiring explicit callbacks or
 authorial commentary. The density of devices (seven patterns and nine echoes across nine sections) is
-high for a ~27,000-word novella; no device feels gratuitous, but the cumulative effect is a tightly
+high for a ~30,000-word novella; no device feels gratuitous, but the cumulative effect is a tightly
 engineered manuscript in which the architecture is visible to a close reader. Whether this visibility
 is a feature (the reader appreciates the craft) or a risk (the reader senses the scaffolding)
 depends on the reader's orientation to literary construction. At the upmarket level, visible
@@ -369,28 +397,29 @@ The manuscript tracks eight plot threads:
 
 | Thread | Chapters Active | Resolution Status |
 |---|---|---|
-| War with Imperium Divinus | Ch1–Ch7 | Open |
+| War with Imperium Divinus | Ch1–Epilogue | Open |
 | Tax policy and exemptions | Ch1–Ch8 | Resolved (replaced by municipal subsidy) |
 | Carden and Marelyn's marriage | Ch1–Epilogue | Resolved |
 | Carden and his parents | Ch4–Ch7 | Resolved (disinheritance) |
 | The Winston family | Ch4–Ch7 | Resolved (disinheritance) |
 | Windbury unrest, Horace, and Renee | Ch2–Epilogue | Resolved |
 | Saint Alfred | Ch4, Ch6–Ch7 | Open (identity unconfirmed) |
-| Annie | Ch2, Ch4, Ch6, Ch8 | Resolved |
+| Annie | Ch2, Ch3, Ch4, Ch6, Ch8, Epilogue | Resolved |
 
 Six of eight threads are resolved by the Epilogue. Two remain open: the war and Saint Alfred's
 identity. These open threads are structurally appropriate for a novella positioned as part of a
 series ("An Arcane Keys Novella") — they provide narrative entry points for subsequent work without
 leaving the protagonist's arc unfinished.
 
-The thread distribution is well-managed. No thread is introduced and abandoned; the two open threads
-are established early (the war in Ch1; Saint Alfred indirectly through the cathedral and family
-references in Ch4) and run through the manuscript's middle section. The marriage thread spans all
-nine sections and provides the manuscript's structural spine.
+The thread distribution is well-managed. No thread is introduced and abandoned; the war thread spans
+all nine sections (established in Ch1, active through Ch7, present as economic context in Ch8 and
+geopolitical backdrop in the Epilogue), and Saint Alfred is established indirectly through the
+cathedral and family references in Ch4 and runs through Ch7. The marriage thread spans all nine
+sections and provides the manuscript's structural spine.
 
 ### Narrative economy: word-count allocation
 
-Narrative economy asks: does every section earn its word count? Does the manuscript use its ~28,000
+Narrative economy asks: does every section earn its word count? Does the manuscript use its ~30,000
 narrative words without redundancy or under-service?
 
 **Sections that earn their allocation:**
@@ -408,7 +437,7 @@ narrative words without redundancy or under-service?
   scene, the decision scene, the termination scene, and the dinner scene each earns its position
   and length.
 
-- **Epilogue (2,139 words)**: Resolves the vocation arc (Carden supervising reconstruction and
+- **Epilogue (3,247 words)**: Resolves the vocation arc (Carden supervising reconstruction and
   mentoring Renee), the marriage arc (the self-actualization conversation and domestic closing), and
   the external-pressure thread (newspaper war headlines, aerial fleet) while delivering significant
   new worldbuilding (Horace's budget struggles with Charles Winston; Windbury Cathedral's
@@ -454,42 +483,51 @@ narrative investment is proportional to its structural resolution.
 
 ## 7. Identified Structural Risks
 
-### 7a. External-Pressure Discontinuity
+### 7a. External-Pressure Shift in Resolution
 
 The war with Imperium Divinus provides the story's external pressure through three mechanisms
-(divine interventions, institutional demands, military escalation), all of which are active in every
-chapter from Ch1 through Ch7. In Ch8, none of the three mechanisms appears: the war is not
-mentioned, Edward Cook does not appear, no military event occurs, and the diplomatic/theological
-crisis is entirely absent. The gap is limited to this single chapter.
+(divine interventions, institutional demands, military escalation). These three mechanisms are
+active in most chapters from Ch1 through Ch7, though not uniformly: Ch4, which focuses on familial
+and ideological pressure (the Oakmoore and Winston family visits, Julian's collaboration with
+Edward), does not contain a divine intervention, an active institutional demand from Edward, or
+an on-page military event. The pressure in Ch4 operates through familial complicity with the
+institutional apparatus rather than through the three named mechanisms directly.
 
-The Epilogue reintroduces the external-pressure thread. Newspaper headlines report a world war
-across multiple continents ("WORLD AT WAR!"), an Alfainian aerial fleet glides overhead toward the
-sea — "the fruits of Edward Cook's three years of high taxes" — and Carden's closing reflection
-registers the geopolitical outcome. The war thread is thus acknowledged and structurally present in
-the manuscript's final pages, though it is not resolved (the broader war's outcome remains open, as
-befits the manuscript's positioning as an installment in a series).
+After Ch7's climax, the three mechanisms shift in character. Divine interventions cease entirely —
+the Father's Scripture in Ch7 is the final divine encounter in the manuscript. Edward Cook does not
+appear in Ch8; no new institutional demands are made. However, the war is explicitly present in Ch8
+through Horace's dialogue: "the coming war demands every last cone Alfainia has to offer" (ch08:110)
+and "The war effort's forced me to trim a lot" (ch08:164). The absence of soldiers is itself noted:
+"No soldiers patrolled Windbury's streets now" (ch08:52). The war functions in Ch8 as economic
+constraint shaping the reconstruction's terms rather than as direct pressure on the protagonist.
 
-The character-driven logic supports Ch8's absence: the chapter's task is personal reconstruction
-(social, marital, vocational, domestic), and its four scenes map to those axes without geopolitical
-intrusion. The Epilogue's title, "Magic Is Self-Actualization," signals that the resolution is
-internal, not geopolitical — yet the Epilogue itself demonstrates that the internal and external can
-coexist in the same section, with the war headlines and aerial fleet grounding the domestic coda in
-the geopolitical world the prior seven chapters built.
+The Epilogue expands the external-pressure thread further. Newspaper headlines report a world war
+across multiple continents ("WORLD AT WAR!", ep:60), an Alfainian aerial fleet glides overhead toward
+the sea (ep:75–76), and Carden's closing reflection registers the geopolitical outcome. The war is
+financed through "stupidly high taxes" (ep:72). The war thread is thus acknowledged and structurally
+present in both Ch8 and the Epilogue, though it is not resolved (the broader war's outcome remains
+open, as befits the manuscript's positioning as an installment in a series).
 
-The remaining structural concern is Ch8's complete silence. Horace, who in Ch6 was navigating the
-political consequences of Edward's audit and the broader wartime pressures on Windbury, discusses
-the welfare proposal without any reference to the war. A single contextual reference — from Horace,
-from the narration, from Carden's internal thought — acknowledging the wartime context in which the
-reconstruction must proceed would bridge the gap between Ch7's geopolitical crisis and the
-Epilogue's geopolitical acknowledgment.
+The character-driven logic supports the shift: Ch8's task is personal reconstruction (social,
+marital, vocational, domestic), and the war enters through its economic consequences on that
+reconstruction rather than as direct geopolitical pressure. The Epilogue's title, "Magic Is
+Self-Actualization," signals that the resolution is internal, not geopolitical — yet both Ch8 and the
+Epilogue demonstrate that the internal and external can coexist, with the war's economic impact
+grounding the domestic resolution in the geopolitical world the prior seven chapters built.
+
+The structural note that remains is the shift from active pressure mechanisms to background context.
+In Ch1 through Ch7, the war drives plot through Scriptures, ultimatums, and military events that
+force decisions. In Ch8 and the Epilogue, the war persists as constraint and backdrop rather than as
+plot driver. Whether this shift registers as a structural concern or as a natural consequence of the
+character-driven resolution depends on editorial judgment.
 
 **Industry context**: The comparable title most relevant to this question is *The Goblin Emperor*,
 which resolves its protagonist's integrity arc while leaving its political conspiracy threads open
 for the reader's inference. The structural parallel is that *The Goblin Emperor* acknowledges the
-external threats in its resolution even as it declines to resolve them. This manuscript now does
-the same: the Epilogue's war headlines and aerial fleet acknowledge the external-pressure thread
-without resolving it, placing the manuscript's resolution strategy closer to the comp's approach
-than the Ch8-only absence would suggest.
+external threats in its resolution even as it declines to resolve them. This manuscript does the
+same: Ch8's war references through Horace and the Epilogue's war headlines and aerial fleet
+acknowledge the external-pressure thread without resolving it, placing the manuscript's resolution
+strategy in line with the comp's approach.
 
 ### 7b. Dinner-Scene Structural Parallelism
 
@@ -519,8 +557,11 @@ as thematic or mechanical.
 
 ### 7c. Ch3 Compression
 
-Ch3 (2,010 words) carries the manuscript's most event-dense narrative across eight beats: telegram,
-cathedral, interrogation, classmates, flotilla, air-raid shelter, and morning telegram. The Imperial
+Ch3 (2,010 words) carries the manuscript's most event-dense narrative across eight beats: Carden's
+outgoing telegram, the cathedral under martial law, the Horace confrontation on the balcony, the
+interrogation and confession, the classmates' accounting of losses and the three killings, the
+Imperial flotilla and the Sarhese intervention, the overnight air-raid shelter, and Marelyn's
+incoming telegram. The Imperial
 flotilla scene — a major geopolitical event with two *Dominus*-class supercarriers, five
 *Princep*-class heavy cruisers, thirty-three smaller vessels, and a Sarhese intervention — receives
 approximately 500 words.
@@ -581,21 +622,21 @@ resolved. The remaining spread between Charles Winston's loose "fifty, sixty yea
 | Dimension | Assessment |
 |---|---|
 | **Architecture** | Eight chapters plus an Epilogue; chapter-title system communicates structural information; no internal divisions interrupt the single-POV immersion |
-| **Chronological design** | Strictly linear, with clearly signaled time-skips; the year-long timeline is proportional to the novella format |
+| **Chronological design** | Strictly linear, with clearly signaled time-skips; the approximately two-year timeline is proportional to the novella format |
 | **Character-driven engine** | A three-axis internal transformation (faith, marriage, vocation) converging in a single climactic scene; the external conflict functions as pressure, not engine — precisely the structure the market values |
 | **Recurring structural devices** | Seven scene patterns and nine verbal echoes provide thematic continuity across the episodic chapter structure without requiring explicit authorial commentary |
 | **Plot thread management** | Eight threads, six resolved, two deliberately left open; no thread is introduced and abandoned |
-| **Narrative economy** | No section reads as padding; no character doubles another's function; the manuscript uses its ~29,000 narrative words without redundancy |
+| **Narrative economy** | No section reads as padding; no character doubles another's function; the manuscript uses its ~30,000 narrative words without redundancy |
 | **Resonant ending** | The Epilogue shows the consequences of the protagonist's choices in action — vocation, marriage, and community as lived daily reality — satisfying the industry standard's requirement that the reader "feel the protagonist has changed or arrived somewhere meaningful" |
 
 ### What Requires Attention
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **External-pressure discontinuity** | Low–Moderate | The war/geopolitical thread provides escalating pressure through Ch1–Ch7 and vanishes from Ch8, but returns in the Epilogue through newspaper war headlines and an aerial fleet; the gap is limited to a single chapter rather than the entire resolution |
+| **External-pressure shift** | Low | The war/geopolitical thread provides escalating pressure through Ch1–Ch7 and shifts to economic context in Ch8 (Horace's war references at ch08:110, ch08:164) before expanding in the Epilogue through newspaper war headlines and an aerial fleet; the structural note is the shift from active pressure mechanisms to background context, not an absence |
 | **Dinner-scene parallelism** | Low | Three structurally analogous dinner scenes in three consecutive chapters (Ch5–Ch7) may register as mechanical patterning |
 | **Ch3 compression** | Moderate | The shortest chapter carries the densest event load; the Imperial flotilla receives approximately 500 words for a major geopolitical escalation |
-| **Act II compression** | Low–Moderate | Act II (Ch3–Ch6, 12,732 words) falls near the industry standard's lower bound for the middle section of a ~28K novella; the reflective interiority the novella format affords is compressed in the rising-action chapters |
+| **Act II compression** | Low–Moderate | Act II (Ch3–Ch6, 12,732 words) falls near the industry standard's lower bound for the middle section of a ~30K novella; the reflective interiority the novella format affords is compressed in the rising-action chapters |
 | **Termination/resignation discrepancy** | Resolved | ~~The climactic termination (Ch7) was referred to as a "resignation" (Ch8)~~ — corrected in the revised manuscript; Ch8 now reads "accepting termination" |
 | **Liberation chronology** | Low | ~~Conflicting dates for Alfainia's liberation history~~ — substantially resolved; Ch1 now reads "fifty-four-years ago," aligning with Ch4 and Ch7 references |
 
@@ -604,37 +645,38 @@ resolved. The remaining spread between Charles Winston's loose "fifty, sixty yea
 The narrative structure of *We Heralds of Freedom* meets the craft expectations of the upmarket
 adult character-driven fantasy novella market. Its architecture — single POV, linear chronology,
 eight chapters plus a coda, three-axis internal engine with external pressure — is structurally sound
-and proportionally well-distributed across its ~29,000 narrative words. The manuscript's worldbuilding efficiency — assessed in detail in
-`reference/evaluation-theme-and-worldbuilding.md` — is a structural strength: five integrated
-delivery mechanisms create a lived-in secondary world without exposition blocks. The recurring
-structural devices
-(Scripture encounters, cooking scenes, verbal echoes, embedded documents) provide thematic continuity
-across the episodic chapter structure and demonstrate the kind of deliberate formal construction that
-upmarket editors and agents associate with literary sensibility in genre fiction.
+and proportionally distributed across its ~30,000 narrative words, with Act III running heavier than
+the industry guide's allocation due to the expanded Ch8 and Epilogue. The manuscript's worldbuilding
+efficiency — assessed in detail in `reference/evaluation-theme-and-worldbuilding.md` — is a
+structural strength: five integrated delivery mechanisms create a lived-in secondary world without
+exposition blocks. The recurring structural devices (Scripture encounters, cooking scenes, verbal
+echoes, embedded documents) provide thematic continuity across the episodic chapter structure and
+demonstrate the kind of deliberate formal construction that upmarket editors and agents associate
+with literary sensibility in genre fiction.
 
 The story feels native to its length. It is neither a compressed novel (no subplot or character feels
 imported from a larger work) nor an inflated short story (no section is padded beyond its structural
-function). Its scope — one protagonist's arc across a year of political and personal crisis — is
-proportional to ~29,000 words.
+function). Its scope — one protagonist's arc across approximately two years of political and personal
+crisis — is proportional to ~30,000 words.
 
-The external-pressure discontinuity, previously identified as the most consequential structural
-note, is now contained. The war with Imperium Divinus provides escalating pressure through seven of
-the manuscript's nine narrative sections, vanishes from Ch8, and returns in the Epilogue through
-newspaper headlines reporting a world war across multiple continents, an Alfainian aerial fleet, and
-Carden's closing geopolitical reflection. The gap is therefore limited to a single chapter (Ch8)
-rather than the entire resolution. Ch8 now partially bridges this gap through Horace's reference to
-the war demanding "every last cone Alfainia has to offer" and the resulting budgetary strain that
-limits Carden and Marelyn's salaries. The Epilogue's reintroduction of the war thread places the
-manuscript's resolution strategy closer to the industry standard's expectation that character-driven
-novellas acknowledge the external world they have built, even when declining to resolve it.
+The external-pressure thread, previously identified as the most consequential structural note, is
+present across all nine narrative sections. The war with Imperium Divinus provides escalating pressure
+through Ch1–Ch7 via active mechanisms (Scriptures, ultimatums, military events) and continues in Ch8
+through Horace's references to the war demanding "every last cone Alfainia has to offer" (ch08:110)
+and the war effort's budgetary impact (ch08:164). The Epilogue expands the thread through newspaper
+headlines reporting a world war across multiple continents, an Alfainian aerial fleet, and Carden's
+geopolitical reflection. The structural note is therefore not an absence but a shift: from direct
+pressure mechanisms to economic and geopolitical context. This shift is consistent with the industry
+standard's expectation that character-driven novellas acknowledge the external world they have built,
+even when declining to resolve it.
 
 Two previously identified structural risks have been resolved. The termination/resignation
 discrepancy (formerly Moderate risk) is corrected: Ch8 now reads "accepting termination," consistent
 with Ch7's unambiguous termination scene. The liberation chronology inconsistency (formerly
 Low–Moderate risk) is substantially resolved: Ch1 now reads "fifty-four-years ago," aligning with
 Ch4's and Ch7's references. The remaining structural risks — dinner-scene parallelism, Ch3
-compression — are characteristic of novella-form compression and do not individually threaten the
-manuscript's viability at the query stage.
+compression, Act II compression — are characteristic of novella-form compression and do not
+individually threaten the manuscript's viability at the query stage.
 
 ---
 
