@@ -106,8 +106,8 @@ embedded in the worldbuilding.
 
 Carden's faith arc tracks through the Arcane Tongue:
 
-- **Ch1**: Reflexive observance — attending services, wearing a pendant, performing rituals
-  (ch01:24, 156).
+- **Ch1**: Reflexive observance — casual invocations of the Father (ch01:24), prayers for others'
+  wellbeing (ch01:156), and participation in ceremonies with religious elements (ch01:3–14).
 - **Ch5**: Declared conviction in Arcane Tongue — "There is only one true God and He is the Father"
   (ch05:172–176). The declaration is tested against the language's truth constraint.
 - **Ch6**: Honest self-assessment — "My faith hasn't changed, just perhaps not as wholehearted as
@@ -117,7 +117,7 @@ Carden's faith arc tracks through the Arcane Tongue:
   Arcane Tongue as the final act of his civil-service career (ch07:191–197). The truth-enforced
   language converts the termination from a bureaucratic event into a confession of faith.
 - **Epilogue**: Zeal Magic used for encouragement of volunteers rather than intimidation of
-  subordinates (Epilogue:14–16) — faith enacted through its practical consequences.
+  subordinates (Epilogue:14–18) — faith enacted through its practical consequences.
 
 **Assessment**: The faith theme is embedded through the Arcane Tongue mechanism, which converts
 theological questions into worldbuilding-verifiable claims. This is worldbuilding-as-metaphor at a
@@ -135,7 +135,7 @@ tax law.
 
 Key thematic beats:
 
-- **Ch1**: "Scrape the barrel to the nibs" (ch01:158) — extractive government. The self-funding
+- **Ch1**: "Scrape the barrel to the nibs" (ch01:158) — extractive government. "The self-funding
   arsenal" (ch01:204) — Alfainia as the God of War's economic instrument.
 - **Ch5**: "Higher taxes or Imperial citizenship" (ch05:128–130) — false binary. Julian's
   plan to "encourage them to dig their graves faster" (ch05:144) — the Creator's faction also
@@ -163,7 +163,7 @@ the change is in the purpose, not the capacity.
 ### 2d. Colonialism and Religious Plurality
 
 The manuscript engages colonialism not through a distant imperial center but through the domestic
-space of family. Julian and Jane Winston are Imperial colonists who stayed in Alfainia after
+space of family. Julian and Jane Oakmoore are Imperial colonists who stayed in Alfainia after
 liberation (ch04:52). Their 25-year conversion campaign on the Winston family (ch04:100–104) — a
 religious colonization conducted within a marriage — embeds the colonial dynamic in the intimate
 scale of family relationships.
@@ -271,7 +271,7 @@ states — provides a second mechanism for tracking thematic change through worl
 - **Ch1–2**: Used for intimidation and enforcement within institutional contexts (ch02:30–38).
 - **Ch5**: Used in confrontation with his father-in-law (ch05:146–152) — the power directed at
   family rather than institution.
-- **Epilogue**: Used for encouragement of reconstruction volunteers (Epilogue:14–16) — the same
+- **Epilogue**: Used for encouragement of reconstruction volunteers (Epilogue:14–18) — the same
   magical capacity repurposed for community building.
 
 The progression from intimidation to encouragement tracks the same arc as the institutional theme's
@@ -366,8 +366,8 @@ Within this thematic structure, enslaved Elf labor appears at three points:
   (ch05:200).
 - **Epilogue**: Enslaved Elves with Empowerment and Enchanting Magic perform skilled construction
   labor on the public marketplace Carden supervises. His narration gives thanks that affluent
-  families "loan some of their Elf slaves" to help with municipal work (Epilogue:10). He thanks the
-  Father for their availability.
+  families "loan some of their Elf slaves" for municipal work (Epilogue:10), and thanks the Father
+  that those families' competitive civic pride keeps them participating (Epilogue:10).
 
 The Epilogue instance remains thematically consequential. It occurs in the scene designed to
 demonstrate Carden's self-actualization — the culmination of the freedom/integrity arc. Within
@@ -419,7 +419,7 @@ This risk was previously identified in `reference/character-assessment-carden.md
 characterization level. The thematic risk is now proportional to the characterization risk rather
 than amplified beyond it.
 
-### 5b. The External-Pressure Thread's Thematic Absence in Ch8 (Low–Moderate)
+### 5b. The External-Pressure Thread's Thematic Shift in Ch8 (Low)
 
 The war with Imperium Divinus provides the external pressure that forces Carden's internal
 transformation. The geopolitical threat is the catalyst for the institutional ultimatum (Ch7), which
@@ -427,27 +427,32 @@ is the catalyst for the termination, which is the thematic climax. The war is th
 instrumentally essential to the freedom theme: without it, the institutional pressure that tests
 Carden's integrity does not exist.
 
-The war vanishes from Ch8 but returns in the Epilogue. Ch8's four scenes — the coalition café, the
-hill, the Horace proposal, and the flat — resolve the personal dimensions of Carden's arc without
-acknowledging the geopolitical context. However, the Epilogue reintroduces the external-pressure
-thread: newspaper headlines report a world war across multiple continents ("WORLD AT WAR!"), an
-Alfainian aerial fleet glides overhead — "the fruits of Edward Cook's three years of high taxes" —
-and Carden's closing reflection registers the geopolitical outcome. The freedom theme's resolution
-therefore does acknowledge the external world in which that freedom was tested, though the
-acknowledgment occurs in the Epilogue rather than in the resolution chapter itself.
+After Ch7's climax, the war's thematic function shifts from active pressure to economic context.
+Ch8 contains explicit war references through Horace's dialogue: "the coming war demands every last
+cone Alfainia has to offer" (ch08:110) and "The war effort's forced me to trim a lot" (ch08:164).
+The absence of soldiers is itself noted: "No soldiers patrolled Windbury's streets now" (ch08:52).
+The war in Ch8 shapes the reconstruction's economic terms — Horace's transparency about the wartime
+budget constraining Carden's salary and the welfare program's resources — rather than functioning as
+direct pressure on the protagonist's integrity. The Epilogue then expands the external-pressure
+thread further: newspaper headlines report a world war across multiple continents ("WORLD AT WAR!",
+ep:60), Alfainia finances the Imperium's foes through "stupidly high taxes" (ep:72), and an
+Alfainian aerial fleet glides overhead toward the sea (ep:75–76).
 
 This was identified as a structural risk in `reference/evaluation-narrative-structure-and-plot.md`
-§8a. At the thematic level, the Epilogue's reintroduction of the war thread significantly mitigates
-the concern: Carden's self-actualization occurs in a world whose geopolitical crisis is present in
-the same narrative section. The remaining thematic gap is Ch8's silence — a single chapter in which
-the freedom theme reaches its personal resolution without reference to the institutional pressure
-that tested it.
+§7a. At the thematic level, the war's presence in both Ch8 and the Epilogue means the freedom
+theme's resolution is grounded in the geopolitical world the prior seven chapters built. The
+thematic note is that the war enters Ch8 and the Epilogue through economic consequences and
+geopolitical backdrop rather than through the active pressure mechanisms (Scriptures, ultimatums,
+military events) that tested Carden's integrity in Ch1 through Ch7. Whether this shift registers as
+a thematic concern or as a natural consequence of the character-driven resolution — the war was
+always the pressure, not the engine — depends on editorial judgment.
 
-**Assessment**: Low–moderate risk. The Epilogue's war headlines, aerial fleet, and geopolitical
-reflection ground the freedom theme's resolution in the external world the prior seven chapters
-built. The gap is limited to Ch8, where the character-driven logic supports the domestic focus.
-For a theme that insists freedom is enacted through institutional engagement, the Epilogue's
-acknowledgment of the geopolitical context — though not its resolution — is thematically sufficient.
+**Assessment**: Low risk. The war is present in both Ch8 (through Horace's dialogue about wartime
+economic constraints at ch08:110 and ch08:164) and the Epilogue (through newspaper war headlines,
+an aerial fleet, and the tax burden), grounding the freedom theme's domestic resolution in the
+external world. The shift from active pressure to economic context is consistent with the
+character-driven logic: once Carden's integrity is tested and held, the war functions as the world
+in which the consequences of that choice are lived rather than as a force demanding further choices.
 
 ### 5c. The Three-Scripture Progression's Reliance on Structural Juxtaposition (Low–Moderate)
 
@@ -471,7 +476,7 @@ editors at the upmarket level generally expect and reward it rather than penaliz
 
 ### 5d. Thematic Density in the Novella Form (Low)
 
-The manuscript carries five interlocking thematic dimensions across ~28,000 narrative words. This
+The manuscript carries five interlocking thematic dimensions across ~30,000 narrative words. This
 is a high thematic density for the novella form — a format the industry standard describes as
 having "room for character interiority, reflective passages, and relational development" but
 also requiring "tighter narrative momentum than a novel."
@@ -483,7 +488,7 @@ the same family relationships that carry the marriage theme; the institutional t
 through the same professional function that creates the pressure on the marriage.
 
 **Assessment**: Low risk. The integration is the reason the density works. A thematic structure
-that attempted five separate tracks in ~28,000 words would produce the "compressed novel" problem
+that attempted five separate tracks in ~30,000 words would produce the "compressed novel" problem
 the industry standard warns against. The manuscript avoids this because the tracks converge: they
 are different facets of a single question (how does an individual exercise integrity within
 systems that demand compliance?) rather than five independent inquiries.
@@ -510,9 +515,9 @@ systems that demand compliance?) rather than five independent inquiries.
 | Dimension | Risk Level | Nature |
 |---|---|---|
 | **Enslaved Elf labor contradiction** | Moderate | The freedom/integrity arc's self-actualization scene features enslaved labor under the protagonist's supervision; the revised Epilogue establishes divine origin, divine revocation, and institutional non-compliance, transforming the contradiction from unexamined backdrop to a dramatized institutional gap — though Carden's personal narration does not connect this tension to his integrity arc within the construction scene |
-| **External-pressure thematic absence** | Low–Moderate | The war vanishes from Ch8 but returns in the Epilogue through newspaper headlines, an aerial fleet, and Carden's geopolitical reflection; the thematic gap is limited to a single chapter |
+| **External-pressure thematic shift** | Low | The war shifts from active pressure to economic context in Ch8 (Horace's war references at ch08:110, ch08:164) and expands in the Epilogue through newspaper war headlines and an aerial fleet; the thematic note is the shift from direct pressure mechanisms to background context, not an absence |
 | **Three-Scripture structural juxtaposition** | Low–Moderate | The theological progression relies on structural positioning without narratorial or character connection; the pattern exists for the attentive reader but is not guided |
-| **Thematic density** | Low | Five interlocking dimensions in ~28,000 words is high density for the novella form; works because of integration but the margin is narrow |
+| **Thematic density** | Low | Five interlocking dimensions in ~30,000 words is high density for the novella form; works because of integration but the margin is narrow |
 
 ### Overall
 
@@ -586,7 +591,7 @@ The manuscript establishes a multi-layered political architecture:
   The national identity is tied to the God of War's dispensation: "Hail to thee, Heralds of
   Freedom!" (ch01:4).
 - **The Imperium Divinus**: An imperial power governed by the Creator's religious authority. Its
-  political structure is revealed through military capability (the Imperial flotilla, ch03:116–130)
+  political structure is revealed through military capability (the Imperial flotilla, ch03:138–142)
   and colonial legacy (the Winston family's presence in Alfainia, ch04:52) rather than through
   direct exposition of its governance.
 - **The Dominions**: A system of allied polities referenced through military alliance and diplomatic
@@ -594,7 +599,7 @@ The manuscript establishes a multi-layered political architecture:
   Dominions' broader political character is indicated through shared strategic concerns rather than
   institutional detail.
 - **The Sarhese**: An adversarial power possessing Space Magic and Gravitational Magic capabilities,
-  establishing a three-way geopolitical tension alongside Alfainia and the Imperium (ch03:130–142).
+  establishing a three-way geopolitical tension alongside Alfainia and the Imperium (ch03:152–160).
 
 The political worldbuilding is delivered through Carden's professional position. As a senior tax
 official, his knowledge of government structure is occupational rather than expository — the reader
@@ -618,7 +623,7 @@ The manuscript constructs a three-deity theological structure:
   alliance system.
 - **The Creator**: The Imperium Divinus's deity, whose Scripture denies Alfainia's existence ("There
   is no such thing as Alfainia," ch05:84–96) and demands submission. The Creator's faith is carried
-  into Alfainia through colonial missionaries — Julian and Jane Winston's 25-year conversion
+  into Alfainia through colonial missionaries — Julian and Jane Oakmoore's 25-year conversion
   campaign (ch04:100–104) — and retained by some Alfainian families (Charles Winston's pro-Imperium
   views, ch04:168–178). The hidden Creator shrine at the Oakmoore estate, with its golden
   eighteen-branched tree (ch04:80–96), establishes the Creator's worship as a clandestine presence
@@ -650,14 +655,14 @@ receiving active narrative treatment and the Profane system existing only in ref
   Demonstrated through Scripture encounters (Ch1, Ch5, Ch7), interpersonal confrontation (the
   Carden–Julian exchange, ch05:146–176), and creedal declaration (ch07:191–197).
 - **Zeal Magic**: Faith-derived power used for morale influence. Demonstrated through Carden's
-  intimidation of Laplace during a tax-fraud confrontation in his office (ch02:30–38), Carden's
+  intimidation of Laplace during a financial-fraud confrontation in his office (ch02:30–38), Carden's
   confrontation with Julian (ch05:146–152), and Carden's encouragement of reconstruction
-  volunteers (Epilogue:14–16).
-- **Law Magic**: Used for interrogation and compulsion (ch03:56–76).
+  volunteers (Epilogue:14–18).
+- **Law Magic**: Used for interrogation and compulsion (ch03:64–84).
 - **Armaments Magic**: Julian manifests full-plate armor (ch05:154–160).
 - **Shadow Magic**: An artifact creates access to the Shadow World (ch05:62–80).
-- **Space Magic / Gravitational Magic**: Sarhese fleet capabilities (ch03:130–142).
-- **Atmospheric Magic**: Naval-scale weather manipulation (ch03:140–142).
+- **Space Magic / Gravitational Magic**: Sarhese fleet capabilities (ch03:152–158).
+- **Atmospheric Magic**: Naval-scale weather manipulation (ch03:158–160).
 - **Mitotic Magic**: Healing, performed by an enslaved Elf (ch05:200).
 - **Empowerment / Enchanting Magic**: Skilled construction labor, performed by enslaved Elves
   (Epilogue:8–12).
@@ -721,8 +726,8 @@ expertise:
   construction site's rebuilding effort (Epilogue). The economic arc (decline → crisis →
   reconstruction) tracks across the full narrative.
 - **Military infrastructure**: The Imperial flotilla (Dominus-class supercarriers, Princep-class
-  cruisers, ch03:116–130), the rearmament parade (ch06), the Alfainian aerial fleet
-  (Epilogue:38–42), and the Sarhese fleet (ch03:130–142). Military worldbuilding is delivered
+  cruisers, ch03:138–142), the rearmament parade (ch06), the Alfainian aerial fleet
+  (Epilogue:75–76), and the Sarhese fleet (ch03:152–160). Military worldbuilding is delivered
   through Carden's former military career — his assessments carry technical specificity because he
   is a former military officer.
 - **The welfare-for-volunteering program** (ch08:126) and the transformation from punitive to
@@ -748,7 +753,7 @@ The manuscript establishes geography through movement and environmental observat
 - **Windbury**: The provincial capital where the narrative is set. Rendered through environmental
   detail: train approach (ch02), town square with corpses (ch03), soup kitchens (ch02, ch04),
   shuttered businesses (ch08), construction site (Epilogue).
-- **Oakmoore estate**: The Winston family's country property, rendered across Ch4 — Imperial
+- **Oakmoore estate**: The Oakmoore family's country property, rendered across Ch4 — Imperial
   iconography, a hidden Creator shrine with a golden eighteen-branched tree (ch04:80–96).
 - **The Shadow World**: A magical dimension accessed through a Shadow Magic artifact (ch05:62–80).
 
@@ -763,7 +768,7 @@ without requiring the reader to absorb a full continental geography.
 The manuscript establishes a mixed industrial-magical technology level:
 
 - **Industrial elements**: Trains (ch02), telegraphs (ch03, ch05), newspapers (ch03, Epilogue),
-  biofuel engines (Epilogue:4–6), fighter planes and an aerial fleet (Epilogue:38–42).
+  biofuel engines (Epilogue:4–6), fighter planes and an aerial fleet (Epilogue:75–76).
 - **Magical elements**: Ten named Magic Branches function as the world's advanced technology
   equivalent — healing, construction, combat, weather control, and spatial manipulation are
   performed through magic rather than mechanical or electronic means.
