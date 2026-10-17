@@ -25,7 +25,7 @@ the space where the protagonist's transformation is both witnessed and pressured
 The standard further requires "worldbuilding integrated with character" — the world must illuminate
 interiority, not exist as an end in itself — and "prose control" at the sentence level, where
 "every sentence must earn its place." For a relationship that spans all nine narrative sections of a
-~28,066-word novella, these criteria demand that the relationship's characterization be formally
+~30,000-word novella, these criteria demand that the relationship's characterization be formally
 integrated with the worldbuilding mechanisms, that its expression be achieved through efficient and
 non-redundant craft, and that its progression serve the thematic argument rather than merely
 illustrating it.
@@ -116,15 +116,15 @@ on Marelyn's hands. The system operates with internal consistency across all nin
 sections:
 
 - **Cold**: Emotional guardedness, distress, or performative distance. "Cold as a stone" (Ch1);
-  "frigidly cold hands" (Ch7, receiving the ultimatum news).
+  "frigidly cold hands" (Ch7, after Carden returns from Saint Alfred's Cathedral at midnight).
 - **Burning hot**: Suppressed rage or outrage. "Terrifyingly hot to the touch" (Ch4, Oakmoore
-  estate after Julian's "wolfish grin").
+  estate during Jane and Julian's personal attacks on Marelyn).
 - **Steady warmth**: Emotional resolution or safety. "Steady warmth" (Ch4, after Carden defends
   her); warm hands at the Ch7 reunion.
 - **Temperature transitions**: The system's craft value lies in its transitions. At the Oakmoore
-  estate (Ch4), Marelyn's hands move from "burning hot" (rage at Julian's revelation) to "steady
-  warmth" (after Carden's defense) within a single scene — tracking an emotional shift that neither
-  character names aloud.
+  estate (Ch4), Marelyn's hands move from "burning hot" (rage during Jane and Julian's attacks on
+  Marelyn) to "steady warmth" (after Carden's defense) within a single scene — tracking an emotional
+  shift that neither character names aloud.
 
 ### 3b. Grip and Contact
 
@@ -203,13 +203,14 @@ nonverbal expression of care:
 | Ch4 | Hazelnut-cream croissant (from Roger's bakery) | On the train home; Marelyn cries and laughs simultaneously |
 | Ch5 | Scratch stew (pork sausages, carrots, onions, potatoes) | After the Julian broadsword confrontation; comfort in crisis |
 | Ch6 | Mutton curry | After a long workday; Marelyn's eyes linger with "palpable intensity" |
-| Ch7 | Breakfast omelets over reheated croissants (left outside study door); stir-fry with garlic rice, risotto, and fries | Care through crisis — morning meals for the grieving wife; the large meal as emotional processing |
+| Ch7 | Breakfast omelets over reheated croissants (left for Marelyn); stir-fry, risotto, and fries | Care through crisis — morning meals for the grieving wife; the large meal as emotional processing |
 | Epilogue | Mutton curry | Callback to Ch6 under transformed circumstances: the same dish, a smaller flat, deeper contentment |
+| Epilogue | Bruschetta | Morning meal the following day; callback to Ch1's duck bruschetta — the novella's first and last cooking instances share the same base dish |
 
 ### 4b. "Come Eat"
 
 The recurring phrase "Come eat" — Carden nudging food toward Marelyn when verbal communication has
-failed or proved insufficient — appears across multiple chapters (Ch1, Ch4, Ch6). The phrase
+failed or proved insufficient — appears across multiple chapters (Ch2, Ch4, Ch6). The phrase
 bridges the gap between what Carden cannot articulate and what he can do: when he cannot find the
 right words, he defaults to physical caretaking. The gesture persists into the Epilogue (Carden
 cooks, Marelyn eats) even after the phrase itself is no longer necessary — because by the Epilogue,
@@ -252,15 +253,14 @@ circumstances signals that the relationship's substance has outlasted its materi
 ### 5a. The Pattern
 
 The manuscript's most sophisticated relationship technique is Carden's sustained misinterpretation
-of Marelyn's emotional signals. The pattern operates across six chapters with escalating stakes:
+of Marelyn's emotional signals. The pattern operates across three chapters with escalating stakes:
 
-**Ch2**: Marelyn says "I was worried" about coming to Windbury. Carden assumes she means her
-family: "Fair point, her family's in Windbury too." The reader can infer she means she was worried
-about him.
-
-**Ch4**: Carden admits Marelyn's presence "actually helped me find the nerve" to visit his parents.
-"For some odd reason Marelyn flinched" — she flinches because his gratitude reveals he did not
-expect her support to matter. Carden notes the flinch but cannot decode it.
+**Ch4** (two instances): First, Marelyn says "I was worried" about coming to Windbury. Carden
+assumes she means her family: "Fair point, her family's in Windbury too." The reader can infer she
+means she was worried about him. Second, Carden admits Marelyn's presence "actually helped me find
+the nerve" to visit his parents. "For some odd reason Marelyn flinched" — she flinches because his
+gratitude reveals he did not expect her support to matter. Carden notes the flinch but cannot
+decode it.
 
 **Ch5**: Marelyn tells Carden he is one of "the rarest breeds of people left in our country."
 Carden's internal response: "Is she insinuating that I'm even worse than all of them combined?"
@@ -279,7 +279,7 @@ you?"
 
 The misreading pattern serves three characterization purposes:
 
-1. **Tension generation**: The reader who has tracked Marelyn's physical signals across six chapters
+1. **Tension generation**: The reader who has tracked Marelyn's physical signals across three chapters
    can sense the gap between what Marelyn communicates and what Carden receives. This gap sustains
    narrative tension through scenes that would otherwise be domestic and low-stakes: a dinner, a
    train ride, an embrace. The reader's anxiety — that Carden will fail to understand in time — is
@@ -288,8 +288,8 @@ The misreading pattern serves three characterization purposes:
 
 2. **Emotional payoff**: The Ch7 dinner scene's impact depends on the accumulated pattern. Marelyn's
    "Why in the Father's name would I divorce you?" resolves not only the immediate misreading but
-   the accumulated weight of six chapters of misinterpretation. The payoff is proportional to the
-   investment — a reader who has endured Carden's obtuseness across six chapters experiences the
+   the accumulated weight of three chapters of misinterpretation. The payoff is proportional to the
+   investment — a reader who has endured Carden's obtuseness across three chapters experiences the
    reveal as both relief and recognition.
 
 3. **Character revelation**: The pattern reveals that Carden's interpretive framework — shaped by
@@ -394,7 +394,7 @@ emotional distance and closeness:
 - **Ch7 crisis**: Carden pulls out the spare mattress so Marelyn can have the bedroom — separation
   motivated by care rather than distance.
 - **Ch8 Scene 4 and Epilogue**: A cramped flat that compresses "bedroom, living-room, dining-room,
-  and kitchen into one common living-space" — the smallest domestic space in the novella, but the
+  kitchen, and pantry into one common living space" — the smallest domestic space in the novella, but the
   most intimate. The flat is established in Ch8 Scene 4 (the move-in) and continued in the
   Epilogue.
 
@@ -448,9 +448,9 @@ varies:
 | Ch4 | 3,871 | Very high — the densest relationship chapter (ring exchange, family confrontations, Bakers For You, train scene) |
 | Ch5 | 3,826 | High — daily routine, crisis partnership, the private vow |
 | Ch6 | 3,025 | Moderate — partnership in action, cathedral scene |
-| Ch7 | 3,708 | Very high — the climactic misreading, the reunion dinner |
-| Ch8 | 2,863 | High — hilltop declarations, co-equal partnership in the Horace scene, the flat move-in |
-| Epilogue | 1,286 | Moderate — domestic sketch in 1,286 words |
+| Ch7 | 3,729 | Very high — the climactic misreading, the reunion dinner |
+| Ch8 | 2,997 | High — hilltop declarations, co-equal partnership in the Horace scene, the flat move-in |
+| Epilogue | 3,247 | Moderate — relationship characterization across five scenes spanning professional, domestic, and public domains |
 
 The distribution is structurally appropriate: the highest-density chapters (Ch4 and Ch7) correspond
 to the relationship's two major transformation points (renewal and crisis-resolved-to-commitment),
@@ -545,7 +545,7 @@ than existing as a subplot with thematic resonance.
 
 ### 9a. Reader Patience with the Misreading Pattern (Low–Moderate)
 
-The misreading pattern is sustained across six chapters with escalating implausibility. By Ch5,
+The misreading pattern is sustained across three chapters (Ch4, Ch5, Ch7) with escalating implausibility. By Ch5,
 Carden misreads a direct compliment ("rarest breeds of people") as a potential insult; by Ch7, he
 misreads Marelyn's glowing smile, retained wedding ring, and warm embrace as evidence she is
 leaving. The Ch7 misreading extends across 46 lines, during which every available signal is inverted.
@@ -625,25 +625,24 @@ as supportive rather than adversarial.
 
 ### 9d. Epilogue Contraction of Marelyn's Verbal and Agentic Presence (Low)
 
-The Epilogue's expansion to four scenes (1,286 words) has broadened Marelyn's verbal and agentic
-presence compared to the earlier two-scene structure. Marelyn now has multiple characterization
-beats: arguing with a municipal contractor over inflated invoices, the domestic closing ("This is
-sublime," "Stop it… Enjoy what you made instead"), the self-actualization exchange ("How close are
-you to self-actualizing your Calling?" / "I have no doubt you'll crack it. You always do."), and
-shared presence at the morning newsstands.
+The Epilogue's five scenes (~3,247 words) give Marelyn multiple characterization beats: arguing with
+a municipal contractor over inflated invoices, the domestic evening ("This is sublime," "Stop it…
+Enjoy what you made instead"), the self-actualization exchange ("How close are you to
+self-actualizing your Calling?" / "I have no doubt you'll crack it. You always do."), shared
+presence at the morning newsstands, and the cathedral congregation.
 
 The verbal and agentic density of the relationship in Ch7 and Ch8 still exceeds the Epilogue's, as
-expected for a coda section. However, the Epilogue now demonstrates the relationship across multiple
+expected for a coda section. However, the Epilogue demonstrates the relationship across multiple
 registers — professional partnership (contractor confrontation), domestic routine (cooking, eating,
 massaging, sleeping), intellectual engagement (the Calling conversation), and shared daily life
 (bruschetta breakfast, war headlines) — which gives the reader's final experience of the
 relationship more texture than a single domestic scene alone.
 
-**Assessment**: Low risk. The contraction is proportional to the Epilogue's structural function and
-its 1,286-word length. Marelyn's presence across all four scenes — with dialogue in multiple
-registers and characterization beats spanning professional, domestic, and intellectual domains —
-gives the reader a concluding image of the relationship that, while less dramatically intense than
-Ch7–Ch8, honors the co-equal partnership the arc established.
+**Assessment**: Low risk. The contraction is proportional to the Epilogue's structural function.
+Marelyn's presence across all five scenes — with dialogue in multiple registers and characterization
+beats spanning professional, domestic, and intellectual domains — gives the reader a concluding
+image of the relationship that, while less dramatically intense than Ch7–Ch8, honors the co-equal
+partnership the arc established.
 
 ---
 
@@ -654,8 +653,8 @@ Ch7–Ch8, honors the co-equal partnership the arc established.
 | Dimension | Assessment |
 |---|---|
 | **Physical language system** | Hands as primary relational vocabulary (temperature, grip, lacing, release) provides a consistent, internally coherent nonverbal characterization system across all nine narrative sections; meets the prose-control standard by carrying emotional information without declarative narration |
-| **Cooking motif** | Seven instances across eight chapters plus Epilogue create a structural through-line that tracks the relationship's emotional trajectory through a single recurring gesture; the Ch6/Epilogue mutton-curry callback achieves situational resonance through transformed circumstances |
-| **Dramatic irony via misreading** | Sustained across six chapters with psychologically specific misreadings and a proportional payoff in Ch7's 46-line climactic sequence; generates narrative tension independent of the external plot and delivers the emotional core the industry standard identifies as the second most important editorial criterion |
+| **Cooking motif** | Nine instances across six chapters and the Epilogue create a structural through-line that tracks the relationship's emotional trajectory through a single recurring gesture; the Ch6/Epilogue mutton-curry callback and the Ch1/Epilogue bruschetta bookend achieve situational resonance through transformed circumstances |
+| **Dramatic irony via misreading** | Sustained across three chapters (Ch4, Ch5, Ch7) with psychologically specific misreadings and a proportional payoff in Ch7's 46-line climactic sequence; generates narrative tension independent of the external plot and delivers the emotional core the industry standard identifies as the second most important editorial criterion |
 | **Symbolic motif system** | Wedding ring progression, paired declarations, purse collection, and domestic architecture distribute the relationship's characterization across multiple embedded systems without redundancy; no single motif bears the full arc weight |
 | **Verbal echo as arc completion** | The Ch1/Ch8 "make this work" transformation (question to declaration, singular to shared) provides sentence-level structural resolution that enacts the relational shift at the level of syntax |
 | **Single-POV constraint as dramatic engine** | The fixed perspective generates the dramatic irony that powers the arc, enforces narrative economy, and creates participatory reading; the constraint is used as a source of craft rather than treated as a limitation |
@@ -667,10 +666,10 @@ Ch7–Ch8, honors the co-equal partnership the arc established.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **Misreading pattern and reader patience** | Low–Moderate | The escalating implausibility of Carden's misreadings across six chapters, culminating in a 46-line sustained misinterpretation in Ch7, approaches the outer boundary of the dramatic-irony convention; the payoff is proportional but a reader whose patience breaks before the reveal experiences the climactic scene at reduced intensity |
+| **Misreading pattern and reader patience** | Low–Moderate | The escalating implausibility of Carden's misreadings across three chapters (Ch4, Ch5, Ch7), culminating in a 46-line sustained misinterpretation in Ch7, approaches the outer boundary of the dramatic-irony convention; the payoff is proportional but a reader whose patience breaks before the reveal experiences the climactic scene at reduced intensity |
 | **Marelyn's interiority inaccessible through single POV** | Moderate | Marelyn's co-equal arc (performative compliance to authentic self-determination) is reconstructed from behavioral evidence rather than narrated; the asymmetry between Carden's narrated interiority and Marelyn's inferred interiority creates a tension between the relationship's structural claim of co-equality and the narration's unilateral access |
 | **Café scene situational pressure** | Low | The sharpness between Annie and Marelyn in the café is situational (financial and institutional crisis) rather than relational; the hill scene's parallel disclosures confirm mutual trust rather than jealousy |
-| **Epilogue contraction of Marelyn's verbal presence** | Low | The expanded Epilogue (1,286 words, four scenes) gives Marelyn dialogue in multiple registers and characterization across professional, domestic, and intellectual domains; the contraction from Ch7–Ch8 is proportional to the coda function |
+| **Epilogue contraction of Marelyn's verbal presence** | Low | The Epilogue (~3,247 words, five scenes) gives Marelyn dialogue in multiple registers and characterization across professional, domestic, and intellectual domains; the contraction from Ch7–Ch8 is proportional to the coda function |
 
 ### Overall
 
