@@ -351,7 +351,7 @@ claims are tested. This is a significant craft achievement for a Draft Zero manu
 
 ## 5. Thematic Risks
 
-### 5a. The Enslaved Elf Labor Contradiction (Moderate Risk — Revised from High)
+### 5a. Enslaved Elf Labor and the Freedom Arc (Low Risk — Revised from Moderate)
 
 The manuscript's primary thematic claim is freedom — exercised through integrity, tested through
 personal cost. Its protagonist is defined by his refusal to participate in institutional injustice.
@@ -369,55 +369,80 @@ Within this thematic structure, enslaved Elf labor appears at three points:
   families "loan some of their Elf slaves" for municipal work (Epilogue:10), and thanks the Father
   that those families' competitive civic pride keeps them participating (Epilogue:10).
 
-The Epilogue instance remains thematically consequential. It occurs in the scene designed to
-demonstrate Carden's self-actualization — the culmination of the freedom/integrity arc. Within
-this scene, the protagonist whose arc is defined by principled refusal of institutional injustice
-supervises enslaved labor and expresses gratitude for its availability.
+The Epilogue's treatment of Elf slavery operates across three distinct scenes that together form a
+thematic progression from acknowledgment of injustice through institutional analysis to advocacy.
 
-However, the revised Epilogue substantially recontextualizes this tension. New content establishes:
+**1. The construction scene — acknowledgment of injustice (ep:18).** After dismissing the work-crew,
+Carden "especially thanked the Elves for *their* labor in putting Windbury back together—hardly fair
+their snobbish masters sipping afternoon tea right now reaped the credit. Shame he could not properly
+compensate them for their work, they weren't volunteers or receiving welfare after all. But City Hall
+only had so much to give in these trying times." (ep:18). Within the construction scene itself,
+Carden's narration explicitly names the injustice (masters reap credit for Elf labor), registers
+that the Elves are not volunteers but slaves (they are "neither volunteers nor welfare recipients"),
+and expresses shame at the institutional limitation preventing proper compensation.
 
-1. **Divine origin and theological basis for Elf slavery.** Lucifer's revelation — pronounced in
-   Arcane Tongue (truth-enforced) — establishes that Elfkind's enslavement was a divinely decreed
-   penance for Lucifer's rebellion. The gods themselves were revealed as mortal Arcanists the Father
-   uplifted: the Creator was a Human (Gabriel Angelos), the God of War a Dwarf (Davud Abshalom),
-   and Lucifer an Elf (Athanásios toû Zenonos). This grounds the institution in the world's
-   theological architecture rather than leaving it as unexplained backdrop.
-2. **Divine revocation of the institution.** Lucifer pronounces the Father decreed Elfkind's penance
-   over — Elfkind is redeemed and free. The same divine authority that imposed slavery has now
-   revoked it.
-3. **The institutional gap between divine mandate and compliance.** Alfainia and most of the world
-   never acknowledged the decree. The God of War commanded otherwise, and Alfainia's Parliament and
-   upper class obeyed. Carden's narration registers the slave-tattoos on every Elf's wrist in the
-   prayer group — the persistence of institutional slavery despite divine emancipation.
+**2. Lucifer's revelation — the worldbuilding context (ep:110–128).** The revised Epilogue
+establishes the theological and institutional architecture of Elf slavery:
 
-This recontextualization transforms the thematic assessment. The Epilogue no longer presents Elf
-slavery as an unexamined worldbuilding element; it presents it as a divinely revoked institution
-whose persistence is dramatized as a failure of institutional compliance — precisely the kind of
-institutional complicity the manuscript's thematic architecture is built to examine. The text now
-signals the reading the narrative intends: Carden's supervision of enslaved labor occurs in a world
-where divine authority has declared that labor's basis illegitimate, and the narration registers the
-gap by noting that institutions and prejudice have not caught up to divine mandate.
+- **Divine origin.** Lucifer's revelation — pronounced in Arcane Tongue (truth-enforced) —
+  establishes that Elfkind's enslavement was a divinely decreed penance for Lucifer's rebellion.
+  The gods themselves were revealed as mortal Arcanists the Father uplifted: the Creator was a Human
+  (Gabriel Angelos), the God of War a Dwarf (Davud Abshalom), and Lucifer an Elf (Athanásios toû
+  Zenonos). This grounds the institution in the world's theological architecture rather than leaving
+  it as unexplained backdrop.
+- **Divine revocation.** Lucifer pronounces the Father decreed Elfkind's penance over — Elfkind is
+  redeemed and free. The same divine authority that imposed slavery has now revoked it.
+- **The institutional gap.** Alfainia and most of the world never acknowledged the decree. The God
+  of War commanded otherwise — sending a *Scripture* to Horace and every mayor and civic leader in
+  Alfainia (ep:146) — and Alfainia's Parliament and upper class obeyed. No party in Parliament
+  publicly advocated for emancipation (ep:148).
 
-The remaining risk is that Carden's own narration does not connect this tension to his personal
-integrity arc within the self-actualization scene. He registers the slave-tattoos in the prayer
-group but does not process the contradiction between his freedom-through-integrity arc and his
-supervision of enslaved labor in the construction scene. Whether this gap is a deliberate
-characterization choice (Carden's blind spot, to be examined in subsequent work within the Arcane
-Keys series) or an opportunity for further thematic integration is a question the revised text now
-frames more clearly than before.
+**3. The cathedral scene — Carden's direct engagement with Elf emancipation as the mechanism for
+self-actualization (ep:140–188).** When an Elf girl asks "Mister Oakmoore, why aren't we free?"
+(ep:140), Carden answers at both levels. The simple answer: "our leaders still worship the God of
+War. And He proclaimed the Father's decree null. That's why Parliament hasn't reformed the laws on
+Elf slavery" (ep:146). The deeper answer: "Because we as a civilization depend on Elf labor"
+(ep:152) — naming the systemic economic dependency that sustains the institution. Carden's narration
+explicitly states his own position: "As much as Carden wished otherwise" and "Elfkind deserved
+better after however long they suffered divinely-mandated squalor" (ep:148).
 
-**Assessment**: Moderate risk, revised from High. The new Epilogue content substantially mitigates
-the thematic risk by providing divine origin, divine revocation, and institutional non-compliance
-as the worldbuilding context for Elf slavery. The contradiction is no longer between the
-manuscript's thematic claim and an unexamined backdrop; it is between the protagonist's personal
-integrity arc and an institution the narrative itself has marked as divinely illegitimate but
-institutionally persistent. This is a defensible thematic structure — particularly for a novella
-positioned as the first installment in a series — though the gap between divine decree and Carden's
-personal reckoning remains a question the text poses without fully answering.
+The act of addressing Elf emancipation is explicitly the mechanism through which Carden achieves
+self-actualization. Earlier in the Epilogue, the Arcane whispers his Zealot Calling — "Stir the
+masses into action. Unite them behind a better future" — but he cannot identify the missing piece
+(ep:46–50). It is during his engagement with the Elf children's question that "something fiercely
+tickled Carden's chest" and the Arcane delivers the missing piece (ep:156–164). Carden then
+launches into a Zeal Magic speech in Arcane Tongue (truth-enforced), declaring: "There was no Elf
+or Human, master or slave. Just neighbors loving one another as the Father taught" (ep:166). He
+pronounces the Father's three creeds — "Mankind are the Heralds of Freedom. Dwarfkind are the
+Pillars of Iron. And Elfkind are the Reapers of Magic" — and declares that these creeds "never once
+have... meant one stood superior over another. Those creeds meant we stood stronger together.
+United." (ep:172). He commits to starting the change in Windbury: "We have moved on. The *Father*
+has commanded we move on" (ep:178). The crowd rises and cheers, and the Arcane pronounces: "Be a
+*Zealot* no longer. Be a *Visionary*." (ep:184–188).
+
+The manuscript thus constructs a direct causal chain: Carden's engagement with the injustice of Elf
+slavery → the Arcane delivers the missing piece for his Calling → his Arcane Tongue speech
+championing Elf freedom and unity → self-actualization from Zealot to Visionary (Tier Three). The
+freedom/integrity arc reaches its apotheosis not through Carden's own liberation (achieved in Ch7's
+termination) but through his advocacy for Elfkind's liberation — extending the freedom theme from
+personal integrity to collective justice.
+
+**Assessment**: Low risk, revised from Moderate. The Epilogue directly connects Carden's
+freedom/integrity arc to Elf emancipation through three manuscript-evidenced mechanisms: explicit
+acknowledgment of injustice in the construction scene (ep:18), direct engagement with the
+institutional causes of continued Elf slavery in the cathedral scene (ep:146–154), and
+self-actualization achieved specifically through championing Elf freedom in Arcane Tongue
+(ep:156–188). The protagonist does not have a blind spot regarding Elf slavery; the manuscript
+dramatizes his progression from acknowledging the injustice within institutional constraints
+(construction scene) to actively advocating for emancipation (cathedral scene), with the latter
+serving as the catalyst for his magical ascent. The remaining thematic note is that legal
+emancipation is not achieved within the novella — Alfainia's institutions, Parliament, and the God
+of War's counter-decree remain in place (ep:126–128, 146–148) — which is consistent with the
+series positioning and with the aspirational rather than accomplished nature of the Epilogue's
+closing beat.
 
 This risk was previously identified in `reference/character-assessment-carden.md` §4d at the
-characterization level. The thematic risk is now proportional to the characterization risk rather
-than amplified beyond it.
+characterization level.
 
 ### 5b. The External-Pressure Thread's Thematic Shift in Ch8 (Low)
 
@@ -514,7 +539,7 @@ systems that demand compliance?) rather than five independent inquiries.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **Enslaved Elf labor contradiction** | Moderate | The freedom/integrity arc's self-actualization scene features enslaved labor under the protagonist's supervision; the revised Epilogue establishes divine origin, divine revocation, and institutional non-compliance, transforming the contradiction from unexamined backdrop to a dramatized institutional gap — though Carden's personal narration does not connect this tension to his integrity arc within the construction scene |
+| **Enslaved Elf labor** | Low | The freedom/integrity arc engages with Elf slavery at three escalating points: the construction scene where Carden's narration acknowledges the injustice of enslaved Elves receiving no credit or compensation (ep:18); Lucifer's Arcane Tongue revelation establishing divine origin and revocation of Elf slavery (ep:106–128); and the cathedral scene where Carden directly addresses the Elf children's questions about why they remain enslaved, an engagement the Arcane identifies as the missing piece for his self-actualization to Visionary (ep:140–188). The remaining note is that legal emancipation is not achieved within the novella, consistent with series positioning |
 | **External-pressure thematic shift** | Low | The war shifts from active pressure to economic context in Ch8 (Horace's war references at ch08:110, ch08:164) and expands in the Epilogue through newspaper war headlines and an aerial fleet; the thematic note is the shift from direct pressure mechanisms to background context, not an absence |
 | **Three-Scripture structural juxtaposition** | Low–Moderate | The theological progression relies on structural positioning without narratorial or character connection; the pattern exists for the attentive reader but is not guided |
 | **Thematic density** | Low | Five interlocking dimensions in ~30,000 words is high density for the novella form; works because of integration but the margin is narrow |
@@ -538,20 +563,24 @@ own logic. This is the "worldbuilding-as-metaphor" quality the industry standard
 distinguishing upmarket from commercial fantasy, and it is the feature that most credibly supports
 the manuscript's comp positioning against titles like *Babel* and *Piranesi*.
 
-The most consequential thematic note is the enslaved Elf labor contradiction, now substantially
-mitigated by the revised Epilogue. In a manuscript whose central theme is freedom exercised through
-integrity, the presence of enslaved Elves performing skilled labor under the protagonist's
-supervision in the self-actualization scene previously created a structural contradiction the text
-did not acknowledge. The revised Epilogue provides the theological and institutional context that
-reframes this tension: Lucifer's Arcane Tongue revelation establishes the divine origin of Elf
-slavery (penance for the rebellion of the ancient Elves under Lucifer), the divine identities of
-the gods as mortal Arcanists uplifted by the Father, and the Father's decree revoking Elfkind's
-penance — a decree Alfainia's institutions have not yet honored. The text now signals which reading
-the narrative intends: the persistence of Elf slavery despite divine emancipation is an
-institutional failure the novella dramatizes rather than ignores. The remaining question — whether
-Carden's narration should connect this institutional gap to his personal integrity arc within the
-construction scene — is a defensible characterization choice for a first installment in a series,
-though it remains the assessment's most prominent finding at the Moderate risk level.
+The most consequential thematic dimension is Carden's engagement with Elf slavery, which the
+manuscript develops across three escalating points. In the construction scene, Carden's narration
+acknowledges the injustice: he "especially thanked the Elves for *their* labor" and reflects that
+"hardly fair their snobbish masters sipping afternoon tea right now reaped the credit" and that he
+"could not properly compensate them for their work, they weren't volunteers or receiving welfare
+after all" (ep:18). Lucifer's Arcane Tongue revelation then provides the theological and
+institutional context: the divine origin of Elf slavery (penance for the rebellion of the ancient
+Elves under Lucifer), the divine identities of the gods as mortal Arcanists uplifted by the Father,
+and the Father's decree revoking Elfkind's penance — a decree Alfainia's institutions have not yet
+honored (ep:106–128). The culmination occurs in the cathedral scene, where an Elf girl asks Carden
+"why aren't we free?" (ep:140) and he directly addresses the institutional and economic reasons Elf
+slavery persists: the God of War's counter-decree, Parliament's inaction, and Alfainia's dependence
+on Elf labor (ep:146–154). It is during this engagement — while Carden articulates the Father's
+three creeds in Arcane Tongue — that the Arcane delivers the missing piece and pronounces him a
+Visionary (ep:156–188). Carden's engagement with Elf emancipation is not incidental to his
+integrity arc; the manuscript makes it the mechanism of his self-actualization. The remaining note
+is that legal emancipation is not achieved within the novella, consistent with the series positioning
+as a first installment.
 
 ---
 
@@ -882,11 +911,15 @@ system exists as an end in itself; each is filtered through the protagonist's pe
 to illuminate his interiority — his professional competence, his military experience, his faith, his
 class position, and his emotional state. The world the reader absorbs is the world as Carden
 experiences it, which is the defining structural advantage of single-POV narration applied to
-worldbuilding. The only significant exception is the Elf slavery system, which is presented as
-worldbuilding backdrop rather than filtered through Carden's interiority — he observes it and
-benefits from it without integrating it into his self-understanding. Whether this is a deliberate
-characterization choice (a blind spot) or a worldbuilding element that has not yet been integrated
-with the character is the question identified in §5a and §12a.
+worldbuilding. The Elf slavery system, which might appear to be an exception, is in fact filtered through Carden's
+interiority at two key points: in the construction scene, where his narration acknowledges the
+injustice of enslaved Elves receiving neither credit nor compensation (ep:18), and in the cathedral
+scene, where he directly engages with the Elf children's questions about why they remain enslaved
+and articulates the institutional and economic reasons (ep:140–154). The latter engagement is the
+mechanism through which the Arcane delivers the missing piece for Carden's self-actualization to
+Visionary (ep:156–188), making the Elf slavery system integral to the protagonist's internal
+transformation — the criterion the industry standard identifies. The worldbuilding risk is assessed
+in §12a.
 
 ---
 
@@ -927,7 +960,7 @@ is evaluated at the thematic level in §3a; its structural delivery is assessed 
 
 ## 12. Worldbuilding Risks
 
-### 12a. Elf Slavery Worldbuilding (Moderate Risk — Revised from High; Cross-Reference §5a)
+### 12a. Elf Slavery Worldbuilding (Low Risk — Revised from Moderate; Cross-Reference §5a)
 
 The thematic risk assessed in §5a — the enslaved Elf labor contradiction — has a worldbuilding
 dimension. The Elf slavery system is presented as a functional worldbuilding element: Elves perform
@@ -966,11 +999,16 @@ economic dependencies sustain it beyond the theological mandate. These details a
 material for subsequent work in the series rather than a worldbuilding failure within this novella's
 scope.
 
-**Assessment**: Moderate risk, revised from High. The revised Epilogue provides origin, theological
-basis, history, social markers, and the current institutional crisis of Elf slavery — a substantial
+**Assessment**: Low risk, revised from Moderate. The Epilogue provides origin, theological basis,
+history, social markers, and the current institutional crisis of Elf slavery — a substantial
 worldbuilding development that integrates the institution into the world's theological architecture
-and subjects it to the same Arcane Tongue scrutiny applied to other power systems. The remaining gap
-is proportional to the novella form and the series positioning.
+and subjects it to the same Arcane Tongue scrutiny applied to other power systems. Carden's
+engagement with the system is not limited to worldbuilding exposition: his narration acknowledges
+the injustice in the construction scene (ep:18), and his direct engagement with Elf emancipation in
+the cathedral scene (ep:140–188) is the mechanism for his self-actualization to Visionary — meaning
+the Elf slavery worldbuilding is integrated with character at the level the industry standard
+requires. The remaining gap — the legal and economic mechanics of slave-ownership within Alfainia
+specifically — is proportional to the novella form and the series positioning.
 
 ### 12b. Profane Magic's Absence from Active Narrative (Low Risk)
 
@@ -1047,7 +1085,7 @@ failure.
 
 | Dimension | Risk Level | Nature |
 |---|---|---|
-| **Elf slavery worldbuilding** | Moderate (revised from High) | The revised Epilogue provides divine origin, theological basis, social mechanics, and current institutional crisis; remaining risk is that Carden's narration in the construction scene does not connect the tension to his integrity arc |
+| **Elf slavery worldbuilding** | Low (revised from Moderate) | The Epilogue provides divine origin, theological basis, social mechanics, and current institutional crisis; Carden's narration acknowledges the injustice (ep:18) and his direct engagement with Elf emancipation is the mechanism for his Visionary self-actualization (ep:140–188); remaining note is the legal and economic mechanics of slave-ownership for subsequent work |
 | **Liberation chronology** | Low (revised from Low–Moderate) | Ch1 corrected to "fifty-four-years ago," aligning with Ch4 and Ch7; remaining imprecise references are character-voice approximations |
 | **Profane Magic's absence** | Low | A full parallel magic system exists in the story bible but not on-page; consistent with the single-POV constraint but leaves a worldbuilding pillar undeveloped |
 | **Dominion system** | Low | Alliance partners are referenced but not developed; appropriate for the novella form but narrows the world's political architecture abruptly beyond Alfainia's borders |
@@ -1069,18 +1107,23 @@ This is the "worldbuilding-as-metaphor" quality the industry standard identifies
 upmarket from commercial fantasy, and it is the worldbuilding element that most credibly supports the
 manuscript's comp positioning against titles like *Babel* and *Piranesi*.
 
-The revised Epilogue substantially addresses the most consequential worldbuilding note from the
-original assessment: the Elf slavery system's treatment as unexamined backdrop. The new Epilogue
-content provides the system's divine origin (the Father's penance for Lucifer's rebellion),
-theological basis (Lucifer as an Elf, Athanásios toû Zenonos, whose rebellion condemned Elfkind),
-social mechanics (slave-tattoos on every Elf's right wrist, the God of War's enforcement,
-Parliament's compliance), and current crisis (the Father's decree freeing Elfkind, institutional
-non-compliance). This worldbuilding architecture transforms Elf slavery from an unexamined backdrop
-element into a system with origin, history, divine mandate, and contemporary political tension —
-bringing it closer to the level of institutional scrutiny the manuscript applies to its other power
-systems. The remaining risk is moderate: Carden's narration in the construction scene, where
-enslaved Elves perform skilled labor under his supervision, does not connect the tension between the
-Father's decree and institutional non-compliance to his integrity arc within the scene itself. The
+The Epilogue addresses the most consequential worldbuilding note from the original assessment: the
+Elf slavery system. The Epilogue content provides the system's divine origin (the Father's penance
+for Lucifer's rebellion), theological basis (Lucifer as an Elf, Athanásios toû Zenonos, whose
+rebellion condemned Elfkind), social mechanics (slave-tattoos on every Elf's right wrist, the God
+of War's enforcement, Parliament's compliance), and current crisis (the Father's decree freeing
+Elfkind, institutional non-compliance). This worldbuilding architecture integrates Elf slavery into
+the same theological and institutional scrutiny the manuscript applies to its other power systems.
+Critically, Carden does not merely receive this worldbuilding information; he engages with it
+directly. His narration acknowledges the injustice of enslaved Elves receiving no credit or
+compensation in the construction scene (ep:18), and in the cathedral scene he addresses the Elf
+children's questions about why they remain enslaved, articulating the institutional and economic
+reasons (ep:140–154). It is during this engagement — while pronouncing the Father's three creeds in
+Arcane Tongue — that the Arcane delivers the missing piece for his self-actualization to Visionary
+(ep:156–188). The Elf slavery worldbuilding thereby achieves the integration with character the
+industry standard requires: the system is not backdrop but the material through which Carden's
+transformation is enacted. The remaining worldbuilding note is the legal and economic mechanics of
+slave-ownership within Alfainia, consistent with material for subsequent work in the series. The
 liberation chronology inconsistency has also been substantially resolved, with Ch1 now aligned to
 the 54-year timeline established in Ch4 and Ch7.
 
