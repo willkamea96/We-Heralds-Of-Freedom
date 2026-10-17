@@ -21,7 +21,7 @@ Carden's close third-person perspective. The reader experiences Marelyn exclusiv
 - The results of her off-page actions, reported after the fact
 - Other characters' commentary about her
 
-This is the correct structural choice for a character-driven novella at this word count (~28,066
+This is the correct structural choice for a character-driven novella at this word count (~30,000
 words). The industry standard for novellas is one to three POV characters, with single-POV being
 "the most common and structurally cleanest form." Marelyn's non-POV status preserves the narrative
 intimacy the novella format demands while allowing her to function as a secondary engine of the
@@ -53,9 +53,12 @@ Examples of the technique at its most effective:
   can't I be me?") arrive without attribution to a specific trigger, so the reader feels their
   accumulated weight. Carden's own recognition — "How preposterous he only learned after
   twenty-five years Marelyn did too" — completes the scene. The Ch8 hilltop revelation
-  retroactively confirms the source of Marelyn's grief: as a teenager, she visited Roger's family
+  implies a connection to the source of Marelyn's grief: as a teenager, she visited Roger's family
   bakery daily for free hazelnut-cream croissants and was "instantly smitten by someone who
-  indulged me without asking for anything in return."
+  indulged me without asking for anything in return." This suggests, though does not explicitly
+  confirm, that Roger's marriage is the specific trigger of Marelyn's Ch2 breakdown — her
+  questions ("Why can't I be me?") encompass broader frustrations that the Roger revelation
+  contextualizes rather than fully explains.
 - **Ch4, Oakmoore estate**: "Marelyn's fingers surreptitiously laced between Carden's and clenched
   his hand so hard her knuckles turned white, yet her face remained implacable if outwardly genial
   as always." The split between public composure and private desperation is communicated in a single
@@ -108,7 +111,7 @@ Marelyn's dialogue is distinctive and consistently characterized. Her speech pat
   these moments Marelyn demanded the truth even as she herself skirted the real question."
 - **Blunt practicality**: "Just do the right thing" (Ch6) — her directness cuts through Carden's
   equivocation.
-- **Emotional precision under duress**: "From the moment father told me what happened, my heart
+- **Emotional precision under duress**: "From the moment our fathers told me what happened yesterday, my heart
   already knew what we should do. Except it wasn't ready yet for the consequences" (Ch7).
 
 The qualification: Marelyn's dialogue is almost always mediated by Carden's interpretive framing.
@@ -203,51 +206,60 @@ predictable across eight chapters. The reader may begin to anticipate the hand-c
 it arrives, which dilutes its power as characterization.
 
 A secondary saturation risk exists with Marelyn's "green eyes" — used as a descriptor in nearly
-every chapter, often paired with adjectives (piercing, glistening, inscrutable, shimmering, bright,
+every chapter, often paired with adjectives (glistening, inscrutable, shimmering, bright,
 sparkling) that recur with modest variation.
 
 **Industry context**: Upmarket editors expect "prose control" and flag repetitive physical
 descriptors as a common overwriting pattern in fantasy submissions. The novella format's compression
 makes repetition more visible than it would be in a novel.
 
-### 4b. The "Inscrutable" Default
+### 4b. The "Inscrutable" Descriptor (Strength with Minor Note)
 
-Carden repeatedly describes Marelyn's expression as "inscrutable" — a characterization that
-functions as a placeholder for complexity. In early chapters (Ch1–2), this works: the reader
-understands that Carden cannot read his estranged wife, and "inscrutable" communicates his
-limitation, not hers. However, the descriptor persists into later chapters where the marriage has
-deepened, which creates a slight dissonance: if Carden now understands Marelyn better, why does he
-still default to "inscrutable"?
+Carden describes Marelyn's expression as "inscrutable" four times across the manuscript, all
+concentrated in Ch2 (1x, ch02:214) and Ch4 (3x, ch04:34, ch04:94, ch04:218). The descriptor
+disappears entirely after Ch4 — it does not appear in Ch5, Ch6, Ch7, Ch8, or the Epilogue. This
+distribution maps to the estrangement phase of the marriage: Carden cannot read Marelyn when
+emotional distance separates them, and he stops reaching for the word once genuine intimacy develops
+through Ch5–Epilogue.
 
-**Industry context**: Agents and editors read "inscrutable" as a signal of under-characterized
-interiority when it appears too often. Once or twice establishes the dynamic; repeated use suggests
-the author is deferring the characterization work.
+The natural fadeout demonstrates prose control. Rather than persisting as a placeholder for
+complexity, "inscrutable" functions as a marker of Carden's limited understanding in a specific
+relational phase and recedes as that limitation does. The minor note is that three of the four
+instances cluster in a single chapter (Ch4), which at the chapter level may still register as
+repetitive to a close reader, even though the manuscript-wide pattern is well-controlled.
+
+**Industry context**: Agents and editors flag "inscrutable" when it appears as a recurring default
+across a manuscript, signaling deferred characterization work. Here, the four instances are
+concentrated in two chapters and the descriptor's cessation tracks the relationship's
+transformation — a pattern that signals intentional craft rather than repetitive over-reliance.
 
 ### 4c. Presence in the Epilogue
 
-Marelyn appears in all four of the Epilogue's scenes (the Epilogue now runs 1,286 words across
-four scenes, up from 850 words across two). At the Chartwell Street construction site she
-argues with a municipal contractor over inflated invoices for glass sealants and weatherproof
-surface-resins, pauses to watch the lattice-hoisting, and exchanges a wink and a smile with Carden.
-In the domestic closing scene she practically inhales Carden's mutton curry ("This is sublime"),
-scolds him for staring at their flat's peeling wallpaper ("Stop it… Enjoy what you made instead"),
-reads closing stock-prices while Carden massages her knotted shoulders, and falls asleep in his
-arms.
-
-The two added scenes extend her presence further. In a self-actualization conversation, Marelyn
-asks Carden, "How close are you to self-actualizing your Calling?" and, clasping his hand, answers
-the matter herself: "I have no doubt you'll crack it. You always do." In a morning scene, the two
-share a bruschetta breakfast and read the war headlines together at the newsstands, with an aerial
-fleet overhead.
+Marelyn appears across the Epilogue's continuous narrative. At the Chartwell Street construction
+site she argues with a municipal contractor over inflated invoices for glass sealants and
+weatherproof surface-resins, pauses to watch the lattice-hoisting, and exchanges a wink and a smile
+with Carden. In the domestic evening scene she practically inhales Carden's mutton curry ("This is
+sublime"), scolds him for staring at their flat's peeling wallpaper ("Stop it… Enjoy what you made
+instead"), reads closing stock-prices while Carden massages her knotted shoulders, asks "How close
+are you to self-actualizing your Calling?", clasps his hand and affirms "I have no doubt you'll
+crack it. You always do," and falls asleep in his arms. In a morning scene, the two share a
+bruschetta breakfast and read the war headlines together at the newsstands, with an aerial fleet
+overhead. At City Hall, she accompanies Carden to Horace's office and elbows him afterward for
+indulging Horace's biases ("Carden, how could you? Indulging Horace's fallacies"). In the
+Cathedral finale, she clasps Carden's hand during his self-actualization moment, and he conjures a
+deep-crimson purse from her sold collection as his first Visionary act — Marelyn embraces him
+before the crowd reaches him.
 
 This presence honors the arc the Ch8 proposal established. Marelyn is shown exercising the
 professional competence (invoice scrutiny, stock-price monitoring) and domestic partnership
 (shared meals, shared sleep in reduced quarters, shared morning routine) that her Ch7
-transformation made possible. The Epilogue's title ("Magic Is Self-Actualization") now applies
+transformation made possible. The Epilogue's title ("Magic Is Self-Actualization") applies
 visibly to both characters: Carden's self-actualization is dramatized through his mentoring of
 Renee and his Zeal Magic, while Marelyn's is dramatized through her active role at the site and
 her contented inhabitation of the life they chose. Her question about Carden's Calling and her
-stated confidence in him also give her a direct dialogue role in the Epilogue's central theme.
+stated confidence in him give her a direct dialogue role in the Epilogue's central theme. The
+conjured purse as Carden's first Visionary act also provides a symbolic coda to the purse motif,
+linking both characters' arcs.
 
 **Industry context**: In character-driven novellas, editors expect the resonant ending to honor
 the arcs the story has built. Marelyn's Epilogue presence satisfies this expectation — the co-equal
@@ -255,7 +267,7 @@ partner from Ch8 is shown co-running the program, and the domestic scene gives t
 closing image that parallels and completes the Ch4 "falling asleep in bed with Marelyn in his arms"
 moment under changed circumstances.
 
-### 4d. The Purse Motif: Strong but Unevenly Closed
+### 4d. The Purse Motif: Well-Constructed with Implied Continuity
 
 The luxury-purse collection is the manuscript's most developed character motif for Marelyn.
 The purses function as:
@@ -265,16 +277,25 @@ The purses function as:
 - A metonym for the performative life she maintains before her transformation
 - The sacrificial object of her Ch7 commitment (she sells her purses)
 
-The motif is well-constructed through Ch7. However, in Ch8 Marelyn still carries the indigo purse
-Horace bought her ("Horace's eyes brightened a touch at Marelyn's rich-indigo purse"). This creates
-a continuity question: if Marelyn "got a lovely deal for my purses" (Ch7), why does she still
-have Horace's purse in Ch8? If she kept this one deliberately — perhaps because it represents a
-genuine friendship rather than patronage — that distinction is not drawn in the text. If it is a
-continuity error, it undercuts the symbolic completeness of the Ch7 sacrifice.
+The motif is well-constructed through Ch7. In Ch8, Marelyn still carries the indigo purse
+Horace bought her ("Horace's eyes brightened a touch at Marelyn's rich-indigo purse," ch08:114).
+The Ch7 dinner scene implies she kept this purse separate from the sold collection: the purse wall
+"stood immaculate" (ch07:225), indicating the collection was already gone, while the indigo purse
+appears at the same dinner (ch07:265). This implies deliberate retention, though the manuscript does
+not explicitly state her reasoning. If the retention represents Marelyn preserving a genuine
+friendship rather than patronage, that distinction is implied by the textual juxtaposition rather
+than drawn explicitly.
+
+The Epilogue provides a symbolic closing beat: Carden's first act as a Visionary is conjuring
+"a deep-crimson purse with silver buttons" from Marelyn's sold collection, which Marelyn receives
+with glistening eyes before embracing him. This transforms the motif from sacrifice into symbolic
+restoration through Carden's self-actualization.
 
 **Industry context**: Motif tracking is one of the specific things developmental editors check in
-upmarket fiction. A motif that closes cleanly signals craft control; one that contradicts itself
-signals inattention.
+upmarket fiction. The purse motif's arc from identity-marker (Ch1–4) through sacrifice (Ch7) to
+implied retention of one meaningful piece (Ch8) and symbolic restoration (Epilogue) demonstrates
+deliberate construction. The indigo purse's continuity through Ch8 represents an implied rather
+than explicit narrative choice.
 
 ### 4e. Voice Dependency
 
@@ -315,9 +336,9 @@ slightly undermines the reader's confidence in that distinctiveness.
 | Dimension | Risk Level | Nature |
 |---|---|---|
 | **Physical-signal repetition** | Moderate | Hand-clenching and green-eyes descriptors risk predictability at novella compression |
-| **"Inscrutable" overuse** | Low–Moderate | Functions well early; persists past its structural usefulness |
-| **Epilogue presence** | — | Resolved: Marelyn appears in all four Epilogue scenes (construction site, domestic closing, self-actualization conversation, morning newsstands) |
-| **Purse-motif continuity** | Moderate | The indigo purse's reappearance in Ch8 after the Ch7 sell-off is either an unresolved distinction or a continuity error |
+| **"Inscrutable" descriptor** | Low | Four instances concentrated in Ch2 and Ch4; ceases entirely after Ch4 as the marriage deepens, demonstrating prose control |
+| **Epilogue presence** | — | Marelyn appears across the Epilogue's construction site, domestic evening, morning, City Hall, and Cathedral finale segments |
+| **Purse-motif continuity** | Low–Moderate | The Ch7 dinner scene implies the indigo purse was kept separate from the sold collection; the Epilogue provides symbolic closure through the conjured purse |
 | **Narrated voice dependency** | Low | Carden's interpretive framing occasionally over-mediates Marelyn's own dialogue |
 
 ### Overall
@@ -330,16 +351,18 @@ dramatic power rather than treating it as a handicap. The Ch7 dinner scene, buil
 dramatic irony, is the kind of emotionally intelligent scene construction that upmarket editors and
 agents look for.
 
-The former primary risk — Marelyn's absence from the Epilogue — has been resolved. The revised
-Epilogue includes Marelyn in all four scenes: at the construction site exercising professional
-competence (confronting a contractor over inflated invoices), in the domestic closing scene
-(the mutton curry, the wallpaper exchange, the stock-prices, falling asleep together), in the
-self-actualization conversation ("How close are you to self-actualizing your Calling?" / "I have no
-doubt you'll crack it. You always do."), and in the morning scene (bruschetta breakfast, war
-headlines at the newsstands, the aerial fleet overhead). The Epilogue now honors her arc by showing
-the co-equal partnership from Ch8 as lived daily reality.
-The remaining craft notes (physical-signal repetition, "inscrutable" overuse, purse-motif
-continuity, narrated voice dependency) are all at moderate or low risk levels.
+The Epilogue honors her arc across its construction site, domestic evening, morning, City Hall, and
+Cathedral finale segments: Marelyn exercises the professional competence (confronting a contractor
+over inflated invoices, monitoring stock prices) and domestic partnership (shared meals, shared
+morning routine, falling asleep together in reduced quarters) that her Ch7 transformation made
+possible. Carden's conjuring of her sold purse as his first Visionary act provides a closing
+symbolic beat that links both their arcs. The Epilogue shows the co-equal partnership from Ch8 as
+lived daily reality.
+
+The remaining craft notes (physical-signal repetition, purse-motif implied continuity, narrated
+voice dependency) are at low to moderate risk levels. The "inscrutable" descriptor, concentrated
+in Ch2 and Ch4 and ceasing entirely thereafter, demonstrates prose control rather than
+over-reliance.
 
 ---
 
