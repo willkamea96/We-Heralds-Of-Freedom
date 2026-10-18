@@ -1,6 +1,6 @@
 # Industry Standards: Upmarket Adult Character-Driven Fantasy Novella
 
-Reference compiled October 2026 for *We Heralds of Freedom* (Draft Zero, ~27,371 words).
+Reference compiled October 2026 for *We Heralds of Freedom* (Draft Zero, ~30,161 words).
 
 ---
 
@@ -14,7 +14,7 @@ Reference compiled October 2026 for *We Heralds of Freedom* (Draft Zero, ~27,371
 | Hugo Awards (WSFS) | 17,500–40,000 words | Matches SFWA thresholds |
 | Tor.com / Tordotcom Publishing | 20,000–40,000 words | Publisher-specific guideline (novella program) |
 
-*We Heralds of Freedom* at ~27,371 words sits squarely in the novella range by every major
+*We Heralds of Freedom* at ~30,161 words sits squarely in the novella range by every major
 definition — comfortably above the floor and well below the ceiling.
 
 ### Adjacent Categories for Context
@@ -132,11 +132,11 @@ Structural expectations:
   unique advantage is having room for character interiority, reflective passages, and relational
   development that a short story cannot afford, while maintaining a tighter narrative momentum than
   a novel.
-- **Three-act structure** remains the default scaffold. In a ~27,000-word novella, a rough
+- **Three-act structure** remains the default scaffold. In a ~30,000-word novella, a rough
   proportional guide:
-  - Act I (setup/inciting incident): ~5,000–7,000 words
-  - Act II (rising action/complications): ~13,000–17,000 words
-  - Act III (climax/resolution): ~5,000–7,000 words
+  - Act I (setup/inciting incident): ~6,000–8,000 words
+  - Act II (rising action/complications): ~15,000–18,000 words
+  - Act III (climax/resolution): ~6,000–8,000 words
 - **Limited POV cast**: one to three POV characters is standard for novellas. A single-POV novella is
   the most common and structurally cleanest form; dual-POV is also well established. More than three
   risks diffusing the intimacy that justifies the novella format.
@@ -201,8 +201,8 @@ novel-length comps that share tonal or thematic DNA:
 
 Based on the manuscript's characteristics and the standards above:
 
-- **Word count** (27,371) is well-centered in the novella range. No adjustment needed.
-- **Format**: the story's scope (one protagonist's arc across roughly one year, single nation, one
+- **Word count** (30,161) is well-centered in the novella range. No adjustment needed.
+- **Format**: the story's scope (one protagonist's arc across roughly two years, single nation, one
   central conflict with political/theological dimensions) is well-matched to novella length.
 - **Character-driven credentials**: Carden's internal transformation (faith, marriage, vocation) is
   the engine; the geopolitical/theological conflict is the pressure — this is precisely the
