@@ -15,6 +15,11 @@ This assessment is diagnostic, not prescriptive. It identifies what the Draft Ze
 as a holistic work, where it meets or exceeds the upmarket adult character-driven fantasy novella
 standard, and where craft-level risks exist. It does not propose revisions.
 
+§13 compares the manuscript in depth with two of the standard's comp titles, R.F. Kuang's *Babel* and
+Katherine Addison's *The Goblin Emperor*. Statements about those books come only from the comp
+profiles in `industry-standards.md` §5, which summarize what publishers and professional reviewers
+have said about them. This file adds no content about either book beyond those profiles.
+
 Word counts are `wc -w` counts of the manuscript files as written (headings included): Ch1=3,232;
 Ch2=4,224; Ch3=2,010; Ch4=3,871; Ch5=3,826; Ch6=3,025; Ch7=3,729; Ch8=2,997; Epilogue=3,247;
 narrative body=30,161. Counts for passages within a section are approximate.
@@ -56,7 +61,11 @@ reassessed against the current guide.
 The standard's §6 positioning notes specify that "Carden's internal transformation (faith, marriage,
 vocation) is the engine; the geopolitical/theological conflict is the pressure" and that the
 manuscript's "engagement with colonialism, religious plurality, economic justice, and institutional
-loyalty maps to the thematic ambition editors associate with 'upmarket'" (§6).
+loyalty maps to the thematic ambition editors associate with 'upmarket'" (§6). The same notes place
+the manuscript "in conversation with *The Goblin Emperor*, *Babel*, and *Piranesi*" (§6). The
+standard's §5 profiles two of those comps, *Babel* and *The Goblin Emperor*, across six narrative
+elements: narrative structure and plot, narrative economy, characterization, worldbuilding, theme, and
+prose. §13 below uses those profiles.
 
 A holistic manuscript assessment must evaluate not only whether each criterion is met in isolation,
 but whether the criteria cohere — whether voice, emotional core, worldbuilding, prose, and pacing
@@ -715,6 +724,11 @@ states are often externalized through physical action. When Carden weeps in Chap
 first catalogs physical symptoms — "Phlegm trickled down his throat, tears stung his eyes, and his
 body shuddered" (ch07:231) — before stating "Carden wept" (ch07:233).
 
+The draft also contains proofreading-level errors, for example "Edward eyes glinted" (ch07:20) and
+"Portsmouth Habor" (ch06:170); §13f lists more. These are not the overwriting the standard names as
+the common fault, but the standard notes that "Sentence-level craft is scrutinized" (§4). They are
+revision-stage corrections. (Added in this revision; the previous version did not note them.)
+
 ### 7b. Register Range
 
 The prose operates in several registers that the narrative deploys according to situational need
@@ -1047,7 +1061,7 @@ This integration means the thematic argument functions as a single argument at m
 (interpretation). As this evaluation summarizes it: genuine freedom requires choosing moral
 conviction over institutional conformity, and the personal transformation that enables that choice
 equips the individual to work toward collective liberation (interpretation). Whether this argument is
-fully realized in the manuscript is addressed in §13.
+fully realized in the manuscript is addressed in §14.
 
 ---
 
@@ -1413,9 +1427,390 @@ in community, against ongoing pressure (interpretation).
 
 ---
 
-## 13. Holistic Assessment Against the Standard
+## 13. Comparative Assessment: *Babel* and *The Goblin Emperor*
 
-### 13a. Criteria Met
+The standard's §6 places the manuscript "in conversation with *The Goblin Emperor*, *Babel*, and
+*Piranesi*." This section compares the manuscript in depth with two of those comps across six
+narrative elements: narrative structure and plot, narrative economy, characterization, worldbuilding,
+theme, and prose. The comps are R.F. Kuang's *Babel* (2022) and Katherine Addison's *The Goblin
+Emperor* (2014).
+
+**Basis and limits of the comparison**
+
+- **Comp statements.** Statements about the two comps come only from the comp profiles in
+  `industry-standards.md` §5, cited here as "§5." Those profiles summarize what publishers and
+  professional reviewers have said. They were compiled from web-search results because the source
+  pages could not be opened, so their quotations are as reported and unverified against the originals
+  (see §5's sourcing note). This section adds no content about either book beyond those profiles.
+- **What is compared.** The comparison sets the manuscript beside how critics read the comps, not
+  beside the comps' texts. Where this section says a comp "does" something, read "is reported by the
+  §5 profile to do."
+- **Manuscript statements** are anchored by line reference. Comparative judgments are this
+  evaluation's interpretation unless stated otherwise.
+- **Scale.** Both comps are novel-length (§5); the manuscript is a novella (§1). Differences of scale
+  are expected, not faults in themselves; the standard asks a novella to "feel native to its length"
+  (§4).
+
+### 13a. Narrative Structure and Plot
+
+**The comps (§5).**
+
+- ***Babel***: reviewers describe a coming-of-age campus story that turns into revolt against the
+  institution, built on a large scale.
+  - It is "maximalist," in Kuang's own word as Strange Horizons reports it, with a five-act structure.
+  - Admirers call it "a page-turner with footnotes, a thriller with a higher purpose" (Chicago Review
+    of Books).
+  - Reactor reads its ending as tragic but fitting.
+- ***The Goblin Emperor***: an accession premise followed by court intrigue. The emperor and his three
+  eldest sons die in an airship crash, and the exiled half-goblin son inherits. The assassination plot
+  stays subordinate to Maia's adjustment to the throne.
+  - Publishers Weekly calls it "less a novel than a series of anecdotes."
+  - Kirkus sees "a plot full of small but deadly traps."
+  - Strange Horizons reads an ending of muted progress, trust, and healing rather than triumph.
+
+**The manuscript.**
+
+- **Spine**: a causal chain rather than a single premise event. The links run:
+  1. the God of War's Scripture and the corporate tax hike (ch01:132–158);
+  2. the strained welfare economy and the riot (ch02:124–132, ch02:288–328);
+  3. the Bakers' exemption (ch04:266) and its expansion (ch06:128–130);
+  4. Edward's audit (ch06:200) and ultimatum (ch07:4–14);
+  5. the termination (ch07:183–207);
+  6. the City Hall program (ch08:124–174), which the Epilogue shows in operation (ep:4–28).
+- **Trajectory**: Carden begins inside an institution as "Special Commissioner for Income Tax"
+  (ch01:92). He leaves it by refusal (ch07:191–197) and rebuilds within another, City Hall under Horace
+  (ch08:144–174).
+- **Ending**: celebratory at the personal level — the crowd's cheer, the self-actualization, Horace's
+  "He's done it!", and the embrace (ep:184–210). The societal thread stays open (ep:126–128, ep:146).
+
+**Comparison (interpretation).**
+
+- **Direction of travel.** Both comps, as described, begin with an outsider entering an institution:
+  Robin is brought from Canton to London and trained for Oxford's translation institute, and Maia is
+  brought from exile to the throne. The manuscript inverts that. Its protagonist is an insider of
+  "More than twenty years" (ch07:205) who exits. The arc shares *Babel*'s movement from insider to
+  dissenter. It resolves, however, in the mode critics read in *The Goblin Emperor*: reform pursued
+  through an institution rather than revolt against one ("we will show our countrymen what a community
+  built on the Father's teachings looks like," ep:180).
+- **Episodic risk.** Time-skips separate the manuscript's chapters (§8a), which could invite the
+  "series of anecdotes" reservation PW raised about *The Goblin Emperor*. The exemption thread,
+  however, binds Ch2 through Ch8 causally (ch02:100–186, ch04:266, ch06:128, ch07:8, ch08:124). The
+  more anecdotal stretch is the Epilogue's five-scene sequence after a one-year skip
+  (`assessment-epilogue.md` §6).
+- **Register of plot.** The manuscript is not a thriller. Its "traps" are mostly professional and
+  marital — the ultimatum, the divorce and disinheritance forms (ch07:58) — with brief physical danger
+  (ch02:292–326, ch05:168). In that respect it sits closer to the "small but deadly traps" Kirkus finds
+  in *The Goblin Emperor* than to *Babel*'s thriller momentum.
+- **Ending.** The manuscript's personal triumph contrasts with *Babel*'s reported tragic ending and
+  with the muted ending Strange Horizons reads in *The Goblin Emperor*. At the scale of the world,
+  however, its open societal thread matches the latter's progress rather than triumph.
+
+**Assessment.** Against the standard's structural expectations (§4), the manuscript's causal spine is a
+strength relative to the episodic reservation the comps attract (interpretation). The exposed point is
+the Epilogue, which pairs a one-year skip with a vignette structure and a celebratory climax. A reader
+primed by *The Goblin Emperor*'s muted register, or by *Babel*'s tragic one, may find the triumphant
+beat (ep:184–208) more conventional (interpretation).
+
+### 13b. Narrative Economy
+
+**The comps (§5).**
+
+- ***Babel***: the most consistent reservation is didacticism. Publishers Weekly calls it "a didactic,
+  unsubtle take on dark academia and imperialism," "frequently interrupted by lectures on why
+  imperialism is bad." Paste's review is headlined "An Ambitious Epic That Doesn't Trust Its Audience
+  Enough." These complaints concern a book of 500-plus pages with footnotes and epigraphs.
+- ***The Goblin Emperor***: the pacing is described as episodic and low on histrionics, which critics
+  treat as deliberate. The recurring cost is the density of invented names and titles — "The names
+  were terribly confusing" until the reviewer found the glossary (Fantasy Literature). The back matter
+  eases it.
+
+**The manuscript.**
+
+- **Length**: 30,161 narrative words, a novella (§1). Its economy depends on temporal compression
+  ("Months went by…," ch06:168; ch05:278) and scene selection rather than a long runway (§8a).
+- **Explicit argument**: the manuscript does articulate its themes in dialogue. Each instance comes
+  from a character speaking to a listener within a scene:
+  - Carden's "We are a truly unfortunate generation. Both the cogs and victims of the wheels of
+    history" (ch05:230);
+  - Edward's lesson on war-bonds ("let me enlighten you," ch05:118);
+  - Carden's answers and speech to the Elf children (ep:146–154, ep:166–182).
+
+  The narration also undercuts the longest of these: "That came out a lot longer than Carden intended"
+  (ch05:232).
+- **Apparatus**: there are no footnotes or epigraphs. The glossary (40 entries) presents itself as
+  "Entirely skippable" (glossary:3). That positions the narrative to stand without it, unlike the back
+  matter reviewers describe *The Goblin Emperor*'s readers relying on (interpretation).
+- **Names**: Alfainian names are mostly English in form (Carden Oakmoore, Marelyn Winston, Horace
+  Livingstone, Edward Cook). Non-English forms mark other peoples and states, such as Feroz Surena
+  (ch01:14), Shapur Mihran (ch03:156), and the Epilogue's divine names (ep:114–118). The densest run of
+  new names is the Epilogue's headlines and revelations (ep:60–68, ep:110–118).
+
+**Comparison (interpretation).**
+
+- **Didacticism**: of the reservations reported for *Babel*, this one applies most closely. In the
+  manuscript its risk concentrates in the Epilogue, where the Lucifer exposition (ep:108–128, ~240
+  words) and the speech (ep:166–182, ~350 words) sit close together (`assessment-epilogue.md` §4c).
+  Across Chapters One to Eight, argument stays inside dramatized exchanges.
+- **Name density**: the reservation reported for *The Goblin Emperor* largely does not apply. The
+  manuscript's naming is lighter, and its glossary is optional by its own account (glossary:3).
+- **Overall leanness**: the manuscript is leaner than either comp as described, consistent with the
+  standard's expectation that a novella move faster than a novel (§4).
+
+**Assessment.** The manuscript meets the standard's economy criteria more comfortably than the
+reservations reported for either comp would suggest at their lengths (interpretation). The exception
+is the Epilogue, which brings it closest to the didacticism critique attached to *Babel*.
+
+### 13c. Characterization
+
+**The comps (§5).**
+
+- ***Babel***: divided reception.
+  - Publishers Weekly finds the characters "often feel dubiously motivated."
+  - Slate (2025) calls character "Kuang's abiding weakness as a novelist."
+  - Enthusiastic reviews center the four student friends and the betrayal that divides them.
+- ***The Goblin Emperor***: near-unanimous praise for Maia.
+  - Kirkus: "the sweet-natured, perplexed Maia." Strange Horizons: "a poignantly sympathetic
+    protagonist." PW notes his "shyness and insecurity" (single report).
+  - Fantasy Literature: his goodness is "balanced against his struggles to overcome his own impulses
+    toward arrogance, vengeance, and fear" (single report).
+  - Secondary characters get little critical attention.
+
+**The manuscript.**
+
+- **Protagonist**: Carden is middle-aged (inference; ch01:210, ch07:205, ep:48). He is a veteran who
+  "specialized in pacifying occupied enemy settlements" (ch01:124) and who killed three people on the
+  day of the riot (ch03:108–118). He is drawn with self-interest as well as conscience:
+  - self-interest: "Carden wished he could just leave and let Marelyn suffer the consequences of her
+    blithe mouth" (ch04:122); "Carden still wanted a raise after all" (ep:84);
+  - conscience: "I cannot in good faith ignore the suffering of my fellow man" (ch07:193).
+- **Motives**: close-third interiority usually states his motives — why he names his specialty to
+  Edward (ch01:124), why he takes the Bakers' file to Marelyn first (ch06:66), and why he flatters
+  Horace (ep:84).
+- **Relational core**: the central relationship is a marriage. Marelyn is arguably the co-protagonist
+  but is rendered only externally (§10b).
+- **Secondary characters**: they are grouped by function (§8c), with exceptions. Edward, the
+  institutional antagonist, approves the exemptions (ch06:130) and then demands their annulment
+  (ch07:8). He grants Carden "his conscience" (ch07:30) and thanks him in the truth-bound Arcane Tongue
+  (ch07:199–201).
+
+**Comparison (interpretation).**
+
+- **Kind of protagonist.** The manuscript's protagonist differs in kind from both comps' protagonists.
+  The §5 profiles describe both comps as coming-of-age stories; this is the mid-life re-formation of a
+  compromised insider.
+- **Source of sympathy.** Where Maia wins sympathy through vulnerability, Carden wins it through
+  competence, humor, care (his cooking, ch01:170–178), and conscience. His violent past and
+  self-interest are made explicit.
+- **Motivation.** The "dubiously motivated" risk PW reports for *Babel* is reduced by the manuscript's
+  habit of stating motive in Carden's interiority.
+- **Secondary cast.** The other *Babel* critique — characters subordinated to the thesis — applies in
+  part to the manuscript's functionally grouped secondary cast. Edward's double treatment is the
+  clearest counterweight.
+- **The marriage.** Neither profile centers a marriage. The manuscript's slow transformation of an
+  arranged marriage (§4b, §5b) is its most distinctive characterization engine relative to both comps.
+
+**Assessment.** For its protagonist, the manuscript avoids the main characterization reservation
+reported against *Babel*; for its secondary cast, it avoids it only in part (interpretation). It does
+not seek *The Goblin Emperor*'s sweetness: its protagonist is more compromised. Readers who come for
+Maia's gentleness may find Carden harder to love at first. Readers drawn to *Babel*'s interest in
+complicity will find complicity examined in the protagonist himself (ch01:124, ch08:136–138).
+
+### 13d. Worldbuilding
+
+**The comps (§5).**
+
+- ***Babel***: a historical setting — an alternate nineteenth-century Britain — whose translation-based
+  silver magic is bound to the empire's economy. Kirkus reports "a keen parallel between extracting
+  knowledge and extracting resources." Booklist describes an "alternate-world empire powered by
+  magically enhanced silver talismans."
+- ***The Goblin Emperor***: a secondary world praised as "ambitious and meticulously executed" (PW).
+  Booklist calls it "completely believable," "with its own language, customs, and history," yet with
+  "tantalizingly familiar elements (such as newspapers and pocket watches)." Its texture is
+  steampunk-tinged — airships, a planned bridge — with a dense naming system.
+
+**The manuscript.**
+
+- **Setting**: an invented secondary world (Eyael, glossary:37) whose central nation has
+  British-analogue institutions — a Parliament and Prime-Minister (ch01:14–22), a "Commonwealth" with
+  "overseas Dominions on all seven continents" (ch02:88), and an Admiralty (ch05:34).
+- **Technology**: airships and aerial fleets (ch03:138–158, ch06:172–178, ep:76), turboprop fighters
+  (ch03:138), radio (ch03:154), telegrams (ch03:4), trains (ch02:256), newspapers (ch05:8–16,
+  ep:58–68), and a stock exchange (ch05:24).
+- **Magic tied to labor and the state**:
+  - Elves' Empowerment and Enchanting Magic build the marketplace roof (ep:10).
+  - "we as a civilization depend on Elf labor" (ep:152), and the Elves are "the reason why our society
+    harnesses Magic every day" (ep:154).
+  - Law Magic serves interrogation (ch03:60–66); Space, Gravitational, and Atmospheric Magic serve war
+    (ch03:152–160).
+- **A language of power**: the Arcane Tongue binds speakers to truth (ch01:140) and is understood only
+  by those born with the Arcane's Magic (ch01:56).
+- **Theology**: three deities with Scriptures and a revealed cosmology (ch01:132–140, ch05:84–96,
+  ch07:124–129, ep:108–128).
+
+**Comparison (interpretation).**
+
+- **World type.** The manuscript combines the two comps' world types. Like *The Goblin Emperor*, it is
+  a secondary world; it builds that world from recognizably British imperial forms, which *Babel* takes
+  directly from history.
+- **Technological texture.** Its airships, newspapers, and telegrams overlap with the "tantalizingly
+  familiar elements" Booklist notes in *The Goblin Emperor*.
+- **Extraction.** The strongest worldbuilding parallel is with *Babel*. Where Kirkus reads *Babel*'s
+  magic as a parallel between "extracting knowledge and extracting resources," the manuscript makes
+  magic a resource extracted from a people: Elf labor (ep:152–154). That echoes Julian's charge of
+  "extractive government" (ch05:144) and Carden's view of Alfainia as a "self-funding arsenal"
+  (ch01:204).
+- **Language as power.** Both make language a mechanism of power, in different ways. *Babel*'s
+  translation magic, as described, produces the empire's material magic. The manuscript's Arcane
+  Tongue governs who can speak truth and who can understand it ("the lucky one-percent of Humans born
+  an Arcanist," ep:152).
+- **Theology.** The manuscript's theological architecture has no counterpart in either §5 profile,
+  which does not report religion as a focus of either comp. It is a differentiator.
+- **Invented language.** The manuscript forgoes *The Goblin Emperor*'s invented-language texture:
+  Arcane Tongue speech is rendered in English and flagged by narration (ch02:308).
+
+**Assessment.** The manuscript's worldbuilding meets the standard's "integrated with character"
+expectation (§4; this file's §6). It shares the most-praised quality of each comp (interpretation): from
+*Babel*, magic bound to an extractive economy; from *The Goblin Emperor*, a believable secondary world
+with familiar textures. Its scale is necessarily smaller. Its exposed point is the late concentration of
+cosmology in the Epilogue (§6c), which neither profile reports as a feature of the comps.
+
+### 13e. Theme
+
+**The comps (§5).**
+
+- ***Babel***: reviewers agree almost unanimously that empire, translation, complicity, and the costs
+  of resistance are the core.
+  - The New York Times Book Review finds the book's power in "sustaining a contradiction" — loving and
+    hating something that feeds on you.
+  - Its subtitle names "the Necessity of Violence."
+  - Publishers Weekly dissents that "Kuang assumes an audience that disagrees with her."
+- ***The Goblin Emperor***: kindness and decency in power, often framed as hopeful or "hopepunk."
+  - Strange Horizons calls it "a novel about abuse and power" that handles "issues of race, class,
+    gender, and sexuality in subtle but important ways."
+  - Nussbaum reads its politics as reform through institutions rather than their overthrow, and notes
+    that it "recognizes the limits of kindness."
+
+**The manuscript.**
+
+- **Empire and complicity**: Alfainia was occupied by Imperium Divinus for nine years (ch05:128) and
+  liberated "fifty-four-years ago" (ch01:52), yet holds Dominions of its own (ch02:88, ch05:68–72).
+  Carden served in imperial pacification ("Humanitarian interventions or special military operations,"
+  ch03:150) and enforces the taxes that fund rearmament (ch01:150–160).
+- **The contradiction, stated outright**: Marelyn says, "I am married into the family benefiting from
+  it all and hating every moment of it" (ch05:224). Carden calls their generation "Both the cogs and
+  victims of the wheels of history" (ch05:230).
+- **Violence**: the narration calls the riot's anger "arguably righteous" (ch02:328), and Julian hopes
+  for "revolution" (ch05:144). The Epilogue's speech rejects the riot's way: "We were desperate and
+  harmed ourselves, and then we learned better and fixed our mistakes" (ep:166). It also accepts
+  limits: "we may not have the power to challenge Sarh and the God of War" (ep:178).
+- **Decency, grounded in faith**: "love is the greatest commandment" (ch07:193); "neighbors loving one
+  another as the Father taught" (ep:166).
+- **Abuse and power**: parental control (ch01:212, ch04:66–212, ch07:58–62), named in Annie's prayer
+  for Carden: "Free of the shackles from his parents, from his wars, and from his hate" (ch06:156).
+- **Race, class, and gender**:
+  - race: Elf slavery, and the half-Elf woman behind the riot (ch03:76, ep:10–18, ep:140–154);
+  - class: "commoner origins" (ch04:162); "welfare-dependent 'commoners'" (ep:10);
+  - gender: Horace's remarks (ch02:72–80, ch08:156, ep:88), and Charles's "mannish pleb playing
+    stock-trader" (ch04:186);
+  - sexuality is not foregrounded (`assessment-market-positioning.md` §6b).
+
+**Comparison (interpretation).**
+
+- **A synthesis of the two comps.** The manuscript takes *Babel*'s subject — empire, complicity,
+  extraction — and states the same contradiction El-Mohtar names (ch05:224, ch05:230). It resolves that
+  subject in the mode critics read in *The Goblin Emperor*: decency, reform within institutions, hope.
+- **Violence.** On the question *Babel*'s subtitle names, the manuscript answers differently from
+  *Babel* as described. Its riot is "arguably righteous" but self-harming (ch02:328, ep:166), and its
+  remedy is municipal reconstruction and rehabilitation (ch08:126–136).
+- **Faith.** Its decency is grounded explicitly in faith, which neither §5 profile reports as central
+  to either comp.
+- **The limits of reform.** Like the "limits of kindness" Nussbaum finds in *The Goblin Emperor*, the
+  manuscript marks the limits of its own reform:
+  - Parliament has not reformed "the laws on Elf slavery" (ep:146);
+  - City Hall still depends on loaned slaves (ep:10, ep:18);
+  - Carden's welfare pitch borrows the language of pacification (ch08:136–138).
+
+**Assessment.** The thematic position between the two comps is the manuscript's clearest market
+identity (interpretation; see `assessment-market-positioning.md` §4c). The comparison sharpens one
+risk. *Babel*'s critics fault argument that is asserted rather than dramatized, and the manuscript's
+most explicit statements of theme cluster in the Epilogue (ep:146–182). The ironic undercutting that
+defuses Carden's earlier speech (ch05:232) is absent there.
+
+### 13f. Prose
+
+**The comps (§5).**
+
+- ***Babel***: praised for erudition and its mock-scholarly apparatus — "inventive and engaging,
+  passionate and precise" (Library Journal). The reservations concern didacticism, not sentence-level
+  weakness.
+- ***The Goblin Emperor***: "elegant prose" (Strange Horizons); "witty, elegant, kind" (The Guardian,
+  via Wikipedia). Its formal register is encoded in a pronoun system that reviewers treat as part of
+  the world. No professional criticism of the prose is reported.
+
+**The manuscript.**
+
+- **Register**: a sardonic, colloquial close third. Examples include "pens scratched notepads like rats
+  between walls" (ch01:22), "How foolish that greasy-haired potato in a nice suit even tried to sneak
+  funny invoices past Marelyn" (ep:8), italic direct thought (ch02:144), and clipped reactions ("Oh
+  no." ch01:42; "Not good!" ch04:82).
+- **Formality**: confined to ritual, Scripture, and Arcane Tongue (ch01:4–58, ch07:126–129, ep:172).
+- **Expository register**: professional and bureaucratic rather than academic (ch02:14, ch02:48,
+  ch05:118).
+- **Draft Zero errors**: the draft contains proofreading-level errors, for example:
+  - "Six years since you're last visit" (ch04:70);
+  - "Portsmouth Habor" (ch06:170);
+  - "Aflainia's newest naval flotilla" (ch06:178);
+  - "Edward eyes glinted" (ch07:20);
+  - "wore her hair lose" (ch03:62);
+  - "without meaning too" (ch08:212).
+
+**Comparison (interpretation).**
+
+- **Against *The Goblin Emperor*.** The manuscript's prose is more colloquial than the "elegant"
+  formality reported for *The Goblin Emperor*. It shares the "witty" quality Spufford names.
+- **Against *Babel*.** It is less scholarly than *Babel*, with no footnotes or epigraphs. Its erudition
+  is professional — tax, finance, military — rather than linguistic.
+- **Encoded register.** Like *The Goblin Emperor*'s pronoun system, the manuscript encodes a register in
+  language. The narration flags the Arcane Tongue as "The irrefutable medium for truth between
+  Arcanists" (ch02:308); what it encodes is truth rather than formality.
+
+**Assessment.** At the level of voice, the manuscript stands comparison with both comps' praised
+qualities: its sardonic interiority is the "distinctive narrative voice" the standard ranks first (§4;
+this file's §3) (interpretation). At the sentence level, the Draft Zero errors fall short of the
+polish reviewers credit to both comps ("precise," "elegant"). The standard notes that "Sentence-level
+craft is scrutinized" (§4). These are revision-stage corrections rather than structural problems, but
+if left uncorrected they would count against the manuscript at the query stage.
+
+### 13g. Comparative Summary
+
+| Element | *Babel* (as reported, §5) | *The Goblin Emperor* (as reported, §5) | The manuscript |
+|---|---|---|---|
+| Structure and plot | Campus coming-of-age turning to revolt; "maximalist," five acts; tragic, fitting ending | Accession and court intrigue; "series of anecdotes" (PW); muted, healing ending | Causal chain from tax policy through termination to reconstruction (ch01:158 to ep:28); an insider exits, then rebuilds; celebratory personal ending, open societal thread |
+| Narrative economy | Didacticism the main reservation; 500-plus pages; footnotes | Deliberately slow; name density eased by a glossary | Novella-lean; argument kept in dramatized dialogue but concentrated in the Epilogue; optional glossary (glossary:3) |
+| Characterization | Divided; characters "dubiously motivated" (PW) | Maia near-unanimously loved: sweet, shy, decent | A compromised, middle-aged insider with stated motives; a marriage at the core; functional secondary cast, with exceptions (Edward) |
+| Worldbuilding | Alternate historical Britain; translation magic bound to empire | Believable secondary world; steampunk textures; dense naming | Secondary world with British-analogue institutions; magic as extracted labor (ep:152–154); a truth-bound language; three-deity theology |
+| Theme | Empire, complicity, contradiction; "the Necessity of Violence" | Kindness and decency in power; reform; hope | Empire and complicity (ch05:224, ch05:230), resolved through faith-grounded decency and local reform (ep:166–180) |
+| Prose | Erudite, with scholarly apparatus; the reservation is didacticism | "Elegant"; formal register | Sardonic, colloquial close third; professional expertise; Draft Zero proofreading errors |
+
+In this evaluation's reading, the comparison supports one positioning statement anchored to both
+profiles (interpretation). The manuscript takes up *Babel*'s subject — empire, complicity, extraction,
+language as power — and resolves it in *The Goblin Emperor*'s mode — decency, reform through
+institutions, hope. It does so at novella length, with a marriage and a faith at its center that
+neither profile reports for either comp.
+
+The comparison also locates the manuscript's risks against each comp's critical reception:
+
+- the Epilogue's concentrated argument and cosmology sit closest to the didacticism critique attached
+  to *Babel* (§13b, §13e);
+- its time-skipped, vignette-structured Epilogue sits closest to the episodic critique attached to *The
+  Goblin Emperor* (§13a);
+- its sentence-level polish trails the precision and elegance credited to both (§13f).
+
+---
+
+## 14. Holistic Assessment Against the Standard
+
+### 14a. Criteria Met
 
 **Voice**: The manuscript establishes a distinctive narrative voice on the first page and sustains it
 across 30,161 words with appropriate tonal modulation (§3). The voice is the novella's primary craft
@@ -1474,7 +1869,7 @@ slavery, and religious plurality in an integrated rather than additive manner (i
 themes are "embedded in the narrative rather than appended to it" (§4). They emerge from Carden's
 professional and personal circumstances rather than from narratorial commentary.
 
-### 13b. Craft Strengths
+### 14b. Craft Strengths
 
 1. **The marriage arc's emotional architecture**: In this evaluation's judgment, the treatment of the
    Carden-Marelyn relationship is the novella's most distinctive craft achievement. It builds from
@@ -1501,7 +1896,14 @@ professional and personal circumstances rather than from narratorial commentary.
    motif, and building the reader's investment in the marriage arc. The payoff is proportional to the
    preparation (interpretation).
 
-### 13c. Craft Risks
+5. **Comparative position**: Beside its two closest comps (§13), the manuscript takes up *Babel*'s
+   subject — empire, complicity, extraction, language as power — and resolves it in *The Goblin
+   Emperor*'s mode: decency, reform through institutions, hope. A marriage and a faith sit at its
+   center; neither §5 profile reports either at the center of either comp (interpretation; §13g).
+
+### 14c. Craft Risks
+
+§13 sets these risks beside the critical reception of *Babel* and *The Goblin Emperor*.
 
 1. **Epilogue worldbuilding volume**: The Lucifer revelation (ep:108–128, ~240 words) introduces
    significant new cosmological information in the closing section: the deities' mortal identities,
@@ -1511,7 +1913,11 @@ professional and personal circumstances rather than from narratorial commentary.
    speech invokes (ep:178). It still risks competing with the emotional and character resolution the
    standard asks of a "resonant ending." Its compressed retrospective narration mitigates but does not
    eliminate the pacing risk. Whether readers experience it as enrichment or distraction is a
-   reception question the text alone cannot answer.
+   reception question the text alone cannot answer. Set beside the comps (§13b, §13e), the Epilogue's
+   cluster of exposition and explicit argument (ep:108–182) is where the manuscript comes closest to
+   the didacticism critique reviewers attach to *Babel*. Its one-year skip and vignette structure are
+   where it comes closest to the episodic critique attached to *The Goblin Emperor* (§13a)
+   (interpretation).
 
 2. **Marelyn's interiority gap**: Because of the single-POV constraint, Marelyn's transformation —
    from unhappy arranged wife to the woman who accepts disinheritance to stay with Carden — is inferred
@@ -1557,7 +1963,13 @@ professional and personal circumstances rather than from narratorial commentary.
    treatment is adequate is a matter of reader expectation and editorial positioning rather than of
    internal craft consistency (interpretation).
 
-### 13d. Summary Assessment
+5. **Sentence-level polish** (new): The Draft Zero text contains proofreading-level errors (examples
+   in §13f, e.g., "Edward eyes glinted," ch07:20; "Portsmouth Habor," ch06:170). They fall short of
+   the precision and elegance reviewers credit to both comps (§5). The standard notes that
+   "Sentence-level craft is scrutinized" (§4). These are revision-stage corrections, not structural
+   problems.
+
+### 14d. Summary Assessment
 
 *We Heralds of Freedom*, as written in the manuscript files, meets the industry standard for an
 upmarket adult character-driven fantasy novella. It meets the five editorial criteria (voice,
@@ -1583,7 +1995,21 @@ Its primary craft risks are:
 - the Epilogue's concentrated new worldbuilding, including the Calling mechanism;
 - Marelyn's interiority gap, inherent to the POV constraint;
 - the Elf slavery theme's proportional preparation;
-- the light treatment of Horace's gendered attitudes, which the narration marks but does not resolve.
+- the light treatment of Horace's gendered attitudes, which the narration marks but does not resolve;
+- sentence-level proofreading errors.
+
+Against its two closest comps (§13), the manuscript stands between *Babel* and *The Goblin Emperor*
+as reviewers describe them (interpretation):
+
+- it shares *Babel*'s subject and its interest in complicity, but not its revolutionary endpoint or its
+  scholarly apparatus;
+- it shares *The Goblin Emperor*'s reformist hope and its familiar-textured secondary world, but not
+  its sweet-natured protagonist or its dense naming;
+- it differs from both in length, in its middle-aged protagonist and marital core, and in the
+  centrality of faith.
+
+The critical reservations reported for each comp — didacticism for *Babel*, episodic structure for *The
+Goblin Emperor* — point to the same place in the manuscript: the Epilogue.
 
 These are Draft Zero observations. The craft risks identified are structural and tonal questions
 appropriate to the revision stage, not disqualifying deficiencies. The manuscript's character-driven
@@ -1593,8 +2019,11 @@ engine, thematic integration, and voice are functional and distinctive at the Dr
 
 *Assessment compiled from the manuscript files as written (`manuscript/front-matter.md`,
 `manuscript/chapter-01.md` through `manuscript/chapter-08.md`, `manuscript/epilogue.md`, and
-`manuscript/glossary.md`), judged against `reference/industry-standards.md`. All line references are
-1-indexed from the respective files. Narrative claims, quotations, line references, and word counts
+`manuscript/glossary.md`), judged against `reference/industry-standards.md`. The comparison in §13
+draws its statements about *Babel* and *The Goblin Emperor* only from the comp profiles in
+`industry-standards.md` §5; those profiles were compiled from web-search results, and their quotations
+are unverified against the original reviews. All line references are 1-indexed from the respective
+files. Narrative claims, quotations, line references, and word counts
 were re-verified against the `manuscript/` files, which take precedence over any story-bible or
 reference file. Passage word counts are approximate `wc -w` counts of the cited line ranges. Where
 claims rest on inference, interpretation, or approximation, they are identified as such. Evaluation
