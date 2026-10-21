@@ -275,8 +275,9 @@ scope: *The Goblin Emperor* is novel-length (§5), with a larger cast and more i
 machinery (external). In the novella's compressed format, the political dimension operates at a lower
 resolution (interpretation).
 
-**Babel (R.F. Kuang, 2022)**: "upmarket secondary-world fantasy engaging colonialism, language, and
-institutional power" (§5). The comp is strong on the thematic axis. Both works foreground how
+**Babel (R.F. Kuang, 2022)**: "upmarket historical fantasy, set in an alternate 1830s Oxford and
+British Empire, engaging colonialism, language, and institutional power" (§5). The comp is strong on
+the thematic axis. Both works foreground how
 institutions extract value from their members, and how a language mediates power — here the Arcane
 Tongue, used in government ritual (ch01:56), interrogation (ch03:66), and Edward's farewell
 (ch07:199–201) (interpretation; *Babel*'s mechanism external). Both feature protagonists who begin as
