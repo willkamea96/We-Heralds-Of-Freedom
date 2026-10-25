@@ -914,128 +914,246 @@ novel-length comps that share tonal or thematic DNA:
 
 These profiles summarize what publishers and professional reviewers have said about two of the §6
 comps across six narrative elements: narrative structure and plot, narrative economy,
-characterization, worldbuilding, theme, and prose. Compiled October 2026.
+characterization, worldbuilding, theme, and prose.
 
 **Sourcing and verification.** Sources are each publisher's own description, trade reviews
 (Publishers Weekly, Kirkus Reviews, Booklist, Library Journal, BookPage), and reviews by professional
-critics in newspapers, magazines, and genre outlets. Reader reviews (Goodreads, personal blogs) are not
-used. The source pages could not be opened from the environment in which these profiles were
-compiled, so every item comes from web-search results that excerpt or summarize the source:
+critics in newspapers, magazines, and genre outlets. Reader reviews and reader comments are not used.
+Every source page was opened and read on October 25, 2026, except where marked.
 
-- Words in quotation marks are as reported in those results and may differ slightly from the original.
-- "via" names the page that reproduced the wording (for example the Book Marks review aggregator,
-  Wikipedia, or a retailer reprint of a trade review).
-- "(single report)" marks wording seen in only one search result. Unmarked quotations appeared in two
-  or more search results.
-- Statements without quotation marks are paraphrases.
-
-Check the original before quoting any of this externally.
+- Words in quotation marks are copied from the cited page.
+- "via" names the page used when the original could not be opened. Book Marks (bookmarks.reviews)
+  reprints review excerpts and rates each review as a rave, positive, mixed, or pan. Wikipedia is
+  used only where noted.
+- "(not rechecked)" marks an item whose source could not be opened.
+- Statements without quotation marks are paraphrases. "Consensus" lines are summaries of the
+  quoted reviews (inference).
+- An earlier version of these profiles rested on web-search summaries. The main corrections are
+  noted in the entries.
 
 #### *Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution* — R.F. Kuang (2022)
 
 **Facts**
 
-- Publisher: Harper Voyager (US) and HarperVoyager (UK). Published August 23, 2022; about 544–560
-  pages, depending on edition.
-- Awards: Nebula Award for Best Novel (2022 award year, presented May 2023); Locus Award for Best
-  Fantasy Novel (2023); British Book Awards, Fiction (2023).
-- Sales: debuted at No. 1 on the New York Times hardcover fiction list.
-- Hugo Awards: ruled "not eligible" for the 2023 Hugos without explanation, although nomination
-  statistics released later showed enough nominations for the ballot (as reported by Locus and File
-  770).
+- Publisher: Harper Voyager in the US and UK. Published August 23, 2022. About 545–560 pages,
+  depending on edition and listing (Wikipedia gives 545; Publishers Weekly and the Los Angeles Review
+  of Books give 560).
+- Awards:
+  - Nebula Award for Best Novel, 2022 award year; the winners were announced May 15, 2023.
+  - Locus Award for Best Fantasy Novel (2023).
+  - British Book Awards, Fiction category (2023).
+  - Blackwell's Books of the Year for Fiction (2022).
+- Sales: debuted at No. 1 on the New York Times hardcover fiction list (Wikipedia; University College,
+  Oxford).
+- Hugo Awards:
+  - Locus reported that the 2023 Hugo administrators ruled *Babel* ineligible "for reasons that are
+    not explained".
+  - The published nomination statistics list *Babel* third in Best Novel nominations (810
+    nominations on 1,637 ballots), marked "Not eligible".
+  - The Guardian (February 15, 2024) reported that authors had been "excluded from Hugo awards over
+    China concerns".
+  - (Corrected: the earlier version credited the nomination count to Locus and File 770.)
 
-**Publisher's description (premise).** Retailer reproductions of the publisher copy open with
-"Traduttore, traditore." In paraphrase, the copy runs as follows:
+**Publisher's description (premise).** The copy, as reproduced by Subterranean Press, opens:
+"From award-winning author R. F. Kuang comes Babel, a thematic response to The Secret History and a
+tonal retort to Jonathan Strange & Mr. Norrell". It then gives the epigraph line "Traduttore,
+traditore: An act of translation is always an act of betrayal."
 
-- In 1828, Robin Swift, orphaned by cholera in Canton, is brought to London by the mysterious
-  Professor Lovell.
-- He trains for Oxford's Royal Institute of Translation, "Babel," whose translation-based
-  silver-working sustains the empire.
-- The institute that first seems a paradise becomes a prison, and the copy asks whether a student can
-  resist an empire.
+- "1828. Robin Swift, orphaned by cholera in Canton, is brought to London by the mysterious
+  Professor Lovell."
+- He trains for Oxford's Royal Institute of Translation, "also known as Babel", whose silver-working
+  "has made the British unparalleled in power".
+- "For Robin, Oxford is a utopia dedicated to the pursuit of knowledge. But knowledge obeys power".
+  Robin is caught between Babel and "the shadowy Hermes Society", and the copy ends: "Can powerful
+  institutions be changed from within, or does revolution always require violence?"
+- (Corrected: the earlier paraphrase of the institute turning from paradise to prison does not
+  appear in the copy.)
 
-The copy also calls the novel "a thematic response to The Secret History and a tonal retort to
-Jonathan Strange & Mr. Norrell."
+**How reviewers rated it.** Book Marks classifies eleven professional reviews:
+
+- Eight raves: Chicago Review of Books, The New York Times Book Review, The Guardian, Los Angeles
+  Review of Books, The Rumpus, BookPage, Booklist, and Kirkus Reviews.
+- Two positive: Paste and Library Journal.
+- One pan: Publishers Weekly.
+
+Booklist's review was starred (Subterranean Press; Wikipedia), and so was BookPage's (BookPage).
 
 **What reviewers say, by element**
 
 1. *Narrative structure and plot*
-   - Chicago Review of Books (Daniel Rabuzzi, August 25, 2022): "brilliant both in concept and
-     execution," "a page-turner with footnotes, a thriller with a higher purpose."
-   - Reactor/Tor.com (Natalie Zutter, September 22, 2022): the novel makes its characters, and its
-     readers, fall in love with an institution and then breaks their hearts; the ending is tragic but
-     fitting (paraphrase).
-   - Strange Horizons (Shinjini Dey, January 30, 2023): reports Kuang's own description of the book as
-     "maximalist," citing its five-act structure, long descriptive paragraphs, and intricate magic
-     systems (paraphrase of Dey's account).
-   - *Consensus:* a coming-of-age campus story that turns into revolt against the institution, built
-     on a large scale. Admirers find it propulsive; the reservations under narrative economy concern
-     how often argument interrupts the story.
+   - **Chicago Review of Books** (Daniel Rabuzzi, August 25, 2022; via Book Marks): "Babel, brilliant
+     both in concept and execution, is a page-turner with footnotes, a thriller with a higher purpose,
+     a Bildungsroman where the stakes matter."
+   - **BookPage** (Chris Pickens; starred):
+     - "Kuang takes her time ramping things up, focusing for the first half of Babel on Robin's
+       assimilation into school and broader English culture, finding friends and growing up."
+     - "There's a sense of inevitability in her work, each book moving toward a climactic breaking
+       point. This carefully built momentum results in an addicting read."
+   - **Reactor/Tor.com** (Natalie Zutter, September 22, 2022):
+     - "Babel makes its characters and its readers fall in love with an institution, then breaks
+       their hearts with the harsh but necessary truth that the institution will never love them back
+       in the way that they need."
+     - The novel has five "books": "In the first of its five books, Babel establishes the familiar
+       rhythms of both adventure and academic tales".
+     - "Once Babel picks up speed, it's a delirious race to an ending that is both stunning and not
+       surprising."
+     - (Corrected: the earlier version's "the ending is tragic but fitting" came from a reader comment
+       below the review, not from the review.)
+   - **Strange Horizons** (Shinjini Dey, January 30, 2023):
+     - Kuang calls the style "maximalist" because of the book's "long descriptive paragraphs,
+       five-act structure, intricate magic systems, and most importantly, the expanse it provides for
+       indulgence and excess."
+     - "Robin kills halfway through the novel. Some intrigue and some broken relationships later,
+       Babel swerves into an action-paced romp, meeting the classic sword-and-sorcery novel towards
+       the last quarter."
+   - **Paste** (Lacy Baugher Milas, August 23, 2022): "Babel barrels toward an ending that somehow
+     feels both strangely inevitable and deeply shocking."
+   - **Publishers Weekly** (March 4, 2022): "This brilliant, ambitious concept falters in execution,
+     reading more like a postcolonial social history than a proper novel."
+   - *Consensus:* a slow-building campus coming-of-age in the first half that turns, after a killing
+     at the midpoint, into revolt against the institution, on a large scale. Most reviewers find the
+     momentum compelling and the ending inevitable. Publishers Weekly finds that the concept falters
+     as a novel.
 2. *Narrative economy*
-   - Publishers Weekly (unsigned): the novel "underwhelms with a didactic, unsubtle take on dark
-     academia and imperialism," and its narrative is "frequently interrupted by lectures on why
-     imperialism is bad" (the second phrase via a secondary essay quoting the review).
-   - Paste (Lacy Baugher Milas, August 23, 2022), headlined "An Ambitious Epic That Doesn't Trust Its
-     Audience Enough": argues that the book does not let its horrors speak for themselves
-     (paraphrase). Book Marks reproduces the line "a significant chunk of this doorstopper's 500+ pages
-     feels didactic and lecture-y."
-   - Kirkus Reviews: an "expansive, sympathetic, and nevertheless scathing critique of Western
-     imperialism," with some criticism of how self-aware that critique is (via Book Marks; the
-     reservation is a paraphrase).
-   - Strange Horizons (Dey): ties the length to Kuang's "maximalist" design and its room "for
-     indulgence and excess" (single report).
-   - *Consensus:* the most consistent reservation across trade and magazine reviews is didacticism —
-     exposition and argument interrupting the story across 500-plus pages. Admirers treat the scholarly
-     apparatus (footnotes, epigraphs) as part of the design.
+   - **Publishers Weekly**:
+     - "Kuang (the Poppy War trilogy) underwhelms with a didactic, unsubtle take on dark academia and
+       imperialism."
+     - "The narrative is frequently interrupted by lectures on why imperialism is bad, not trusting
+       the reader or the plot itself enough to know that this message will be clear from the events as
+       they unfold."
+     - (Corrected: this second sentence is in the review itself, not only in a secondary essay.)
+   - **Paste**, headlined "Babel Is an Ambitious Epic That Doesn't Trust Its Audience Enough":
+     - "a significant chunk of this doorstopper's 500+ pages feels didactic and lecture-y, rather than
+       fully transformative".
+     - "rather than allow the horrors of its story (and the lies at the heart of the enterprise that
+       is Babel) to speak for themselves, the narrative is frequently interrupted by long screeds about
+       why imperialism is bad".
+   - **Kirkus Reviews**: "While occasionally hampered by rather self-aware critiques of colonialism, in
+     general this is an expansive, sympathetic, and nevertheless scathing critique of Western
+     imperialism".
+   - **Slate** (Laura Miller, August 26, 2025, reviewing Kuang's *Katabasis*): reading *Babel* "is
+     like being lectured to for hours about things you already know by an indignant 19-year-old who
+     has just taken their first real history class."
+   - **Strange Horizons** (Dey):
+     - The book's many actors are "too discursive or digressive when set against the characters'
+       emotional investments".
+     - Yet "for its attempt to encompass a world-historical moment, one can even say that the novel is
+       too short."
+   - **Library Journal**, reviewing the audiobook (Ammi Bui, December 1, 2022): "While absorbing, this
+     is not always an easy read, as it is grim and dense, filled with explanations of etymology and
+     footnotes."
+   - *Consensus:* didacticism is the most consistent reservation: argument interrupting the story
+     across 500-plus pages (Publishers Weekly, Paste, Kirkus, Slate). Admirers treat the scholarly
+     apparatus as part of the design (Chicago Review of Books' "a page-turner with footnotes").
 3. *Characterization*
-   - Publishers Weekly: the characters "often feel dubiously motivated."
-   - Slate (Laura Miller, August 2025, reviewing Kuang's *Katabasis* and looking back at *Babel*):
-     "Kuang's abiding weakness as a novelist lies with character," with *Babel* cited as an example.
-   - Enthusiastic reviews (Chicago Review of Books, Library Journal, BookPage) center the four student
-     friends and the betrayal that divides them (paraphrase; single reports).
-   - *Consensus:* divided. Trade reviews and later commentary find the characters subordinated to the
-     thesis; enthusiastic reviews center the friendship.
+   - **Publishers Weekly**: "The characters, meanwhile, often feel dubiously motivated."
+   - **Slate** (Miller):
+     - "But Kuang's abiding weakness as a novelist lies with character. This problem is particularly
+       evident in Babel."
+     - "The other two characters recruited by Oxford for their bilingualism—a Haitian girl and an
+       Indian boy—are just as thinly drawn."
+   - **The Guardian** (Natasha Pulley, September 10, 2022):
+     - The characters "are pretentious, but vulnerable too, and the balance is lovely".
+     - "Even against a whole background of clever things, the triumph here is the narrator".
+     - But "The antagonists are closer to demons than humans, with no nuance".
+   - **Reactor/Tor.com** (Zutter):
+     - "Robin is one of the most honestly flawed characters to appear in SFF in some time."
+     - "petty jealousies and chasms of lived experience erode their bonds of friendship".
+   - **BookPage**: "Kuang's magical teens feel more grown-up, more layered than J.K. Rowling's
+     well-known trio. Their banter, camaraderie and angst consistently satisfy as anger and loss harden
+     them".
+   - **Library Journal** (Lydia Fletcher, July 1, 2022): "an atmospheric and complex narrative with
+     compelling characters".
+   - **Paste**: the final third needs readers to care about lead characters even as "they each make a
+     series of increasingly less grounded decisions".
+   - **Strange Horizons** (Dey): "Robin Swift moves only between confusion and grief-stricken
+     righteousness."
+   - *Consensus:* divided.
+     - Praise centers on Robin and the friendship (Reactor, BookPage, The Guardian, Library Journal).
+     - Reservations concern motivation, thinly drawn secondary characters, and one-note antagonists
+       (Publishers Weekly, Slate, The Guardian, Paste).
 4. *Worldbuilding*
-   - Booklist (starred; via retailer reprints): a "richly descriptive stand-alone novel about an
-     ever-expanding, alternate-world empire powered by magically enhanced silver talismans" that
-     "scrutinizes linguistics, history, politics, and the social customs of Victorian-era Great
+   - **Booklist** (starred; Lucy Lockley per Book Marks): "Her richly descriptive stand-alone novel
+     about an ever-expanding, alternate-world empire powered by magically enhanced silver talismans
+     scrutinizes linguistics, history, politics, and the social customs of Victorian-era Great
      Britain."
-   - Kirkus Reviews: "Kuang draws a keen parallel between extracting knowledge and extracting
-     resources, examining the terrible power of systems built on inequality" (via Book Marks).
-   - The Guardian (Natasha Pulley, September 2022), headlined "an ingenious fantasy about empire":
-     translation is the key to the magic, and Kuang uses the genre to sharpen a historical
-     investigation into colonisation, learning, and power (paraphrase of the standfirst).
-   - Paste: praises the book's "obvious depth of research" and its linguistics-based magic system (via
-     Book Marks).
-   - Chicago Review of Books: the invented world exposes the power dynamics of real history more
-     sharply than many nonfiction histories (paraphrase).
-   - *Consensus:* broad agreement that the translation-based silver magic is ingenious and bound to the
-     empire's economy. The setting is historical (an alternate nineteenth-century Britain), not a
-     secondary world.
+   - **Kirkus Reviews**: "Kuang draws a keen parallel between extracting knowledge and extracting
+     resources, examining the terrible power of systems built on inequality".
+   - **The Guardian** (Pulley):
+     - Headlined "an ingenious fantasy about empire".
+     - The standfirst: "Translation is the key to magic, as Kuang uses her genre to sharpen a
+       historical investigation into colonisation, learning and power".
+     - "The fantastical elements underpin real history, rather than alter it".
+   - **Magic system**:
+     - Publishers Weekly: "the fascinating, linguistic magic system".
+     - Paste: "its obvious depth of research, lovely prose, fascinating linguistic-based magical
+       system".
+     - BookPage: "an impressively unique magic system".
+   - **Chicago Review of Books** (via Book Marks): "Kuang creates an alternative world that reveals
+     the power dynamics of our own history more trenchantly than do most histories on the non-fiction
+     shelf."
+   - **Los Angeles Review of Books** (Kurt Guldentops and Sungshin Kim, December 3, 2022): "The
+     fantastic is used to demythologize the imperial past, with a magic system inspired by
+     postcolonial thought."
+   - **Dissents**:
+     - Strange Horizons: "Babel attempts to politicize silver, but we hardly get a glimpse of the
+       process of its mining and extraction."
+     - Slate: "As more than one critic has pointed out, the novel's magic system and its analogy to
+       real-world history don't make much sense."
+   - *Consensus:* broad agreement that the translation-based silver magic is inventive and bound to
+     the empire's economy, with a minority questioning its coherence. The setting is historical (an
+     alternate 1830s Britain), not a secondary world.
 5. *Theme*
-   - The New York Times Book Review (Amal El-Mohtar, October 2022; listed as a rave by Book Marks): the
-     book derives its power from "sustaining a contradiction" — loving and hating something that feeds
-     on you (via secondary sources quoting the review).
-   - Chicago Review of Books: the novel indicts, educates, and urges readers to reframe — to
-     "(re)translate" — the dominant narrative of what the West calls its civilization (paraphrase with
-     the reported word).
-   - Library Journal: a "nuanced adventure" that blends historical speculative fiction with dark
-     academia and critiques Western colonialism.
-   - BookPage (starred): an "unforgiving examination of the cost of power."
-   - Publishers Weekly (dissent): "Kuang assumes an audience that disagrees with her, and the result
-     keeps readers who are already aware of the evils of racism and empire at arm's length."
+   - **The New York Times Book Review** (Amal El-Mohtar, October 14, 2022; via Book Marks and
+     Wikipedia): "Like the silver bars at its heart — like empires and academic institutions both —
+     Babel derives its power from sustaining a contradiction, from trying to hold in your head both
+     love and hatred for the charming thing that sustains itself by devouring you."
+   - **Chicago Review of Books** (via Book Marks): the novel "educates and urges us to reframe—to
+     (re)translate—the dominant narrative of what the West calls its civilization."
+   - **Library Journal** (Fletcher):
+     - "blends historical speculative fiction with dark academia to create a nuanced adventure that
+       also serves as a critique of Western colonialism".
+     - "prompts readers to question the ethics of both empire and academia."
+   - **BookPage**: "an unforgiving examination of the cost of power". It also says: "Ultimately, Babel
+     asks a pointed question: What is the price of power?"
+   - **The Guardian**: "Babel asks what people from colonised countries are supposed to do when they
+     reach positions of power".
+   - **Paste**: "I'm also not sure that it ever quite manages to make the case for 'the necessity of
+     violence' in its title".
+   - **Publishers Weekly** (dissent): "Kuang assumes an audience that disagrees with her, and the
+     result keeps readers who are already aware of the evils of racism and empire at arm's length."
    - *Consensus:* near-unanimous that empire, translation, complicity, and the costs of resistance are
      the core. The disagreement is over whether the argument is dramatized or asserted.
 6. *Prose and style*
-   - Library Journal (excerpt reproduced by Subterranean Press): "inventive and engaging, passionate
-     and precise."
-   - Paste: an incredible feat of writing that mixes etymology, history, and linguistics (paraphrase).
-   - The Guardian (Pulley): "a scholarly book by a superb scholar" (single report).
-   - Strange Horizons (Dey): the footnotes are few and mostly etymological, and read as a display of
-     the book's claimed pedantry (paraphrase).
-   - Publishers Weekly: "didactic, unsubtle" (see narrative economy).
-   - *Consensus:* praise for the erudition and the mock-scholarly apparatus. Reservations target
-     didacticism rather than sentence-level weakness.
+   - **The New York Times Book Review** (El-Mohtar; via Book Marks and Subterranean Press):
+     - "inventive and engaging, passionate and precise"
+     - "Kuang is fiercely disciplined even when she's playful and experimental".
+     - (Corrected: the earlier version credited "inventive and engaging, passionate and precise" to
+       Library Journal.)
+   - **Paste**: "Babel is an incredible feat of writing, mixing etymology, history, and linguistics in
+     a way that often feels akin to alchemy. Its prose is beautiful, perhaps never more so than when
+     it's at its most obviously academic".
+   - **Kirkus Reviews**: "It's ambitious and powerful while displaying a deep love of language and
+     literature."
+   - **The Guardian**:
+     - "This is a scholarly book by a superb scholar".
+     - The footnotes are "academic notes, hectoring and preachy in a parody of the 19th-century tomes
+       Swift and his friends at Oxford must study".
+   - **On the footnotes**:
+     - Strange Horizons: the footnotes, "(a few sprinkled dozens, most about etymology) emphasize its
+       purported pedantry".
+     - Reactor: "Frequent footnotes clearly written in a different voice than the main narration add
+       engaging texture to the story".
+     - Los Angeles Review of Books: the footnotes "initially seem to evoke the scholarly setting Robin
+       enters, until their terse reports of colonial violence tilt into a critical subtext".
+   - **Slate** (dissent):
+     - "although Babel is set in the 1830s, the novel's characters all speak like the characters in
+       contemporary YA fiction".
+     - The chapter epigraphs "summon a miasma of erudition cloaking the often undercooked elements of
+       the book."
+   - **Publishers Weekly**: "didactic, unsubtle" (see narrative economy).
+   - *Consensus:* praise for the erudition and the mock-scholarly apparatus. The main reservation is
+     didacticism. Slate adds a reservation about the dialogue's modern register.
 
 **Sources**
 
@@ -1044,138 +1162,246 @@ Jonathan Strange & Mr. Norrell."
 - Book Marks aggregate:
   https://bookmarks.reviews/reviews/all/babel-or-the-necessity-of-violence-an-arcane-history-of-the-oxford-translators-revolution/
 - BookPage: https://www.bookpage.com/reviews/babel/
-- Chicago Review of Books:
+- Booklist:
+  https://www.booklistonline.com/Babel-Or-the-Necessity-of-Violence-An-Arcane-History-of-the-Oxford-Translators-Revolution-/pid=9763893
+- Library Journal:
+  https://www.libraryjournal.com/review/babel-or-the-necessity-of-violence-an-arcane-history-of-the-oxford-translators-revolution-1790455
+  (print) and
+  https://www.libraryjournal.com/review/babel-or-the-necessity-of-violence-an-arcane-history-of-the-oxford-translators-revolution-2163936
+  (audiobook)
+- The Guardian (Pulley):
+  https://www.theguardian.com/books/2022/sep/10/babel-by-rf-kuang-review-an-ingenious-fantasy-about-empire
+- Chicago Review of Books (not rechecked; quoted via Book Marks):
   https://chireviewofbooks.com/2022/08/25/translation-as-oppression-and-liberation-in-babel/
+- The New York Times Book Review (not rechecked; quoted via Book Marks, Wikipedia, and Subterranean
+  Press): https://www.nytimes.com/2022/10/14/books/review/babel-anchored-world-self-portrait-with-nothing.html
 - Paste: https://www.pastemagazine.com/books/r-f-kuang/babel-review-r-f-kuang
 - Reactor/Tor.com: https://reactormag.com/book-reviews-r-f-kuang-babel/
 - Strange Horizons: https://strangehorizons.com/wordpress/non-fiction/babel-by-r-f-kuang/
+- Los Angeles Review of Books:
+  https://lareviewofbooks.org/article/the-fantasy-story-as-a-merciless-laboratory-of-history-on-r-f-kuangs-babel-or-the-necessity-of-violence/
 - Slate: https://slate.com/culture/2025/08/katabasis-rf-kuang-book-review-babel-yellowface-poppy-war.html
-- Library Journal excerpt: https://subterraneanpress.com/kuang-b/
-- Awards:
-  - https://locusmag.com/2023/05/2023-british-book-awards-winners
-  - https://univ.ox.ac.uk/news/babel-wins-nebula-novel-of-the-year/
+- Publisher copy and review excerpts, via Subterranean Press: https://subterraneanpress.com/kuang-b/
+- Facts and awards:
+  - https://en.wikipedia.org/wiki/Babel,_or_the_Necessity_of_Violence
+  - https://reactormag.com/here-are-the-winners-of-the-2022-nebula-awards/
+  - https://locusmag.com/2023/06/2023-locus-awards-winners/
+  - https://locusmag.com/2023/05/2023-british-book-awards-winners/
+  - https://www.univ.ox.ac.uk/news/babel-wins-nebula-novel-of-the-year/
   - https://locusmag.com/2024/01/2023-hugo-awards-lodestar-award-and-astounding-award-nominations-released/
+  - https://www.thehugoawards.org/wp-content/uploads/2024/01/2023-Hugo-Award-Stats-Final.pdf
+  - https://www.theguardian.com/books/2024/feb/15/authors-excluded-from-hugo-awards-over-china-concerns
 
 #### *The Goblin Emperor* — Katherine Addison (2014)
 
 **Facts**
 
-- Author: Katherine Addison is a pen name of Sarah Monette.
-- Publisher: Tor Books (Macmillan). Published April 1, 2014; about 446–448 pages.
-- Awards: Locus Award for Best Fantasy Novel (2015). Finalist for the Hugo Award for Best Novel
-  (2015), the Nebula Award for Best Novel (2014 award year), and the World Fantasy Award (2015).
-- Reviews: starred reviews from Kirkus Reviews and Library Journal.
-- Later books in the same world, now titled *The Chronicles of Osreth*: *The Witness for the Dead*
-  (2021), *The Grief of Stones* (2022), and *The Tomb of Dragons* (2025) (single report for the series
-  title and dates).
+- Author: Katherine Addison is a pen name of Sarah Monette (Publishers Weekly: "fantasist Sarah
+  Monette's first work under the Addison name").
+- Publisher: Tor Books (Macmillan). Published April 1, 2014. About 432–446 pages, depending on
+  listing (Publishers Weekly gives 432; Wikipedia gives 446).
+- Awards:
+  - Locus Award for Best Fantasy Novel (2015).
+  - Finalist for the Hugo Award for Best Novel (2015) and the Nebula Award for Best Novel (2014 award
+    year).
+  - Finalist for the World Fantasy Award (2015; via Wikipedia, not rechecked).
+- Reviews: Wikipedia describes the Kirkus review as starred. (Corrected: the earlier version also
+  called the Library Journal review starred, which could not be confirmed.)
+- Later books in the same world, published under the series title *The Chronicles of Osreth*:
+  - *The Witness for the Dead* (2021), *The Grief of Stones* (2022), and *The Tomb of Dragons* (2025).
+  - *The Orb of Cairado* (Subterranean Press, January 2025; 120 pages), which Locus calls a
+    "standalone novella" whose story kicks off from the same airship crash. It was a finalist for the
+    2026 Locus Award for Best Novella.
 
-**Publisher's description (premise).** "Maia, the youngest, half-goblin son of the Emperor has lived
-his entire life in exile, distant from the Imperial Court and the deadly intrigue that suffuses it.
-But when his father and three sons in line for the throne are killed in an 'accident,' he has no
-choice but to take his place as the only surviving rightful heir." The copy adds that he has no
-friends or advisors, and knows that whoever assassinated his father and brothers could strike at him
-at any moment (paraphrase). One listing calls it a fantasy "of court intrigue and dark magics in a
-steampunk-inflected world" (via an Apple Books listing).
+**Publisher's description (premise).** The copy, as reproduced by NetGalley:
+
+- "The youngest, half-goblin son of the Emperor has lived his entire life in exile, distant from the
+  Imperial Court and the deadly intrigue that suffuses it. But when his father and three sons in line
+  for the throne are killed in an 'accident,' he has no choice but to take his place as the only
+  surviving rightful heir."
+- "Entirely unschooled in the art of court politics, he has no friends, no advisors, and the sure
+  knowledge that whoever assassinated his father and brothers could make an attempt on his life at
+  any moment."
+- OverDrive library listings of the audiobook open with "a vividly imagined fantasy of court intrigue
+  and dark magics in a steampunk-inflected world".
+- (Corrected: the earlier quotation opened with "Maia," which the verified copy does not.)
+
+**How reviewers rated it.** Book Marks classifies five professional reviews:
+
+- Three raves: Tor.com, Library Journal, and Kirkus Reviews.
+- Two positive: Booklist and Publishers Weekly.
 
 **What reviewers say, by element**
 
 1. *Narrative structure and plot*
-   - Publishers Weekly (February 3, 2014): "less a novel than a series of anecdotes," yet "carried by
-     the strength of atmosphere and Maia's resonant good-heartedness."
-   - Kirkus Reviews (starred): "a plot full of small but deadly traps among which the sweet-natured,
-     perplexed Maia must navigate. The result is a spellbinding and genuinely affecting drama" (via Book
-     Marks).
-   - io9 (Michael Ann Dobbs, May 23, 2014): "remarkably compelling and fascinating" despite consisting
-     almost entirely of court intrigue. It "mostly eschews plot-heavy histrionics in favor of warmth,
-     psychological depth, and hope" (via Wikipedia's account of the review).
-   - Strange Horizons (Foz Meadows, May 26, 2014): the book opens with the crash of the airship
-     *Wisdom of Choharo*. In her reading it moves toward the planned Wisdom Bridge — wisdom's death and
-     rebirth (paraphrase; single report for the bridge framing). It ends on a muted sense of progress,
-     trust, and healing rather than triumph (paraphrase via Wikipedia).
-   - Fantasy Literature: "not a lot of action or romance: this is more of a tale of political intrigue
-     and coming of age."
-   - *Consensus:* a quiet accession-and-court-intrigue structure in which the assassination plot stays
-     subordinate to Maia's adjustment to the throne. PW's "series of anecdotes" is the main structural
-     reservation.
+   - **Publishers Weekly** (February 3, 2014):
+     - "this exceptional assemblage of character studies and complex encounters".
+     - "Less a novel than a series of anecdotes, this stalwart endeavor... is carried by the strength
+       of atmosphere and Maia's resonant good-heartedness."
+   - **Kirkus Reviews**: "There are powerful character studies and a plot full of small but deadly
+     traps among which the sweet-natured, perplexed Maia must navigate. The result is a spellbinding
+     and genuinely affecting drama."
+   - **io9** (Michael Ann Dobbs, May 23, 2014):
+     - Maia's situation "doesn't involve saving the world or fighting off dragons or really doing
+       anything — but still manages to be remarkably compelling and fascinating".
+     - "As the story follows Maia's journey into self-assurance, this complexity often takes the place
+       of a plot."
+     - "the book mostly eschews plot-heavy histrionics in favor of warmth, psychological depth, and
+       hope."
+     - (Corrected: "consisting almost entirely of court intrigue" in the earlier version was
+       Wikipedia's paraphrase, not io9's wording.)
+   - **Strange Horizons** (Foz Meadows, May 26, 2014):
+     - "the book begins with the death of wisdom—the crash of the Wisdom of Choharo—and ends with its
+       rebirth, in the planned construction of the Wisdom Bridge".
+     - "Despite several dramatic events, there is no single dramatic catharsis: just the steady
+       business of wounds healing, progress being made, and formerly lonely, alienated people being
+       made whole by the trust they come to have in each other."
+   - **Abigail Nussbaum** (*Lawyers, Guns & Money*, July 29, 2025):
+     - "How its plot flows and carries you along despite being made up mostly of meetings."
+     - The conflicts "are less the point of the novel as they are inflection points in Maia's process
+       of asserting and cementing his power as emperor".
+   - **Francis Spufford**, under "My comfort read" in a Guardian interview about the author's reading
+     life (December 29, 2023): "a gentle drama in which the unprepared and accidental inheritor of a
+     throne gradually and convincingly prevails by sheer goodness of heart."
+   - *Consensus:* a quiet accession-and-court structure in which crises serve Maia's consolidation of
+     power. Publishers Weekly's "series of anecdotes" is the main structural reservation. Kirkus and
+     Nussbaum find that the plot carries.
 2. *Narrative economy*
-   - Publishers Weekly and io9 (above) describe the pacing as episodic and low on histrionics.
-   - Fantasy Literature: "The names were terribly confusing — at least until I discovered the glossary
-     in the back of the book when I was halfway through."
-   - Grimdark Magazine: the "onerous glossary" of characters, forms of address, and names is
-     deliberate, so that readers feel as lost as the young emperor does (paraphrase with the reported
-     phrase).
-   - Reactor/Tor.com (CD Covington, May 5, 2020, on the book's names and vocabulary): the invented
-     language is not extensively developed; the book uses a few dozen vocabulary words plus place names
-     and titles of address (paraphrase; single report).
+   - **io9** (Dobbs): "Some readers may feel, as I did initially, that Addison's Ethuverazhin is
+     unnecessarily dense, with far too many unpronounceable letter combinations." The review
+     concludes: "Ethuverazhin feels organic."
+   - **Reactor/Tor.com** (CD Covington, May 5, 2020):
+     - "The language of Ethuveraz isn't extensively developed in the book. We have a few dozen
+       vocabulary words".
+     - Recalls "people saying they couldn't follow all the names and titles".
+   - **Tor.com** (Liz Bourke, February 20, 2014), on the back matter: "a guide of sorts is provided in
+     the form of an afterword, 'Extracts from A Handbook For Travellers in the Elflands,' and the
+     aftermatter also includes A Listing of Persons, Places, Things, and Gods".
+   - **Nussbaum**: "How expertly Addison hints at the rich, complex history of the elflands and its
+     neighbors without drowning the reader in backstory."
+   - **Kirkus Reviews**: "Addison patiently and tellingly paints in the backdrop".
+   - **Jared Shurin** (Pornokitsch; via Wikipedia, not rechecked): Wikipedia reports a complaint
+     about "an excess of invented language" (Wikipedia's wording).
    - *Consensus:* critics treat the slow, low-action pacing as deliberate. The recurring cost is the
-     density of invented names and titles, which the back matter (glossary and handbook) eases.
+     density of invented names and titles, which the back matter eases.
+   - (Corrected: the Fantasy Literature and Grimdark Magazine items in the earlier version are
+     removed; those sites could not be opened.)
 3. *Characterization*
-   - Kirkus Reviews: "powerful character studies"; "the sweet-natured, perplexed Maia."
-   - Strange Horizons (Meadows): "a poignantly sympathetic protagonist."
-   - io9 (Dobbs): headlined "Goblin Emperor Has One Of The Most Lovable Characters We've Met In Ages."
-   - Library Journal (starred; via the Tor/Forge blog): Maia "will tug on the heartstrings of even the
-     most hardened reader."
-   - Publishers Weekly: credits the portrayal of Maia's "shyness and insecurity" (single report for the
-     fragment).
-   - Tor.com (Liz Bourke, 2014): praised the "compelling attractiveness of Maia's character" as a
-     fundamentally decent person (via Wikipedia).
-   - Fantasy Literature: Maia's innate goodness is "balanced against his struggles to overcome his own
-     impulses toward arrogance, vengeance, and fear" (single report).
-   - *Consensus:* near-unanimous praise for Maia as decent, shy, and insecure. Secondary characters get
-     little individual attention in professional reviews.
+   - **Kirkus Reviews**: "powerful character studies"; "the sweet-natured, perplexed Maia".
+   - **Publishers Weekly**: "the expressive evocation of its youthful protagonist's shyness and
+     insecurity adds an affecting authenticity to the steampunk-infused fantasy setting".
+   - **Strange Horizons** (Meadows):
+     - "a poignantly sympathetic protagonist".
+     - "He earns the throne, not because of who he is, but because of who he strives to be".
+   - **io9** (Dobbs): headlined "Goblin Emperor Has One Of The Most Lovable Characters We've Met In
+     Ages". It credits "good writing and deep character work".
+   - **Library Journal** (Megan M. McArdle, March 15, 2014): "The writing is lovely, with characters
+     who live and breathe. Maia, especially, will tug on the heartstrings of even the most hardened
+     reader as he struggles to find kindness and allies in the imperial court."
+   - **Tor.com** (Bourke): "The sheer compelling attractiveness of Maia's character figures larger.
+     Because Maia, however desperately unhappy and uncertain he may be, is a fundamentally decent
+     person."
+   - **Nussbaum**: "a character who is at once modern and old-fashioned: kind-hearted, deeply wounded
+     by the mistreatment of his childhood and adolescence, at times almost overcome by loneliness; but
+     also governed by an ironclad sense of justice and duty."
+   - **Shurin** (via Wikipedia, not rechecked): a "too-perfect protagonist".
+   - *Consensus:* near-unanimous praise for Maia as decent, shy, wounded, and dutiful. Shurin's
+     "too-perfect protagonist" is the dissent found. Secondary characters get little individual
+     attention.
 4. *Worldbuilding*
-   - Publishers Weekly: "ambitious and meticulously executed" (via Book Marks).
-   - Booklist (David Pitt; via retailer reprints): "Addison has built a completely believable world,
-     with its own language, customs, and history, but there are tantalizingly familiar elements (such as
-     newspapers and pocket watches)."
-   - Strange Horizons (Meadows): "intricate worldbuilding," blending high fantasy with steampunk
-     (paraphrase via Wikipedia).
-   - Reactor/Tor.com (Covington): a consistent phonology and naming system, including title suffixes
-     that mark rank (paraphrase; single report).
-   - *Consensus:* the most consistently praised element — detailed, believable, steampunk-tinged. The
+   - **Publishers Weekly**:
+     - "Ambitious and meticulously executed worldbuilding brings an animated dazzle".
+     - "Crafted with a preternatural deftness, the elf kingdom of Ethuveraz is a multilayered
+       masterwork. Its density of arcana, language, ritual, and protocol staggers the long-exiled
+       18-year-old half-goblin heir".
+   - **Booklist** (David Pitt; via Book Marks): "Addison has built a completely believable world, with
+     its own language, customs, and history, but there are tantalizingly familiar elements (such as
+     newspapers and pocket watches)".
+   - **Strange Horizons** (Meadows): "intricate worldbuilding", "marrying the social change and new
+     technologies of steampunk with the imperial trappings of high fantasy—elves, goblins, magic—to
+     impressive effect."
+   - **Tor.com** (Bourke):
+     - "Addison's worldbuilding is delightfully detailed and thorough."
+     - "There are intricate layers of rank and address and conventions of language".
+     - "It all fits together, this complex mechanism of moving parts: it builds a world that makes
+       sense, with nothing misplaced."
+   - **Kirkus Reviews**: "mingling steampunk elements and low-key magic with imperial intricacies".
+   - **Covington**: "a consistent phonology". The naming suffixes mark house, gender, and marriage
+     among the nobility (paraphrase).
+   - *Consensus:* the most consistently praised element: detailed, believable, steampunk-tinged. The
      naming system is admired but is also the main barrier to entry.
 5. *Theme*
-   - Strange Horizons (Meadows): "a novel about abuse and power" that handles "issues of race, class,
-     gender, and sexuality in subtle but important ways" (via Wikipedia).
-   - io9 (Dobbs): warmth, psychological depth, and hope (above); "a remarkably hopeful story of a single
-     decent person doing his best in a difficult situation" (single report).
-   - Lawyers, Guns & Money (Abigail Nussbaum, July 29, 2025): Maia's kindness is both a distinctive
-     approach to high fantasy and a harbinger of the "cozy" trend, and the book "recognizes the limits
-     of kindness" (paraphrase with the reported phrases). She also reads its politics as reform through
-     institutions rather than their overthrow (single report).
-   - Reactor/Tor.com essay "Hopepunk and Revolutionary Acts of Kindness" (2020): "one of the first books
-     I read that felt truly hopepunk" (single report).
+   - **Strange Horizons** (Meadows):
+     - "a novel about abuse and power; about the systematic relationship between these two things,
+       and about the persistently personal nature of the political".
+     - It "addresses issues of race, class, gender, and sexuality in subtle but important ways".
+     - Maia "worries about how to express the faith his mother taught him without becoming the subject
+       of gossip".
+   - **io9** (Dobbs): "a remarkably hopeful story of a single decent person doing his best in a
+     difficult situation".
+   - **Nussbaum**:
+     - Maia's kindness is "both a unique approach to high fantasy in its own right, and a harbinger of
+       the recent 'cozy' trend".
+     - "one of the most interesting things about The Goblin Emperor is how it recognizes the limits of
+       kindness".
+     - It "bucks the trend of much of the epic fantasy (and space opera) of the last decade, in being
+       about empire without arguing for its dissolution".
+     - "the real work will be done on the level of the empire itself, and there it will require slow,
+       careful reform."
+   - **Reactor/Tor.com** (Rebecca Diem, "Hopepunk and Revolutionary Acts of Kindness", 2020): "One of
+     the first books I read that felt truly hopepunk is The Goblin Emperor". It also says "His empathy
+     and kindness are shown to be his greatest assets".
+   - **Kirkus Reviews**: "He treats servants as people and women as equals, an approach that wins him
+     many admirers but also enrages the more traditional nobles."
+   - **Shurin** (via Wikipedia, not rechecked): a "heavy-handed morality".
    - *Consensus:* critics converge on kindness and decency in power as the theme, often framed as
-     hopeful or "hopepunk." The more analytical critics locate it in the relationship between abuse and
-     power (Meadows) or in reform within institutions (Nussbaum).
+     hopeful or "hopepunk". The more analytical critics locate it in the relationship between abuse
+     and power (Meadows) or in slow reform within the empire rather than its dissolution (Nussbaum).
 6. *Prose and style*
-   - Strange Horizons (Meadows): "elegant prose."
-   - The Guardian (Francis Spufford): "witty, elegant, kind" (via Wikipedia; the original was not
-     located).
-   - Publishers Weekly: "carried by the strength of atmosphere."
-   - Several reviews treat the formal register's pronoun system — a formal first-person "we" distinct
-     from the plural, alongside informal "thou" forms — as part of the world's texture (paraphrase,
-     drawn partly from non-professional reviews).
-   - *Consensus:* professional descriptions of the prose are positive. No professional criticism of the
-     prose appeared in the search results; complaints of stiffness appear in reader reviews, which are
-     not used here.
+   - **Strange Horizons** (Meadows): "elegant prose".
+   - **Library Journal** (McArdle): "The writing is lovely".
+   - **Tor.com** (Bourke):
+     - "Addison's excellent ability to turn a phrase"; "shiny prose".
+     - On register: "a distinction between formal speech (the use of the formal plural we) and
+       informal speech (I, thou)".
+   - **Nussbaum**: "Addison creates an entire mode of speech that feels both believably antiquated
+     and suited to its fantasy setting."
+   - **Reactor/Tor.com** (Diem): "Addison's writing is infused with warmth".
+   - **Francis Spufford** (Guardian interview, above): "Witty, elegant, kind."
+   - **Publishers Weekly**: "carried by the strength of atmosphere".
+   - **io9** (Dobbs): initially found the invented language dense, and noted "some regular old
+     English archaisms like 'an' for 'if' and the formal plural".
+   - *Consensus:* professional descriptions of the prose are positive. The reservations found concern
+     the density of invented language (io9 at first; Shurin via Wikipedia), not the sentences.
+   - (Corrected: the formal-pronoun point is now sourced to Liz Bourke's review rather than to
+     non-professional reviews.)
 
 **Sources**
 
 - Publishers Weekly: https://www.publishersweekly.com/978-0-7653-2699-7
 - Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/katherine-addison/goblin-emperor/
 - Book Marks aggregate: https://bookmarks.reviews/reviews/all/the-goblin-emperor/
+- Library Journal: https://www.libraryjournal.com/review/the-goblin-emperor
 - Strange Horizons: https://strangehorizons.com/non-fiction/reviews/the-goblin-emperor-by-katherine-addison/
 - io9/Gizmodo: https://gizmodo.com/goblin-emperor-has-one-of-the-most-lovable-characters-w-1580180709
-- Fantasy Literature: https://fantasyliterature.com/reviews/the-goblin-emperor/
-- Grimdark Magazine: https://www.grimdarkmagazine.com/review-the-goblin-emperor-by-katherine-addison/
+- Tor.com (Bourke): https://reactormag.com/book-review-the-goblin-emperor-katherine-addison-sarah-monette/
 - Reactor/Tor.com (Covington):
   https://reactormag.com/a-prank-on-the-emperor-names-and-vocabulary-in-the-goblin-emperor/
-- Reactor/Tor.com (hopepunk essay): https://www.tor.com/2020/11/23/hopepunk-and-revolutionary-acts-of-kindness/
+- Reactor/Tor.com (Diem): https://reactormag.com/hopepunk-and-revolutionary-acts-of-kindness/
 - Lawyers, Guns & Money (Nussbaum): https://www.lawyersgunsmoneyblog.com/2025/07/the-goblin-emperor-by-katherine-addison
-- Library Journal excerpt: https://torforgeblog.com/?p=17196
-- Publisher copy, via a NetGalley listing: https://netgalley.com/catalog/book/42563
-- Awards and reception summary: https://en.wikipedia.org/wiki/The_Goblin_Emperor
+- The Guardian (Spufford interview):
+  https://www.theguardian.com/books/2023/dec/29/francis-spufford-it-was-the-sorrow-of-my-life-at-age-10-that-there-wasnt-one-more-narnia-book-to-read
+- Pornokitsch (Shurin; not rechecked, reported via Wikipedia):
+  https://www.pornokitsch.com/2015/01/new-releases-the-goblin-emperor-by-katherine-addison.html
+- Publisher copy: https://www.netgalley.com/catalog/book/42563 ; https://pls.overdrive.com/media/5752768
+- Facts and awards:
+  - https://en.wikipedia.org/wiki/The_Goblin_Emperor
+  - https://en.wikipedia.org/wiki/Sarah_Monette
+  - https://locusmag.com/2015/06/2015-locus-awards-winners/
+  - https://locusmag.com/2015/04/2015-hugo-and-campbell-award-finalists/
+  - https://sfwa.org/2015/02/20/2014-nebula-awards-nominees-announced/
+  - https://locusmag.com/review/the-orb-of-cairado-by-katherine-addison-review-by-abigail-nussbaum/
+  - https://locusmag.com/2026/05/2026-locus-awards-winners/
 
 #### Where the two comps converge and diverge
 
@@ -1188,12 +1414,14 @@ This summary is drawn only from the profiles above:
 - **Praise diverges.** For *Babel* it centers on ideas, research, and a magic system tied to empire.
   For *The Goblin Emperor* it centers on the protagonist's decency, the believability of the world, and
   the book's warmth.
-- **Reservations diverge.** For *Babel* they are didacticism and characters subordinated to the
-  thesis. For *The Goblin Emperor* they are an episodic, anecdotal structure and the density of
-  invented names.
-- **Endpoints diverge.** *Babel*'s subtitle names "the Necessity of Violence," and its copy frames
-  revolt against an empire. Critics read *The Goblin Emperor* as hope and reform pursued through the
-  institution itself.
+- **Reservations diverge.**
+  - For *Babel* they are didacticism and characters subordinated to the thesis.
+  - For *The Goblin Emperor* they are an episodic, anecdotal structure and the density of invented
+    names. One dissenting reviewer also calls Maia "too-perfect" (via Wikipedia).
+- **Endpoints diverge.** *Babel*'s subtitle names "the Necessity of Violence," and its copy asks
+  whether institutions can "be changed from within, or does revolution always require violence".
+  Critics read *The Goblin Emperor* as hope and "slow, careful reform" pursued through the institution
+  itself.
 
 ---
 
