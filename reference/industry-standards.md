@@ -39,9 +39,10 @@ The novella occupies a narrow but increasingly respected niche in U.S. publishin
 - **Tordotcom Publishing** is the dominant dedicated novella publisher in speculative fiction. Its
   novella program (20,000–40,000 words) has produced multiple Hugo, Nebula, and Locus Award winners.
   Tordotcom is an imprint of Tor Books (Macmillan). Submissions are primarily agent-only, though
-  Tordotcom has occasionally opened brief submission windows for unagented authors. As of October
-  2026 the novella program's guidelines page reportedly says it is closed to unagented, unsolicited
-  novellas (see the agent research below).
+  Tordotcom has occasionally opened brief submission windows for unagented authors. On October 25,
+  2026, the novella program's Moksha submission portal showed a "Subscription Expired" page ("This
+  Moksha site has been archived due to disuse"), and Tor editors' wishlist pages said they were not
+  taking unagented or unsolicited manuscripts (see the agent research below).
 - **Subterranean Press** publishes limited-edition novellas and shorter works, often from established
   authors, in handsome physical editions with collector appeal.
 - **Neon Hemlock Press** is a small press publishing novellas in speculative fiction, often with
@@ -61,487 +62,710 @@ The novella occupies a narrow but increasingly respected niche in U.S. publishin
 
 This snapshot covers U.S. literary agents and where each stands on novellas: agents who say they take
 them, agents whose fantasy wishlists fit this subgenre but who say nothing about novellas, and agents
-who exclude them. Each entry gives the agent's reported fantasy interests and submission
-requirements. "This subgenre" means the category in this file's title, with the political and
-theological themes listed in §6. Researched October 25, 2026.
+who exclude them. Each entry gives the agent's stated fantasy interests and submission requirements.
+"This subgenre" means the category in this file's title, with the political and theological themes
+listed in §6.
 
-**Sourcing and verification.** Agency websites, wishlist pages, and query-tracking sites could not be
-opened from the environment in which this section was compiled. Every item therefore comes from
-web-search results that excerpt or summarize those pages:
+**Sourcing and verification.** Every agency page, wishlist page, query form, and deal report cited
+below was opened and read on October 25, 2026. An earlier version of this section rested on
+web-search summaries; this check corrected several of its claims, and the main corrections are noted
+in the entries.
 
-- Words in quotation marks are as reported in those results and may differ slightly from the original.
-- "(single report)" marks an item seen in only one search result. Unmarked items appeared in two or
-  more results, sometimes drawn from the same page.
-- "(phrase-checked)" means a search for the quoted words returned the named page; the surrounding
-  sentence was not seen. "(phrase check failed)" means that search did not return the page. Such
-  searches also miss wording that is present, so a failed check does not show the wording is wrong.
-- Statements without quotation marks are paraphrases.
-- Most agent pages carry no date. "Open" and "closed" are as reported, with a date where one was
-  given. No status was confirmed live for October 2026.
-- Duotrope, QueryTracker, QueryAcademy, LiteraryAgencies.com, and mswishlist.com are third-party
-  listings and can lag behind an agent's own page. mswishlist.com collects #MSWL posts and is separate
-  from the official manuscriptwishlist.com ("MSWL" below).
+- Words in quotation marks are copied from the cited page.
+- Status ("open", "closed") is what the agent's page or query form showed on October 25, 2026.
+  Several agents open only in monthly windows, so a closed form late in a month can be routine.
+- "(not rechecked)" marks the few items whose pages could not be loaded, because the site refused
+  automated access or was down. Those items rest on search results only.
+- "(inference)" marks a judgment drawn from the cited material, such as how closely a wishlist fits
+  this subgenre.
+- "MSWL" means manuscriptwishlist.com, where agents post their own wishlists. Duotrope, QueryTracker,
+  and mswishlist.com (which collects #MSWL posts) are third-party listings and are named where cited.
+  An agent's own page takes precedence over them.
 - Every agency below is a U.S. agency unless noted. Individual agents' home locations were not
   checked.
 
-Check each agent's own page before querying.
+Check each agent's page again before querying.
 
 **Main findings**
 
-- **Written openness to novellas is rare.** Searches covered about 40 agencies, 24 of them checked
-  agency by agency. Only one agency-wide length rule was found on an agency's own site, and it
-  excludes novellas (JABberwocky); aggregator listings report a similar exclusion for Dunham
-  Literary. The other agencies' submission pages give no rule either way, which means unknown, not
-  yes.
-- **Seven agents' profiles were reported to accept novellas or to carry a novella tag**, but most of
-  these reports are unconfirmed or conflicting (table below). The clearest statements are Claire
-  Lee's (The Kepner Agency; listed open as of about July 2026) and Jennifer Jackson's (Donald Maass;
-  closed since July 2025).
-- **No agent was found who is reported open, states in writing that novellas are welcome, and names
-  political, court, or secondary-world fantasy** (inference from the entries below). Jennifer Jackson
-  names both novellas and second-world fantasy but is closed.
-- **Several agents with close subgenre matches say nothing about novellas.** Whether they would take
-  one is untested; their live pages may settle it.
-- **Agents do sell SFF novellas, mostly to Tordotcom**, but the deals found were largely sequels,
-  follow-ons, or packages with novels (see the deal table). Duotrope's guide to searching for agents
-  reportedly warns that very few agents represent novellas and suggests searching fiction publishers
-  instead (single report; https://duotrope.com/guides/searching-agents/fiction).
-- **Tordotcom's novella program reportedly requires an agent for now.** Its guidelines page
-  (20,000–40,000 words) reportedly says it is closed to unagented, unsolicited novellas:
-  https://tor.moksha.io/publication/tornovellas/guidelines
+- **Written openness to novellas is rare.** Duotrope's guide to searching for agents: "If you are
+  looking to place a fiction collection or a work that's shorter than novel-length (such as a novella
+  or novelette), be aware that very few agents represent those. We recommend you try searching for
+  Fiction Publishers instead." (https://duotrope.com/guides/searching-agents/fiction)
+- **Five agents say in writing that they take novellas:** Claire Lee and Erin Gray (The Kepner
+  Agency), Allegra Martschenko (BookEnds), Eric Smith (Neighborhood Literary), and Jennifer Jackson
+  (Donald Maass; closed since July 2025). Two more carry a "novella" tag on their MSWL profiles: Kate
+  McKean (Howard Morhaim) and Tyler Monson (Sterling Lord Literistic).
+- **None of the open novella-takers names political, court, or secondary-world fantasy**
+  (inference). Eric Smith rules out "Adult epic fantasy". Jennifer Jackson, whose page names both
+  novellas and "second world fantasy", is closed.
+- **Three agencies have written rules that rule novellas out or limit submissions to book-length
+  work.** Dunham: "We do not represent individual short stories, chapbooks or novellas". JABberwocky:
+  "we handle only book-length material". Spectrum: "book-length manuscripts".
+- **Several agents whose wishlists closely match this subgenre say nothing about novellas.** They
+  include Mara Hollander (Azantian), Isabel Kaufman (Fox), Eric Showers (Morhaim), Laura Crockett
+  (Triada US), Michael Curry (Donald Maass; reopening in November 2026), Caitlin McDonald (Donald
+  Maass; closed), and Jennifer Udden (Laura Dail; closed). Whether they would take a novella is
+  untested.
+- **Agents do sell SFF novellas, most often to Tordotcom.** The deals found were mostly sequels,
+  follow-ons, or packages with novels; none was described as a debut sold from a query (see the deal
+  table).
+- **Tordotcom.** The novella program's Moksha submission portal
+  (https://tor.moksha.io/publication/tornovellas/guidelines) returned a "Subscription Expired" page:
+  "This Moksha site has been archived due to disuse." Tor's own submissions page could not be loaded
+  (not rechecked). Jennifer Gunnels, who is "open
+  to considering SF/F novellas for Tor.com Publishing", says "I am not currently taking unagented or
+  unsolicited manuscripts", as do the other Tor editors listed below.
 
 #### Agents who say they take novellas
 
-| Agent (agency) | What the profile says about novellas | Status as reported | Fantasy wishlist |
+| Agent (agency) | What the agent's page says about novellas | Status, October 25, 2026 | Fantasy interests |
 |---|---|---|---|
-| Claire Lee (The Kepner Agency) | Names novellas; Duotrope lengths include Novella | Open (Duotrope, about July 2026) | Grounded SF and speculative fiction; magical realism |
-| Jennifer Jackson (Donald Maass) | "novel or novella length" | Closed since July 14, 2025 | Second-world fantasy |
-| Kate McKean (Howard Morhaim) | "novella" tag on MSWL | Conflicting | Gothic, historical, romantic; an undated interview rules out epic fantasy |
-| Tyler Monson (Sterling Lord Literistic) | Listed on MSWL's novella tag page | Not determined | Literary and upmarket; fantasy not named |
-| Allegra Martschenko (BookEnds) | Conflicting: "extraordinarily picky" with novellas vs. "only looking for novels" | Conflicting | Broad speculative; marginalized writers only |
-| Eric Smith (Neighborhood Literary) | Reported in one search pass; not confirmed | Reportedly open (September 2026) | Adult epic fantasy; accessible SFF |
-| Larissa Melo Pienkowski (Azantian) | "short stories/novellas" on the page; may be a don't-want list | Not determined | Feminist power stories; non-Eurocentric settings |
+| Claire Lee (The Kepner Agency) | "character-driven literary and upmarket novels, novellas, and short story collections" | Fiction open (Duotrope listing updated July 25, 2026) | Grounded SF and speculative fiction; magical realism |
+| Erin Gray (The Kepner Agency) | Lists "novellas; and short story collections" | No closure notice on the agency site | "grounded science fiction and fantasy" |
+| Allegra Martschenko (BookEnds) | "open to both novels and novellas in speculative fiction, but are extraordinarily picky in the novella category"; query form offers "Adult: Novella" | Open | Broad speculative fiction; marginalized writers only |
+| Eric Smith (Neighborhood Literary) | "I'm also happy to consider genre-fiction novellas." | Open | Accessible SF and fantasy; not adult epic fantasy |
+| Jennifer Jackson (Donald Maass) | "Novel or novella length adult or YA fiction." | Closed since July 14, 2025 | Includes "second world fantasy" |
+| Kate McKean (Howard Morhaim) | "novella" among MSWL sub-genre tags | Queries open the 1st–15th of each month; form closed on October 25 | Fantasy and SF; no political satire |
+| Tyler Monson (Sterling Lord Literistic) | "novella" among MSWL sub-genre tags | No status posted | Literary and upmarket fiction; fantasy not named |
 
 **Claire Lee — The Kepner Agency**
 
-- *Novellas.* Duotrope's listing says Claire Lee is most interested in character-driven literary and
-  upmarket novels, novellas, and short story collections. Its Lengths field lists Novella, Fiction
-  Collection, and Novel.
-- *Fantasy wishlist.* Grounded SF and speculative fiction, magical realism, road-trip novels,
-  Westerns, and humorous or surreal work (single report). Duotrope lists fantasy as open to all or most
-  subgenres (single report).
-- *Status.* Fiction open in a Duotrope listing from about late July 2026 (single report). The agency's
-  Duotrope page shows "Last Updated: 25 Jul 2026" (single report).
-- *Requirements.* Email query. Simultaneous submissions allowed. Not every query gets an answer, so
-  silence means a pass. Agency practice as given on colleague Alyssa Santoleri's MSWL page (single
-  report): the first 10 pages pasted into the email body, no attachments, a little about yourself,
-  and how you heard about the agency. Claire Lee's email address was not visible in the results, and
-  no agency website was found.
-- *Fit (inference).* Close on "character-driven" and "upmarket." The named speculative tastes lean
-  grounded; political or court fantasy is not named.
-- Sources: https://duotrope.com/agent/claire-lee-40706 ;
-  https://duotrope.com/agent/the-kepner-agency-29350 ;
-  https://manuscriptwishlist.com/mswl-post/alyssa-santoleri/
+- *Novellas.* The agency's About page and Duotrope listing say Claire Lee is "most interested in
+  acquiring character-driven literary and upmarket novels, novellas, and short story collections."
+  Duotrope's Lengths field lists Novella, Fiction Collection, and Novel.
+- *Fantasy interests.* "partial to road-trip novels and Westerns, grounded sci-fi and speculative
+  fiction, magical realism, or anything with a particularly humorous, surreal, or even absurd note."
+  Duotrope lists fantasy as open to all or most subgenres.
+- *Status.* Duotrope shows fiction "OPEN" (listing last updated July 25, 2026). The agency site posts
+  no per-agent status.
+- *Requirements.* The agency's query guidelines:
+  - Email claire@kepneragency.com with the query letter and "the first ten pages pasted into the
+    body of your message".
+  - "Please do not send unsolicited attachments."
+  - The query "should ideally include some information about yourself, as well as how you heard
+    about The Kepner Agency."
+  - Several Kepner agents may be queried at once: "You are welcome to send your query to more than
+    one of our agents simultaneously, but please CC openly so we're aware."
+  - "Please note that not all queries will receive a response".
+  - Duotrope: "Simultaneous submissions are allowed."
+- *Fit (inference).* Matches "character-driven" and "upmarket". The named speculative tastes are
+  grounded, and secondary-world or political fantasy is not named.
+- Sources: https://www.kepneragency.com/about ; https://www.kepneragency.com/query-guidelines ;
+  https://duotrope.com/agent/claire-lee-40706
 
-**Jennifer Jackson — Donald Maass Literary Agency**
+**Erin Gray — The Kepner Agency (associate literary agent)**
 
-- *Novellas.* The MSWL page asks for "novel or novella length adult or YA fiction" (wording varies
-  slightly across results; "novella length" phrase-checked). It reportedly adds that the novella has
-  made a comeback but few markets publish novellas (single report). Duotrope lists only Novel as the
-  length (single report).
-- *Fantasy wishlist.* Second-world fantasy, secret histories, gothic, dark academia, and horror; also
-  grounded SF and space opera.
-- *Status.* Closed to new queries per a July 14, 2025 update on the MSWL page; queries sent before
-  then still get answers. No 2026 reopening was found. QueryTracker lists "Closed to Unsolicited
-  Queries" (single report).
-- *Requirements when open.* Donald Maass agency rules: email one named agent with the subject line
-  "QUERY: [title]" (single report). In the email body, send a query letter with genre and word count,
-  the number of pages that agent asks for, and a 1–2 page synopsis. After a pass from one Donald Maass
-  agent, you may query another (single report). Each agent's page gives response times (single
-  report).
-- *Fit (inference).* The only agent found who names both novellas and second-world fantasy.
-- Sources: https://manuscriptwishlist.com/mswl-post/jennifer-jackson/ ;
-  https://maassagency.com/jennifer-jackson/ ; https://maassagency.com/submissions/
-
-**Kate McKean — Howard Morhaim Literary Agency**
-
-- *Novellas.* The MSWL profile tags "novella" as a sub-genre, and Kate McKean is one of about ten names
-  on MSWL's novella tag page. A tag is not a written policy.
-- *Fantasy wishlist.* Fantasy tagged gothic, historical, and romantic; SF, especially set in space;
-  literary and women's fiction; no mysteries, thrillers, AI plots, poetry, or screenplays (single
-  report). An undated Writer's Digest interview says Kate McKean is "not accepting any epic fantasy,
-  science fiction, or children's picture books" (single report). A QueryAcademy profile reviewed
-  June 11, 2026 lists fantasy and SF (single report).
-- *Status.* Conflicting. One result says queries are open from the 1st to the 15th of each month
-  (single report); QueryTracker lists "Closed to Unsolicited Queries" (single report).
-- *Requirements.* Howard Morhaim agency rules (each a single report): a query letter plus the first
-  three chapters; one Morhaim agent per project, and one project at a time; "Our response time to
-  most queries is 8-12 weeks." Results disagree on QueryTracker vs. QueryManager; the contact page also
-  gives kmckean@morhaimliterary.com (single report).
-- *Fit (inference).* A novella signal with a weak or conflicting fantasy match. Kate McKean and Eric
-  Showers (below) are at the same agency, so a project can go to only one of them.
-- Sources: https://manuscriptwishlist.com/mswl-post/kate-mckean/ ;
-  https://manuscriptwishlist.com/sub-genre/novella/ ; https://www.morhaimliterary.com/submissions ;
-  https://queryacademy.com/agents/kate-mckean.html ; https://querytracker.net/agent/825
-
-**Tyler Monson — Sterling Lord Literistic**
-
-- *Novellas.* Listed on MSWL's novella tag page (single report). What the profile says about novellas
-  was not visible.
-- *Fiction wishlist.* Literary and upmarket fiction "that balances emotional depth with narrative
-  momentum," and fiction and nonfiction that "imagines otherwise and other ways of being in the world"
-  (single report); also branching into crime and thriller (single report). No result names fantasy or
-  SF.
-- *Status.* Not determined. Joined Sterling Lord in 2023 (single report). Duotrope marks its listing
-  as possibly outdated.
-- *Requirements.* Sterling Lord asks for a query letter, a summary, and the first three chapters
-  (single report). The submission channel was not found.
-- *Fit (inference).* Upmarket match; whether fantasy is taken is unconfirmed.
-- Sources: https://manuscriptwishlist.com/mswl-post/tyler-monson/ ;
-  https://duotrope.com/agent/tyler-monson-36491 ; https://querytracker.net/agent/17013
+- *Novellas.* "I'm interested in your adult literary, upmarket, historical, and survival fiction;
+  family sagas; Westerns; mysteries, crime novels, and thrillers; narrative nonfiction; novellas; and
+  short story collections."
+- *Fantasy interests.* "I've been known to enjoy grounded science fiction and fantasy, as well as
+  folk/gothic horror, too."
+- *Requirements.* Kepner guidelines as under Claire Lee; email erin@kepneragency.com. The two can be
+  queried together if both addresses are visible.
+- *Fit (inference).* Takes novellas, but the stated fantasy interest is limited to "grounded".
+- Source: https://www.kepneragency.com/about
 
 **Allegra Martschenko (they/them) — BookEnds Literary Agency**
 
-- *Novellas: conflicting.* One search pass found their BookEnds page saying they take novels and
-  novellas in speculative fiction but are "extraordinarily picky" with novellas (phrase-checked: the
-  quoted search returned only that page). A later pass summarized the same page as "only looking for
-  novels at this time, not novellas" (single report; phrase check failed). The page is undated, so
-  which wording is current could not be told. An undated third-party listing (Authorlink) says
-  BookEnds does not represent "short fiction" (single report).
-- *Fantasy wishlist.* "Beautifully crafted" adult and crossover speculative fiction. Speculative is
-  defined broadly, as any home genre with a speculative or magical element (single report). Also
-  historical fantasy, queer fiction, found family, and gods, myths, or immortal beings who make bad
-  decisions (single report).
-- *Eligibility.* Marginalized writers only. Not open to previously published fiction (single report).
-- *Status.* Conflicting. The BookEnds submissions page tags them "Open" (single report). QueryTracker
-  says they are not accepting queries, with a reopening date of "August 17" and no year. Duotrope
-  lists them as temporarily closed (single report).
-- *Requirements.* QueryManager form linked from their BookEnds page; a query letter plus the first 5
-  pages (per the QueryTracker form; single report). Query one BookEnds agent at a time.
-- *Fit (inference).* "Beautifully crafted" suits upmarket positioning, and gods and myths touch the
-  religious themes in §6. Political fantasy is not named. Check the novella wording on the live page.
+- *Novellas.* "They are open to both novels and novellas in speculative fiction, but are
+  extraordinarily picky in the novella category." The QueryManager form's genre list includes
+  "Adult: Novella." (Corrected: the earlier version reported that the page might say novels only. The
+  live page does not.)
+- *Fantasy interests.*
+  - Wants "beautifully crafted speculative fiction in the crossover and adult space".
+  - Speculative is defined broadly: "it doesn't matter the home genre so long as there is an added
+    speculative or magical element".
+  - Especially excited by historical fantasy, queer fiction, found family, and "anything to do with
+    gods, myths, or immortal beings who make bad decisions".
+- *Eligibility.* The query form says "I am only accepting queries from marginalized writers" and
+  requires a confirmation. It also asks whether the book has been published before and whether AI was
+  used.
+- *Status.* "Open to Queries" (BookEnds page), and the form is live. "They respond within 3 weeks to
+  all queries (and sometimes within a day)."
+- *Requirements.*
+  - QueryManager only: the query letter, word count, genre, and "the first 5 Pages".
+  - "You may submit to one BookEnds agent at a time."
+  - A fuller wishlist is at allegramartschenko.com (not rechecked; the site refused automated
+    access).
+- *Fit (inference).* The wish for "beautifully crafted" speculative fiction suits upmarket
+  positioning, and gods and myths touch the religious themes in §6. Political fantasy is not named.
 - Sources: https://www.bookendsliterary.com/allegra-martschenko ;
-  https://www.bookendsliterary.com/submissions ; https://querytracker.net/query/AMartschenko ;
-  https://duotrope.com/agent/allegra-martschenko-35150
+  https://querytracker.net/query/AMartschenko ;
+  https://manuscriptwishlist.com/mswl-post/allegra-martschenko/ ;
+  https://www.bookendsliterary.com/submissions
 
 **Eric Smith — Neighborhood Literary (founder)**
 
-- *Novellas: unconfirmed.* One search pass found three summaries, all from Eric Smith's own wishlist
-  page, saying genre-fiction novellas will be considered. The page reportedly reads "Last Updated: September
-  2026," though one result's metadata dated it about 844 days old. Two phrase checks failed, and a
-  later pass found no mention of novellas. Duotrope lists only Novel as the length (single report).
-- *Fantasy wishlist.* Adult epic fantasy or military SF, though not very long books; accessible SF and
-  fantasy; genre-blending upmarket and literary fiction.
-- *Status.* Reportedly open again per the September 2026 page (single report). The other dated
-  reopening posts found are from 2020 and 2022; the 2022 post was at P.S. Literary.
-- *Requirements.* Email eric@neighborhoodliterary.com with the query letter only and no attachments.
-  Every query reportedly gets an answer within 6–8 weeks (single report). Synopsis, sample-page, and
-  simultaneous-submission policies were not found.
-- *Fit (inference).* Accessible, shorter-than-doorstopper SFF is the stated preference. The fantasy
-  wish is "epic," which political or court fantasy may or may not satisfy.
+- *Novellas.* "I'm also happy to consider genre-fiction novellas. Have you written the next Automatic
+  Noodle? Lemme see it." The wishlist is marked "Last Updated: September 2026."
+- *Fantasy interests.*
+  - Wants accessible SF and fantasy, defined as books where "readers who don't traditionally pick up
+    much sci-fi or fantasy, can pick up one of these novels, and enjoy it."
+  - Not looking for: "Adult epic fantasy or military sci-fi. I'm not right for doorstoppers."
+  - Also: "Genre-blending upmarket and literary fiction! This is a sweet spot for me in my agent
+    life".
+  - (Corrected: the earlier version listed adult epic fantasy as a wish. The page lists it as
+    unwanted.)
+- *Status.* "Oh hey, I'm open to queries again!" (September 2026 wishlist). Not open to new kid-lit.
+- *Requirements.* Email eric@neighborhoodliterary.com. "Just a query letter please, no attachments.
+  Eric responds to all queries, and you should expect a reply in six to eight weeks." The agency was
+  founded in 2025 and is "based out of Philadelphia".
+- *Fit (inference).* Open to novellas and to upmarket work, but a secondary-world political fantasy
+  would need to read as accessible rather than epic.
 - Sources: https://www.ericsmithrocks.com/mswl ; https://www.neighborhoodliterary.com/submissions ;
-  https://www.neighborhoodliterary.com/about ; https://duotrope.com/agent/eric-smith-25304
+  https://www.neighborhoodliterary.com/about
 
-**Larissa Melo Pienkowski — Azantian Literary Agency**
+**Jennifer Jackson — Donald Maass Literary Agency**
 
-- *Novellas: context unclear.* The agency page contains "short stories/novellas" alongside chapter
-  books and novels-in-verse (phrase-checked). Two summaries treat it as an interest, but the
-  surrounding text was not seen, and lists like this often sit under "not looking for."
-- *Fantasy wishlist.* Adult genre-blending work (historical speculative, horror with romance),
-  feminist stories of revenge and power, and dark academia in non-Eurocentric settings (single
-  report). Joined Azantian in 2025 after five years at Jill Grinberg (single report).
-- *Status.* Not determined.
-- *Requirements.* Azantian agency rules: QueryManager; 10–20 polished pages; one Azantian agent at a
-  time, and no more than three in total. An older page also asks for a 1–2 page synopsis (single
-  report).
-- *Fit (inference).* Stories of power in non-Eurocentric settings touch the colonialism theme in §6.
-- Sources: https://www.azantianlitagency.com/about-us/larissa-melo-pienkowski ;
-  https://www.azantianlitagency.com/submissions
+- *Novellas.* "Novel or novella length adult or YA fiction. I'm thrilled that the novella has made a
+  comeback, but with available markets still few in number also having plans for novels would be
+  keen."
+- *Fantasy interests.*
+  - "grounded science fiction, futurism, space opera, second world fantasy, secret histories,
+    gothics, dark academia, and horror."
+  - Comps named: GIDEON THE NINTH and ASUNDER.
+  - "Other than that, don't self reject."
+- *Status.* "UPDATE 7/14/2025: Jennifer Jackson is currently closed to new queries." This notice was
+  still posted on October 25, 2026.
+- *Requirements when open.*
+  - Email query.jjackson@maassagency.com with "a query letter", "the first ten (10) pages of the
+    manuscript", and "a short 1-2 page synopsis", pasted into the email ("no attachments").
+  - Agency rules: begin the subject line with "QUERY: title of the manuscript", and the query letter
+    must include "both genre and word count".
+  - "Do not query more than one agent at our agency simultaneously."
+  - "If your project is declined you may then query/submit to a different agent at our agency."
+  - "We only accept queries via email or querytracker."
+  - "We make best efforts to respond to every query that is properly addressed and follows our
+    submission guidelines."
+- *Fit (inference).* The only agent found who names both novellas and second-world fantasy, but
+  closed. The "plans for novels" line suggests that a novella with no novel behind it is a harder
+  sell.
+- Sources: https://maassagency.com/jennifer-jackson/ ;
+  https://manuscriptwishlist.com/mswl-post/jennifer-jackson/ ; https://maassagency.com/submissions/
 
-**Weaker leads**
+**Kate McKean — Howard Morhaim Literary Agency**
 
-- Saint Gibson (Speilburg Literary Agency): the graphic-novel section of the MSWL page reportedly asks
-  for much the same as Saint Gibson's "novels and novellas" (single report; undated; not stated for
-  prose): https://manuscriptwishlist.com/mswl-post/saint-gibson/. Speilburg's rules for Alice
-  Speilburg (single report): QueryManager; query plus the first three chapters; open the 10th to the
-  16th of each month; after querying Alice Speilburg, wait for a reply or six months before querying
-  another agent there.
-- An undated #MSWL post from an unidentified agent asks for an SFF novella or series (single report):
-  https://mswishlist.com/mswl/page1313
+- *Novellas.* "novella" appears among the "Favorite sub-genres" tags on the MSWL profile. There is no
+  written statement about novellas.
+- *Fantasy interests.*
+  - The agency page lists fiction for adults, young adults, and middle grade in several areas,
+    including "fantasy, and science fiction, especially set in space."
+  - The MSWL tags include "fantasy of manners", "Literary Fantasy", and "Upmarket Fiction".
+  - MSWL: "If you consider your story largely a satire, especially a political one, please consider
+    another agent."
+  - MSWL: "In all genres, I'm looking for authors from under-represented groups."
+  - Not sought: mysteries, thrillers, plots centered on AI, poetry, and screenplays.
+  - (Corrected: the earlier version cited an interview excluding epic fantasy. That Writer's Digest
+    interview is dated April 28, 2009, and is superseded by the current pages.)
+- *Status.* "Kate McKean is open to queries from the first to the fifteenth of every month." On
+  October 25, 2026 the query form said "Sorry, Kate McKean is not accepting queries at this time",
+  which fits that window.
+- *Requirements.*
+  - Query through the form at https://querytracker.net/query/katemckean. The agency page says
+    queries are accepted only via QueryTracker; QueryManager forms are hosted there.
+  - Morhaim: "You may only query one agent at our agency per project, and please only query one
+    project at a time. Our response time to most queries is 8-12 weeks."
+- *Fit (inference).* The novella tag sits beside fantasy-of-manners and upmarket tags. The
+  political-satire exclusion matters if a pitch reads as satire. Kate McKean and Eric Showers (below)
+  are at the same agency, so a project can go to only one of them.
+- Sources: https://manuscriptwishlist.com/mswl-post/kate-mckean/ ;
+  https://www.morhaimliterary.com/agents ; https://www.morhaimliterary.com/submissions
+
+**Tyler Monson — Sterling Lord Literistic**
+
+- *Novellas.* "novella" appears among the MSWL sub-genre tags. There is no written statement about
+  novellas.
+- *Fiction interests.*
+  - "fiction that ruptures routine and transforms the textures of everyday life into something
+    electric".
+  - "especially interested in literary and upmarket fiction that balances emotional depth with
+    narrative momentum."
+  - The listed fiction categories include "Speculative", "Speculative Literary", and "Upmarket
+    Speculative". Fantasy is not listed.
+  - (Corrected: an "imagines otherwise" quotation in the earlier version is not on the page.)
+- *Status.* No status is posted. QueryTracker lists an online form.
+- *Requirements.* "SLL requires a query letter, summary, and first three chapters of the
+  manuscript." The listed contact is tyler@sll.com.
+- *Fit (inference).* Upmarket and literary-speculative. Whether secondary-world fantasy is welcome is
+  not stated.
+- Sources: https://manuscriptwishlist.com/mswl-post/tyler-monson/ ;
+  https://querytracker.net/agent/17013
+
+**Novella mentions that are not current leads**
+
+- **Saint Gibson (Speilburg Literary Agency).** The MSWL page says "In graphic novels, I'm seeking
+  pretty much exactly what I'm looking for in novels and novellas!" It also says "In high fantasy, I
+  love stories that center relationships or politics, with intricate religious, magical, and sexual
+  worldbuilding". But Duotrope marks the listing "Permanently Closed: This agent is no longer
+  accepting queries (February 2024)." The MSWL query link now returns "Sorry, no account found at
+  this address."
+- **Ali Herring (Spencerhill Associates).** A March 28, 2023 #MSWL post reads "I'd love to rep a SFF
+  novella/series" (https://mswishlist.com/mswl/page1313). The agency page now says "Ali is currently
+  open to a limited number of categories". Those categories are romance, YA romance, inspirational
+  romance, and Chinese- and Korean-drama-style historical and fantasy romance.
+- **Larissa Melo Pienkowski.** The earlier version cited "short stories/novellas" on an Azantian
+  profile page. That page and the MSWL page now return "not found", and the name is not on Azantian's
+  current roster or submissions page. Duotrope still lists the agent at Azantian, with fiction "TEMP
+  CLOSED" and Novel as the only length.
 
 #### Agents whose wishlists fit this subgenre but who say nothing about novellas
 
 No novella statement was found for these agents, which means unknown, not yes. They are ordered by
-how closely the wishlist wording matches the political, court, and upmarket elements of this
-subgenre (inference).
+how closely the wishlist wording matches the political, court, religious, and upmarket elements of
+this subgenre (inference).
 
-- **Isabel Kaufman — Fox Literary.**
-  - Wishlist: "fantasy and space opera with lush, vivid worlds and complex political intrigues with
-    deeply personal stakes" (phrase check failed). Undated #MSWL posts (via mswishlist.com) ask for
-    "deadly-decadent-court intrigue sff" and pointed critiques of imperialism, "not in space" (single
-    report). Also voice-driven literary fiction.
-  - Status: "Accepting Submissions" on LiteraryAgencies.com (undated; single report). QueryTracker
-    comments from May–June 2026 describe replies (anecdotal; single report).
-  - Requirements: email submissions@foxliterary.com with the query letter and the first 5 pages in the
-    email body and the agent's name in the salutation. Attachments are not opened. Diana Fox and
-    Isabel Kaufman may be queried at the same time, in separate emails (single report).
-  - Sources: https://manuscriptwishlist.com/mswl-post/isabel-kaufman/ ;
-    https://mswishlist.com/agent/isabeljka ; https://www.publishersmarketplace.com/members/fox ;
-    https://querytracker.net/agent/11919
-- **Eric Showers — Howard Morhaim Literary Agency.**
-  - Wishlist: adult speculative fiction, including "narratives that explore hierarchies of power, novel
-    world-building in secondary world fantasy" and "cozier speculative fiction" (single report each).
-  - Status: open, undated.
-  - Requirements: email eric@morhaimliterary.com with the query and the first three chapters (single
-    report); Morhaim rules as under Kate McKean.
-  - Source: https://www.morhaimliterary.com/agents
 - **Mara Hollander (associate agent) — Azantian Literary Agency.**
-  - Wishlist: "fantasy (including political, epic, and romantasy)" for adult and YA. Does not want
-    non-speculative historical or literary fiction, competition or trial plots, or android or AI
-    protagonists (single report).
-  - Status: queries only from the 1st to the 7th of each month, through the agent's own form
-    (undated; single report).
-  - Requirements: Azantian rules as under Larissa Melo Pienkowski.
+  - Wishlist: "I'm most excited about fantasy (including political, epic, and romantasy), romance,
+    mystery, horror, and upmarket or book club/commercial fiction, especially if it has a speculative
+    edge."
+  - The "please send me" list includes:
+    - "Political fantasy novels that are accessibly written."
+    - "Rebellions and revolutions. Give me anti-monarchy stories, give me anti-capitalism and
+      anti-imperialism stories, give me stories about who has power and what that means."
+    - "Explorations of the line between religion, magic, and science."
+  - The "please do not send me" list includes:
+    - "Fantasy world competitions— competitions, trials, and games as plot devices in fantasy
+      settings".
+    - "Main characters who are droids/androids, and stories about AI".
+    - "Prescriptive books about Christianity".
+  - Elsewhere: "At this time, I am not open to non-speculative historical or literary fiction."
+  - Status: "I open the first seven days of most months!" The form was closed on October 25, 2026.
+  - Requirements (Azantian):
+    - "All ALA agents use Query Manager."
+    - "Novels: Submit 10-20 polished pages."
+    - "Make sure the work you are submitting is complete."
+    - "We ask that you submit to one agent at a time. However, if one agent passes, you are welcome
+      to submit up to three agents at ALA."
+    - "We only accept human-created work and do not consider AI-generated work."
+    - Responses: "We aim to respond within an 8-12 week window", and "we do review and respond to ALL
+      queries".
   - Sources: https://www.azantianlitagency.com/about-us/mara-hollander ;
-    https://manuscriptwishlist.com/mswl-post/mara-hollander/
+    https://www.azantianlitagency.com/submissions
+- **Isabel Kaufman — Fox Literary.**
+  - Wishlist: "Fantasy and space opera with lush, vivid worlds and complex political intrigues with
+    deeply personal stakes. Always enjoy: deadly decadent courts, intricate religious orders,
+    knife-to-throat romance." Also: "I like prose with a confident literary bent even in genre".
+  - An #MSWL post (via mswishlist.com) asks for "your horrible political marriages in space, your
+    most poisonous space court intrigues and most pointed critiques of space imperialism. (And to be
+    fair, you can also send me all of the above: not in space.)"
+  - Agency exclusions: "Fox Literary does not represent screenplays, category Westerns,
+    Christian/inspirational, or children's picture books."
+  - Status: no closure notice was found. QueryTracker user comments log queries sent through October
+    20, 2026 (anecdotal). foxliterary.com was down when checked.
+  - Requirements:
+    - "Email a query letter and the first 5 pages of your manuscript IN THE BODY OF THE EMAIL to
+      submissions@foxliterary.com."
+    - "Please include the name of the agent to whom the submission is directed in the salutation of
+      your email." The MSWL page adds the subject-line form "ATTN: ISABEL".
+    - "Please do not send unsolicited email attachments".
+    - Diana Fox and Isabel Kaufman may both be queried, but "you must send separate queries to
+      each".
+    - "We make every effort to reply to all email queries".
+  - Sources: https://manuscriptwishlist.com/mswl-post/isabel-kaufman/ ;
+    https://mswishlist.com/agent/isabeljka ; https://www.publishersmarketplace.com/members/fox/
+- **Eric Showers — Howard Morhaim Literary Agency.**
+  - Wishlist: "most drawn, in speculative fiction, to narratives that explore hierarchies of power,
+    novel world-building in secondary world fantasy, and protagonists with unique voices". Comps
+    named: THE TRAITOR BARU CORMORANT, THE UNSPOKEN NAME, and GIDEON THE NINTH. Also wants "stories on
+    the cozier side of speculative fiction".
+  - Status: "Eric Showers is open to queries."
+  - Requirements: "please email your query letter and the first three chapters of your novel" to
+    eric@morhaimliterary.com. Morhaim rules as under Kate McKean.
+  - Sources: https://www.morhaimliterary.com/agents ; https://www.morhaimliterary.com/submissions
+- **Laura Crockett — Triada US.**
+  - Wishlist: "upmarket, character-driven adult and YA fiction with emotional depth, compelling
+    stakes, and diversity".
+    - Seeks fantasy that is epic, historical, folklore or fairytale, horror, gothic, or dark
+      academia.
+    - Lists *Babel* among favorite adult books.
+    - The MSWL page names R.F. Kuang among authors who "fit the bill". It welcomes myth-inspired
+      fantasy "(though please, not Greek or Roman)".
+  - Will not take: nonfiction, memoir, thriller/suspense, paranormal, urban fantasy, new adult, and
+    other categories listed on the MSWL page.
+  - Novella record: sold Hadeer Elsbai's horror novella *You Just Have to Ask Me* (Triada US news,
+    May 2026; deal table).
+  - Status: the query form was open.
+  - Requirements:
+    - The form asks for a bio (required), word count, query letter, comparable books (required), and
+      the first 10 pages.
+    - Queries emailed on or after January 1, 2026 are deleted unread.
+  - Sources: https://www.triadaus.com/laura ; https://manuscriptwishlist.com/mswl-post/laura-crockett/ ;
+    https://querytracker.net/query/LauraCrockett
+- **Michael Curry — Donald Maass Literary Agency.**
+  - Wishlist: "Science fiction and fantasy with superbly crafted prose, especially leaning toward the
+    literary and the Weird", and "novels with a compelling concept and a distinct voice." Does "NOT
+    accept submissions written or 'assisted' by any form of LLM/AI."
+  - Novella record: sold Thomas Ha's novella *Sons of Nod* to Tordotcom (Locus, October 2026).
+  - Status: "I am currently CLOSED to queries (except by referral), but will be opening again for the
+    month of November 2026! More details to come."
+  - Requirements: Donald Maass agency rules as under Jennifer Jackson. Agent-specific details for
+    November had not been posted.
+  - Source: https://maassagency.com/michael-curry/
+- **Caitlin McDonald — Donald Maass Literary Agency.**
+  - Wishlist: "All SF/F fiction for adult and YA, especially secondary world fantasy or alternate
+    history". MSWL: "I'm a sucker for court intrigue, and would love to see projects like the
+    Daevabad trilogy, or The Lies of Locke Lamora with more women." Do not send: "poetry, screenplays
+    or short stories" and "Christian fiction", among others.
+  - Status: the query form reads "I am currently closed to all queries until further notice while I
+    catch up my backlog".
+  - Requirements when open: the QueryMe.Online/cmcdonald form, "with your query letter, synopsis, and
+    the first twenty pages of your novel."
+  - Sources: https://maassagency.com/caitlin-mcdonald/ ;
+    https://manuscriptwishlist.com/mswl-post/caitlin-mcdonald/
+- **Jennifer Udden — Laura Dail Literary Agency.**
+  - Fantasy wishlist:
+    - "standout, fully-realized worldbuilding, like I could sail off in any direction and find a
+      story".
+    - "the intense, ritualized domesticity and politicking of THE GOBLIN EMPEROR".
+    - "character-driven with voices I can't stop thinking about".
+  - "I am only seeking adult fiction at this time."
+  - (Corrected: the earlier version quoted "court intrigue and political or bureaucratic infighting",
+    which is not on the current page.)
+  - Status: "I am currently closed to queries. I will announce when I reopen on my Instagram profile,
+    @suddenlyjen."
+  - Requirements when open:
+    - "LDLA only accepts submissions through Query Manager."
+    - "Submissions must include: query letter, synopsis, and first ten pages of novel, pasted into
+      the form."
+    - Laura Dail: "Please only submit to one agent at a time* with one project at a time".
+    - "We do our best to answer every query letter within 2 months".
+  - Sources: https://manuscriptwishlist.com/mswl-post/jennifer-udden/ ;
+    https://www.ldlainc.com/submissions
+- **Hannah Bowman — Liza Dawson Associates.**
+  - "specializes in science fiction and fantasy, with clients including #1 New York Times bestseller
+    Pierce Brown and award-winning authors R.F. Kuang, Kameron Hurley, and Brian Staveley". R.F. Kuang
+    wrote *Babel*.
+  - Also "interested in select nonfiction in the areas of religious studies and criminal justice
+    policy."
+  - Status: "Hannah Bowman is closed to ALL queries as of January 2025."
+  - Requirements when open: "only a query letter in the body of the email to
+    queryhannah@lizadawsonassociates.com."
+  - Source: https://www.lizadawsonassociates.com/hannah-bowman
+
+**Weaker fits on the live pages** (the earlier version ranked the first two higher)
+
 - **Lauren Bajek — Liza Dawson Associates.**
-  - Wishlist: adult SFF and horror, upmarket fiction, literary prose, and an "ambitious sense of
-    imagination" (single report); no YA or children's. Formerly the SFF buyer at Elliott Bay Book
-    Company (single report).
-  - Status: open per the agency page, undated (single report).
-  - Requirements: the query plus the first three chapters (or 25 pages) in the body of an email to
-    querylauren@lizadawson.com. Query one Liza Dawson agent at a time.
+  - Interests: "adult science fiction, fantasy, and horror, as well as upmarket fiction", plus
+    "literary prose, queer and trans elements, puzzle and discovery plots, and an ambitious sense of
+    imagination".
+  - But the MSWL page says "I am a tough audience for secondary worlds, epic fantasy, or stories that
+    take place on spaceships." It also says "I do not represent AI-generated or AI-assisted
+    projects."
+  - Requirements: "a query and first three chapters or 25 pages pasted into an email to
+    querylauren@lizadawson.com". Liza Dawson: "Please query only one agent at a time, but you may
+    query another if one agent passes."
+  - Response: "my target response time is six weeks."
   - Sources: https://www.lizadawsonassociates.com/lauren-bajek ;
     https://manuscriptwishlist.com/mswl-post/lauren-bajek/
 - **Michaela Whatnall — Dystel, Goderich & Bourret.**
-  - Wishlist: building a list of "adult upmarket fiction, contemporary middle grade, young adult of all
-    genres, grounded adult fantasy, and certain romantasy" (only "grounded adult fantasy" seen in more
-    than one result); hooky fantasy with big magic and strong character dynamics (single report).
-  - Status: not determined.
-  - Requirements (agency rules): one agent and one project at a time; complete manuscripts only; about
-    25 pages in the email body, with no attachments or links (single report); with no reply in 8
-    weeks, resend and note the original date (single report). Some agents there use QueryTracker forms
-    that ask for 20 or 30 pages (single report).
-  - Sources: https://www.dystel.com/michaela-whatnall ;
-    https://www.manuscriptwishlist.com/mswl-post/michaela-whatnall ;
-    https://dystel.com/submission-guidelines
+  - "I am seeking grounded fantasy, meaning stories that are set in our world, or a world that
+    doesn't feel too far from our own. I am not seeking epic or high fantasy."
+  - Wants "adult upmarket fiction that combines a propulsive plot with pervasive themes".
+  - The query form was open and asks for the first 20 pages. Queries go through QueryManager only.
+  - Sources: https://manuscriptwishlist.com/mswl-post/michaela-whatnall/ ;
+    https://querytracker.net/query/michaelawhatnall
 - **Kat Kerr — Donald Maass Literary Agency.**
-  - Wishlist: "strong, character-driven works with rich prose that addresses big world issues with
-    depth and nuance" (phrase check failed); literary speculative fiction, grounded SF, magical realism.
-  - Status: "re-opening to queries Fall 2026" (phrase check failed). When that was posted, and whether
-    queries have reopened, were not determined. A Fall 2026 reopening was also reported for Jolene
-    Haley at the same agency (single report), so search results may have mixed up the two agents.
-  - Requirements: QueryManager (single report); Donald Maass rules as under Jennifer Jackson.
+  - "drawn to strong, character-driven works with rich prose that addresses big world issues with
+    depth and nuance".
+  - The fantasy interest named is "Literary and Uplit work that edge along the fantastic (think
+    magical realism pieces such as Like Water for Chocolate by Laura Esquivel)".
+  - Status: "Re-Opening to Queries Fall 2026!" was still posted on October 25, 2026.
   - Source: https://maassagency.com/kat-kerr/
-- **Caitlin McDonald — Donald Maass Literary Agency.**
-  - Wishlist: adult and YA SF, fantasy, and horror; a "sucker for court intrigue," citing the
-    Daevabad trilogy (single report; phrase check failed); heists, found family, strong worldbuilding.
-  - Status: not determined.
-  - Requirements: form at QueryMe.Online/cmcdonald (single report); Donald Maass rules.
-  - Sources: https://maassagency.com/caitlin-mcdonald/ ;
-    https://manuscriptwishlist.com/mswl-post/caitlin-mcdonald/
-- **Courtney Miller-Callihan — Handspun Literary.**
-  - Wishlist: imaginative, accessible fantasy with literary crossover appeal, especially from
-    historically underrepresented authors; meticulous worldbuilding and complicated characters. The
-    examples reportedly include *Piranesi*, one of the §6 comps, and *The Fifth Season* (single
-    report; phrase check failed).
-  - Novella record: sold Olivia Waite's novellas to Tor (see the deal table).
-  - Status: the agency page is reportedly marked open (undated; single report).
-  - Requirements: not found.
+- **Sarah N. Fisk — The Tobias Literary Agency.**
+  - Interests: adult science fiction, fantasy, and speculative fiction, including "atmospheric
+    fantasies".
+  - But the page says Sarah N. Fisk "does not represent hardcore horror, stories that center around
+    who gets to rule an empire".
+  - "Sarah N. Fisk is currently accepting submissions."
+  - Tobias: QueryManager only; "For fiction, no, we require a completed manuscript"; one agent at a
+    time.
+  - Sources: https://www.thetobiasagency.com/sarah-n-fisk ;
+    https://www.thetobiasagency.com/submissions
+
+**Also open, with broader fantasy wishlists** (no novella statements)
+
+- **Jordan Hill — New Leaf Literary & Media.**
+  - Represents "genre and upmarket fiction for children and adults, often in the SFF and horror
+    spaces."
+  - The form was open: optional bio and comparable books, plus the query letter and the first 10
+    pages.
+  - New Leaf rules:
+    - "Only query us for fiction when your manuscript is COMPLETE."
+    - "Do not query more than one agent at New Leaf Literary & Media."
+    - "We only respond if we are interested in seeing your work."
+  - Sources: https://www.newleafliterary.com/team/jordan-hill/ ;
+    https://www.newleafliterary.com/submissions/
+- **Handspun Literary Agency (San Diego).**
+  - All five agents were marked "[OPEN to Queries]". "a no from one of us is a no from the entire
+    agency."
+  - Loni Crittenden seeks "imaginative, accessible fantasies with literary crossover appeal (ex:
+    Piranesi, The Song of Achilles, This Is How You Lose the Time War, The Fifth Season) from
+    historically underrepresented voices".
+  - Cheyenne Faircloth lists "epic fantasy". Founder Courtney Miller-Callihan represents speculative
+    fiction among other adult genres.
+  - Four of the five Handspun forms ask for a synopsis. Courtney Miller-Callihan's and Loni
+    Crittenden's forms ask for an upload of "the first 50 Pages".
+  - (Corrected: the earlier version attributed Loni Crittenden's wishlist to Courtney Miller-Callihan.)
   - Source: https://handspunlit.com/about-submit/
-
-**Closed, with close wishlist matches**
-
-- **Jennifer Udden — Laura Dail Literary Agency.** Loves "court intrigue and political or bureaucratic
-  infighting" with lush worldbuilding (single report; phrase check failed; the MSWL page was not pinned
-  down). QueryTracker shows closed to unsolicited queries (undated; single report). Laura Dail rules:
-  one agent and one project at a time; results conflict on QueryManager vs. QueryTracker.
-  Source: http://www.ldlainc.com/submissions
-- **Hannah Bowman — Liza Dawson Associates.** Adult epic, sword-and-sorcery, and historical fantasy,
-  plus progressive Christian and religious-studies nonfiction. Closed to all queries as of January
-  2025 (single report). *Fit (inference):* fantasy plus religion overlaps the religious themes in §6.
-  Source: https://www.lizadawsonassociates.com/hannah-bowman
-- **Jennifer Jackson** (above).
-
-**Also reported, with broader fantasy wishlists**
-
-- **Jordan Hill and Sarah Gerton (associate agent) — New Leaf Literary & Media.** Adult upmarket,
-  horror, and SFF. New Leaf rules (single report): complete fiction only; QueryManager, with an email
-  fallback (query@newleafliterary.com; up to 5 double-spaced pages in the body; no attachments); one
-  New Leaf agent per project; response only if interested.
-  Sources: https://www.newleafliterary.com/team/jordan-hill/ ;
-  https://www.newleafliterary.com/submissions/
-- **Shelly Romero — Azantian Literary Agency.** Epic or high, second-world, and cozy fantasy for MG,
-  YA, and adult (single report). Status not determined.
-- **Lee O'Brien — Looking Glass Literary & Media.** Fantasy ranging from sweeping secondary-world epics
-  to grounded, character-driven stories (single report). Has sold novellas to Tordotcom (see the deal
-  table). Duotrope shows "Fiction Temp Closed," but the agency and MSWL pages show no closure.
-  Sources: https://manuscriptwishlist.com/mswl-post/lee-obrien/ ;
-  https://www.lookingglasslit.com/lee-obrien
-- **Laura Crockett — Triada US.** Adult and YA fantasy: epic, historical, folklore and fairy tale, lush
-  worldbuilding, and myth other than Greek or Roman. QueryManager. Status not determined.
-  Source: https://www.triadaus.com/laura
-
-**SFF-friendly agencies with no novella policy found** (absence is not a yes; single reports)
-
-- Nelson Literary Agency: QueryManager; bio, title, genre, word count, query, and the first 10 pages;
-  query one agent only. https://nelsonagency.com/submission-guidelines/
-- Spectrum Literary Agency: postal query with SASE and the first 10 pages; 2–3 month response.
-  https://www.spectrumliteraryagency.com/instructionsforsubmissions
-- Ethan Ellenberg Literary Agency (third-party listings): email agent@ethanellenberg.com with the
-  query, a 1–2 page synopsis, and the first 50 pages in the body; no attachments.
-- Tobias Literary Agency: Sarah N. Fisk, adult SFF; open the first five days of each month in 2026.
-- Spencerhill Associates: Ali Herring reportedly reopened to fiction queries around mid-October 2026,
-  per a Duotrope post.
-- Janklow & Nesbit: Jessica Spitz wants "great love stories, immersive fantasy worlds, and propulsive
-  plots grounded by unforgettable characters" (seen in more than one result). Fiction queries by email
-  with an "informative description, a brief synopsis and the first ten pages"; no AI-written
-  submissions. https://www.janklowandnesbit.com/submissions
-- kt literary (Kelly Van Sant, Kari Sutherland, Sara Megibow), Kimberley Cameron & Associates (Lisa
-  Abellera; QueryManager only, one agent at a time), and Writers House (Alexandra Levick, "usually not
-  the right match for high fantasy," with conflicting status).
+- **Rena Rossner — Bradford Literary Agency.**
+  - Joined Bradford in 2026. "always interested in underrepresented stories, especially when
+    incorporating folklore and mythology". Also wants a literary romantasy, dark and literary
+    horror, and historical fiction.
+  - The form was open and requires a bio, query letter, and comparable books.
+  - Bradford rules:
+    - "Our agents only accept queries through QueryManager".
+    - Fiction needs "a query letter along with the first chapter of your manuscript and a synopsis".
+    - "Please send your query to only one of our agents at a time."
+  - Source: https://bradfordlit.com/rena-rossner-agent/
+- **Rebecca Podos — Neighborhood Literary.**
+  - Wants "Character-driven fantasy rooted in folklore and culture".
+  - QueryManager only, with "a query letter and the first three chapters". "Rebecca responds to all
+    queries".
+  - Source: https://www.neighborhoodliterary.com/about
+- **Eddie Schneider and Valentina Sainato — JABberwocky.** Their query forms were open, but see
+  JABberwocky's book-length rule below.
+- **Lee O'Brien — Looking Glass Literary & Media.**
+  - Fantasy "from sweeping secondary-world epics to more grounded fantasy, to character driven
+    stories with a dash of magic".
+  - Does not represent "inspirational/faith-based fiction".
+  - Has sold novellas to Tordotcom (deal table).
+  - The agency page shows "Closed to Queries".
+  - Sources: https://manuscriptwishlist.com/mswl-post/lee-obrien/ ;
+    https://www.lookingglasslit.com/lee-obrien
+- **Jessica Spitz — Janklow & Nesbit.**
+  - Looking for "great love stories, immersive fantasy worlds, and propulsive plots grounded by
+    unforgettable characters."
+  - J&N rules:
+    - Send material to submissions@janklow.com, directed to one agent.
+    - For fiction, "send an informative description, a brief synopsis and the first ten pages",
+      with sample pages in the email body.
+    - "We do not accept submissions written with artificial intelligence."
+    - "we cannot respond to every query".
+  - Sources: https://www.janklowandnesbit.com/people/jessica-spitz ;
+    https://www.janklowandnesbit.com/submissions
 
 #### Agents and agencies that exclude novellas
 
-- **JABberwocky Literary Agency (agency-wide):** "note that we handle only book-length material"
-  ("book-length material" phrase-checked). "Book-length" is not defined; reading it as excluding a
-  30,000-word novella is an inference. Most JABberwocky agents were also reported closed. Joshua
-  Bilmes's page says "closed through the end of 2026" (and, contradictorily, open with long response
-  times; single report). Source: https://awfulagent.com/contact-submissions/
-- **Belcastro Agency:** Kaitlyn Katsoupis is "NOT accepting Novellas, poetry, or short story
-  collections." Amy Giuffrida does not want "Screenplays, novellas, short story
-  collections/anthologies." Neither appears to represent adult fantasy.
-- **Azantian Literary Agency:** Mark O'Brien is "not the best fit for horror, thrillers, picture books,
-  novellas, poetry collections" (single report). Keir Alekseii's page contains "Novellas or short
-  story collections" (phrase-checked), which one summary placed in a don't-want list; treat it as a
-  probable no.
-- **Folio Literary Management:** Michael Harriot (director of contracts) is not looking for
-  "screenplays, novellas, short stories" (single report).
-- **Dunham Literary:** reportedly does not represent individual short stories, chapbooks, novellas,
-  or SF (seen only in two aggregator listings, one from about January 2026).
-- **Britt Siess Creative Management:** Carleen Geisler takes novel-length books only (QueryTracker:
-  "Novel-length books"; Duotrope: Novel). The MSWL page also lists high or second-world fantasy and
-  heavily political plots among dislikes (single report).
-- **Fuse Literary:** pages from about 2021 list novellas among what Ernie Chiara does not represent.
-  The current wishlist shows no novella policy, and a novella sale followed in 2025 (see the deal
-  table).
-- **Tricia Skinner:** the MSWL profile excludes novellas (single report; agency not checked).
-- **P.S. Literary Agency (Toronto-based):** Carly Watters lists novellas and high fantasy among what is
-  not represented (single report).
-
-Duotrope's Lengths field was not treated as a policy. It lists only Novel for several agents,
-including Jennifer Jackson, whose own wishlist names novellas.
+- **JABberwocky Literary Agency (agency-wide).** "We are interested in a broad range of fiction and
+  non-fiction intended for general audiences, but note that we handle only book-length material."
+  - "Book-length" is not defined. Reading it as excluding a 30,000-word novella is an inference.
+  - JABberwocky sells novellas for existing clients (deal table).
+  - Joshua Bilmes's page says "I am closed through the end of 2026."
+  - Source: https://awfulagent.com/contact-submissions/
+- **Spectrum Literary Agency (agency-wide).** "Spectrum's policy is to read only book-length
+  manuscripts that we have specifically asked to see."
+  - Same inference as for JABberwocky.
+  - Queries go by post only, with a SASE and the first 10 pages. Response takes 2–3 months.
+  - Source: https://www.spectrumliteraryagency.com/instructionsforsubmissions
+- **Dunham Literary (agency-wide).** "We do not represent individual short stories, chapbooks or
+  novellas, or original screen/stage plays." QueryManager only since January 2026.
+  - (Corrected: the earlier version added that Dunham excludes SF. The agency page does not say so.)
+  - Source: https://www.dunhamlit.com/how-to-submit
+- **Folio Literary Management.** Michael Harriot: "I'm not looking for screenplays, novellas, short
+  stories, or books for children/young adults." Source: https://www.foliolit.com/michaelharriot
+- **Azantian Literary Agency.**
+  - Mark O'Brien "is not the best fit for horror, thrillers, picture books, novellas, poetry
+    collections". Source: https://www.azantianlitagency.com/about-us/mark-obrien
+  - Keir Alekseii's "please do not send" list includes "Novellas or short story collections". It
+    sits in the same list as "Copaganda" and "Books with gratuitous gore". Source:
+    https://www.azantianlitagency.com/about-us/keir-alekseii
+- **Belcastro Agency.** Amy Giuffrida's "PLEASE DO NOT SEND ME" list includes "Screenplays,
+  novellas, short story collections/anthologies". The same list includes stories "heavy on: religion".
+  - The page also lists grounded SF and fantasy as an interest.
+  - (Corrected: the earlier version also listed Kaitlyn Katsoupis as excluding novellas. That could
+    not be rechecked: the agency site refused automated access, and the MSWL page has no novella
+    statement and lists fantasy.)
+  - Source: https://manuscriptwishlist.com/mswl-post/amy-giuffrida/
+- **Britt Siess Creative Management.** Carleen Geisler: "Novellas. I am only taking novel-length
+  books at this time."
+  - Also not a fit: "High Fantasy or Second World Fantasy" and "Heavily political plots/military".
+  - The MSWL page was last updated February 2025.
+  - Source: https://manuscriptwishlist.com/mswl-post/carleen-geisler/
+- **Fuse Literary.**
+  - Tricia Skinner's "DO NOT SEND" list (updated September 2026) includes "Novellas" and
+    "Faith-based/religious manuscripts". Source:
+    https://manuscriptwishlist.com/mswl-post/tricia-skinner/
+  - Ernie Chiara's current wishlist: "I do not represent: non-fiction, faith-based/religious
+    manuscripts, poetry, short stories, novellas, screenplays, chapter books, or erotica."
+    - Chiara still sold two novellas in 2025 (deal table).
+    - The fantasy wish favors "an anti-colonialist or anti-patriarchal message, with protagonists
+      that are harbingers of change".
+    - Source: https://erniechiara.com/mswl
+- **P.S. Literary Agency (Canadian; Ontario).** Carly Watters: "I do not represent High Fantasy,
+  Middle Grade, Religious Texts, Screenplays, or Novellas." Source:
+  https://manuscriptwishlist.com/mswl-post/carly-watters/
 
 #### Recent SFF novella deals by U.S. agents
 
 | Agent (agency) | Novella | Buyer | Reported in |
 |---|---|---|---|
-| Michael Curry (Donald Maass) | Thomas Ha, *Sons of Nod* (genre not stated) | Tordotcom: Avery Davis; Ann VanderMeer editing | Locus, October 2026 |
-| Laurie Fox (Linda Chester Literary Agency) | Annalee Newitz, *Noodle Union*, sequel to the cozy SF novella *Automatic Noodle*; planned for fall 2027 | Tordotcom: Stephanie Stein | Publishers Weekly, week of August 24, 2026; Locus, October 2026 |
-| Arley Sorg (kt literary) | Zin E. Rocklyn, *Blue Plate* (genre unclear) | Tordotcom: Claire Eddy and Oliver Dougherty; Mal Frazier editing | Locus, August 2026 (single report) |
-| Shannon Lechon (Azantian) | A.D. Sui, *CREST* (contemporary fantasy) | Augur Literary Society: Kerry C. Byrne | Locus, February 2026 (single report) |
-| Agents not named (Triada US) | Two novella sales, January 2026 and May 2026 (horror) | Tor (January sale); not stated (May sale) | Triada US news page (single report) |
-| Agent not named (JABberwocky, inferred from the author's page on the agency's site) | C.M. Waggoner, *The Somewhat Wicked Witch of Brigandale* (cozy fantasy), with another novella and two novels; some retailers list the 224-page 2026 edition as a novel | Ace: Jessica Wade | Locus, July 2025 (single report) |
-| Lee O'Brien (Looking Glass Literary & Media) | Hache Pueyo, *But Not Too Bold*; Pueyo's next novella, *Cabaret in Flames*, also sold through the agency (agent not named) | Tordotcom | Tor.com, September 27, 2023; Locus, May 2025 (single reports) |
-| Ernie Chiara (Fuse Literary) | Khan Wong, *Elegant Manifestations for the Beautiful and the Lost* (genre not confirmed) | Stars and Sabers Publishing | Locus, May 2025 (single report) |
-| Agent not named (Scovil Galen Ghosh) | S.L. Huang, *The Echo Spy* (science fantasy) | Tordotcom: Oliver Dougherty | Locus, September 2024 (single report) |
-| Courtney Miller-Callihan (Handspun Literary) | Olivia Waite, *Murder by Memory* (SF mystery), with two more novellas and two novels | Tor Publishing Group: Sanaa Ali-Virani | Reactor, March 2024; Locus, April 2024 |
+| Michael Curry (Donald Maass) | Thomas Ha, *Sons of Nod* | Tordotcom: Avery Davis; Ann VanderMeer to edit | Locus, October 2026 |
+| Laurie Fox (Linda Chester Literary Agency) | Annalee Newitz, *Noodle Union*, sequel to the 2025 cozy SF novella *Automatic Noodle*; fall 2027 | Tordotcom: Stephanie Stein (world English and German rights) | Publishers Weekly, week of August 24, 2026; Locus, October 2026 |
+| Arley Sorg (kt literary) | Zin E. Rocklyn "delivered a novella tentatively titled Blue Plate" | Tordotcom: Claire Eddy and Oliver Dougherty; Mal Frazier to edit | Locus, August 2026 |
+| Laura Crockett (Triada US) | Hadeer Elsbai, *You Just Have to Ask Me*, a contemporary horror novella, in a pre-empt; winter 2027 | Union Square & Co: Mika Kasuga | Triada US news, May 2026 |
+| Shannon Lechon (Azantian) | A.D. Sui, *CREST*, a contemporary fantasy novella | Augur Literary Society: Kerry C. Byrne | Locus, February 2026 |
+| Amelia Appel (Triada US) | Olivie Blake, "an untitled darkly romantic novella" in a four-book deal with three novels | Tor: Lindsey Hall | Triada US news, January 2026 |
+| Bridget Smith (JABberwocky) | C.M. Waggoner, *The Somewhat Wicked Witch of Brigandale* (cozy fantasy), with another novella and two novels | Ace: Jessica Wade | Locus, July 2025 |
+| Lee O'Brien (Looking Glass Literary & Media) | Hache Pueyo, *Cabaret in Flames*, and two more books | Tordotcom: Sanaa Ali-Virani | Locus, May 2025 |
+| Ernie Chiara (Fuse Literary) | Khan Wong, *Elegant Manifestations for the Beautiful and the Lost*; Cassandra Newbould, *When the Forest Calls* (dark fantasy) | Stars and Sabers Publishing: Jendia Gammon and Gareth L. Powell | Locus, May 2025 |
+| Russell Galen (Scovil Galen Ghosh) | S.L. Huang, *The Echo Spy* (science fantasy) | Tordotcom: Oliver Dougherty | Locus, September 2024 |
+| Courtney Miller-Callihan (Handspun Literary) | Olivia Waite, *Murder by Memory* (SF mystery), first of three novellas, with two novels | Tor Publishing Group: Sanaa Ali-Virani (Tordotcom imprint for the novellas) | Reactor, March 7, 2024; Locus, April 2024 |
+| Lee O'Brien (Looking Glass Literary & Media) | Hache Pueyo, *But Not Too Bold* | Tordotcom: Sanaa Ali-Virani | Tor.com, September 27, 2023 |
 
-*Pattern (inference).* Most of these deals are sequels, follow-ons, or packages with novels, and the
-results did not describe any of them as a debut sold from a query. Tordotcom was the buyer in most.
-An agent's novella sales therefore do not show that the agent takes debut novella queries.
-JABberwocky's query page limits submissions to book-length work, yet a novella package was sold for
-a JABberwocky client (inferred link). Ernie Chiara sold a novella in 2025 although pages from about
-2021 excluded novellas.
+(Corrected: the earlier version left three of these agents unnamed. They are Bridget Smith, Russell
+Galen, and Lee O'Brien for *Cabaret in Flames*. It also counted two Triada sales without naming the
+agents.)
 
-Deal sources: https://locusmag.com/2026/10/people-publishing-roundup-october-2026/ ;
-https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/101099-book-deals-week-of-august-24-2026.html ;
-https://www.triadaus.com/news ; https://locusmag.com/2025/05/people-publishing-roundup-may-2025/ ;
-https://tor.com/2023/09/27/book-announcement-but-not-too-bold-by-hache-pueyo ;
-https://locusmag.com/2024/09/people-publishing-roundup-september-2024/ ;
-https://reactormag.com/tor-publishing-group-acquires-five-new-titles-by-olivia-waite/ ;
-https://locusmag.com/2024/04/people-publishing-roundup-april-2024/
+*Pattern (inference).*
+- Tordotcom was the buyer in seven of the twelve rows.
+- Most were sequels or follow-ons (Newitz, Pueyo), packages with novels (Blake, Waggoner, Waite), or
+  books by authors the announcements present as already published. None was described as a debut
+  sold from a query.
+- Novellas were also sold through JABberwocky, whose query page limits submissions to book-length
+  work, and by Ernie Chiara, whose wishlist excludes novellas.
+- So an agent's novella sales do not show that the agent takes debut novella queries.
+
+Deal sources:
+- https://locusmag.com/2026/10/people-publishing-roundup-october-2026/
+- https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/101099-book-deals-week-of-august-24-2026.html
+- https://locusmag.com/2026/08/people-publishing-roundup-august-2026/
+- https://www.triadaus.com/news
+- https://locusmag.com/2026/02/people-publishing-roundup-february-2026/
+- https://locusmag.com/2025/07/people-publishing-roundup-july-2025/
+- https://locusmag.com/2025/05/people-publishing-roundup-may-2025/
+- https://locusmag.com/2024/09/people-publishing-roundup-september-2024/
+- https://reactormag.com/tor-publishing-group-acquires-five-new-titles-by-olivia-waite/
+- https://locusmag.com/2024/04/people-publishing-roundup-april-2024/
+- https://reactormag.com/book-announcement-but-not-too-bold-by-hache-pueyo/
 
 #### Submission requirements across agencies
 
-Unlike the rest of this section, items in this list are single reports unless marked
-"(corroborated)." The entries above give the sources.
+All items were taken from the agency pages and query forms cited above, as of October 25, 2026.
 
-- **Within an agency, one agent at a time** is the norm: BookEnds (corroborated), Dystel, Goderich &
-  Bourret (corroborated), Writers House (corroborated), Liza Dawson (corroborated), Kimberley Cameron
-  & Associates (corroborated), New Leaf, Laura Dail, Nelson, and Donald Maass (another agent after a
-  pass). Morhaim adds one project at a time. Azantian caps it at three agents in total (corroborated).
-  Trident asks for 30 days before querying another Trident agent. Fox Literary is the one exception
-  found: both of its agents may be queried at once, in separate emails.
-- **Querying several agencies at once** is reported as allowed by Claire Lee (corroborated) and by
-  Bradford, which asks to hear of any offer. P.S. Literary asks whether others are considering the
-  work.
-- **Sample pages** range from none to fifty pages:
-  - none: Trident (a paragraph about the author and a brief plot synopsis, through its form);
-  - query only: Eric Smith; Red Sofa Literary at first;
-  - 5 pages: Fox Literary (corroborated), New Leaf, Allegra Martschenko;
-  - 10 pages: Writers House, Janklow & Nesbit, Nelson, Spectrum, and the Kepner Agency (per a
-    colleague's page);
-  - 10–20 pages: Azantian (corroborated);
-  - about 25 pages: Dystel, Goderich & Bourret;
-  - first chapter: Bradford;
-  - first three chapters: Howard Morhaim, Sterling Lord Literistic, Lauren Bajek (corroborated; or 25
-    pages), Alice Speilburg;
-  - first 50 pages: Ethan Ellenberg (third-party listings).
-- **Synopsis** requested by Donald Maass (1–2 pages, in the email body; corroborated), Bradford,
-  Janklow & Nesbit, Writers House, Trident, Sterling Lord (a summary), Ethan Ellenberg (1–2 pages), and
-  an older Azantian page (1–2 pages).
-- **Materials pasted into the email body:** Donald Maass (corroborated) and Liza Dawson
-  (corroborated). These also state no attachments: Fox Literary (attachments not opened;
-  corroborated), Neighborhood Literary, Dystel, Goderich & Bourret, Kepner, Ethan Ellenberg, Red Sofa
-  (unless requested), P.S. Literary, and New Leaf's email fallback.
-- **QueryManager or a similar form:** BookEnds (corroborated), Azantian (corroborated), Kimberley
-  Cameron & Associates (corroborated), Triada US's Laura Crockett (corroborated), New Leaf, Bradford,
-  Nelson, Speilburg, and some Donald Maass agents.
-- **Complete manuscript before querying:** Dystel, Goderich & Bourret (corroborated), New Leaf,
-  P.S. Literary, and Red Sofa.
-- **AI-written or AI-generated work refused:** Janklow & Nesbit and Kimberley Cameron & Associates.
-- **Response policies:** Morhaim, 8–12 weeks; Neighborhood Literary, answers every query in 6–8 weeks;
-  Dystel, Goderich & Bourret, resend after 8 weeks without a reply; Spectrum, 2–3 months; New Leaf,
-  only if interested; Kepner and P.S. Literary, no reply means a pass (Kepner corroborated; P.S. after
-  4–6 weeks).
-- **Query content:** Donald Maass (corroborated), Bradford, and Nelson ask for genre and word count.
+- **One agent per agency** is the norm. Agencies that say so:
+  - Donald Maass, Howard Morhaim (also one project at a time), BookEnds, and Azantian (up to three
+    after passes).
+  - Dystel, Goderich & Bourret; Liza Dawson; Laura Dail; New Leaf; Bradford; and Kimberley Cameron
+    & Associates.
+  - Nelson ("a pass from one of us is a pass from both"), Spencerhill, and Handspun.
+  - Tobias, Dunham, P.S. Literary, and JABberwocky.
+  - Trident, where a second Trident agent can be queried only after 30 days.
+
+  Exceptions: Fox Literary (both agents at once, in separate emails) and The Kepner Agency (several
+  agents at once if you "CC openly").
+- **Querying other agencies at the same time** is accepted practice. Bradford writes "we encourage
+  you to query multiple agencies", and Duotrope says of Claire Lee that "Simultaneous submissions are
+  allowed." Azantian, Bradford, Laura Dail, and New Leaf ask to be told of offers.
+- **Sample pages:**
+  - none: Trident (only "a paragraph about yourself, a brief plot synopsis and your contact
+    information").
+  - query only: Eric Smith; Hannah Bowman (closed).
+  - 5 pages: Fox Literary, Allegra Martschenko, Eddie Schneider, and New Leaf's email fallback.
+  - 10 pages: Jennifer Jackson, Kepner, Janklow & Nesbit, Nelson, Spectrum, P.S. Literary, Laura
+    Crockett, Jordan Hill, Jennifer Udden, and Valentina Sainato.
+  - 10–20 pages: Azantian (agency rule).
+  - 20 pages: Caitlin McDonald, Michaela Whatnall.
+  - 25 pages: Dystel, Goderich & Bourret email queries; Lauren Bajek (or three chapters).
+  - first chapter: Bradford.
+  - first two or three chapters: Howard Morhaim email queries, Sterling Lord Literistic, Rebecca
+    Podos, and Ben Miller-Callihan (three); Cheyenne Faircloth (two).
+  - first 50 pages, uploaded: Courtney Miller-Callihan, Loni Crittenden.
+- **Synopsis:**
+  - Donald Maass (1–2 pages), Caitlin McDonald, Jennifer Udden, Bradford, and Janklow & Nesbit.
+  - Trident ("a brief plot synopsis") and Sterling Lord (a "summary").
+  - Four of the five Handspun forms.
+  - Optional on several other forms.
+- **Bio and comparable titles:**
+  - Required on Laura Crockett's and Rena Rossner's forms.
+  - Dystel, Goderich & Bourret asks for "title, genre, word count, and comp titles or authors" in the
+    query.
+  - Nelson asks for "a brief bio, including any writing credentials".
+- **Materials pasted into the email body, no attachments:** Donald Maass, Fox Literary, Kepner,
+  Neighborhood Literary (Eric Smith), Liza Dawson, Dystel, Goderich & Bourret, Janklow & Nesbit, P.S.
+  Literary, and New Leaf's email fallback.
+- **QueryManager forms** (hosted on QueryTracker):
+  - BookEnds, Azantian, Laura Dail, New Leaf, Bradford, and Kimberley Cameron & Associates.
+  - Tobias, Dunham, Triada US (Laura Crockett), Handspun, Nelson, and JABberwocky.
+  - Dystel, Goderich & Bourret (for Michaela Whatnall and six other named agents).
+  - Howard Morhaim (Kate McKean, Nina Richner) and Neighborhood Literary (all but Eric Smith and
+    Donovan Levine).
+- **Complete manuscript before querying:** Azantian, Dystel, Goderich & Bourret ("We do not accept
+  partial manuscripts for novels"), New Leaf, Tobias, and Laura Dail.
+- **AI-generated or AI-assisted work refused:** Azantian, Janklow & Nesbit, Kimberley Cameron &
+  Associates, Gernert, Michael Curry, and Lauren Bajek. Allegra Martschenko's and Courtney
+  Miller-Callihan's query forms ask about AI use.
+- **Response policies:**
+  - "within 3 weeks": Allegra Martschenko.
+  - "within four weeks": Dunham.
+  - 4–6 weeks: Nelson.
+  - "six weeks": Lauren Bajek.
+  - 6–8 weeks: Eric Smith (all queries); Dystel, Goderich & Bourret.
+  - About 2 months: Laura Dail.
+  - 8–12 weeks: Howard Morhaim; Azantian ("we do review and respond to ALL queries").
+  - 2–3 months: Spectrum.
+  - Only if interested: New Leaf, Janklow & Nesbit, Gernert (4–6 weeks), Kepner ("not all queries
+    will receive a response"), and P.S. Literary (no request within 4–6 weeks "means a no").
 
 #### Not agents: names that surface in novella searches
 
-- MSWL's novella tag page (https://manuscriptwishlist.com/sub-genre/novella/) lists about ten names
-  (one search pass counted nine, another ten). Only Kate McKean and Tyler Monson were identified as
-  agents. Search results describe the others as follows (single reports):
-  - Rebecca Brewer: editor at Bloomsbury Archer; open to short novels and novellas; agented
-    submissions only.
-  - Christine Neulieb: editorial director at Lanternfish Press in Philadelphia, one of the small
-    presses named above.
-  - Mara Delgado-Sánchez: assistant editor at St. Martin's Press and Wednesday Books; agented
-    submissions only; posts mostly from 2022.
-  - Kristin Temple: editor at Tor Nightfire, which publishes horror.
-  - Samiha Hoque: editor and director at Shaherazad Shelves, a small independent press.
-  - Gabrielle Prendergast: listed with Orca Book Publishers, a Canadian publisher; acquiring MG and YA
-    novellas from Canadian citizens or residents.
-  - Henriette Lazaridis and Anjali Mitter Duva: authors and GrubStreet teachers who co-founded Galiot
-    Press; their role on MSWL was not seen.
-- Editors whose wishlists bear on agented novella pitches (single reports):
-  - Oliver Dougherty (Tor) wants secondary-world stories, clever protagonists, and political or court
-    intrigue, and bought the Huang and Rocklyn novellas.
+- **MSWL's novella tag page** (https://manuscriptwishlist.com/sub-genre/novella/) lists eleven names
+  across two pages. Two are agents, Kate McKean and Tyler Monson. The rest are editors or publishers:
+  - Jen R. Albert (ECW Press, Canada): "happy to look at both novels and novellas" in SF, fantasy,
+    and horror, but "I only look at fiction by Canadian authors."
+  - Rebecca Brewer (Bloomsbury Archer): "Primarily I will acquire novels and series, but I am also
+    open to short novels/novellas"; "I am not currently accepting un-agented submissions."
+  - Kristin Temple (Tor Nightfire): "on the hunt for adult horror novels and novellas for Nightfire";
+    "I am not currently taking unagented or unsolicited manuscripts."
+  - Mara Delgado Sanchez (Tor Publishing Group): a "novella" tag, and "I'm not taking unagented or
+    unsolicited manuscripts at this time."
+  - Christine Neulieb (Lanternfish Press, one of the small presses named above): "Novellas are neat."
+    "Lanternfish Press opens for unsolicited submissions once a year via Submittable. We are currently
+    CLOSED to unsolicited submissions."
+  - Henriette Lazaridis and Anjali Mitter Duva (Galiot Press, a new publishing house): "novella"
+    tags. "At Galiot Press, we guarantee a response to your query and sample pages within one week of
+    your submission."
+  - Samiha Hoque (Shaherazad Shelves): a "novella" tag, and "I accept both unagented and agented
+    submissions via querymanager."
+  - Gabrielle Prendergast (Orca Book Publishers, Canada): "Very short fantasy novellas for teens by
+    Canadian citizens or residents."
+- **Editors whose wishlists bear on agented pitches:**
+  - Oliver Dougherty (Tor Publishing Group): "I'm especially drawn to secondary world stories."
+    "Clever protagonists, political or court intrigue." "Fake dating, contractual engagements,
+    political marriage." Bought the Huang and Rocklyn novellas (deal table).
     https://manuscriptwishlist.com/mswl-post/oliver-dougherty/
-  - Jennifer Gunnels (Tordotcom) considers SF and fantasy novellas but does not take unagented or
-    unsolicited manuscripts.
+  - Jennifer Gunnels (Tor, Nightfire, Tor.com): "I am also open to considering SF/F novellas for
+    Tor.com Publishing"; "I am not currently taking unagented or unsolicited manuscripts."
+    https://manuscriptwishlist.com/mswl-post/jennifer-gunnels/
 
 #### Not determined
 
-- No agency or wishlist page was opened directly, and almost no status was dated.
-- QueryManager form fields (synopsis length, comps, bio) were not retrieved.
-- Closed or unavailable when researched: Bradford Literary's adult-fantasy agents; Naomi Davis and
-  Rachel Brooks (BookEnds); Seth Fishman (Gernert); Donald Maass (referral only); Joshua Bilmes and
-  most other JABberwocky agents.
-- Only one wishlist retrieved was reported to cite a §6 comp: Courtney Miller-Callihan's names
-  *Piranesi*. None was found citing *The Goblin Emperor* or *Babel*.
-- Unidentified: the Scovil Galen Ghosh agent for *The Echo Spy* and the agent for C.M. Waggoner's
-  novellas.
+- **Not rechecked.** These sites refused automated access, were down, or sat behind a bot check on
+  October 25, 2026, so items from them were not rechecked:
+  - allegramartschenko.com.
+  - The Belcastro Agency site.
+  - foxliterary.com and Speilburg Literary's site.
+  - Writers House's submission page.
+  - Tor's submissions page.
+- **Status changes.** Statuses above hold for October 25, 2026 only. Several agents open in monthly
+  windows: Kate McKean (1st–15th), Mara Hollander (1st–7th), and Bridget Smith (JABberwocky; first
+  ten days of each month except December).
+- **Closed when checked:**
+  - Naomi Davis and Rachel Brooks (BookEnds).
+  - Laura Bradford, Kaitlyn Sanchez, Hannah Andrade, and Hillary Fazzari (Bradford).
+  - Seth Fishman (Gernert).
+  - Donald Maass ("permanently closed to queries, except by referral or invitation").
+  - Jolene Haley (Donald Maass; "I'll be reopening in Fall 2026").
+  - Lana Harper (Neighborhood Literary; "closed to queries due to backlog").
+  - Jordan Hamessley (JABberwocky; the query form was closed although the agency page says open).
+  - Shelly Romero: not on Azantian's current roster or submissions page. Duotrope lists the agent at
+    Azantian with fiction "TEMP CLOSED".
+- **Comp mentions found:**
+  - Jennifer Udden cites *The Goblin Emperor*.
+  - Laura Crockett lists *Babel* among favorites and names R.F. Kuang.
+  - Loni Crittenden cites *Piranesi*.
+  - Hannah Bowman represents R.F. Kuang.
+  - (Corrected: the earlier version said no wishlist cited *The Goblin Emperor* or *Babel*.)
 
 ### Self-Publishing and Hybrid
 
