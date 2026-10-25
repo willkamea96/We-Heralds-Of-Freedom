@@ -1439,9 +1439,13 @@ Emperor* (2014).
 
 - **Comp statements.** Statements about the two comps come only from the comp profiles in
   `industry-standards.md` §5, cited here as "§5." Those profiles summarize what publishers and
-  professional reviewers have said. They were compiled from web-search results because the source
-  pages could not be opened, so their quotations are as reported and unverified against the originals
-  (see §5's sourcing note). This section adds no content about either book beyond those profiles.
+  professional reviewers have said. Their source pages were opened and checked on October 25, 2026.
+  Where a review could be read only through another page, §5 names that page with "via" (for
+  example, via Book Marks); an item whose source could not be opened is marked "not rechecked." This
+  section keeps those marks and adds no content about either book beyond the profiles.
+- **Revision.** An earlier version of this section relied on the profiles' first, unverified version.
+  The comp statements below follow the verified profiles. Where a correction changed a comparison, a
+  "Reassessed" note says what changed.
 - **What is compared.** The comparison sets the manuscript beside how critics read the comps, not
   beside the comps' texts. Where this section says a comp "does" something, read "is reported by the
   §5 profile to do."
@@ -1455,18 +1459,36 @@ Emperor* (2014).
 
 **The comps (§5).**
 
-- ***Babel***: reviewers describe a coming-of-age campus story that turns into revolt against the
-  institution, built on a large scale.
-  - It is "maximalist," in Kuang's own word as Strange Horizons reports it, with a five-act structure.
-  - Admirers call it "a page-turner with footnotes, a thriller with a higher purpose" (Chicago Review
-    of Books).
-  - Reactor reads its ending as tragic but fitting.
-- ***The Goblin Emperor***: an accession premise followed by court intrigue. The emperor and his three
-  eldest sons die in an airship crash, and the exiled half-goblin son inherits. The assassination plot
-  stays subordinate to Maia's adjustment to the throne.
-  - Publishers Weekly calls it "less a novel than a series of anecdotes."
-  - Kirkus sees "a plot full of small but deadly traps."
-  - Strange Horizons reads an ending of muted progress, trust, and healing rather than triumph.
+- ***Babel***: §5's consensus summary describes a campus coming-of-age that turns, after a killing at
+  the midpoint, into revolt against the institution, on a large scale.
+  - BookPage: Kuang focuses "for the first half of Babel on Robin's assimilation into school and
+    broader English culture, finding friends and growing up." Chicago Review of Books (via Book
+    Marks): "a page-turner with footnotes, a thriller with a higher purpose, a Bildungsroman where the
+    stakes matter."
+  - Strange Horizons reports "maximalist" as Kuang's own word for the style and lists a "five-act
+    structure". It places the killing "halfway through the novel", after which the book "swerves into
+    an action-paced romp".
+  - On the ending, Paste: "Dark choices are made and tragic events take place as Babel barrels toward
+    an ending that somehow feels both strangely inevitable and deeply shocking." Reactor: "an ending
+    that is both stunning and not surprising." Chicago Review of Books (via Book Marks): "the epilogue
+    offers a glimpse of hope and a likely sequel".
+  - Reassessed: the earlier version said Reactor reads the ending as tragic but fitting. That wording
+    came from a reader comment below the review, not from the review.
+- ***The Goblin Emperor***: an accession premise followed by court intrigue. In the publisher's copy,
+  the Emperor's youngest, half-goblin son has "lived his entire life in exile"; when "his father and
+  three sons in line for the throne are killed in an 'accident,'" he becomes "the only surviving
+  rightful heir." §5 records the accident as an airship crash (Strange Horizons: "the crash of the
+  Wisdom of Choharo").
+  - Publishers Weekly: "Less a novel than a series of anecdotes, this stalwart endeavor... is carried
+    by the strength of atmosphere and Maia's resonant good-heartedness." Book Marks rates the review
+    positive.
+  - Kirkus: "a plot full of small but deadly traps".
+  - Nussbaum treats the conflicts as "inflection points in Maia's process of asserting and cementing
+    his power as emperor". io9: "this complexity often takes the place of a plot."
+  - On the ending, Strange Horizons: "there is no single dramatic catharsis: just the steady business
+    of wounds healing, progress being made, and formerly lonely, alienated people being made whole by
+    the trust they come to have in each other." Francis Spufford, in a Guardian interview, describes
+    an heir who "gradually and convincingly prevails by sheer goodness of heart."
 
 **The manuscript.**
 
@@ -1489,40 +1511,68 @@ Emperor* (2014).
   Robin is brought from Canton to London and trained for Oxford's translation institute, and Maia is
   brought from exile to the throne. The manuscript inverts that. Its protagonist is an insider of
   "More than twenty years" (ch07:205) who exits. The arc shares *Babel*'s movement from insider to
-  dissenter. It resolves, however, in the mode critics read in *The Goblin Emperor*: reform pursued
-  through an institution rather than revolt against one ("we will show our countrymen what a community
-  built on the Father's teachings looks like," ep:180).
-- **Episodic risk.** Time-skips separate the manuscript's chapters (§8a), which could invite the
-  "series of anecdotes" reservation PW raised about *The Goblin Emperor*. The exemption thread,
-  however, binds Ch2 through Ch8 causally (ch02:100–186, ch04:266, ch06:128, ch07:8, ch08:124). The
-  more anecdotal stretch is the Epilogue's five-scene sequence after a one-year skip
-  (`assessment-epilogue.md` §6).
+  dissenter (Library Journal: Robin "must choose between destroying Babel and trying to reform it").
+  It resolves, however, in the mode critics read in *The Goblin Emperor*: reform pursued through an
+  institution rather than revolt against one ("we will show our countrymen what a community built on
+  the Father's teachings looks like," ep:180).
+- **Episodic risk.** Time-skips separate the manuscript's chapters (§8a; e.g., "Edward's tax hike
+  three months ago," ch02:48). That could invite the "series of anecdotes" reservation Publishers
+  Weekly raised about *The Goblin Emperor*, although the same sentence of that review says the book
+  "is carried by the strength of atmosphere and Maia's resonant good-heartedness." The exemption
+  thread binds Ch2 through Ch8 causally (ch02:100–186, ch04:266, ch06:128, ch07:8, ch08:124). The
+  more anecdotal stretch is the Epilogue. After a skip of about a year (inference; "already ran a year
+  now," ep:16; "after a year renting the place," ep:32), it moves through five scenes by this
+  evaluation's count: the worksite (ep:4–28), the flat (ep:30–56), the newsstands (ep:58–78), City
+  Hall (ep:80–100), and the cathedral (ep:102–210) (`assessment-epilogue.md` §6a).
 - **Register of plot.** The manuscript is not a thriller. Its "traps" are mostly professional and
-  marital — the ultimatum, the divorce and disinheritance forms (ch07:58) — with brief physical danger
-  (ch02:292–326, ch05:168). In that respect it sits closer to the "small but deadly traps" Kirkus finds
-  in *The Goblin Emperor* than to *Babel*'s thriller momentum.
-- **Ending.** The manuscript's personal triumph contrasts with *Babel*'s reported tragic ending and
-  with the muted ending Strange Horizons reads in *The Goblin Emperor*. At the scale of the world,
-  however, its open societal thread matches the latter's progress rather than triumph.
+  marital — the ultimatum (ch07:4–14), the divorce and disinheritance forms (ch07:58) — with brief
+  physical danger (ch02:292–326, ch05:168). In that respect it sits closer to the "small but deadly
+  traps" Kirkus finds in *The Goblin Emperor* than to the "thriller with a higher purpose" and
+  "action-paced romp" reviewers find in *Babel*.
+- **Ending.** The manuscript gives its personal arc a public, cathartic climax: the crowd's cheer,
+  Horace's "He's done it!", and the embrace (ep:184–210). That differs from the "tragic events" and
+  "deeply shocking" ending Paste reports in *Babel*, and from the "no single dramatic catharsis"
+  Strange Horizons finds in *The Goblin Emperor*. At the scale of the world, the manuscript's open
+  societal thread (ep:126–128, ep:146) is closer to *The Goblin Emperor*'s "progress being made" and
+  to the "glimpse of hope" Chicago Review of Books (via Book Marks) finds in *Babel*'s epilogue.
 
 **Assessment.** Against the standard's structural expectations (§4), the manuscript's causal spine is a
-strength relative to the episodic reservation the comps attract (interpretation). The exposed point is
-the Epilogue, which pairs a one-year skip with a vignette structure and a celebratory climax. A reader
-primed by *The Goblin Emperor*'s muted register, or by *Babel*'s tragic one, may find the triumphant
-beat (ep:184–208) more conventional (interpretation).
+strength relative to the episodic reservation reported for *The Goblin Emperor* (interpretation). Its
+pairing of personal resolution with an open societal thread fits the standard's "Resonant ending,"
+which expects emotional and thematic resolution "even if external plot threads remain open" (§4)
+(interpretation). The exposed point is the Epilogue, which pairs a skip of about a year with a
+five-scene structure and a celebratory climax. A reader primed by the "steady business of wounds
+healing" Strange Horizons reads in *The Goblin Emperor*, or by *Babel*'s tragic ending, may find the
+triumphant beat (ep:184–208) more conventional (interpretation).
 
 ### 13b. Narrative Economy
 
 **The comps (§5).**
 
-- ***Babel***: the most consistent reservation is didacticism. Publishers Weekly calls it "a didactic,
-  unsubtle take on dark academia and imperialism," "frequently interrupted by lectures on why
-  imperialism is bad." Paste's review is headlined "An Ambitious Epic That Doesn't Trust Its Audience
-  Enough." These complaints concern a book of 500-plus pages with footnotes and epigraphs.
-- ***The Goblin Emperor***: the pacing is described as episodic and low on histrionics, which critics
-  treat as deliberate. The recurring cost is the density of invented names and titles — "The names
-  were terribly confusing" until the reviewer found the glossary (Fantasy Literature). The back matter
-  eases it.
+- ***Babel***: §5's consensus summary names didacticism as the most consistent reservation.
+  - Publishers Weekly calls it "a didactic, unsubtle take on dark academia and imperialism" and says
+    "The narrative is frequently interrupted by lectures on why imperialism is bad".
+  - Paste's review is headlined "Babel Is an Ambitious Epic That Doesn't Trust Its Audience Enough."
+    It finds that "a significant chunk of this doorstopper's 500+ pages feels didactic and lecture-y".
+  - Kirkus: "occasionally hampered by rather self-aware critiques of colonialism". Slate (2025)
+    likens reading it to "being lectured to for hours about things you already know".
+  - Library Journal, reviewing the audiobook: "grim and dense, filled with explanations of etymology
+    and footnotes."
+  - Admirers treat the apparatus as part of the design ("a page-turner with footnotes," Chicago Review
+    of Books, via Book Marks). Strange Horizons judges that "for its attempt to encompass a
+    world-historical moment, one can even say that the novel is too short."
+- ***The Goblin Emperor***: §5's consensus summary says critics treat the slow, low-action pacing as
+  deliberate.
+  - io9: "the book mostly eschews plot-heavy histrionics in favor of warmth, psychological depth, and
+    hope." Nussbaum: the plot "flows and carries you along despite being made up mostly of meetings."
+  - The recurring cost is the density of invented names and titles. io9: "Some readers may feel, as I
+    did initially, that Addison's Ethuverazhin is unnecessarily dense, with far too many
+    unpronounceable letter combinations." The review concludes that "Ethuverazhin feels organic."
+    Covington recalls "people saying they couldn't follow all the names and titles".
+  - The back matter eases it. Liz Bourke (Tor.com) describes "a guide of sorts" in an afterword and
+    "A Listing of Persons, Places, Things, and Gods".
+  - Reassessed: the earlier version quoted Fantasy Literature on confusing names and the glossary.
+    That page could not be opened, and §5 no longer uses it.
 
 **The manuscript.**
 
@@ -1537,9 +1587,10 @@ beat (ep:184–208) more conventional (interpretation).
 
   The narration also undercuts the longest of these: "That came out a lot longer than Carden intended"
   (ch05:232).
-- **Apparatus**: there are no footnotes or epigraphs. The glossary (40 entries) presents itself as
-  "Entirely skippable" (glossary:3). That positions the narrative to stand without it, unlike the back
-  matter reviewers describe *The Goblin Emperor*'s readers relying on (interpretation).
+- **Apparatus**: there are no footnotes or chapter epigraphs; the front matter carries a one-line
+  tagline (front-matter:6). The glossary (40 entries) presents itself as "Entirely skippable"
+  (glossary:3). That positions the narrative to stand without it (interpretation). §5 describes *The
+  Goblin Emperor*'s back matter as "a guide of sorts" but does not say whether readers need it.
 - **Names**: Alfainian names are mostly English in form (Carden Oakmoore, Marelyn Winston, Horace
   Livingstone, Edward Cook). Non-English forms mark other peoples and states, such as Feroz Surena
   (ch01:14), Shapur Mihran (ch03:156), and the Epilogue's divine names (ep:114–118). The densest run of
@@ -1548,13 +1599,15 @@ beat (ep:184–208) more conventional (interpretation).
 **Comparison (interpretation).**
 
 - **Didacticism**: of the reservations reported for *Babel*, this one applies most closely. In the
-  manuscript its risk concentrates in the Epilogue, where the Lucifer exposition (ep:108–128, ~240
-  words) and the speech (ep:166–182, ~350 words) sit close together (`assessment-epilogue.md` §4c).
-  Across Chapters One to Eight, argument stays inside dramatized exchanges.
+  manuscript its risk concentrates in the Epilogue, where the Lucifer exposition (ep:108–128, about
+  240 words) and the speech (ep:166–182, about 350 words) sit close together (approximate `wc -w`
+  counts; `assessment-epilogue.md` §4c). In Chapters One to Eight, the instances listed above are
+  spoken within scenes, and the narration deflates the longest of them (ch05:232).
 - **Name density**: the reservation reported for *The Goblin Emperor* largely does not apply. The
-  manuscript's naming is lighter, and its glossary is optional by its own account (glossary:3).
+  manuscript's names are mostly English in form, and its glossary is optional by its own account
+  (glossary:3).
 - **Overall leanness**: the manuscript is leaner than either comp as described, consistent with the
-  standard's expectation that a novella move faster than a novel (§4).
+  standard's call for "Faster pacing than a novel" (§4).
 
 **Assessment.** The manuscript meets the standard's economy criteria more comfortably than the
 reservations reported for either comp would suggest at their lengths (interpretation). The exception
@@ -1564,16 +1617,34 @@ is the Epilogue, which brings it closest to the didacticism critique attached to
 
 **The comps (§5).**
 
-- ***Babel***: divided reception.
-  - Publishers Weekly finds the characters "often feel dubiously motivated."
-  - Slate (2025) calls character "Kuang's abiding weakness as a novelist."
-  - Enthusiastic reviews center the four student friends and the betrayal that divides them.
-- ***The Goblin Emperor***: near-unanimous praise for Maia.
-  - Kirkus: "the sweet-natured, perplexed Maia." Strange Horizons: "a poignantly sympathetic
-    protagonist." PW notes his "shyness and insecurity" (single report).
-  - Fantasy Literature: his goodness is "balanced against his struggles to overcome his own impulses
-    toward arrogance, vengeance, and fear" (single report).
-  - Secondary characters get little critical attention.
+- ***Babel***: divided reception (§5's consensus summary).
+  - Reservations. Publishers Weekly finds that the characters "often feel dubiously motivated." Slate
+    (2025): "Kuang's abiding weakness as a novelist lies with character," and "The other two
+    characters recruited by Oxford for their bilingualism—a Haitian girl and an Indian boy—are just as
+    thinly drawn." The Guardian: "The antagonists are closer to demons than humans, with no nuance".
+    Paste notes that in the final third "they each make a series of increasingly less grounded
+    decisions".
+  - Praise. Reactor calls Robin "one of the most honestly flawed characters to appear in SFF in some
+    time" and describes how "petty jealousies and chasms of lived experience erode their bonds of
+    friendship". BookPage praises the teens' "banter, camaraderie and angst". The Guardian finds the
+    characters "pretentious, but vulnerable too, and the balance is lovely".
+  - Reassessed: the earlier version said enthusiastic reviews center on four student friends and a
+    betrayal that divides them. §5 supports the friendship but not the number of friends or a
+    betrayal.
+- ***The Goblin Emperor***: near-unanimous praise for Maia (§5's consensus summary).
+  - Kirkus: "the sweet-natured, perplexed Maia". Strange Horizons: "a poignantly sympathetic
+    protagonist" who "earns the throne, not because of who he is, but because of who he strives to
+    be".
+  - Publishers Weekly notes "its youthful protagonist's shyness and insecurity". Tor.com (Bourke):
+    Maia, "however desperately unhappy and uncertain he may be, is a fundamentally decent person."
+  - Nussbaum: "kind-hearted, deeply wounded by the mistreatment of his childhood and adolescence, at
+    times almost overcome by loneliness; but also governed by an ironclad sense of justice and duty."
+  - Dissent: Jared Shurin is reported as faulting a "too-perfect protagonist" (via Wikipedia; not
+    rechecked).
+  - Secondary characters are praised collectively ("powerful character studies," Kirkus; "characters
+    who live and breathe," Library Journal) but get little individual attention in the reviews.
+  - Reassessed: the earlier version quoted Fantasy Literature on Maia's struggles with arrogance,
+    vengeance, and fear. That page could not be opened, and §5 no longer uses it.
 
 **The manuscript.**
 
@@ -1586,8 +1657,9 @@ is the Epilogue, which brings it closest to the didacticism critique attached to
 - **Motives**: close-third interiority usually states his motives — why he names his specialty to
   Edward (ch01:124), why he takes the Bakers' file to Marelyn first (ch06:66), and why he flatters
   Horace (ep:84).
-- **Relational core**: the central relationship is a marriage. Marelyn is arguably the co-protagonist
-  but is rendered only externally (§10b).
+- **Relational core**: the central relationship is an arranged marriage ("How impeccable his parents
+  arranged him to marry such an astute woman," ch01:190). Marelyn is arguably the co-protagonist but
+  is rendered only externally, through Carden's close third (§10b) (interpretation).
 - **Secondary characters**: they are grouped by function (§8c), with exceptions. Edward, the
   institutional antagonist, approves the exemptions (ch06:130) and then demands their annulment
   (ch07:8). He grants Carden "his conscience" (ch07:30) and thanks him in the truth-bound Arcane Tongue
@@ -1595,49 +1667,73 @@ is the Epilogue, which brings it closest to the didacticism critique attached to
 
 **Comparison (interpretation).**
 
-- **Kind of protagonist.** The manuscript's protagonist differs in kind from both comps' protagonists.
-  The §5 profiles describe both comps as coming-of-age stories; this is the mid-life re-formation of a
-  compromised insider.
-- **Source of sympathy.** Where Maia wins sympathy through vulnerability, Carden wins it through
-  competence, humor, care (his cooking, ch01:170–178), and conscience. His violent past and
-  self-interest are made explicit.
-- **Motivation.** The "dubiously motivated" risk PW reports for *Babel* is reduced by the manuscript's
-  habit of stating motive in Carden's interiority.
-- **Secondary cast.** The other *Babel* critique — characters subordinated to the thesis — applies in
-  part to the manuscript's functionally grouped secondary cast. Edward's double treatment is the
-  clearest counterweight.
-- **The marriage.** Neither profile centers a marriage. The manuscript's slow transformation of an
-  arranged marriage (§4b, §5b) is its most distinctive characterization engine relative to both comps.
+- **Kind of protagonist.** Reviewers describe young protagonists in both comps. *Babel* is "a
+  Bildungsroman" (Chicago Review of Books, via Book Marks) whose first half follows Robin "finding
+  friends and growing up" (BookPage). Maia is a "youthful protagonist" and an "18-year-old half-goblin
+  heir" (Publishers Weekly) on a "journey into self-assurance" (io9). The manuscript's protagonist
+  differs in kind: a middle-aged (inference), compromised insider who leaves his institution and
+  rebuilds within another (ch07:191–197, ch08:144–174).
+  - Reassessed: the earlier version said §5 describes both comps as coming-of-age stories. §5 does so
+    for *Babel*. For *The Goblin Emperor* it reports a young protagonist growing into his role.
+- **Source of sympathy.** Reviewers locate Maia's appeal in decency under vulnerability (Bourke and
+  Nussbaum, above). Carden's appeal, in this evaluation's reading, rests on competence (ep:82), humor
+  (ep:98), care (his cooking, ch01:170–178), and conscience (ch07:193). His violent past (ch01:124,
+  ch03:108–118) and self-interest (ch04:122, ep:84) are made explicit, which keeps him clear of the
+  "too-perfect protagonist" dissent reported for *The Goblin Emperor*.
+- **Motivation.** The "dubiously motivated" risk Publishers Weekly reports for *Babel* is reduced by
+  the manuscript's habit of stating motive in Carden's interiority (ch01:124, ch06:66, ep:84).
+- **Secondary cast.** The *Babel* reservations about thinly drawn secondary characters (Slate) and
+  antagonists "with no nuance" (The Guardian) apply in part to the manuscript's functionally grouped
+  secondary cast (§8c). Its institutional antagonist is the clearest counterweight: Edward approves
+  the exemptions (ch06:130), grants Carden "his conscience" (ch07:30), and thanks him in the
+  truth-bound Arcane Tongue (ch07:199–201).
+- **The marriage.** No reviewer in §5 places a marriage at the center of either comp. *The Goblin
+  Emperor*'s copy lists "offers of arranged marriages" among the pressures on its protagonist, but
+  none of the reviews in §5 discusses a marriage. The manuscript's arranged marriage (ch01:190,
+  ch01:206) becomes a chosen partnership through the vow (ch05:272–276) and Marelyn's disinheritance
+  (ch07:283–291) (§5b). That makes it the manuscript's most distinctive characterization engine
+  relative to both comps.
 
-**Assessment.** For its protagonist, the manuscript avoids the main characterization reservation
-reported against *Babel*; for its secondary cast, it avoids it only in part (interpretation). It does
-not seek *The Goblin Emperor*'s sweetness: its protagonist is more compromised. Readers who come for
-Maia's gentleness may find Carden harder to love at first. Readers drawn to *Babel*'s interest in
-complicity will find complicity examined in the protagonist himself (ch01:124, ch08:136–138).
+**Assessment.** For its protagonist, the manuscript avoids the main characterization reservations
+reported against *Babel*; for its secondary cast, it avoids them only in part (interpretation). It does
+not seek *The Goblin Emperor*'s sweetness: its protagonist is more compromised. Readers who come for the
+"sweet-natured" Maia may find Carden harder to love at first. Readers drawn to the complicity §5 places
+at *Babel*'s core will find complicity examined in the protagonist himself (ch01:124, ch08:136–138).
 
 ### 13d. Worldbuilding
 
 **The comps (§5).**
 
-- ***Babel***: a historical setting — an alternate nineteenth-century Britain — whose translation-based
-  silver magic is bound to the empire's economy. Kirkus reports "a keen parallel between extracting
-  knowledge and extracting resources." Booklist describes an "alternate-world empire powered by
-  magically enhanced silver talismans."
-- ***The Goblin Emperor***: a secondary world praised as "ambitious and meticulously executed" (PW).
-  Booklist calls it "completely believable," "with its own language, customs, and history," yet with
-  "tantalizingly familiar elements (such as newspapers and pocket watches)." Its texture is
-  steampunk-tinged — airships, a planned bridge — with a dense naming system.
+- ***Babel***: a historical setting, an alternate 1830s Britain (§5's consensus summary), whose
+  translation-based silver magic is bound to the empire's economy.
+  - Booklist describes an "alternate-world empire powered by magically enhanced silver talismans".
+  - Kirkus: "Kuang draws a keen parallel between extracting knowledge and extracting resources".
+  - The Guardian: "The fantastical elements underpin real history, rather than alter it".
+  - Dissents. Strange Horizons: "we hardly get a glimpse of the process of its mining and
+    extraction." Slate: "the novel's magic system and its analogy to real-world history don't make
+    much sense."
+- ***The Goblin Emperor***: an invented world, "the elf kingdom of Ethuveraz" (Publishers Weekly).
+  §5's consensus summary calls worldbuilding its most consistently praised element.
+  - Publishers Weekly: "Ambitious and meticulously executed worldbuilding".
+  - Booklist (via Book Marks): "a completely believable world, with its own language, customs, and
+    history, but there are tantalizingly familiar elements (such as newspapers and pocket watches)".
+  - Its texture is steampunk-tinged. Kirkus notes "steampunk elements and low-key magic"; Strange
+    Horizons notes "the social change and new technologies of steampunk". Strange Horizons also traces
+    the book from "the crash of the Wisdom of Choharo" to "the planned construction of the Wisdom
+    Bridge".
+  - Its naming and address are intricate. Tor.com (Bourke): "intricate layers of rank and address and
+    conventions of language". Covington describes "a consistent phonology".
 
 **The manuscript.**
 
 - **Setting**: an invented secondary world (Eyael, glossary:37) whose central nation has
-  British-analogue institutions — a Parliament and Prime-Minister (ch01:14–22), a "Commonwealth" with
-  "overseas Dominions on all seven continents" (ch02:88), and an Admiralty (ch05:34).
+  British-analogue institutions — a Parliament and Prime-Minister (ch01:14–22), a "Commonwealth"
+  (ch05:72) with "overseas Dominions on all seven continents" (ch02:88), and an Admiralty (ch05:34).
 - **Technology**: airships and aerial fleets (ch03:138–158, ch06:172–178, ep:76), turboprop fighters
   (ch03:138), radio (ch03:154), telegrams (ch03:4), trains (ch02:256), newspapers (ch05:8–16,
   ep:58–68), and a stock exchange (ch05:24).
 - **Magic tied to labor and the state**:
-  - Elves' Empowerment and Enchanting Magic build the marketplace roof (ep:10).
+  - Elves' Empowerment and Enchanting Magic build the marketplace roof (ep:10–12).
   - "we as a civilization depend on Elf labor" (ep:152), and the Elves are "the reason why our society
     harnesses Magic every day" (ep:154).
   - Law Magic serves interrogation (ch03:60–66); Space, Gravitational, and Atmospheric Magic serve war
@@ -1650,45 +1746,68 @@ complicity will find complicity examined in the protagonist himself (ch01:124, c
 **Comparison (interpretation).**
 
 - **World type.** The manuscript combines the two comps' world types. Like *The Goblin Emperor*, it is
-  a secondary world; it builds that world from recognizably British imperial forms, which *Babel* takes
-  directly from history.
-- **Technological texture.** Its airships, newspapers, and telegrams overlap with the "tantalizingly
-  familiar elements" Booklist notes in *The Goblin Emperor*.
+  an invented world. It builds that world from recognizably British imperial forms, which *Babel*, as
+  The Guardian describes it, takes from "real history".
+- **Technological texture.** Its newspapers (ch05:8–16, ep:58–68) are one of the two "tantalizingly
+  familiar elements" Booklist names in *The Goblin Emperor*, and its airships (ch03:138–158, ep:76)
+  echo the steampunk texture reviewers report there. Its turboprop fighters (ch03:138) and radio
+  (ch03:154) belong to a later technology than "steampunk" suggests.
 - **Extraction.** The strongest worldbuilding parallel is with *Babel*. Where Kirkus reads *Babel*'s
   magic as a parallel between "extracting knowledge and extracting resources," the manuscript makes
-  magic a resource extracted from a people: Elf labor (ep:152–154). That echoes Julian's charge of
-  "extractive government" (ch05:144) and Carden's view of Alfainia as a "self-funding arsenal"
-  (ch01:204).
+  magic a resource drawn from a people: "we as a civilization depend on Elf labor" (ep:152). That
+  echoes Julian's charge of "extractive government" (ch05:144) and Carden's view of Alfainia as a
+  "self-funding arsenal" (ch01:204). It also puts on the page what Strange Horizons misses in *Babel*
+  ("we hardly get a glimpse of the process of its mining and extraction"): Elves lent by their owners
+  to City Hall raise the marketplace roof with their Magic (ep:10–12), and Carden "could not properly
+  compensate them" (ep:18).
 - **Language as power.** Both make language a mechanism of power, in different ways. *Babel*'s
   translation magic, as described, produces the empire's material magic. The manuscript's Arcane
   Tongue governs who can speak truth and who can understand it ("the lucky one-percent of Humans born
   an Arcanist," ep:152).
-- **Theology.** The manuscript's theological architecture has no counterpart in either §5 profile,
-  which does not report religion as a focus of either comp. It is a differentiator.
-- **Invented language.** The manuscript forgoes *The Goblin Emperor*'s invented-language texture:
-  Arcane Tongue speech is rendered in English and flagged by narration (ch02:308).
+- **Theology.** No reviewer in §5 treats religion as central to either comp. *The Goblin Emperor*'s
+  profile mentions it only in passing: Bourke lists back matter that includes "Gods", and Strange
+  Horizons notes that Maia "worries about how to express the faith his mother taught him without
+  becoming the subject of gossip". In the manuscript, theology is structural: three deities with
+  Scriptures and a revealed cosmology (ch01:132–140, ch05:84–96, ch07:124–129, ep:108–128), and the
+  God of War's Scripture ("Raise your armies," ch01:138) sets off the tax hike (ch01:158). It is a
+  differentiator of degree rather than of kind.
+  - Reassessed: the earlier version said the profiles do not report religion in either comp.
+- **Invented language.** The manuscript forgoes the invented vocabulary reviewers note in *The Goblin
+  Emperor* ("a few dozen vocabulary words," Covington): Arcane Tongue speech is rendered in English
+  and flagged by narration (ch02:308).
 
 **Assessment.** The manuscript's worldbuilding meets the standard's "integrated with character"
-expectation (§4; this file's §6). It shares the most-praised quality of each comp (interpretation): from
-*Babel*, magic bound to an extractive economy; from *The Goblin Emperor*, a believable secondary world
-with familiar textures. Its scale is necessarily smaller. Its exposed point is the late concentration of
-cosmology in the Epilogue (§6c), which neither profile reports as a feature of the comps.
+expectation (§4; this file's §6). It shares a quality reviewers praise in each comp (interpretation):
+from *Babel*, magic bound to an extractive economy; from *The Goblin Emperor*, a believable invented
+world with familiar textures. Its scale is necessarily smaller. Its exposed point is the late
+concentration of cosmology in the Epilogue (ep:108–128; §6c), which neither profile reports as a
+feature of the comps.
 
 ### 13e. Theme
 
 **The comps (§5).**
 
-- ***Babel***: reviewers agree almost unanimously that empire, translation, complicity, and the costs
-  of resistance are the core.
-  - The New York Times Book Review finds the book's power in "sustaining a contradiction" — loving and
-    hating something that feeds on you.
-  - Its subtitle names "the Necessity of Violence."
-  - Publishers Weekly dissents that "Kuang assumes an audience that disagrees with her."
-- ***The Goblin Emperor***: kindness and decency in power, often framed as hopeful or "hopepunk."
-  - Strange Horizons calls it "a novel about abuse and power" that handles "issues of race, class,
-    gender, and sexuality in subtle but important ways."
-  - Nussbaum reads its politics as reform through institutions rather than their overthrow, and notes
-    that it "recognizes the limits of kindness."
+- ***Babel***: §5's consensus summary finds near-unanimous agreement that empire, translation,
+  complicity, and the costs of resistance are the core.
+  - The New York Times Book Review (Amal El-Mohtar; via Book Marks and Wikipedia): "Babel derives its
+    power from sustaining a contradiction, from trying to hold in your head both love and hatred for
+    the charming thing that sustains itself by devouring you."
+  - Its subtitle names "the Necessity of Violence," and the publisher's copy asks: "Can powerful
+    institutions be changed from within, or does revolution always require violence?" Library
+    Journal: Robin "must choose between destroying Babel and trying to reform it."
+  - Paste is "not sure that it ever quite manages to make the case for 'the necessity of violence' in
+    its title".
+  - Publishers Weekly dissents: "Kuang assumes an audience that disagrees with her".
+- ***The Goblin Emperor***: kindness and decency in power, often framed as hopeful or "hopepunk"
+  (§5's consensus summary; Reactor/Tor.com).
+  - Strange Horizons: "a novel about abuse and power"; it "addresses issues of race, class, gender,
+    and sexuality in subtle but important ways." It also notes that Maia "worries about how to express
+    the faith his mother taught him without becoming the subject of gossip".
+  - Nussbaum: the book "recognizes the limits of kindness" and is "about empire without arguing for
+    its dissolution"; "the real work will be done on the level of the empire itself, and there it will
+    require slow, careful reform."
+  - Kirkus: "He treats servants as people and women as equals".
+  - Dissent: Shurin is reported as faulting a "heavy-handed morality" (via Wikipedia; not rechecked).
 
 **The manuscript.**
 
@@ -1717,13 +1836,21 @@ cosmology in the Epilogue (§6c), which neither profile reports as a feature of 
 **Comparison (interpretation).**
 
 - **A synthesis of the two comps.** The manuscript takes *Babel*'s subject — empire, complicity,
-  extraction — and states the same contradiction El-Mohtar names (ch05:224, ch05:230). It resolves that
-  subject in the mode critics read in *The Goblin Emperor*: decency, reform within institutions, hope.
-- **Violence.** On the question *Babel*'s subtitle names, the manuscript answers differently from
-  *Babel* as described. Its riot is "arguably righteous" but self-harming (ch02:328, ep:166), and its
-  remedy is municipal reconstruction and rehabilitation (ch08:126–136).
-- **Faith.** Its decency is grounded explicitly in faith, which neither §5 profile reports as central
-  to either comp.
+  extraction — and states outright a contradiction close to the one El-Mohtar names: benefiting from a
+  system while hating it (ch05:224), and being "Both the cogs and victims of the wheels of history"
+  (ch05:230). It resolves that subject in the mode critics read in *The Goblin Emperor*: decency,
+  reform within institutions, hope.
+- **Violence.** *Babel*'s subtitle and copy pose the question of whether revolution requires violence,
+  and Paste doubts the book makes "the case for 'the necessity of violence'". The manuscript poses its
+  own version of the question and answers against violence: its riot is "arguably righteous" but
+  self-harming (ch02:328, ep:166), and its remedy is municipal reconstruction and rehabilitation
+  (ch08:126–136).
+- **Faith.** The manuscript grounds its decency explicitly in faith ("love is the greatest
+  commandment," ch07:193; "neighbors loving one another as the Father taught," ep:166). §5 reports
+  faith in *The Goblin Emperor* only as something Maia worries about expressing, and none in *Babel*.
+  No reviewer in §5 ties a protagonist's decency to faith, so faith remains a differentiator.
+  - Reassessed: the earlier version said neither profile reports faith; it did not account for the
+    Strange Horizons line above.
 - **The limits of reform.** Like the "limits of kindness" Nussbaum finds in *The Goblin Emperor*, the
   manuscript marks the limits of its own reform:
   - Parliament has not reformed "the laws on Elf slavery" (ep:146);
@@ -1733,19 +1860,39 @@ cosmology in the Epilogue (§6c), which neither profile reports as a feature of 
 **Assessment.** The thematic position between the two comps is the manuscript's clearest market
 identity (interpretation; see `assessment-market-positioning.md` §4c). The comparison sharpens one
 risk. *Babel*'s critics fault argument that is asserted rather than dramatized, and the manuscript's
-most explicit statements of theme cluster in the Epilogue (ep:146–182). The ironic undercutting that
-defuses Carden's earlier speech (ch05:232) is absent there.
+most explicit statements of theme cluster in the Epilogue (ep:146–182) (interpretation). The ironic
+undercutting that defuses Carden's earlier speech (ch05:232) has no counterpart there. His asides
+during the speech register the audience (ep:168, ep:174–176) without qualifying what he says, and the
+crowd's cheer affirms it (ep:184). One dissent reported for *The Goblin Emperor*, Shurin's
+"heavy-handed morality" (via Wikipedia; not rechecked), names the same risk from that comp's side.
 
 ### 13f. Prose
 
 **The comps (§5).**
 
-- ***Babel***: praised for erudition and its mock-scholarly apparatus — "inventive and engaging,
-  passionate and precise" (Library Journal). The reservations concern didacticism, not sentence-level
-  weakness.
-- ***The Goblin Emperor***: "elegant prose" (Strange Horizons); "witty, elegant, kind" (The Guardian,
-  via Wikipedia). Its formal register is encoded in a pronoun system that reviewers treat as part of
-  the world. No professional criticism of the prose is reported.
+- ***Babel***: praised for erudition and its mock-scholarly apparatus.
+  - The New York Times Book Review (El-Mohtar; via Book Marks and Subterranean Press): "inventive and
+    engaging, passionate and precise"; "Kuang is fiercely disciplined even when she's playful and
+    experimental".
+  - Paste: "Its prose is beautiful, perhaps never more so than when it's at its most obviously
+    academic". Kirkus: "a deep love of language and literature."
+  - The main reservation is didacticism (§13b). Slate adds one about dialogue: "although Babel is set
+    in the 1830s, the novel's characters all speak like the characters in contemporary YA fiction".
+  - Reassessed: the earlier version credited "inventive and engaging, passionate and precise" to
+    Library Journal and said the reservations concern didacticism only.
+- ***The Goblin Emperor***: §5's consensus summary finds professional descriptions of the prose
+  positive.
+  - Strange Horizons: "elegant prose". Library Journal: "The writing is lovely". Tor.com (Bourke):
+    "shiny prose".
+  - Francis Spufford, under "My comfort read" in a Guardian interview: "Witty, elegant, kind."
+  - Its formal register is built into its speech. Bourke notes "a distinction between formal speech
+    (the use of the formal plural we) and informal speech (I, thou)"; Nussbaum describes "an entire
+    mode of speech that feels both believably antiquated and suited to its fantasy setting."
+  - The reservations found concern invented language, not the sentences: io9 at first found the
+    language "unnecessarily dense", and Shurin is reported as faulting "an excess of invented
+    language" (Wikipedia's wording; not rechecked).
+  - Reassessed: the earlier version attributed Spufford's words to a Guardian review, via Wikipedia,
+    and said no professional criticism of the prose was reported.
 
 **The manuscript.**
 
@@ -1753,7 +1900,8 @@ defuses Carden's earlier speech (ch05:232) is absent there.
   between walls" (ch01:22), "How foolish that greasy-haired potato in a nice suit even tried to sneak
   funny invoices past Marelyn" (ep:8), italic direct thought (ch02:144), and clipped reactions ("Oh
   no." ch01:42; "Not good!" ch04:82).
-- **Formality**: confined to ritual, Scripture, and Arcane Tongue (ch01:4–58, ch07:126–129, ep:172).
+- **Formality**: in this evaluation's reading, confined to ritual, Scripture, and Arcane Tongue speech
+  (ch01:4–58, ch07:126–129, ep:170–172).
 - **Expository register**: professional and bureaucratic rather than academic (ch02:14, ch02:48,
   ch05:118).
 - **Draft Zero errors**: the draft contains proofreading-level errors, for example:
@@ -1766,44 +1914,50 @@ defuses Carden's earlier speech (ch05:232) is absent there.
 
 **Comparison (interpretation).**
 
-- **Against *The Goblin Emperor*.** The manuscript's prose is more colloquial than the "elegant"
-  formality reported for *The Goblin Emperor*. It shares the "witty" quality Spufford names.
-- **Against *Babel*.** It is less scholarly than *Babel*, with no footnotes or epigraphs. Its erudition
-  is professional — tax, finance, military — rather than linguistic.
-- **Encoded register.** Like *The Goblin Emperor*'s pronoun system, the manuscript encodes a register in
-  language. The narration flags the Arcane Tongue as "The irrefutable medium for truth between
-  Arcanists" (ch02:308); what it encodes is truth rather than formality.
+- **Against *The Goblin Emperor*.** The manuscript's prose is more colloquial than the "elegant prose"
+  and formal register reported for *The Goblin Emperor*. It shares the quality Spufford calls "Witty"
+  (e.g., ch01:22, ep:8).
+- **Against *Babel*.** It is less scholarly than *Babel*, with no footnotes or chapter epigraphs. Its
+  erudition is professional — tax, finance, military — rather than linguistic. Slate's objection to
+  *Babel*'s dialogue rests on its 1830s setting. The manuscript's world is invented, and its
+  technology (turboprop fighters, ch03:138; radio, ch03:154) ties it to no historical period, so its
+  colloquial register does not raise the same charge of anachronism.
+- **Encoded register.** Like *The Goblin Emperor*'s formal and informal pronouns, the manuscript
+  encodes a register in language. The narration flags the Arcane Tongue as "The irrefutable medium for
+  truth between Arcanists" (ch02:308); what it encodes is truth rather than formality.
 
 **Assessment.** At the level of voice, the manuscript stands comparison with both comps' praised
 qualities: its sardonic interiority is the "distinctive narrative voice" the standard ranks first (§4;
-this file's §3) (interpretation). At the sentence level, the Draft Zero errors fall short of the
-polish reviewers credit to both comps ("precise," "elegant"). The standard notes that "Sentence-level
-craft is scrutinized" (§4). These are revision-stage corrections rather than structural problems, but
-if left uncorrected they would count against the manuscript at the query stage.
+this file's §3) (interpretation). At the sentence level, the Draft Zero errors fall short of the polish
+credited to both comps ("precise," El-Mohtar, via Book Marks; "elegant prose," Strange Horizons). The
+standard notes that "Sentence-level craft is scrutinized" (§4). These are revision-stage corrections
+rather than structural problems, but if left uncorrected they would count against the manuscript at
+the query stage.
 
 ### 13g. Comparative Summary
 
 | Element | *Babel* (as reported, §5) | *The Goblin Emperor* (as reported, §5) | The manuscript |
 |---|---|---|---|
-| Structure and plot | Campus coming-of-age turning to revolt; "maximalist," five acts; tragic, fitting ending | Accession and court intrigue; "series of anecdotes" (PW); muted, healing ending | Causal chain from tax policy through termination to reconstruction (ch01:158 to ep:28); an insider exits, then rebuilds; celebratory personal ending, open societal thread |
-| Narrative economy | Didacticism the main reservation; 500-plus pages; footnotes | Deliberately slow; name density eased by a glossary | Novella-lean; argument kept in dramatized dialogue but concentrated in the Epilogue; optional glossary (glossary:3) |
-| Characterization | Divided; characters "dubiously motivated" (PW) | Maia near-unanimously loved: sweet, shy, decent | A compromised, middle-aged insider with stated motives; a marriage at the core; functional secondary cast, with exceptions (Edward) |
-| Worldbuilding | Alternate historical Britain; translation magic bound to empire | Believable secondary world; steampunk textures; dense naming | Secondary world with British-analogue institutions; magic as extracted labor (ep:152–154); a truth-bound language; three-deity theology |
-| Theme | Empire, complicity, contradiction; "the Necessity of Violence" | Kindness and decency in power; reform; hope | Empire and complicity (ch05:224, ch05:230), resolved through faith-grounded decency and local reform (ep:166–180) |
-| Prose | Erudite, with scholarly apparatus; the reservation is didacticism | "Elegant"; formal register | Sardonic, colloquial close third; professional expertise; Draft Zero proofreading errors |
+| Structure and plot | Campus coming-of-age turning to revolt; "maximalist," five acts; an ending "both strangely inevitable and deeply shocking" (Paste), with an epilogue that "offers a glimpse of hope" (Chicago Review of Books, via Book Marks) | Accession and court intrigue; "Less a novel than a series of anecdotes," yet "carried by the strength of atmosphere" (PW); "no single dramatic catharsis" (Strange Horizons) | Causal chain from tax policy through termination to reconstruction (ch01:158 to ep:28); an insider exits, then rebuilds; celebratory personal ending, open societal thread |
+| Narrative economy | Didacticism the main reservation; 500-plus pages; footnotes | Slow, low-action pacing read as deliberate; dense invented names, eased by back matter | Novella-lean; argument spoken within scenes but concentrated in the Epilogue; optional glossary (glossary:3) |
+| Characterization | Divided; characters "dubiously motivated" (PW) and "thinly drawn" (Slate); antagonists "with no nuance" (The Guardian) | Maia near-unanimously praised: "sweet-natured," shy, decent; one dissent, "too-perfect" (via Wikipedia) | A compromised, middle-aged (inference) insider with stated motives; an arranged marriage at the core; functional secondary cast, with exceptions (Edward) |
+| Worldbuilding | Alternate historical Britain; translation magic bound to empire; a minority questions its coherence | Believable invented world; steampunk textures; intricate naming and address | Secondary world with British-analogue institutions; magic as extracted labor (ep:152–154); a truth-bound language; three-deity theology |
+| Theme | Empire, complicity, contradiction; "the Necessity of Violence" | Kindness and decency in power; "slow, careful reform"; hope | Empire and complicity (ch05:224, ch05:230), resolved through faith-grounded decency and local reform (ep:166–180) |
+| Prose | Erudite, with scholarly apparatus; reservations: didacticism and, for Slate, modern-sounding dialogue | "elegant prose" (Strange Horizons); formal register; reservations limited to invented-language density | Sardonic, colloquial close third; professional expertise; Draft Zero proofreading errors |
 
 In this evaluation's reading, the comparison supports one positioning statement anchored to both
 profiles (interpretation). The manuscript takes up *Babel*'s subject — empire, complicity, extraction,
 language as power — and resolves it in *The Goblin Emperor*'s mode — decency, reform through
-institutions, hope. It does so at novella length, with a marriage and a faith at its center that
-neither profile reports for either comp.
+institutions, hope. It does so at novella length, with a marriage and a faith at its center. §5
+mentions both in *The Goblin Emperor*, "offers of arranged marriages" in the publisher's copy and
+Maia's faith in Strange Horizons, but reports neither at the center of either comp.
 
 The comparison also locates the manuscript's risks against each comp's critical reception:
 
 - the Epilogue's concentrated argument and cosmology sit closest to the didacticism critique attached
   to *Babel* (§13b, §13e);
-- its time-skipped, vignette-structured Epilogue sits closest to the episodic critique attached to *The
-  Goblin Emperor* (§13a);
+- its time-skipped, five-scene Epilogue sits closest to the episodic critique attached to *The Goblin
+  Emperor* (§13a);
 - its sentence-level polish trails the precision and elegance credited to both (§13f).
 
 ---
@@ -1915,9 +2069,9 @@ professional and personal circumstances rather than from narratorial commentary.
    eliminate the pacing risk. Whether readers experience it as enrichment or distraction is a
    reception question the text alone cannot answer. Set beside the comps (§13b, §13e), the Epilogue's
    cluster of exposition and explicit argument (ep:108–182) is where the manuscript comes closest to
-   the didacticism critique reviewers attach to *Babel*. Its one-year skip and vignette structure are
-   where it comes closest to the episodic critique attached to *The Goblin Emperor* (§13a)
-   (interpretation).
+   the didacticism critique reviewers attach to *Babel*. Its skip of about a year (inference; ep:16,
+   ep:32) and five-scene structure are where it comes closest to the episodic critique attached to
+   *The Goblin Emperor* (§13a) (interpretation).
 
 2. **Marelyn's interiority gap**: Because of the single-POV constraint, Marelyn's transformation —
    from unhappy arranged wife to the woman who accepts disinheritance to stay with Carden — is inferred
@@ -2005,8 +2159,8 @@ as reviewers describe them (interpretation):
   scholarly apparatus;
 - it shares *The Goblin Emperor*'s reformist hope and its familiar-textured secondary world, but not
   its sweet-natured protagonist or its dense naming;
-- it differs from both in length, in its middle-aged protagonist and marital core, and in the
-  centrality of faith.
+- it differs from both in length, in its middle-aged (inference) protagonist and marital core, and
+  in the centrality of faith.
 
 The critical reservations reported for each comp — didacticism for *Babel*, episodic structure for *The
 Goblin Emperor* — point to the same place in the manuscript: the Epilogue.
@@ -2021,10 +2175,10 @@ engine, thematic integration, and voice are functional and distinctive at the Dr
 `manuscript/chapter-01.md` through `manuscript/chapter-08.md`, `manuscript/epilogue.md`, and
 `manuscript/glossary.md`), judged against `reference/industry-standards.md`. The comparison in §13
 draws its statements about *Babel* and *The Goblin Emperor* only from the comp profiles in
-`industry-standards.md` §5; those profiles were compiled from web-search results, and their quotations
-are unverified against the original reviews. All line references are 1-indexed from the respective
-files. Narrative claims, quotations, line references, and word counts
-were re-verified against the `manuscript/` files, which take precedence over any story-bible or
+`industry-standards.md` §5; those profiles' source pages were checked on October 25, 2026, with items
+read through another page marked "via" and items whose source could not be opened marked "not
+rechecked." All line references are 1-indexed from the respective files. Narrative claims,
+quotations, line references, and word counts were re-verified against the `manuscript/` files, which take precedence over any story-bible or
 reference file. Passage word counts are approximate `wc -w` counts of the cited line ranges. Where
 claims rest on inference, interpretation, or approximation, they are identified as such. Evaluation
 only; not an authoritative source of narrative information; no manuscript changes proposed.*

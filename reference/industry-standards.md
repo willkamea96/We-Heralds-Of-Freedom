@@ -1006,14 +1006,21 @@ Booklist's review was starred (Subterranean Press; Wikipedia), and so was BookPa
      - "Robin kills halfway through the novel. Some intrigue and some broken relationships later,
        Babel swerves into an action-paced romp, meeting the classic sword-and-sorcery novel towards
        the last quarter."
-   - **Paste** (Lacy Baugher Milas, August 23, 2022): "Babel barrels toward an ending that somehow
-     feels both strangely inevitable and deeply shocking."
+   - **Paste** (Lacy Baugher Milas, August 23, 2022): "Dark choices are made and tragic events take
+     place as Babel barrels toward an ending that somehow feels both strangely inevitable and deeply
+     shocking."
+   - **The Guardian** (Natasha Pulley, September 10, 2022): "This is a grim and harrowing novel" and
+     "a fantastically made work, moving and enraging by turns, with an ending to blow down walls."
+   - **Chicago Review of Books** (via Book Marks): "Having wept at the ending (no spoilers, but the
+     epilogue offers a glimpse of hope and a likely sequel)".
    - **Publishers Weekly** (March 4, 2022): "This brilliant, ambitious concept falters in execution,
      reading more like a postcolonial social history than a proper novel."
-   - *Consensus:* a slow-building campus coming-of-age in the first half that turns, after a killing
-     at the midpoint, into revolt against the institution, on a large scale. Most reviewers find the
-     momentum compelling and the ending inevitable. Publishers Weekly finds that the concept falters
-     as a novel.
+   - *Consensus:*
+     - The first half is a slow-building campus coming-of-age. After a killing at the midpoint, it
+       turns into revolt against the institution, on a large scale.
+     - Most reviewers find the momentum compelling. They describe the ending as tragic and
+       inevitable, with an epilogue that holds out some hope.
+     - Publishers Weekly finds that the concept falters as a novel.
 2. *Narrative economy*
    - **Publishers Weekly**:
      - "Kuang (the Poppy War trilogy) underwhelms with a didactic, unsubtle take on dark academia and
@@ -1113,6 +1120,7 @@ Booklist's review was starred (Subterranean Press; Wikipedia), and so was BookPa
    - **Library Journal** (Fletcher):
      - "blends historical speculative fiction with dark academia to create a nuanced adventure that
        also serves as a critique of Western colonialism".
+     - Robin "must choose between destroying Babel and trying to reform it."
      - "prompts readers to question the ethics of both empire and academia."
    - **BookPage**: "an unforgiving examination of the cost of power". It also says: "Ultimately, Babel
      asks a pointed question: What is the price of power?"
@@ -1222,6 +1230,8 @@ Booklist's review was starred (Subterranean Press; Wikipedia), and so was BookPa
 - "Entirely unschooled in the art of court politics, he has no friends, no advisors, and the sure
   knowledge that whoever assassinated his father and brothers could make an attempt on his life at
   any moment."
+- "Amid the swirl of plots to depose him, offers of arranged marriages, and the specter of the
+  unknown conspirators who lurk in the shadows, he must quickly adjust to life as the Goblin Emperor."
 - OverDrive library listings of the audiobook open with "a vividly imagined fantasy of court intrigue
   and dark magics in a steampunk-inflected world".
 - (Corrected: the earlier quotation opened with "Maia," which the verified copy does not.)
@@ -1415,7 +1425,10 @@ This summary is drawn only from the profiles above:
   For *The Goblin Emperor* it centers on the protagonist's decency, the believability of the world, and
   the book's warmth.
 - **Reservations diverge.**
-  - For *Babel* they are didacticism and characters subordinated to the thesis.
+  - For *Babel* they are didacticism and characterization: dubious motivation, thinly drawn
+    secondary characters, and antagonists "with no nuance" (The Guardian).
+  - (Corrected: the earlier summary called the characters "subordinated to the thesis," a phrase no
+    quoted review uses.)
   - For *The Goblin Emperor* they are an episodic, anecdotal structure and the density of invented
     names. One dissenting reviewer also calls Maia "too-perfect" (via Wikipedia).
 - **Endpoints diverge.** *Babel*'s subtitle names "the Necessity of Violence," and its copy asks
